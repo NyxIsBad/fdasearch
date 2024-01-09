@@ -1,20 +1,23 @@
 import pandas as pd
 import csv 
 import urllib
+import pickle
 from io import BytesIO 
 from PyPDF2 import PdfReader
 # -------------------------
 # GLOBALS
 # -------------------------
-# dates (eg. the names of the csvs)
-FILES = ['96cur','7680','8185','8690','9195']
+# file prefix
+DATADIR = "data/"
+# data names (eg. the names of the csvs)
+DATA = ['96cur','7680','8185','8690','9195']
 # csv delimiter
 DELIM = '|'
 # valid product codes
-VALIDS = ['GEI','PAY','ONQ','OHV','GEX','OHS','NUV','ONG','ONE','ONF']
+VALID_CODE = ['GEI','PAY','ONQ','OHV','GEX','OHS','NUV','ONG','ONE','ONF']
 # keywords - all lowercase
-CONDITIONALKEYWORD = ['wrinkle']
-KEYWORDS = ['fitzpatrick','scale','type']
+COND_KEYWORD = ['wrinkle']
+KEYWORD = ['fitzpatrick','scale','type']
 # -------------------------
 # HELPER FUNC
 # -------------------------
@@ -44,7 +47,7 @@ def read_single(file):
     return load_csv(file)
 # read multiple csv
 def read_multiple(arr):
-    return pd.concat(map(lambda date: load_csv(f'{date}.csv'), arr))
+    return pd.concat(map(lambda date: load_csv(f'{DATADIR}{date}.csv'), arr))
 # return the rows in a df that match a value in the arr
 def filter_by_col_arr(pd_arr, column, value_arr):
     return pd_arr.loc[pd_arr[column].isin(value_arr)]
@@ -58,11 +61,18 @@ def get_col_as_list(pd_arr, column):
 # DRIVER CODE
 # -------------------------
 # read the csvs in as df
-csv = read_multiple(FILES)
+csv = read_multiple(DATA)
 # find results by product code
-results = filter_by_col_arr(csv, 'PRODUCTCODE', VALIDS)
+results = filter_by_col_arr(csv, 'PRODUCTCODE', VALID_CODE)
 # find results with summary
-results_with_summary = filter_by_col(results, 'STATEORSUMM', 'Summary')
+results_summary = filter_by_col(results, 'STATEORSUMM', 'Summary')
+results_statement = filter_by_col(results, 'STATEORSUMM', 'Statement')
+results_none = filter_by_col(results, 'STATEORSUMM', '')
 # get the knumbers
-knumbers = get_col_as_list(results_with_summary, 'KNUMBER')
-print(len(knumbers))
+summary_knums = get_col_as_list(results_summary, 'KNUMBER')
+statement_knums = get_col_as_list(results_statement, 'KNUMBER')
+none_knums = get_col_as_list(results_none, 'KNUMBER')
+# print some numbers
+print(f'Total files: {len(results)}\n'
+      f'Matching files with a knumber and summary: {len(summary_knums)}\n'
+      f'Matching files by summary: {len(results_summary)}+{len(results_statement)}+{len(results_none)}')
