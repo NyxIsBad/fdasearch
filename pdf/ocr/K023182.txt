@@ -1,0 +1,145 @@
+OCT 2 4 2002
+Ethicon Endo-Surgery, Inc. K Oo 2 3 \ g 2—_
+Special 510(k) Premarket Notification for Indigo® OPTIMA Laser System
+Indigo® OPTIMA Laser System
+510(k) Summary of Safety & Effectiveness
+Company Contact
+Ethicon Endo-Surgery, Inc. Carol Sprinkle
+4545 Creek Rd. Regulatory Affairs Specialist
+Cincinnati, OH 45242
+Date Prepared
+September 23, 2002
+Name of Device
+Trade Name: Indigo® OPTIMA Laser System
+Classification Name: Laser powered surgical instrument
+Predicate Device
+Indigo® OPTIMA Laser System (K013493)
+Device Description
+The Indigo® OPTIMA Laser System consists of a treatment diode laser, fiberoptic
+energy delivery devices, a footswitch, and an optional cart with printer. The treatment
+laser allows delivery of controlled doses of laser energy in wavelengths between 800 and
+850 nanometers (nm), When used with the OPTIMA Diffuser-Tip Fiberoptic, this laser
+energy is diffused radially at 360° to the affected tissue to provide interstitial
+thermotherapy (ITT), or interstitial laser coagulation (ILC). The fiberoptics (fibers) are
+designed to be sterile, single patient use, disposable devices.
+Modifications to design of the Diffuser-Tip Fiberoptic have been made to improve
+manufacturability. Changes include removal of the inner sleeve, use of a new non
+patient-contacting adhesive, and a software modification.
+Intended Use
+The Indigo OPTIMA Laser System when used with the Diffuser-Tip Fiberoptic is intended
+for the safe and effective treatment of symptoms of benign prostatic hyperplasia (BPH).
+Comparison of Technological Characteristics
+The technological features of the modified Diffuser-Tip Fiberoptic are the same as the
+predicate with exception of the above design changes. The operating parameters of the
+laser have been adjusted slightly to accommodate the design changes with no loss in
+performance. No new issues of safety and effectiveness have been raised by these
+modifications.
+Performance Data
+Design verification and validation testing confirms the modified Diffuser-Tip Fiberoptic
+performs as intended and is equivalent to the predicate.
+
+f Le DEPARTMENT OF HEALTH & HUMAN SERVICES | Public Health Service
+vont Food and Drug Administration
+9200 Corporate Boulevard
+. . Rockville MD 20850
+. Ms. Carol Sprinkle _ OCT 24 2002 , :
+Regulatory Affairs Specialist :
+Ethicon Endo-Surgery, Inc.
+4545 Creek Road oo :
+. Cincinnati, Ohio 45242 . : :
+Re: K023182
+Trade/Device Name: Indigo® OPTIMA Laser System
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser Surgical Instrument for Use in General
+and Plastic Surgery and in Dermatology
+Regulatory Class: Class II
+Product Code: GEX
+Dated: September 23, 2002
+Received: September 24, 2002
+Dear Ms. Sprinkle:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications for
+use stated in the enclosure) to legally marketed predicate devices marketed in interstate commerce
+prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that
+have been reclassified in accordance with the provisions of the Federal Food, Drug, and Cosmetic
+Act (Act) that do not require approval of a premarket approval application (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices, good
+manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class IIT (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish
+further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act or
+any Federal statutes and regulations administered by other Federal agencies. You must comply with
+all the Act’s requirements, including, but not limited to: registration and listing (21 CFR Part 807);
+labeling (21 CFR Part 801); good manufacturing practice requirements as set forth in the quality
+systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product radiation
+control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Ms. Carol Sprinkle /
+This letter will allow you to begin marketing your device as described in your Section 510(k) .
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device to
+proceed to the market. :
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 21 CFR Part 809.10 for in vitro diagnostic devices), please contact the Office of
+Compliance at (301) 594-4659. Additionally, for questions on the promotion and advertising of
+your device, please contact the Office of Compliance at (301) 594-4639. Also, please note the
+regulation entitled, “Misbranding by reference to premarket notification” (21CFR Part 807.97).
+Other general information on your responsibilities under the Act may be obtained from the Division
+of Small Manufacturers, International and Consumer Assistance at its toll-free number (800)
+638-2041 or (301) 443-6597 or at its Internet address
+http://www.fda.gov/cdrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+Mewar C Pa eves —
+
+fe¥ Celia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Ethicon Endo-Surgery, Inc. ,
+Special 510(k) Premarket Notification for Indigo® OPTIMA Laser System
+Page of __
+
+510(k) Number (if known): K 023! 8 2—__.
+Device Name: Indigo® OPTIMA Laser System
+Indications for Use:
+The Indigo OPTIMA Laser System with Diffuser-Tip Fiberoptic is indicated for the
+treatment of symptoms due to urinary outflow obstruction secondary to benign prostatic
+hyperplasia (BPH) in men over the age of 50 with prostates with median and/or lateral
+lobes ranging in total volume from 20-85 cc; and for general surgery, general urological,
+general gynecological and general gastroenterological procedures; and coagulative
+necrosis and interstitial laser coagulation of soft tissues such as tumors and fibroids.
+The Indigo OPTIMA Laser System, when used in conjunction with the Bare-Tip
+Fiberoptic, is indicated for the incision, excision, and ablation or coagulation of tissues
+with hemostasis during general surgery, and general gastroenterological and urological
+procedures, including those involving urethral strictures, bladder neck contractures, and
+condylomata.
+
+(ivision Sign-Off) .
+
+Division of General, Restorative
+
+and Neurological Devices
+
+O231FZ.
+
+510(k) Number KbO23182
+PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE
+OF NEEDED)
+"Concurrence of CDRH, Office of Device Evaluation(ODE)——s—=~S~S
+
+(Optional Format 3-10-98)
+\ a
+Preseaph m UWAn ———
+

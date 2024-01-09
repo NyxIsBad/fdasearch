@@ -1,0 +1,453 @@
+2 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+, ee
+mews Food and Drug Administration
+JUN 18 209 a ara
+Intermedic Arfran, S.A.
+% Arizona Glass Tech, Incorporated
+Mr. Klaus Sivec
+9233 E. Neville Avenue Unit 1128
+Meza, Arizona 85212
+Re: K053540
+Trade/Device Name: INTERmedic Diode Laser Family 810 nm and 980 nm and the
+delivery accessories that are used with them to deliver, ultrasound
+and RF energy, including: MULTIDIODE ENDO™ Laser 15, 25,
+and 50; Surgical 15", 30", 50°", 100, 120” and SR 15
+OFT™, MULTIDIODE PL3D™, ContrAge™, RF ContrAge™
+MULTIDIODE SLP ™, MULTIDIODE VARIUS™, VR1000™,
+MULTIDIODE ODONT™
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and in
+derma.ology
+Regulatory Class: II
+Product Code: GEX
+. Dated: September 6, 2006
+Received: August 25, 2006
+Dear Mr. Sivec:
+This letter corrects our substantially equivalent letter of September 6, 2006.
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices,
+good manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Page 2- Mr. Klaus Sivec
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical
+device-related adverse events) (21 CFR 803); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+go to http://www.fda.gov/AboutFDA/CentersOffices/CDRH/CDRHOffices/ucm115809.htm for
+the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please
+note the regulation entitled, "Misbranding by reference to premarket notification” (21CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CFR Part 803), please go to http://www.fda.gov/cdrh/mdr/ for the CDRH’s Office of
+Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other general information on your responsibilities under the Act from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda.gov/cdrh/industry/support/index.html
+: Sincerely yours,
+lL
+fa. s) i
+
+Mark N. Melkerson; PhD () of
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and Radiological Health
+
+Statement of Indication for Use
+510(k) Number: K503540
+Device Name: INTERmedic Diode Laser Family 810nm and 980nm and the delivery
+accessories that are used with them to deliver, ultrasound and RF energy, including:
+MULTIDIODE ENDO™ laser 15, 25 and 50; Surgical SERIES 1 5™ 25™ 50™, 100™,
+120™  OFT™: MULTIDIODE PL3D™; ContrAge™, RF ContrAge™; MULTIDIODE
+SLP™; VARIUS™; VR1000™, ODONT™
+Indication for Use:
+The INTERmedic Diode Laser Family (and their delivery accessories used to deliver
+optical, ultrasound and RF energy) are indicated for use in surgical applications requiring
+the vaporization, incision, excision, ablation, cutting and hemostasis, or coagulation of
+soft tissue in conjunction with endoscopic equipment for medical specialties including:
+Urology, Genitourinary (Urology), Thoracic Surgery, Plastic Surgery and Dermatology,
+Aesthetics including vascular lesions and hair removal, General Surgery,
+Ophthalmology, Orthopedics, Podiatry, Arthroscopy, Spinal Surgery, Gynecology,
+Pulmonary Surgery, Neurosurgery, Gastroenterology, Head/Neck/ENT and Radiology,
+Endovascular coagulation, Oral Surgery and Dental procedures.
+Examples include:
+> LASER 810nm and 980nm
+Urology: e Bowel resection (open and
+e Lesions of external genitalia laparscopic)
+e Circumcision e Colectomy
+e Condyloma e Liver resection
+e Bladder tumors e Resections of organs
+e Bladder neck incisions e = Thyriodectomy
+e Vaporization of the prostate e Adhesiolysis
+e Hepatobiliary tumors
+General Surgery e Thoracotomy
+e Rectal an anal hemorrhoidectomy e Cholecystectomy (open and
+e Mastectomy Laparscopic)
+e Dermabrasion e Condyloma
+e Appendectomy (open and e Breast biopsy
+laparscopic
+--- Page 1 of 3 (Total pages Indications for use; 3 pages)
+Prescription Use xX Over the Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BLEOW THIS LINE-CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+Concurrence of CDR ice of Device Evaluation (ODE)
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+eV UP
+510( Number__ KK CSSSY0 10
+
+Statement of Indication for Use
+510(k) Number: K503540
+Neurosurgery: Thoracic Surgery:
+e Percutaneous Disc Decompression e Thoracotomy
+e Discectomy e Pulmonary resection
+e Hemostasis in conjunction with e Hemostasis
+meningiomas e Pericardiectomy
+e Adhesiolysis
+Gynecology: ¢ Coagulation of blebs and bullae
+e Cervical conization
+e Myomectomy Pulmonology:
+e Endometrial ablation e Endoscopic pulmonary applications
+e Ovarian cystectomy e Tracheal bronchial lesions
+e Appendectomy e Benign an malignant pulmonary
+obstruction
+Ophthalmology:
+e Dacryocystorhinostomy Otolaryngology ENT:
+transcanalicular e Removal of benign lesions from the
+e Open DCR ear, nose and throat
+e Tumor excision e Excision of carcinoma of the larynx
+e Blepharoplasty e Incision and excision of carcinoma
+in situ
+Orthopedics: e Neck dissection
+e Dissect and coagulate e Laryngeal papillomectomy
+e Removal of vocal cord/fold
+Gastroenterology: nodules, polyps and cysts
+e Hemostasis of colonoscopy
+e Hemostasis of esophageal varices Dental applications:
+e Excision of polyps e Frenectomy
+e Frenotomy
+Arthroscopy: e Biopsy
+e Chondromalacia ¢ Pulpotomy as an adjunct to root
+e Synovectomy canal therapy and light activation of
+e Menisectomy bleaching materials for teeth
+whitening
+--- Page 2 of 3 (Total pages Indications for use; 3 pages)
+Prescription Use X_—— Over the Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BLEOW THIS LINE-CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+ond af ath.
+oo —
+Ne
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+s10(k) Number__COS3S%7/0 1
+
+Statement of Indication for Use
+510(k) Number: K503540
+Pulmonary Surgery: e Dermatological surgery:
+e Endoscopic pulmonary applications Condyloma acuminate, warts, small
+e Tracheal bronchial lesions non malignant skin tumors, small
+¢ Benign and malignant pulmonary or semi-malignant tumors as
+stricture basalomas, Bowe, Kaposi sarcom.
+Warty leucoplasy and ulcers
+Cardiac Surgery: debridment.
+¢ Coagulation and hemostasis of e Seborrheic keratosis
+cardiac tissue « Mixoid cyst
+e Papillary varix
+Dermatology/Aesthetics: e Acne treatment
+e Photocoagulation of vascular & e Hair removal of unwanted hair from
+dermatological lesions of the face skin type I-V
+and extremities
+e Photocoagulation of telangiectasia, Plastic Surgery:
+veinulectasias of the legs and face e Cut, coagulation & vaporization
+e Treatment of reticular veins and e Resurfacing non
+branch varicosities e Blepharoplasty
+e Pyogenic granuloma,
+lymphangioma and
+lymphagiomatosis disease, Vascular Surgery:
+angiofibromas. e Endoluminal or endovenous laser
+e Superficial benign vascular lesions surgery for saphenous incompetent
+including Telangiectasias, veins
+Rosacea, Angioma, venous lakes
+Couperosis, Cherry angioma, > ContrAge RF
+hemangioma, Port wine stains, Dermatology/Aesthetics:
+angiokeratoma, and benign e Non invasive treatment of wrinkles
+epidermal pigment lesions as and rhytids
+lentigines. Epidermal nevi, spider e Non invasive scar reduction
+nevi. treatment (acne or traumatic scars)
+--- Page 3 of 3 (Total pages Indications for use; 3 pages)
+Prescription Use —X_ Over the Counter Use_
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BLEOW THIS LINE-CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+Concurrence 9f GBRH, Office of Device Evaluation (ODE)
+Ys OOo
+(Division Sign-Off) ;
+Division of General, Restorative,
+and Neurological Devices
+i" <>
+si0ik) Number__ KOS SSD)
+12
+
+SEP -6 2006
+510(k) Summary
+as required by section 807.92(c)
+For INTERmedic’s ' C \ ¢ 4 0
+Diode Laser Family iK O
+This summary complies with the Federal Performance Standard for Laser Products
+issued by the Food and Drug Administration (FDA), Center of Devices and Radiological
+Health (CDRH), in Title 21, Code of Federal Regulations, Subchapter J, Parts 1040.10
+and 1040.11.
+Submitter’s Name, Address, Telephone Number, Contact Person and Date :
+Prepared:
+Arizona Glass Tech, Inc.
+9233 E. Neville Ave. #1128
+Mesa, AZ 85212
+Phone: 480-241-3795
+Fax: 480-445-9903
+as United States Agent/Distributor and official
+correspondent to INTERmedic Arfran, S.A.
+See Attachment 1 (United States Agent Notification)
+Contact Person: Klaus Sivec
+Date of Preparation: November 25", 2005
+Name/Address of Establishment/Owner:
+INTERmedic Arfran, S.A.
+Avda. Josep Tarradellas, 91
+08029 Barcelona
+SPAIN
+Name of Device: Trade Name: INTERmedic Diode Laser Family 810nm and
+980nm (and the delivery accessories that are used with them
+to deliver Laser Energy), including:
+° MULTIDIODE ENDO™ laser 15, 25 and 50
+e | MULTIDIODE SURGICAL 15™, 30™, 50™, 100™, 120™
+&R15OFT™
+° MULTIDIODE PL3D™
+e —ContrAge™, RF ContrAge™
+° MULTIDIODE SLP™
+. MULTIDIODE VARIUS™ , VR1000™
+° MULTIDIODE ODONT™
+3
+
+Common Name
+Medical Laser System (and Accessories)
+
+Classification Name
+Laser surgical instrument and accessories for use in general and
+plastic surgery and in dermatology (21 CFR 878.4810)
+Product code: GEX Laser instrument, surgical, powered
+Subsequent product code: GEI Electrosurgical, cutting &
+coagulation & accessories
+Panel: 79
+Class: Il
+
+Predicate Device
+PhotoMedex Laser Pro 810, 940 and 980 Diode Laser Systems
+(K042211, K040294)
+Syneron Lasers, Aurora & Polaris (K031993, K050452, K052324,
+K041969, K041959, KO50796)
+Ceralas D 980 Diode Laser System (K050824)
+Ceralas D 810 Diode Laser System (K032864)
+Ceralas G Laser System (K002296)
+Dornier’s Diode Laser Family (KO21724, K000072, K003993,
+K020339)
+
+Rationale for Substantial Equivalence
+The INTERmedic Diode Laser Family including Accessories have
+the same intended uses and indications for uses as the listed
+predicate devices, and have similar technological characteristics
+as the predicate devices — treatment wavelengths, laser media,
+mode of operation, power output, exposure duration, treatment
+intervals, laser energy delivery control and therefore is
+substantially equivalent to the predicate devices.
+
+Device Description
+The INTERmedic Diode Laser Family is designed to deliver laser
+power at wavelengths of 810nm and 980nm, depending on model,
+that can be used for the procedures indicated in the section
+“Indication for Use” in this summary. The ContrAge model can be
+used with or without the RF unit. The different models can be
+identified by their different names, output frequency and maximum
+power.
+Each system is comprised with the following main components:
+- Operating software controlled by a microprocessor
+- A footswitch (detachable)
+- Alaser cabinet/console with fiber port
+- Asafety Interlock
+
+4
+
+Technological Characteristics and Substantial Equivalence
+From a clinical point of view and comparing design and
+specifications, the INTERmedic Diode Laser Family and predicate
+devices, Ceralas Laser Family from BioLitec, Laser Family from
+Dornier, Syneron Laser Systems and other listed in predicate
+devices are substantially equivalent. Based on the overall
+performance and technological characteristics of the devices,
+INTERmedic Arfran S.A. believes that no significant differences
+exist between the INTERmedic Diode Laser Family and the
+predicate devices. They all work in the same range of wavelength
+and have the same indications for use.
+
+Indications for use
+The INTERmedic Diode Laser Family (and their delivery
+accessories used to deliver optical, ultrasound and RF energy) are
+indicated for use in surgical applications requiring the
+vaporization, incision, excision, ablation, cutting and hemostasis,
+or coagulation of soft tissue in conjunction with endoscopic
+equipment for medical specialties including: Urology,
+Genitourinary (Urology), Thoracic Surgery, Plastic Surgery and
+Dermatology, Aesthetics including vascular lesions and hair
+removal, General Surgery, Ophthalmology, Orthopedics, Podiatry,
+Arthroscopy, Spinal Surgery, Gynecology, Pulmonary Surgery,
+Neurosurgery, Gastroenterology, Head/Neck/ENT and Radiology,
+Endovascular coagulation, Oral Surgery and Dental procedures. :
+Examples include: (see page 5 in this Summary)
+
+Safety and effectiveness
+The INTERmedic Diode Laser Family is designed, manufactured
+and tested according mandatory and voluntary international
+Standards. Compared to the previously indicated predicate
+devices, the introduction of the INTERmedic Diode Laser Family
+provides no new clinical indications, which have previously
+demonstrated clinical effectiveness.
+
+5
+
+Performance Data - Comparison Tables
+INTERmedic Dornier
+ENDO Laser K020339
+Medilas
+Aiming Beam 650nm (red) 5mW max. Red Standard 0-150upW
+{adjustable)
+220-240 VAC 50-60Hz
+Indication for use: Minimally invasive Same
+endovenous treatment
+of varicose veins (internal
+and external saphenous
+and collateral veins) of all
+diameters under local
+anesthesia, as well
+as percutaneous treatments
+of superficial
+vascular lesions.
+INTERmedic BioLitec
+SURGICAL Laser incl. SR OFT 15 K050824
+Medilas
+nm
+[PeskPower [Uptof0W OCOCSCSCCCCCS Wd
+Aiming Beam 650nm (red) SmW max. 635nm (red) max.
+. 4mWw
+Power 100-120 VAC 50-60Hz 100 — 240 VAC
+Requirements 220-240 VAC 50-60Hz 50-60Hz
+Continuous or pulsed Continuous or
+Mode pulsed
+8x19x19 7x18x15
+HxWxD) [inch
+| Weight fibs] | 35
+Indication for vaporization, incision, excision, ablation, cutting and hemostasis, or same
+use: coagulation of soft tissue in conjunction with endoscopic equipment for
+medical specialties including: Urology, Genitourinary (Urology), Thoracic
+Surgery, Plastic Surgery and Dermatology, including vascular lesions
+and hair removal, General Surgery, Ophthalmology, Orthopedics,
+Podiatry, Arthroscopy, Gynecology, Pulmonary Surgery, Neurosurgery,
+Gastroenterology, Head/Neck/ENT and Radiology, Endovascular
+coagulation, Oral Surgery and Dental procedures.
+The increase of power to 120W does not affect any safety and security characteristics. The 120W contains
+additional diodes and has a shorter treatment time on the patient, compare to a 100W or a laser using less
+wattage.
+6
+
+INTERmedic BioLitec
+PL3D K050824
+Ceralas
+Aiming Beam 650nm (red) SmW max. 635nm (red) max.
+een [ei a |
+220-240 VAC 50-60Hz 50-60Hz
+pulsed
+HxWxD) [inch
+Indication for use: Neurosurgery: vaporization, incision, excision, ablation, and Same
+[nisin [cawiaten cipetprottaatieswhmers dexcome |
+INTERmedic Syneron
+ContrAge and RF ContrAge K052324,
+K050452,K0507796
+: Polaris, Aurora
+[Exposuretime | Smstoew i C=idzY
+eure [ei
+Power Requirements 100-120 VAC 50-60Hz Standard 110VAC
+PowrRewrerent [zoaivacsosne | Sa TTOVAG
+pulsed
+[RF Erequency 0.45 MHz cSC=dzY
+Indication for use: Aesthtetic, Dermatology for vascular lesions, superficial Same
+are Benign vascular and pigment lesion treatment,
+Skin rejuvenation, wrinkle reduction
+The ContrAge laser and RF unit is not an anti aging laser.
+7
+
+en
+SLP K050824, K021724, K020339
+Medilas D Skin Pulse
+| Wavelength [nmj 810
+50 to 1200ms (hair removal
+mode
+220-240 VAC 50-60Hz
+Indication for use: Dermatology, treatment and/or | Same
+removal of unwanted vascular
+ieee |
+unwanted hair, pigment
+lesions,
+INTERmedic Dornier
+VARIUS and VAIRUS 1000 K050824, K021724, K020339
+Medilas_D Skin Pulse
+Aiming Beam 635nm (red), mW Red Standard 0-150uW
+(adjustable)
+Power Requirements 100-120 VAC 50-60Hz 100 — 240 VAC 50-60Hz
+PowrReawenen® _[geoatovacsnane | RCSD
+Indication for use: Dermatology, Vascular Same
+treatment of leg and spider veins,
+vascular and pigmented lesions
+and skin treatments and rejuventation
+cutaneous surgery: cutting, coagulation
+and vaporization
+8
+
+INTERmedic BioLitec
+ODONT K050824
+Ceralas
+Wavelength [nm] 800-980
+Pulse interval 50 to 900ms 0.01-99.9s
+Solid-state Diode Solid-state Diode
+635nm (red), 1mW 635nm (red) max. 4mW
+100-240 VAC 50-60Hz 100 - 240 VAC 50-60Hz
+Operation Mode Continuous or pulsed Continuous or pulsed
+Dimensions (HxWxD) [inch] | 7x12x16 7x18x15
+Weight [lbs a
+Indication for use: Oral Surgery, examples include: Same
+Root sterilization, hemostasis, biopsy,
+frenectomy, fibroma removal,
+abscess incision and draining, pulpotomy,
+9
+

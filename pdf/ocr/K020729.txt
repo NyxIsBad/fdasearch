@@ -1,0 +1,169 @@
+JUN 6 4 2002
+510(k) Submission for the KO70 DP a if
+ICN Photonics Ltd., Nlite System
+Berge ges
+_ _. [ONE
+ICN Photonics Ltd.
+510(k) Summary Statement.
+ICN Photonics Ltd., Nlite System
+Ll. General Information.
+Submitter: ICN Photonics Ltd
+Units 1 & 2 Heol Rhosyn
+Dafen Parc,
+Llanelli,
+Carmarthenshire,
+Wales,
+UK, SA14 8QG
+Contact : Jan Mortimer — Regulatory and Quality Manager.
+Summary Preparation date : 28 Feb 2002
+2. Names:
+Device Name : Nlite System
+Primary Classification Name : Laser Powered Surgical Instrument.
+3. Predicate Devices :
+K013043 — Candela Clearbeam Pulse Dye Laser System
+K921842 — Cynosure, Photogenica V Pulsed Dye Laser.
+4. Product Description
+The NLite Sysiem is a flashlamp pumped, pulsed dye laser consisting of the
+following:
+
+* Main laser console incorporating the laser resonator and external optics, high
+voltage delivery system, internal cooler, fluid circulation system, control unit
+and user interface;
+
+* Flexible fibre optic delivery device and optical handpiece;
+
+e Footswitch for pulsing control.
+
+Section 13 -1-—
+
+510(k) Submission for the kK o/s
+ICN Photonics Ltd., Nlite System OL o 72 G 2 &
+3
+a
+. 1GNE
+ICN Photonics Ltd.
+5. Indications for Use
+The NLite system is indicated for use in the specialties of Dermatology and Plastic
+Surgery applications, and in particular for the treatment of Vascular lesions, such as
+Port Wine Stains, Telangiectasia, Leg Veins, Spider Veins, Spider Naevus,
+Poikiloderma of civatte, Hemangiomas, Angiomas, Rosacea
+And benign cutaneous lesion, such as: Scars, Straie, Psoriasis, Verrucae Vulgaris and
+Warts.
+6. Rationale for Substantial Equivalence
+The key laser parameters, namely wavelength, pulse duration, energy density and
+delivery mechanism, produced by the NLite System are equivalent to both the
+predicate devices. The specific indications for use for the NLite System are identical
+that of the predicate. There is an identical interaction in the specific targeting of the
+Vasculature within the dermal region of the skin. The predicate devices are intended
+to produce permanent damage to the vasculature as is the NLite System.
+As far as technological considerations are concerned, the NLite System utilizes the
+same design principles as the predicate devices, namely the method of producing the
+laser output is identical. More specifically, the laser output parameters and delivery
+method are equivalent in nature to those provided by the predicate devices.
+7. Safety and Efficacy Information
+None required ~ The precise equivalence to predicate devices negate the need to
+support additional efficacy information.
+8. Conclusion
+The NLite System has been found to be substantially equivalent to the predicate
+devices, specifically in technological design resulting in identical desired
+physiological interactions. The design and manufacture of the device is in accordance
+with the relative international standards and the potential risk to operator and patient
+has been minimized.
+Section 13 -2
+ony
+f & DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+%
+. wA TN
+Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Mr. Ian Mortimer
+Regulatory and Quality Manager JUN 0 4 2002
+ICN Photonics Ltd.
+Units 1 & 2 Heol Rhosyn
+Dafen Parc
+Llanelli,
+Carmarthenshire
+Wales
+United Kingdom, SA14 8QG .
+Re: K020729
+Trade/Device Name: ICN Photonics Ltd. NLite System
+Regulation Number: 878.4810 :
+Regulation Name: Laser surgical instrument for use in general and
+plastic surgery and in dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: February 28, 2002
+Received: March 6, 2002
+Dear Mr. Mortimer:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. ,
+If your device is classified (see above) into either class IT (Special Controls) or class [iI (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Page 2 - Mr. Ian Mortimer
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+: marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 21 CFR Part 809.10 for in vitro diagnostic devices), please contact the Office of
+Compliance at (301) 594-4659. Additionally, for questions on the promotion and advertising of
+, your device, please contact the Office of Compliance at (301) 594-4639. Also, please note the
+regulation entitled, "Misbranding by reference to premarket notification” (21CFR Part 807.97).
+Other general information on your responsibilities under the Act may be obtained from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 443-6597 or at its Internet address
+http://www. fda.gov/cdrh/dsma/dsmamain.html
+Sincerely yours,
+. fh M. Witten, Ph.D., M.D.
+Director
+: Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and .
+Radiological Health ‘
+Enclosure
+
+510(k) Submission for the
+ICN Photonics Ltd., NLite System
+ithe
+rrr sn ne nent gy
+ICN Photonics Ltd.
+Section 4
+Indications for Use Statement as Requested by FDA
+510(k) Number (if known): 020729
+Device Name: ICN Photonics Ltd.. NLite System
+. Indications for Use:
+The NLite System laser system is indicated for use in Dermatological and Plastic
+Surgery applications and this device is intended for use in the treatment of Vascular
+lesions, such as : Port Wine Stains, Telangiectasia, Leg Veins, Spider Veins, Spider
+Naevus, Poikiloderma of civatte, Hemangiomas, Angiomas, Rosacea
+And benign cutaneous lesion, such as: Scars, Straie, Psoriasis, Verrucae Vulgaris and
+Warts. ,
+(PLEASE DO NOT WRITE BELOW THIS LINE ~ CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+. Prescription Use iy 0. ver-The- ter Use
+er 21 CFR 801.109
+P ) Lo
+(Divisibn Sign-Off)
+Section : Division of General, Restorative -1™ and Neurological Devices
+510) Number__K Q_& To 4
+

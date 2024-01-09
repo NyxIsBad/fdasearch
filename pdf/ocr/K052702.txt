@@ -1,0 +1,211 @@
+NOV 2 1 2005 iy
+KOSQ 702
+Sa Ss
+Exhibit E 510(k) SUMMARY - Misonix Inc. FS-1000-RF Bipolar Forceps
+Accessory
+This summary of safety and effectivencss information is being submitted in accordance
+with the requirements of SMDA 1990 and 21CFR 807.92.
+1, Submitter’s Identification
+Submitter's Name: MISONIX INCORPORATED
+Address: 1938 New Highway, Farmingdale, NY 11735
+‘Telephone Number: 516-694-9555
+Contact Person: Ronald R. Manna
+Date Prepared: August 22, 2005
+2. Name of Device
+Proprietary Name: Misonix Inc. FS-1000-RF Bipolar Forceps
+Accessory
+Common/Usual Name: Electrosurgical cutting and coagulation
+device and accessories
+Product Code: GEI
+Classification: Class II
+3. Predicate Device Information
+Predicate Devices Boston Surgical Products Inc. Disposable Bipolar
+Coagulating Forceps K942710
+Olsen Electrosurgical Inc. Teflon Coated Electrodes
+for Electrosurgical Handles K913108
+Guenter Bissinger Medizintechnik GmbH Claris
+Non Stick Bipolar Forceps K051429
+4. Device Description Metal and plastic construction that approximates a
+tweezer assembly. Includes provision for
+connection to the output of a standard bipolar
+electrosurgical generator. Also includes provision
+for mechanical attachment to an ultrasonic surgical
+12
+
+aspirator. There is no energy interaction between
+the ultrasound unit and the electrosurgery unit.
+
+5. Intended Use: The Misonix Inc. FS-1000-RF Bipolar Forceps
+Accessory is indicated for use in bipolar procedures
+to grasp, manipulate. coagulate andor transect
+tissues in the following specialities:
+
+Neurosurgery
+
+Plastic and Reconstructive Surgery
+
+General Surgery
+6. Comparison to Predicate Device
+FS-1000-RF Bipolar Forceps Accessory is similar in design. material and operating
+parameters to the Boston Surgical Products Inc. Disposable Bipolar Coagulating
+Forceps. the Olsen Electrosurgical Inc. Teflon Coated Electrodes for Electrosurgical
+Handles and the Guenter Bissinger Medizintechnik GmbH Claris Non Stick Bipolar
+Forceps.
+All devices utilize two electrodes made of metal material, usually stainless steel or
+titanium. A coating of titanium oxide is used on the Misonix FS-L000-RF forceps
+accessory to minimize tissue adhesion. Predicates use other coatings such as Teflon
+lo accomplish the same effect.
+The prongs of the forceps are held together at the proximal end by plastic assemblies
+which both provide a spring action to either hold the forceps open or closed without
+operator intervention. Nylon coatings insulate the prongs so that the operator is not
+touching the RF energized metal, providing a measure of safety.
+7. Safety and Performance Data
+The Misonix Inc. FS-1000-RF Bipolar Forceps Accessory have been designed and
+tested to pass the following Voluntary Standards:
+
+13
+
+4 (Page? LD
+Kosatoa a
+UL 2601-1 Medical Electrical Equipment, Part 1: General Requirements for Safety
+EN 60601-1 Medical Electrical Equipment, Part [: General Requirements for Safety
+EN 60601-1-2:2001 Electromagnetic Compatibility
+EN 60601-2-2 Medical Electrical Equipment, Part 2: Particular Requirements for the
+safety of high frequency surgical equipment
+FCC Part 18 EMC Requirements
+7. Software Validation This device does not contain software.
+8. Sterilization Validations —- Validation statements are contained in Exhibit J.
+9. Non-Clinical Tests Performed for Determination of Substantial Equivalence
+are as follows:
+Note: Forceps are passive devices. Testing was done while attached to standard
+electrosurgical generator. Testing confirmed that forceps did not alter expected
+output characteristics of any generator tested.
+Life Tests
+Input Power Measurements
+EMI Tests
+Dielectric Tests on Mains Circuits
+Patient Current Leakage and Patient Sink Current Measurements
+Power Line Ground Leakage Measurements
+Dielectric Tests on Patient Circuits
+RF Cautery Life Tests
+Dielectric Tests with RF Cautery Unit Attached
+RF Cautery Unit Ouput Power Tests
+Temperature testing with tips closed for prolonged period of time
+9. In Vitro Tests Performed
+Testing of bipolar effect on animal tissue (bench top)
+Temperature testing of forceps during prolonged bench testing
+Surgeon assisted trial on animal tissue (bench top) for clinician
+feedback
+10. Conclusions
+Based upon a review of the published literature and its internal
+testing. Misonix Inc. can state that the use of the FS-1000-RF
+Bipolar Forceps Accessory for grasping, manipulating, coagulation
+and transecting tissue is safe and efficacious. We can also state
+that the FS-1000-RF Bipolar Forceps Accessory is substantially
+equivalent in this regard to the Boston Surgical Products Inc.
+Disposable Bipolar Coagulating Forceps, the Olsen Electrosurgical
+14
+
+Kos 2704 Gage ¢4@
+Res US
+Inc. Teflon Coated Electrodes for Electrosurgical Handles and the
+Guenter Bissinger Medizintechnik GmbH Claris Non Stick Bipolar
+Forceps.
+Based upon the engineering and in vitro testing experiences
+outlined herein, the device poses no new issues of safety or
+efficacy for coagulating and transecting tissue.
+15 *
+
+f 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+vo Food and Drug Administration
+NOV 21 2005 Rockvile MD 20050
+
+Ronald R. Manna
+Vice President Regulatory Affairs
+Misonix, Inc.
+1938 New Highway
+Farmingdale, New York 11735
+Re: K052702
+
+Trade/Device Name: Misonix Inc. FS-1000-RF Bipolar Forceps Accessory
+
+Regulation Number: 21 CFR 878.4400
+
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+
+Regulatory Class: II
+
+Product Code: GEI
+
+Dated: September 23, 2005
+
+Received: September 28, 2005
+Dear Mr. Manna:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act.. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2- Ronald R. Manna
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www.fda.gov/cdrh/industry/support/index.html.
+
+Sincerely yours,
+
+fon basa, A Prete
+Mark N. Melkerson
+Acting Director
+, Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+. Radiological Health
+
+Enclosure
+
+o
+510(k) Number (if known): kK O 5 Pa] 70 ol
+Device Name: _Misonix Inc. FS-1000-RF Bipolar Forceps Accessory
+Indications for Use:
+The Misonix Inc. FS-1000-RF Bipolar Forceps Accessory is indicated for use in bipolar
+procedures to grasp, manipulate, coagulate and/or transect tissues in the following
+specialities:
+Neurosurgery
+Plastic and Reconstructive Surgery ”
+General Surgery /
+Prescription Use x AND/OR Over-The-Counter Use (Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart Cy
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER a :
+. an PAGE OF NEEDED) 32
+a
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+(Division Sign-Off)
+Division of General, Restorative, Page 1_ of 1.
+and Neurological Devices
+. x
+510(k) Number_ OS 107
+

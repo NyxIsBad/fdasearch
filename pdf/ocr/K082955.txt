@@ -1,0 +1,170 @@
+wo
+. cbr sO
+a
+MS - 510(k) Summary
+Company Ethicon Endo-Surgery, Inc.
+: 4545 Creek Road
+, Cincinnati, OH 45242
+, Contact Tom Bosticco
+Principal QS/RA Project Manager JAN J 5 2009 .
+Ethicon Endo-Surgery, Inc. /
+: 4545 Creek Road
+: Cincinnati, OH 45242 ,
+Telephone: (513) 337-8935 ,
+Fax: (513) 337-2935
+Email: tbosticc@its.jnj.com
+Date Prepared September 30, 2008 ,
+New Device Name
+: Trade Name: Ethicon Endo Surgery® Articulating Hook Knife
+Common or Usual Name: Electrosurgical Hook Electrodes ‘
+Classification Name: Electrosurgical cutting and coagulation device and accessories (21
+, CFR 878.4400, Product Code GEI) ~
+Predicate Devices , :
+~ Ethicon Endo Surgery® Articulating Needle Knife (K073046) :
+cf Valley lab Laparoscopic Electrodes (K964175)
+
+, Ethicon Endo Surgery® Evacuation/Irrigation/Electrosurgical Device (K912492) :
+Device Description The Ethicon Endo Surgery® (EES) Articulating Hook Knife isa
+monopolar instrument intended for use in endoscopic electrosurgical procedures where
+cutting, dissecting, and cauterizing soft tissue are desired. The device consists of a flexible .
+wire cable and hook knife electrode, which can be extended, rotated, and articulated from
+the flexible outer shaft using two handle control knobs. In addition, the hook electrode can
+be rotated independently of the end effector. When connected to an electrosurgical
+
+: generator and activated, the hook knife delivers a monopolar electrical current to the
+surgical site. This device passes through endoscopes having a 3.7 mm or larger working
+channels. This device is supplied sterile for single-patient use.
+. Indications for Use The Articulating Hook Knife is a monopolar electrosurgical
+instrument intended for cutting, dissecting and cauterizing soft tissue during endoscopic
+electrosurgical procedures. ; :
+, : Technological Characteristics The EES device has similar technologic characteristics to
+the predicate devices (K964175 and K912492) in that it contains a metal electrode tip that
+is used to deliver monopolar energy to the surgical site. In all devices the electrode tip is in
+: the shape of a ‘L’ Hook. All devices can be introduced through 5mm ports. ‘All devices are :
+o designed to be connected to electrosurgical generators, and utilize RF monopolar energy /
+oe for operation.
+
+2 ho fr-gts fage 2 he
+ee :
+, Yo
+os ‘In addition, the Articulating Hook Knife device is very similar to the Articulating Needle
+. Knife (K073046) in that it consists of an elongated flexible wire shaft and‘a handle. These
+
+devices allow for the manipulation of the electrode via the handle of the device. Both
+
+devices feature rotation and articulation of the end-effector to provide the clinician with
+
+improved tissue-targeting capability.
+
+, Performance Data. Bench testing was performed to demonstrate that the EES device
+performs as intended. The patient contact portions of the device have been evaluated for
+biocompatibility and comply with the requirements of ISO 10993-1. The device was tested
+. to demonstrate compliance with the following standards: :
+
+- Electrosurgical Devices, AAMI HF 18, 2001/01/01 : :
+
+- Medical Electrical Equipment Part 2-2: Particular Requirements for the Safety of High
+
+Frequency Surgical Equipment, IEC 60601-2-2, 2006/07/01 .
+
+- Medical Electrical Equipment Part 2-18: Particular Requirements for the Safety of
+
+, Endoscopic Equipment, IEC 60601-2-18, 1996/08/01 . :
+- Medical Electrical Equipment - Part 1: General Requirements for Safety: Safety
+. Requirements for Medical Electrical Systems, IEC 60601-1:1995 /
+a)
+
+, - g@ DEPARTMENT OFHEALTH & HUMAN SERVICES Public Health Service
+*s, a si
+“enna Food and Drug, Administration
+. 9200 Corporate Boulevard
+Ethicon Endo-Surgery, Inc. Rockville MD 20850
+% Mr. Tom Bosticco
+Principal QS/RA Project Manager
+4545 Creek Road YAN 1 § 2008
+Cincinnati, Ohio 45242
+Re: K082955
+. Trade/Device Name: Ethicon Endo Surgery® Articulating Hook Knife
+Regulation Number: 21 CFR 878.4400
+. Regulation Name: Electrosurgical cutting and coagulation device and accessories :
+Regulatory Class: II
+Product Code: GEI ~
+Dated: January 9, 2009 /
+Received: January 12, 2009
+Dear Mr. Bosticco:
+‘ We have reviewed your Section 510(k) premarket notification of intent to market the device
+. referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act includé requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. ‘
+If your device is classified (see above) into either class IT (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+. Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not.limited to: registration and listing (21
+
+/ CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set ~ .
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+_ product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+. Page 2 ~ Mr. Tom Bosticco .
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+
+: premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+
+/ to proceed to the market.
+
+: If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+
+, please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474. For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 of at its Internet address
+http://www. fda.gov/cdrh/industry/support/index.html.
+
+Sincerely yours, .
+Mark N. Melkerson
+Director
+, Division of General, Restorative
+and Neurological Devices
+: Office of Device Evaluation
+Center for Devices and ‘
+Radiological Health ‘
+: Enclosure .
+
+Ko f 2g se
+. Indications for Use
+510(k) Number (if known): K082955
+Device Name: Ethicon Endo Surgery® Articulating Hook Knife
+Indications for Use:
+The Articulating Hook Knife is a monopolar electrosurgical instrument intended
+, for cutting, dissecting and cauterizing soft tissue during endoscopic
+electrosurgical procedures.
+| “ \) : / f / /
+: AAO hor. | SQM { I! uff 279
+1 Mb
+~ (Division Sign-OM) Vv
+Division of Generai, Restorative, and Neurological Devices
+510(k) Number_K.0324S's7
+Prescription Use x AND/OR Over-The-Counter Use .
+_ (Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)
+oo Concurrence of CDRH, Office of Device Evaluation (ODE) ,
+Page 1 of 1 .
+_ (Posted November 13, 2003)
+

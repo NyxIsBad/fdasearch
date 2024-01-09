@@ -1,0 +1,262 @@
+083452
+ERBE USA Incorporated KO oo bee dec 31 Co EIDENTIAL
+Special 510(k): ERBE ESU Model VIO 300 D with Accessories ;
+510(k) SUMMARY
+5 21 gW&
+Submitted By: ERBE USA, Inc.
+2225 Northwest Parkway
+Marietta, GA 30067
+Tel: 770-955-4400
+Fax: 770-955-2577
+Contact Person: Julie Stephens, President/Consultant
+Regulatory Resources Group, Inc.
+Date Prepared: November 20, 2008
+Common Name: ElectroSurgical Unit (ESU/Generator) System
+Trade/Proprietary Name: ERBE ESU Model VIO 300 D with Accessories
+Classification Name: Electrosurgical cutting and coagulation device and
+accessories (21 CFR 878.4400)
+Product Code: GEl
+Legally Marketed
+Predicate Device: : ERBE VIO ESU (Model VIO 300 D) with Accessories
+510(k) Numbers: K023886 and K060484
+Device Description:
+The ERBE ESU Model VIO 300 D with Accessories is an electrosurgical system that uses
+High Frequency (HF) electrical current waveforms to cut and/or coagulate tissue. There are
+modifications made to only a few of the Accessories from the previously cleared 510(k)
+Number K023886 and they are included within this submission.
+ESU Model VIO 300 D
+The ESU has a color monitor display that provides the user with an on-screen tutorial as
+well as settings and operational information. The unit has various cutting and coagulation
+modes with defined effect levels to provide the physician flexibility in interventional
+applications (i.e. its ability to generate HF current). The system has automatic start and
+stop features. The equipment is programmable and various accessories (e.g.
+footswitches, hand instruments, etc.) as well as modes may be assigned to perform
+specific functions. When activated, the device has an audio and visual error system (i.e.,
+malfunctions or user errors are detected with medical personnel being alerted visually
+and/or by sound with, in some cases, no energy being delivered). Upon activation, the
+energy delivered (in watts) from the ESU to the tissue is displayed on the display screen.
+Hl-1
+
+. KO GS GSR (age 2 od ®
+ERBE USA Incorporated CONFIDENTIAL
+Special 510(k): ERBE ESU Model VIO 300 Dwith Accessories
+
+Also, the Unit can be used in association with an ERBE compatible Argon Plasma
+Coagulator (APC). The ESU is supplied non-sterile and is reusable,
+Accessories (Modified VIO Footswitches)
+Various types of single and double pedal Footswitches have been designed for ESU VIO
+Models. The Footswitches are used to activate the Generator. Some of the Footswitches
+have a ReMode button so that the physician can toggle between preset programs. Also,
+some Footswitches are equipped with a bracket (i.e. bar) so that the operator can position
+their foot.
+Note: VIO stands for Variable Cut and Coagulation.
+Indications for Use:
+The ERBE ESU Model VIO 300 D with Accessories is intended to deliver High Frequency
+(HF) electrical current for the cutting and/or coagulation of tissue.
+Similarities and Differences of the Modified Device to the Current Device (Predicate
+Comparison/Substantial Equivalence):
+Similarities
+ESU Model VIO 300 D
+The modified ESU has the same intended use, protective circuits, and uses the same
+basic accessories (i.e. A/C Cord, Adapters, etc.) as the predicate. Also, the Modes with
+and without Auto Stop in the modified device are the same Modes that are in the
+predicate. Both Generators have an on-screen tutorial as well as the same user
+interface display to select modes, power settings, etc. The modified and predicate
+devices are programmable and have ReMode capabilities. Both devices have Auto Start
+and Auto Stop functions. Also, each Unit has audio and visual error monitoring. The
+modified and predicate devices both can be used with a compatible Argon Plasma
+Coagulator (APC) with the respective APC being controlled through the ESU. Both Units
+have the actual software for the APC within the ESU. The APC related Modes for the
+modified device are the same as the predicate device. The modified ESU is also
+manufactured by ERBE Elektromedizin GmbH in Germany and like the predicate
+Generator will be supplied as non-sterile and is reusable. The packaging is also the
+same for each device with similar labeling (e.g. Outer Package Label, User Manual,
+etc.).
+Accessories (Modified VIO Footswitches)
+The modified Footswitches are manufactured with the same type of materials and have
+the same functions as well as features as the predicate Footswitches. The packaging is
+also the same for each device with similar labeling (e.g. Outer Package Labels and
+Notes On Use, etc.).
+Wl-2
+
+KO$3452 bg 2 4©
+ERBE USA Incorporated CONFIDENTIAL
+Special 510(k): ERBE ESU Model VIO 300 D with Accessories _
+
+Differences
+
+ESU Model VIO 300 D
+
+The modified ESU has the following changes or additions:
+
+Hardware
+
+* The method for installing an optional software mode utilizes a communications
+cable with a “serialized” dongle which requires changes to the internal
+communications Printed Circuit Boards (PCBs).
+
+* Several internal PCBs are upgraded with more robust components to prevent
+field issues and errors.
+
+* The display is more durable and the anti-reflective coating on the display screen
+is improved.
+
+* The monopolar receptacle was improved to prevent the connection of instrument
+cables being inserted into the wrong holes of the module.
+
+e An additional type of bipolar receptacle was created to further meet customer's
+needs.
+
+Software
+
+* Software changes are made to correct field issues and incorrect error situations.
+
+« With some of the modes, the association of effects with power (outputs) and
+resistance were optimized and crest factors changed.
+
+« Some visual cues and audio cues were improved (e.g. lighting of specific icons,
+change in tone or increased sound for a mode or feature, added power display for
+specific bipolar modes).
+
+« The Endo Cut “I” and BiClamp modes have higher maximum output powers for
+the availability of more power if needed.
+
+e The Auto Start and Auto Stop features are now available with additional modes.
+
+e An additional feature was created for the Neutral Electrode Safety SYstem
+(NESSY) involving the use of a Neonatal Neutral Electrode (NE) (also referred to
+as Return Electrode, Patient Pad, Patient Plate, Grounding Pad, etc.). With the
+feature being turned “On", the Unit will display the message: "NE Neonatal
+Monitoring - reduce the effect or power setting" if a current of 300mA is reached.
+
+« Upon connecting a recognized reusable instrument into the Unit, the following
+additional message displays: "the instrument has already been sterilized around
+xx times" to provide usage information.
+
+e An additional method for toggling between preset programs (i.e. the ReMode
+feature) was added. That is, toggling between preset programs can be done by
+simultaneously pushing the Cut (Yellow) and Coag (Blue) buttons of a handswitch
+device.
+
+e« A “Maximum application time” setting is added to the Precise APC mode to
+reduce the possibility of thermal damage with the mode.
+
+e Added identification field so that its identity can be displayed when the Unit is
+turned “On”
+
+Ill-3
+
+KOs34sa foot 4 a &)
+ERBE USA Incorporated CONFIDENTIAL
+Special 510(k): ERBE ESU Model VIO 300.0 with Accessories
+e The maximum voltage for High Cut and Argon-Assisted High Cut modes has
+been changed in the User Manual from being the average value to the maximum
+number with the tolerance added.
+Accessories (Modified VIO Footswitches)
+Footswitches with different configurations (i.e. single or double pedals, with or without
+ReMode, and with or without a bar) have been developed. Also, the Footswitches will
+be manufactured in house at ERBE Elektromedizin GmbH.
+All of the modifications (i.e., additions and changes) for the ERBE ESU Model VIO 300 D
+with Accessories have been verified or validated in design control. All of the changes and
+additions as necessary are reflected in the labeling.
+Conclusion:
+The ERBE ESU Model ViO 300 D with Accessories has the same intended use, principles of
+operation, and technological characteristics as the predicate devices in the previously cleared
+510(k)s. All of the modifications have been verified or validated in design control. In
+conclusion, there are no issues with the ERBE ESU Model VIO 300 D with Accessories that
+would raise additional safety or efficacy issues when compared to the predicate devices.
+H-4
+
+: ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+rn Re a
+“va Food and Drug Administration
+9200 Corporate Boulevard
+DEC 31 2008 Rockville MD 20850
+ERBE, USA Inc.
+% Regulatory Resources Group Ine
+Ms. Julie Stephens
+111 Laurel Ridge Drive
+Alpharetta, Georgia 30004
+Re: K083452
+‘lrade/Device Name: ERBE USA, Inc.’s ERBE ESU Model VIO 300 D with Accessories
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: II
+Product Code: GEI
+Dated: November 20, 2008
+Received: December |, 2008
+Dear Ms. Stephens:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+: devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class Ill (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance ofa substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Ms. Julie Stephens
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification, The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474, For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http.//www.fda.gov/cdrh/industry/support/index. html.
+
+Sinecrely yours,
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Indications for Use
+510(k) Number (ifknown); K 0 8 34°08
+Device Name: ERBE USA, Inc.’s ERBE ESU Model VIO 300 D with Accessories
+Indications For Use:
+The ERBE ESU Model VIO 300 D with Accessories is intended to deliver High Frequency
+(HF) electrical current for the cutting and/or coagulation of tissue.
+Prescription Use X AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+oe EAE CIN ANG PRE PAGE If NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Tr, ”
+vee on Si n-Off) .
+(Divis! neral, Restorative,
+Division of 6 evi es Page 1 of 1
+. : gel ofl
+. and Neurological Devic
+esate
+510(k) Number
+

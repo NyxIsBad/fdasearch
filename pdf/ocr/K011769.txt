@@ -1,0 +1,234 @@
+(4
+AUG 3 0 2001
+510(K) SUMMARY
+OPUS 10™ DENTAL DIODE LASER SYSTEM
+510(k) Number K 1/76 7
+Applicant’s Name:
+OpusDent Ltd.
+Atid Science Based industrial Park, Hagavish 4 St., Natania south /
+P.O.Box 8737 Natania 42505, Israel
+Tel.: 972-9-892 3333
+Fax: 972-9-892 3300
+Contact Person:
+Shoshana Friedman, RAC Or: Jonathan S. Kahan
+Push-med Ltd. Hogan & Hartson L.LP.
+117 Ahuzah St. . 555 Thirteenth St, NW
+Ra’anana 43373, Israel Washington, DC 20004
+Tel: 972-9- 7718130 Tel: (202) 637-5794
+Fax: 972-9-7718131 Fax: (202) 637-5910
+Date Prepared:
+June 2001
+Trade Name:
+Opus 10™ Dental Diode Laser System
+Classification Name:
+Laser Instrument, Surgical, Powered
+Classification:
+FDA has classified laser device as a class II device (product code GEX) and it is
+reviewed by the General & Plastic Surgery Panel.
+10-3
+
+ko W267 vy
+Predicate Devices:
+The Opus 10™ Dental Diode Laser System with the tooth whitening application
+is substantially equivalent to the Opus 10™ Dental Diode Laser System
+(OpusDent Ltd.) in terms of, technological characteristics, performance,
+intended use (generally), indications for use and user interface.
+In addition, the Opus 10™ is substantially equivalent to a combination of the
+Twilite™ Dental Diode Laser system (Biolase Technology, Inc.), to the
+Aurora™ Diode Laser System (Premier Laser Systems, Inc.) and to the
+Dentek™ LD 15 Diode laser (Dentek™ Austria GMBH) in terms of intended
+use, indication for use, technological characteristics and performance.
+Performance Standards:
+
+The Opus 10™ Diode Laser complies with:
+USS. Federal Performance Standards 21 CFR 1040.10 and 21 CFR 1040.11 for
+class IV Laser Products.
+In addition, the device complies with the European Medical Directive
+
+' 93/42,EEC conceming medical devices (Annex II) and with the voluntary
+standards, EN 60601-1, EN-60825-1, EN-601-2-22, CISPR 11, IEC 61000-42/3/4/5, EN55011 and IEC 801-2
+
+10-4
+
+kor? ¥¢¥
+Intended Use / Indication for Use:
+The Opus 10™ Dental Diode Laser System is intended for incision, excision,
+ablation, vaporization and/or coagulation (hemostasis) of oral soft tissue
+(including marginal and interdental gingiva and epithelial lining of free gingiva). In
+addition, the system is intended for teeth whitening.
+The Indications for Use of the Opus 10™ Dental Diode Laser System include:
+Cosmetic Dentistry
+¢ Light activation for bleaching materials for teeth whitening
+*  Laser-assisted bleaching/whitening of the teeth
+Endodontology
+*  Pulpotomy
+¢  Pulpotomy as an adjunct to root canal therapy
+Periodontology
+«  Sulcular debridement (removal of diseased or inflamed soft tissue in the
+periodental pocket)
+Oral Soft Tissue Surgery
+* Biopsy
+*  Operculectomy
+*  Gingivectomy
+*  Gingivoplasty
+*  Papillectomy
+... Lesion (tumor) removal
+¢ Leukoplakia
+* Treatment of aphthous ulcers
+¢  Fibroma removal
+*  Frenectomies and frenotomies
+¢ Tissue retraction for impressions
+«  Incising and draining of abscesses
+¢ Exposure of unerupted teeth
+Device Description:
+The Opus 10™ Dental Diode Laser is designed to perform several medical
+procedures in the oral soft tissue and to perform laser assisted aesthetic tooth
+whitening procedures.
+A Gallium Aluminum Arsenide (GaAlAs) solid state laser diode provides optical
+energy to oral soft tissues.
+10-5
+
+korg Wy
+
+A fiber optic held by an handpiece delivers the Opus 10™ laser energy. A visible
+
+light emitted from the handpiece’s distal end targets the area of treatment. The
+
+optical power output and pulse may be adjusted to specific use requirements.
+Substantial Equivalence:
+
+There are no unique applications, indications, material or specifications presented
+
+herein. Evidence of equivalence has been demonstrated through:
+
+. The Opus 10™ intended use and indications for use were previously
+cleared by FDA for the predicate devices.
+
+e The technical characteristics of the Opus 10™ with the tooth whitening
+application are similar to those of the cleared Opus 10™, Twilite™,
+Aurora™ and Dentek™.
+
+° Laser output values of the Opus 10™ are well within previous cleared
+values of the predicate dental diode laser systems as described.
+
+° The predicate devices and other previous cleared lasers with similar energy
+output has a proven safety and effectiveness in the treatment of the claimed
+indications.
+
+° Safety and performance testing.
+
+Therefore, the Opus 10™ Dental Diode Laser System with the tooth whitening
+
+application is substantially equivalent to its predicate devices cited above and
+
+raises no new safety and/or effectiveness issues.
+10-6
+
+pene,
+f . DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+CSC
+a Food and Drug Administration
+9200 Corporate Boulevard
+AUG 3 0 2001 Rockville MD 20850
+OpusDent Ltd.
+c/o Ms. Shoshana Friedman, RAC /
+Push-Med, Ltd.
+117 Ahuzah Street
+Ra'ananna 43373 Israel
+Re: K011769
+Trade/Device Name: Opus 10™ Dental Diode Laser System
+Regulation Number: 878.4810
+. Regulatory Class: II
+Product Code: GEX
+Dated: June 2, 2001
+Received: June 7, 2001
+Dear Ms. Friedman:
+We have reviewed your Section 510(k) notification of intent to market the device referenced
+above and we have determined the device is substantially equivalent (for the indications for use
+stated in the enclosure) to legally marketed predicate devices marketed in interstate commerce
+prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that
+have been reclassified in accordance with the provisions of the Federal Food, Drug, and
+Cosmetic Act (Act). You may, therefore, market the device, subject to the general controls
+provisions of the Act. The general controls provisions of the Act include requirements for annual
+registration, listing of devices, good manufacturing practice, labeling, and prohibitions against
+. misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III
+(Premarket Approval), it may be subject to such additional controls. Existing major regulations
+affecting your device can be found in the Code of Federal Regulations, Title 21, Parts 800 to 895.
+A substantially equivalent determination assumes compliance with the Current Good
+Manufacturing Practice requirements, as set forth in the Quality System Regulation (QS) for
+Medical Devices: General regulation (21 CFR Part 820) and that, through periodic QS
+inspections, the Food and Drug Administration (FDA) will verify such assumptions. F ailure to
+comply with the GMP regulation may result in regulatory action. In addition, FDA may publish
+further announcements concerning your device in the Federal Register. Please note: this
+response to your premarket notification submission does not affect any obligation you might
+have under sections 531 through 542 of the Act for devices under the Electronic Product
+Radiation Control provisions, or other Federal laws or regulations.
+
+Page 2 - Ms. Shoshana Friedman, RAC
+This letter will allow you to begin marketing your device as described in your 510(k) premarket
+notification. The FDA finding of substantial equivalence of your device to a legally marketed
+predicate device results in a classification for your device and thus, permits your device to
+proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 809.10 for in vitro diagnostic devices), please contact the Office of Compliance at
+(301) 594-4659. Additionally, for questions on the promotion and advertising of your device,
+please contact the Office of Compliance at (301) 594-4639. Also, please note the regulation
+entitled, “Misbranding by reference to premarket notification” (21CFR 807.97). Other general
+information on your responsibilities under the Act may be obtained from the Division of Small
+Manufacturers International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its internet address "http://www.fda.gov/edrb/dsma/dsmamain.html".
+Sincerely yours,
+— 4 ore sx PP ‘
+tor
+Celia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+INDICATIONS FOR USE :
+510(k) Number (if known) OIF
+Device Name: Opus 10™ Dental Diode Laser System
+Indications for Use: The Opus 10™ Dental Diode Laser System is intended for
+incision, excision, ablation, vaporization and/or coagulatien (hemostasis)
+of oral soft tissue (including marginal and interdental gingiva and
+epithelial lining of free gingiva). In addition, the system is intended for
+teeth whitening. ,
+The Indications for Use of the Opus 10™ Dental Diode Laser System
+: include:
+Cosmetic Dentistry
++ Light activation for bleaching materials for teeth whitening
+* Laser-assisted bleaching/whitening of the teeth
+Endodontology
+¢ Pulpotomy
+* Pulpotomy as an adjunct to root canal therapy
+Periodontology
+* Sulcular debridement (removal of diseased or inflamed soft tissue in
+the periodental pocket)
+Oral Soft Tissue Surgery
+* Biopsy
+* Operculectomy
+* Gingivectomy
+* Gingivoplasty
+¢ Papillectomy
+* Lesion (tumor) removal
+¢ Leukoplakia
+¢ Treatment of aphthous ulcers
+¢ Fibroma removal
+* Frenectomies and frenotomies
+* Tissue retraction for impressions
+" Incising and draining of abscesses
+* Exposure of unerupted teeth
+(PLEASE DO NOT WRITE BELOW THIS LINE -CONTINUE ON ANOTHER PAGE IF NEEDED)
+510(k) Number ~O\\ T 64 se i
+ee
+Prescription Use< / * OR (DivisiomSiesatPuse
+(Per 21 CFR 801.109) : Division of General, Restorative
+and Neurological Devices
+10-8
+§10(k) Number ——___—_—_
+

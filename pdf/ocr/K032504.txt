@@ -1,0 +1,213 @@
+AUG 21 7008 /[throCare [ap ore
+510(k) Summary
+ArthroCare Corporation
+ArthroCare System
+K 03859
+
+General Information
+Submitter Name/Address: ArthroCare Corporation
+
+680 Vaqueros Avenue
+
+Sunnyvale, CA 94085-3523
+Establishment Registration Number: 2951580
+Contact Person: Valerie Defiesta-Ng :
+
+Director, Regulatory Affairs
+Date Prepared: August 12, 2003
+Device Description
+Trade Name: ArthroCare® S ystem
+Generic/Common Name: Electrosurgical Device and Accessories
+Classification Name: Electrosurgical Cutting and Coagulation
+
+Device and Accessories (21 CFR 878.4400)
+Predicate Devices
+Aredicate Mevices
+ArthroCare” System K030551
+Product Description
+The ArthroCare System is a bipolar, high frequency electrosurgical system consisting of
+three components: an electrosurgical generator called the Controller; a family of
+disposable, bipolar, single use Wands; and a reusable Patient Cable.
+
+xi
+680 Vaqueros Avenue * Sunnyvale, CV 94085 © (408) 736-0224 © Fax: (408) 736-0226
+
+Intended Uses
+The ArthroCare System is indicated for resection, ablation, and coagulation of soft tissue
+and hemostasis of blood vessels in arthroscopic and orthopedic procedures:
+are E OSCO] pic an dO ws ca p eo aM : Proced eee Ls | ankle. = bowser
+a ee
+bee seed wrist) See
+xii
+
+{. qt @) gf 7"
+Continued
+2 SERIE S85 NRE aI SCS 1S EAS AOR BONS CR Ea a Weg ty DES RET Ge elect sae
+APMP copie td Onthopenie recedes oi Oe a
+ONS Dae ree vee eee eae hip, Jonee) shoulder, and |
+Je | ee ws
+* Tendon
+Substantial Equivalence
+This Special 510(k) proposes a modification in the performance specifications,
+dimensional specifications, and labeling for the ArthroCare System, which was
+previously cleared in K030551 on March 7, 2003. The indications for use, technology,
+principle of operation, materials, packaging, and sterilization parameters of the
+ArthroCare System remain the same as in the predicate cleared 510(k).
+Summary of Safety and Effectiveness
+The modified ArthroCare System, as described in this Special 510(k), is substantially
+equivalent to the predicate device. The proposed modifications in performance
+specifications, dimensional specifications, and labeling are not substantial changes or
+modifications, and do not significantly affect the safety or efficacy of the System.
+xiii
+
+ony
+e a4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+“evera| Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+AUG 2.1 2003
+
+Ms. Valerie Defiesta-Ng
+Director, Regulatory Affairs
+ArthroCare Corporation .
+680 Vaqueros Avenue
+Sunnyvale, California 94085 :
+Re: K032504
+
+Trade/Device Name: ArthroCare® System
+
+Regulation Number: 2] CFR 878.4400
+
+Regulation Name: Electrosurgical cutting and coagulation device and accessories :
+
+Regulatory Class: If
+
+Product Code: GEI
+
+Dated: August 12, 2003
+
+Received: August 13, 2003
+Dear Ms. Defiesta-Ng:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class II] (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Ms. Valerie Defiesta-Ng
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market. .
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (301) 594-4659. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www. fda.gov/cdrh/dsma/dsmamain.html
+
+Sincerely yours, iff
+
+f Celia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+
+Office of Device Evaluation
+
+Center for Devices and Radiological Health
+Enclosure
+
+or w p é
+Indications for Use Statement f a WO 4 we
+Device Name ArthroCare System
+510(k) Number: K O25 OF
+Indications for Use:
+The ArthroCare System is indicated for resection, ablation, and coagulation of soft tissue
+and hemostasis of blood vessels in arthroscopic and orthopedic procedures:
+Artiiroscopic and Orthopedic Procedures aaa |sloints (ankle, elbows) =
+SE ee [dnp knce owlder Fand)
+oo RSS ee 0 SOIR A rate | Shot Bes ars oh
+Ablation and Debridement
+* _ACL/PCL
+Shoulder
+e __Articular Cartilage All Joints
+¢ Bursectomy All Joints
+¢ _Chondroplasty All Joints
+All Joints
+e Ligament All Joints
+* _Notchplasty
+All Joints
+© Soft Tissue All Joints
+¢ — Subacromial Decompression Shoulder
+¢ Synovectomy All Joints
+¢ Tendon All Joints
+Nh Excision and Resection
+«Acetabular Labrum Hip
+8 i e  Articular Labrum All Joints
+2 Y ¢ Capsule All Joints
+3 ¢ Capsular Release
+oI
+5 a * Cartilage Flaps Knee
+2
+. 28D ° Cysts All Joints
+mx, 3 YY ¢ _Discoid Meniscus Knee
+\ € = Q ¢ Frozen Shoulder Release Shoulder
+oO 8 <x ¢ _Glenoidale Labrum Shoulder
+a3 a 3 ¢ Lateral Release Knee
+Anum & & e Ligament All Joints
+c g 5 ¢ Loose Bodies All Joints
+< a oo Z © Meniscal Cystectomy Knee
+CIE 2S Se Menseectomy
+QAaAk
+ix
+
+Ko ZQSOG fae @ Cage
+—_ a b
+Continued
+Pee ee ee
+“ER Pee este Sone ee | Jot (ankle elbow a:
+~Arthroscopic.and Orthop occdures ys hip, kuce shoulders and:
+e  Plica Removal All Joints
+All Joints
+All Joints
+e Synovial Membrane All Joints
+e Tendon . All Joints
+¢__Triangular Fibrocartilage (TFCC
+Coagulation
+° _ACL/PCL
+e  Articular Cartilage All Joints
++ _ Carpal Ligaments
+¢ _Glenohumeral Capsule Shoulder
+All Joints
+= Medial Retinaculum
+Shoulder
+All Joints
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use x OR Over-the-Counter Use
+(Per 21 CFR 801.109)
+at ee
+fice Sign-Cff) .
+Division of General, Restorative
+ond Neurological Devices
+Ko 325? f
+310(k) Number anne
+x
+

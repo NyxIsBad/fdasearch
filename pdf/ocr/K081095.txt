@@ -1,0 +1,154 @@
+DEC 12 2008
+Section 5
+510(k) Summary KOg (OTS
+This 510(k) Summary is submitted in accordance with the requirements of 21 CFR 807.87 and
+807.92. Summary preparation date 04-10-08 [21 CFR 807.92(a)(1)].
+
+A. Contact Information [21 CFR 807.92(a)(1)}
+Quantel USA
+P O Box 8100
+Bozeman, MT 59715
+Tel: 406-586-0131
+Fax: 406-586-2924
+Contact person: Michael Johnson M.D.
+
+B. Device Trade Name, Common Name, Classification [21 CFR 807.92(a)(2)]
+Trade Name: ProLite HI Intense Pulsed Light System
+Device Common Name: Intense Pulsed Light (IPL)
+Classification Name: Laser Instrument, Surgical Powered (per 21 CFR 878.4810)
+Product Code: GEX
+Panel: Dermatology and Plastic Surgery
+Device Classification: Class I
+
+Cc. Predicate Devices [21 CFR 807.92(a)(3)]
+The ProLite HT IPL device uses similar technology and has equivalent physical !
+output characteristics as the following predicate devices:
+ProLite, manufactured by Big Sky Laser Technologies, now Quantel USA
+(021304)
+Dermalux, manufactured by Palomar (K010618) |
+
+4
+
+D. Device Description [21 CFR 807.92(a)(4)]
+The ProLite I IPL is a device designed for dermatological use. It produces an
+intense light pulse within the wavelengths of 450 to 2000 nanometers, which is
+tailored to specific indications by a bandpass filter. The system is composed of a
+Tower which encloses the power supply and cooling system and a Handpiece which
+contains the flash lamp, filter and waveguide. The device is controlled by a touchscreen graphic user interface.
+E. Device Specifications [21 CFR 807.92(a)(6)]
+The ProLite HI IPL outputs a flash with selectable pulse durations of 5 to 120
+milliseconds with a shot fluence adjustable in the range of 5-30 J/om?. The maximal
+repetition rate is 1 shot per second. The photorejuvenation “PR” handpieces output
+the spectrum from 530 to 1100 nm, 550-1100 nm, or 580-1100 nm using a userinaccessible bandpass filter. The hair removal “HR” handpieces output the spectrum
+from 630 to 990 nm, 630 to 1100 nm, or 650 to 1100 nm using a user inaccessible
+bandpass filter. The waveguide area is 6 cm* (1.5 x4 cm). The waveguide is cooled
+by thermo-electric “Peltier” devices with the temperature setpoint adjustable from
+room temperature to 5°C.
+F. Indications for Use [21 CFR 807.92(a)(5)]
+The ProLite 111™ Pulsed Light System with the HR handpiece (containing a 630: 1100 nm, 630-990 nm, or 750 — 1100 nm filter) is intended for the removal of
+unwanted hair in all Fitzpatrick skin types. .
+The ProLite 11™ Pulsed Light System with the PR handpiece (containing a 5301100 nm, 550-1100 nm, or 580-1100 nm filter) is intended for the treatment of
+benign pigmented lesions and the removal of tattoos, the treatment of vascular
+lesions, and the treatment of shallow veins, telangiectasia, facial hemangiomas, and
+rosacea vascular lesions.
+G. Conclusion [21 CFR 807.92(b)(3)]
+Technologically, the ProLite IIT was found to be substantially equivalent to the
+currently cleared ProLite (K021303) and Dermalux (K021304). Thus, the risks and
+benefits for the ProLite If are comparable to the predicate devices. ,
+The indications for use are exactly the same as the previously cleared pulsed light
+system, the ProLite (K021303).
+We believe that there are no new questions of safety or efficacy raised by the
+introduction of the ProLite IT.
+5
+
+= g DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+on
+“evaaa Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Quantel USA
+% Michael Johnson, M.D. DEC 1 2 2008
+601 Haggerty Lane
+Bozeman, Montana 59715
+Re: K081095
+Trade/Device Name: ProLite II
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and in
+dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: October 17, 2008
+Received: October 20, 2008
+Dear Dr. Johnson: ,
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. /
+If your device is classified (see above) into either class II (Special Controls) or class II (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+, be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcenients concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050:
+
+Page 2 — Michael Johnson, M.D.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+Hf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health's (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+_ premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474, For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the i
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http:/Avww.fda.pov/cdrh/industry/support/index.html.
+Sincerely yours,
+Mark N. Melkerson
+Director :
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+Section 4
+Indications for Use
+510(k) Number (ifknown): [ZO x [04 Ss
+’ Device Name: __ ProLite III
+Indications for Use:
+The Prolite I17™ Pulsed Light System with the HR handpiece (containing a 630-1100 nm, 630-990 nm, or
+750-1100 nm filter) is intended for the removal of unwanted hair in all Fitzpatrick skin types.
+The ProLite IIT™ Pulsed Light System with the PR handpiece (containing a 530-1100 nm, 550-1100 nm,
+or 580-1100 nm filter) is intended for the treatment of benign pigmented lesions and the removal of tattoos,
+the treatment of vascular lesions, and the treatment of shallow veins, telangiectasia, facial hemangiomas,
+and rosacea vascular lesions.
+Prescription Use _X AND/OR Over-The-Counter Use
+(Part 21. CFR 801 Subpart D) ‘(21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE OF NEEDED)
+re
+oo Concurrence of CDRH, Office of Device Evaluation (ODE)
++ gy
+Wik a on. a ee
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+510(k) Number 0g lois”
+3
+

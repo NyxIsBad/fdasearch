@@ -1,0 +1,166 @@
+JAN 0 8 2003
+510(k) Summary of Safety & Effectiveness
+(as required by 21 CFR 807.92c)
+Ko Q24yos4
+_
+Date Prepared:
+1 December 2002
+Submitter’s Information:
+Soring GmbH Medizintechnik
+Justus-v.Liebig 10
+25451 Quickborn
+Germany
+Telephone: 49 4106-6100-0
+Trade Name, Common Name, Classification:
+Trade name: Séring GmbH, MBC™ Series
+Common name: Electrosurgical conductive gas coagulation
+Classification name: 878.4400 - Device, Electrosurgical, Cutting &
+Coagulation & Accessories
+Predicate Device:
+Name: Séring GmbH, ARCO 3000, ARCO 2000, ARCO
+: 1000, and MBC Series
+510(k) Number K993265
+Regulation Number 878.4400 - Device, Electrosurgical, Cutting &
+Coagulation & Accessories
+Product Code GEl
+Decision Date 10/22/1999
+Device Description:
+The Soring GmbH MBC™ Series is a monopolar and bi-polar RF surgical device for
+cutting and coagulation. RF Surgery is the use of high frequency alternating electrical
+current (frequency higher then 300 kHz) with the purpose of alteration or destruction of
+cells and for cutting tissue. The Soring GmbH MBC™ Series is used for tissue removal
+and cauterization in connection with mechanical operation techniques. The tissue
+cauterization and cutting effects are accomplished by a combination of heating through
+the electrical resistance offered by the biological tissue and through the heating of the
+electrode. Heat production is mainly a result of the fact that biological tissue acts as an
+electrical resistor for frequencies normally used during RF surgery and that as an
+electrical resistor biological tissue heats up when electric currents flow through.
+The amount of heat developed is therefore dependent on the current and the resistance
+of the conductor (the biological tissue) put up by the patient. From an electrical point of
+view, the patient is the conductor. As a result, in a closed current loop of metallic
+conductors and biological tissue of equal cross sectional area the biological tissue
+heats up significantly more. As can be seen in the table below, different biological
+tissue types offer a wide range of electrical resistance and thus are affected differently
+. 1(2)
+
+5§10(k) Summary of Safety & Effectiveness
+(as required by 21 CFR 807.92c)
+
+by the applied RF signal. The Soring GmbH MBC™ Series internal circuitry
+
+automatically senses the resistivity and adjusts the RF signal accordingly for the best
+
+results.
+
+Indications for Use:
+The devices are intended to cut and or coagulate (soft) biological tissue during
+surgical procedures. Typical users of this system are trained medical
+professionals.
+
+Performance Data:
+The subject and predicate devices both use standard data communications
+controls to detect errors. Both devices comply with IEC 950 — Safety of
+Information Technology Equipment, CISPR 22, class A — Electromagnetic
+
+’ Compatibility, IEC-801-2, IEC-801-3 — Electromagnetic Compatibility, IEEE
+
+1003.1 — General Electrical Safety for medical devices, IEC 601-1 —Electrical
+Safety for medical devices using RF-power, IEC 601-2-2 ~ Special specifications
+for the safety of RF-surgery units
+
+Conclusion:
+Similar to the predicate device, the Soring GmbH MBC™ Series of devices do
+not control any life sustaining functions or services, The Soring GmbH MBC™
+Series and the predicate device share the same conformance to performance
+standards and both function as RF surgery units. Based on the information
+supplied in this 510(k), we conclude that the subject devices are safe, effective,
+and substantially equivalent to the predicate devices.
+
+2(2)
+
+eee,
+é Ma DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+a. Ot
+Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+JAN 0 8 2003
+Soring GmbH Medizintechnik
+c/o Mr. Carl Aletto
+. Delta Quality Consulting
+1100 Lakeview Boulevard
+Denton, Texas 76208
+Re: K024059
+Trade/Device Name: Soring GmbH MBC™ Series
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: I
+Product Code: GEI
+Dated: November 12, 2002
+Received: December 9, 2002
+Dear Mr. Aletto: ,
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class If (Special Controls) or class IIT (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Mr. Carl Aletto
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (301) 594-4659. Additionally, for questions on the
+promotion and advertising of your device, please contact the Office of Compliance at (301) 5944639. Also, please note the regulation entitled, “Misbranding by reference to premarket
+notification” (21CFR Part 807.97) you may obtain. Other general information on your
+responsibilities under the Act may be obtained from the Division of Small Manufacturers,
+International and Consumer Assistance at its toll-free number (800) 638-2041 or (301) 443-6597
+or at its Internet address http://www.fda.gov/cdrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+for Celia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Page | of -1
+(Indications for Use Form)
+510(k) Number: kK b24go0s5 4
+Device Name: Soring GmbH MBC™ Series
+Indications for Use: :
+The devices are intended to cut and or coagulate (soft) biological tissue
+during surgical procedures.
+Typical users of this system are trained medical professionals.
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER
+PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use VY OR Over -The-Counter Use
+(Per 21 CFR 801.109)
+(Optional Format 1-2-96)
+Division of Generz storative
+and Neurological LL... 2s
+nny Number__K 0 AYO SF .
+

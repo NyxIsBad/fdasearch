@@ -1,0 +1,154 @@
+Section 5: 510(k} Summary The assigned 510(k) number is: K O06 3\ LQ
+Company: Elexxion AG Medizinische System
+Schitzenstrasse 84
+78315 Radolfzeli, Germany
+Telephone: 49 7732 82299-0
+Fax: 49-7732 82299-77 MAR 0 7 2007
+Contact: : Johannes Mueller
+Date Prepared: October 1, 2006
+Proprietary Names: Claros® Dental Laser System
+Classification Name: Surgical Powered Laser Instrument
+Common Name: Dental Diode Laser
+Classification Code: * Claros - Class i], 21 CFR 878.4810, GEX
+Predicate Devices: Biolase LaserSmile, #K030539
+Device Description: The Claros Dental Laser System is a portable laser that
+uses a gallium aluminum arsenide 810 nm diode laser
+module to provide optical energy via a contact fiber optic
+delivery system. Claros is used for multiple soft tissue,
+periodontal, and teeth whitening applications.
+The Claros Dental Laser System is comprised of the
+following main components:
+* a light/ laser system console (including software, a
+display panel and controls);
+* delivery devices;
+* one or more handpieces;
+« key cards for security; and
+* protective eye wear.
+“Intended Use: Please refer to Attachment 1
+Performance Data: The Claros Dental Laser System complies with the
+following standards:
+* IEC 60601-1:1998+A1:1991+A2:1995
+* IEC 60601-2-22:1995
++ IEC 60825-1:1993+A2:2001
++21 CFR 1040.10 and 1040.11
+* The European Medical Device Directive 93/42/EEC
+5>\
+
+Substantial Equivalence: The Claros Dental Laser System (and accessories)
+shares the same or similar indications for use, principles
+- of operation, overall technical and functional capabilities,
+and therefore is substantially equivalent for use in
+general and plastic surgery, and dentistry for surgical
+applications to the predicate device identified.
+Conclusion: The Claros Dental Laser System (and accessories) is
+substantially equivalent to previously cleared dental
+: devices and raises no new safety or effectiveness issues.
+5->?
+
+? ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Peas Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Elexxion AG Medizinische System
+% Mr. Johannes Mueller
+Application Correspondent for Elexxion AG
+Grosse Lache 5 a oo
+61273 Wehtheim MAR & 7 2007
+Germany
+Re: K063152
+Trade/Device Name: Claros® Dental Laser System
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and
+in dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: February 23, 2007
+Received: February 26, 2007
+Dear Mr. Mueller:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications for
+use stated in the enclosure) to legally marketed predicate devices marketed in interstate commerce
+prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that
+have been reclassified in accordance with the provisions of the Federal Food, Drug, and Cosmetic
+Act (Act) that do not require approval of a premarket approval application (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices, good
+manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class I (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must comply
+with all the Act’s requirements, including, but not limited to: registration and listing (21 CFR Part
+807); labeling (21 CFR Part 801); good manufacturing practice requirements as set forth in the
+quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product
+radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 ~ Mr. Johannes Mueller
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+“Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain other
+general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www. fda.gov/cdrh/industry/support/index.html.
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Indications for Use .
+510(k) Number (if known): Ke oO © 3h S ~
+Device Name: Claros® Dental Laser System
+Indications for Use:
+Dental Soft Tissue Indications Including Pulpal Tissues*
+Incision, excision, vaporization, ablation and coagulation of oral soft tissues, including:
+Excisional and iricisional biopsies, Exposure of unerupted teeth, Fibroma removal,
+Frenectomy, Frenotomy, Gingival troughing for crown impressions, Gingivectomy,
+Gingivoplasty, Gingival incision and excision, Hemostasis and coagulation, Implant
+recovery, Incision and drainage of abscesses, Leukoplakia, Operculectomy, Oral
+papillectomies, Pulpotomy, Pulpotomy as an adjunct to root canal therapy, Reduction of
+gingival hypertrophy, Soft tissue crown lengthening,
+: Treatment of canker sores, herpetic and aphthous ulcers of the oral mucosa, and
+Vestibuloplasty.
+*For use on adult and pediatric patients
+Laser Periodontal Procedures
+Laser soft tissue curettage, Laser removal of diseased, infected, inflamed and necrosed soft
+tissue within the periodontal pocket, Removal of highly inflamed edematous tissue affected
+by bacteria penetration of the pocket lining and junctional epithelium, Sulcular debridement
+(removal of diseased or inflamed soft tissue in the periodontal pocket to improve clinical
+indices including gingival index, gingival bleeding index, probe depth, attachment loss and
+tooth mobility) .
+Tooth Whitening
+Laser assisted whitening/bleaching of teeth, Light activation for bleaching materials for teeth
+whitening .
+Prescription Use XX AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE OF NEEDED)
+Concurrence of CDRH, Offich}of Device Evaiuation (ODE)
+
+‘ Page 1 of 1
+
+(Posted November 13, 2003) )
+(Division Sig +-Off)
+Divisian of General, Restorative,
+and Neurological Devices
+s10(k) Number oC3/S 7
+U- >?
+

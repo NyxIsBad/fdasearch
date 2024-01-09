@@ -1,0 +1,178 @@
+Oct 29 2003 KO22599 7 of Z
+Attachment I
+510(K) Summary
+Medical Laser Technologies, LLC MLT Erbium: YAG Laser System
+
+This 510(K) Summary of safety and effectiveness for the MLT Erbium: YAG Laser System is
+
+submitted in accordance with the requirements of SMDA 1990 and following guidance concerning
+
+the organization and content of a 510(K) summary. :
+
+Applicant: Medical Laser Technologies, LLC
+
+Address: 516 Scott Street
+Homewood, AL 35209
+
+Contact Person: Mark Rohrer, Managing Member
+
+Telephone: 205-290-8251
+
+Telefax: 205-290-4269
+
+Preparation Date: July 1, 2003
+
+Device Trade Name: Medical Laser Technologies, LLC, MLT Erbium: YAG Laser
+
+System
+
+Common Name: Erbium:Y AG laser devise
+
+Classification Name: Instrument, Powered, Laser
+79-GEX
+21 CFR 878-48
+
+Legally Marketed Predicate Schwartz Electro-Optics TriLase 2940, K#954013
+
+Device . Cell Robotics Er: Y AG Laser System, K#970461
+
+: Asceplion-Meditec Dermastar Er: YAG Laser System, K#014057
+
+Description of the Device The Medical Laser Technologies, LLC MLT Erbium: YAG Laser
+
+System is an Er:YAG laser producing emission at a
+wavelength of 2940 nm. The laser consist of two
+interconnected sections: The cabinet which houses the
+power supply, the cooling system and the electronics, and;
+the umbilical cables and the hand piece, which houses the
+laser.
+
+Intended Use of the Device: The MLT Erbium: YAG Laser System device is designed
+specifically for superficial skin ablation resulting in skin
+dermabrasion, and the treatment of wrinkles. In addition this
+system is intended for coagulation, vaporization, ablation, or
+cutting of soft tissue (skin) in dermatology, plastic surgery
+(including aesthetic surgery), oral surgery, and ophthaimology.
+
+KO 32599 Qf
+Zor Z
+INTRODUCTION .
+The Medical Laser Technologies, LLC MLT Erbium: YAG Laser System is intended
+for superficial skin ablation resulting in skin dermabrasion and the treatment of
+wrinkles. In addition, the system is intended for coagulation, vaporization, ablation, or
+cutting of soft tissue (skin) in dermatology, plastic surgery, (including aesthetic
+surgery), ora) surgery and opthalmology. The laser system is designed for reliability,
+for long life, and ease of use. As a result, no maintenance should be required other than
+cleaning the instrument and an annual calibration check.
+As with any laser system, appropriate care must be taken to ensure proper and safe use.
+This entire manual should be thoroughly reviewed before operating the
+instrument. Further, the physician should attend a certified laser-training course
+before using the Medical Laser Technologies, LLC MLT Erbium: YAG Laser
+System for medical treatment.
+All users should become familiar with the requirements for safe use of medical
+laser systems as described in the American National Standards Institute (ANSI)
+publications, American National Standard for the Safe Use of Lasers in Health
+Care Facilities (ANSI Z126.3-1983), AND, American National Standard for the
+Safe Use of lasers (ANSI Z2136.1-1986). The information in this manual is provided
+in accordance with these Standards.
+Chapter 2 version 1.0 2
+et
+f DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Ce
+"nen Food and Drug Administration
+ocT 2 9 200 reas
+
+Mr. Mark Rohrer
+Managing Member
+Medica! Laser Technologies, LLC .
+516 Scott Street ,
+Homewood, Alabama 35209
+Re: K032599
+
+Trade/Device Name: Medical Laser Technologies, LLC MLT Erbium: YAG Laser System
+
+Regulation Number: 21 CFR 878.4810
+
+Regulation Name: Laser surgical instrument for use in general and
+
+plastic surgery and in dermatology :
+
+Regulatory Class: II
+
+Product Code: GEX
+
+Dated: July 7, 2003
+
+Received: August 27, 2003
+Dear Mr. Rohrer:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments. or to
+devices that have been reclassified in accordance with the provisions of the Federal Food. Drug.
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration. listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class I] (Special Controls) or class HI (PMA). it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21. Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination dogs not mean
+that FDA has made a determination that your device complies with other requirements of the \ct
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Mr. Mark Rohrer
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801). please ‘
+contact the Office of Compliance at (301) 594-4659. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www.fda.gov/cdrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+, Petia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+
+Office of Device Evaluation
+
+Center for Devices and Radiological Health
+Enclosure : .
+
+INDICATION FOR USE STATEMENT
+510(K) Number: KO2 AD
+Device Name: ‘ical Laser Technologies, LLC MLT Erbium: Y. Laser System
+Indications for Use:
+
+The MLT Erbium: YAG Laser System device is designed specifically for superficial skin
+ablation resulting in skin dermabrasion, and the treatment of wrinkles. In addition this system
+is intended for coagulation, vaporization, ablation, or cutting of soft tissue (skin) in
+dermatology, plastic surgery (including aesthetic surgery), oral surgery, and ophthalmology.
+
+(Please do not write below this line — continue on another page if needed)
+
+(Division Sign-Off) .
+
+Division of General, Restorative
+
+and Neurological Devices
+
+S
+510(k) Number KO3aS4
+Concurrence of CDRH, Office of Device Evaluation (OD
+
+Prescription Use Y OR Over-the-Counter Use.
+(per 21 CFR 801.109)
+

@@ -1,0 +1,950 @@
+Premarket Notification, 510(k) for the Modified VersaPulse® PowerSuite” Surgical Lasers
+AUG 2 9 2001 2
+Attachment 11 K O70
+510(k} Summary Statement for the Modified Lumenis VersaPulse PowerSuite
+Holmium (Ho:YAG) and Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers and
+Delivery Devices with Accessories
+I. General Information
+Submitter: Lumenis
+2400 Condensa Street
+Santa Clara, California, U.S. A.
+95051-0901
+Contact Person: Lisa G. McGrath
+Summary Preparation Date: May 30, 2001
+II. Names
+Device Names: Modified Lumenis VersaPulse PowerSuite
+Holmium (Ho:YAG) and Dual Wavelength
+(Ho:YAG/Nd:YAG) Surgical Lasers and Delivery
+Devices with Accessories
+Primary Classification Name: Laser Powered Surgical Instrument (and
+Accessories)
+: III. Predicate Devices
++ VersaPulse PowerSuite Holmium (Ho:YAG) and Dual Wavelength
+(Ho:YAG/Nd:YAG) Surgical Lasers (K990947);
++ Trimedyne Holmium Laser Systems (model 1210, model 1010-VHP, and model
+1500-A) (K002308)
+¢ Dornier Medilas H/2 Laser System (K984591)
++ Convergent Odyssey 30 Laser System (K951910).
+IV. Product Description
+The Modified Lumenis VersaPulse PowerSuite Holmium (Ho:YAG) and Dual
+Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers that are the subject of this
+Premarket Notification 510(k) submission are comprised of the following functional
+components:
+- a laser console;
+- control and display panel;
+Attachment 11, Page 1
+
+Premarket Notification, 510(k) for the Modified VersaPulse” PowerSuite” Surgical Lasers
+Summary of Safety and Effectiveness,
+Page 2
+- a fiber port for delivery systems;
+- system microprocessor control electronics;
+- acovered footswitch or handswitch;
+- operating software; :
+- an optional remote control unit;
+- avariety of fiber optic delivery devices with accessories.
+The Lumenis delivery devices that are the subject of this Premarket Notification
+510(k) submission are comprised of all or some (depending on the product
+configuration) of the following functional components:
+: laser connector;
+: handpiece;
+: probe tube;
+. probe tip;
+: fiber optic cable.
+V. Indications for Use
+The modified and the currently marketed VersaPulse PowerSuite Holmium
+(Ho:YAG) and Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers are intended
+for use in surgical procedures involving open, laparoscopic and endoscopic ablation,
+vaporization, excision, incision, and coagulation of soft tissue in medical specialties
+including:
+
+o Ho:YAG- urology; urinary lithotripsy; arthroscopy; discectomy;
+E.N.T. surgery; gynecological surgery; pulmonary surgery ;
+gastroenterology surgery; dermatology and plastic surgery and general
+surgery.
+
+o Nd:YAG- — urology; general surgery; gastroenterology; thoracic &
+pulmonary surgery; E.N.T. surgery; podiatry; orthopaedics; dermatology
+and plastic surgery and with limited indications in gynecology;
+neurosurgery; ophthalmology; and lumbar discectomy.
+
+The modified and the currently marketed VersaPulse PowerSuite Holmium
+(Ho:YAG) and Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers are indicated
+for use in the performance of specific surgical applications in urology, urinary
+lithotripsy, arthroscopy/orthopaedics, discectomy, E.N.T. surgery, gynecological
+surgery/gynecology, general surgery, gastroenterology, thoracic and pulmonary
+surgery, dermatology and plastic surgery, podiatry, and limited indications in
+neurosurgery, ophthalmology, and lumbar discectomy as follows:
+Attachment I1, Page 2
+
+Premarket Notification, 510(k) for the Modified VersaPulse® PowerSuite” Surgical Lasers
+Summary of Safety and Effectiveness,
+Page 3
+Ho:YAG ~ Urology
+* endoscopic transurethral incision of the prostate (TUIP), bladder neck
+incision of the prostate (BNI), holmium laser ablation of the prostate
+(HoLAP), holmium laser enucleation of the prostate (HoLEP),holmium
+laser resection of the prostate (HoLRP), hemostasis, vaporization and
+excision for treatment of benign prostatic hypertrophy (BPH);
+* open and endoscopic urological surgery (ablation, vaporization, incision,
+excision and coagulation of soft tissue) including treatment of: :
+o bladder;
+© superficial and invasive bladder, urethral and ureteral tumors;
+o condylomas;
+o lesions of external genitalia;
+o ureteral and penile hemangioma;
+o ureteral strictures;
+o bladder neck obstructions.
+° Urinary Lithotripsy including:
+© endoscopic fragmentation of urinary (urethral, ureteral, bladder and
+renal) calculi, including cystine, calcium oxalate, monohydrate and
+calcium oxalate dihydrate stones;
+© treatment of distal impacted fragments of steinstrasse when guide wires
+cannot be passed.
+Nd:YAG - Urology
+¢ Urological surgery (ablation, vaporization, incision, excision and coagulation
+of soft tissue) including:
+o removal of superficial bladder tumors;
+: o removal of invasive bladder carcinoma;
+o removal of benign or malignant lesions of the external genitalia, including
+condylomas;
+o treatment of urethral strictures;
+o treatment of vascularities of the bladder wall;
+: o prostatectomy.
+Ho:YAG ~ Arthroscopy ,
+¢ Arthroscopy /orthopaedic surgery (ablation, excision and coagulation of soft
+and cartilaginous tissue) in various small and large joints of the body,
+excluding the spine, including:
+o meniscectomy;
+0 plica removal;
+Attachment 11, Page 3
+
+Premarket Notification, 510(k) for the Modified VersaPulse® PowerSuite” Surgical Lasers
+Summary of Safety and Effectiveness,
+Page 4
+o ligament and tendon release;
+© contouring and sculpting of articular surfaces;
+o debridement of inflamed synovial tissue (synovectomy);
+o loose body debridement;
+o chondromalacia and tears;
+o lateral retinecular release;
+o capsulectomy in the knee
+o chondroplasty in the knee;
+o chondromalacia ablation.
+¢ Discectomy including:
+© percutaneous vaporization of the L4-5 and L5-S1 lumbar discs of the
+vertebral spine; open and arthroscopic spine procedures; foraminotomy.
+Nd:YAG - Orthopaedic Surgery
+e Arthroscopy (ablation, vaporization, incision, excision, and coagulation of
+soft tissue) including:
+Knee
+° capsulectomy in the knee;
+° chondroplasty in the knee;
+° plica removal in the knee;
+° lateral ligament release in the knee;
+° meniscectomy in the knee;
+° synovectomy in the knee;
+° osteoarthritic lesion removal in the knee;
+Shoulder
+° coracoacromial release in the shoulder;
+° debridement of scar tissue in the shoulder; /
+° adhesive capsule release in the shoulder;
+° labral tear repair in the shoulder;
+° synovectomy in the shoulder.
+e Discectomy:
+limited to open, percutaneous and arthroscopic vaporization of the L4-5 and
+L5-S1 lumbar discs of the vertebral spine in patients with:
+o unilateral leg pain greater than back pain;
+0 paresthetic discomfort in a specific dermatomal distribution;
+© positive straight leg raising test and/or positive bowstring sign;
+o possible neurologic finding including wasting, weakness, sensory
+alteration and reflex alteration;
+© noimprovement after at least 6 weeks of conservative therapy;
+Attachment 11, Page 4
+
+Premarket Notification, 510(k) for the Modified VersaPulse® PowerSuite” Surgical Lasers
+Summary of Safety and Effectiveness,
+Page 5
+© positive CT or MRI showing a subligamentous herniation at the location
+consistent with clinical findings.
+Ho:YAG - General Surgery
+* Open, laparoscopic, and endoscopic general surgery (vaporization, ablation,
+incision, and coagulation of soft tissue) including:
+o cholecystectomy;
+o lysis of adhesions;
+o appendectomy;
+© biopsy, pylorostenotomy, and removal of polyps of the sigmoid colon;
+0 skin incision;
+o tissue dissection;
+co excision of external tumors and lesions;
+o complete or partial resection of internal organs, tumors and lesions;
+o mastectomy;
+o hepatectomy;
+o pancreatectomy;
+o splenectomy;
+o thyroidectomy;
+o parathyroidectomy;
+o herniorrhaphy;
+o tonsillectomy;
+o lymphadenectomy;
+o partial nephrectomy;
+o pilonidal cystectomy;
+© resection of lipoma;
+o debridement of decubitus ulcer;
+o hemorrhoids;
+o debridement of statis ulcer;
+o biopsy.
+Nd:YAG - General Surgery
+¢ Open, laparoscopic, and endoscopic general surgery (ablation, vaporization,
+incision, excision, and coagulation of soft tissue) including:
+o cholecystectomy;
+o mastectomy;
+o hepatectomy;
+© pancreatectomy;
+o splenectomy;
+o hemorrhoidectomy;
+Attachment 11, Page 5
+
+Premarket Notification, 510(k) for the Modified VersaPulse® PowerSuite” Surgical Lasers
+: Summary of Safety and Effectiveness,
+Page 6
+o thyroidectomy;
+o parathyroidectomy;
+o herniorrhaphy;
+o tonsillectomy;
+°o appendectomy;
+o lymphadenectomy;
+o partial nephrectomy;
+© pilonidal cystectomy;
+o resection of lipoma;
+o pelvic adhesiolysis;
+o removal of lesions;
+o removal of polyps;
+o removal of tumors;
+o tumor biopsy;
+o debridement of decubitus ulcers.
+Ho:YAG - E.N.T. Surgery
+e Endoscopic endonasal/sinus surgery (ablation, vaporization, incision, and
+coagulation of soft tissue and cartilage) including:
+o partial turbinectomy;
+o ethmoidectomy;
+o polypectomy;
+o maxillary antrostomy;
+o frontal sinusotomy;
+o sphenoidotomy;
+© dacryocystorhinostomy (DCR);
+© functional endoscopic sinus surgery (FESS).
+Nd:YAG ~ E.N.T. Surgery
+¢ Endonasal surgery (ablation, vaporization, incision, excision, and coagulation
+of soft tissue) including:
+o lesions or tumors of the oral, nasal, glossal, pharyngeal
+and laryngeal tissues;
+o tonsillectomy;
+° adenoidectomy.
+Ho:YAG - Gynecological Surgery
+¢ Open and laparoscopic gynecological surgery (ablation, vaporization,
+incision, excision, and coagulation of soft tissue).
+Nd:YAG - Gynecological Surgery
+¢ Gynecological surgery limited to:
+Attachment 11, Page 6
+
+Premarket Notification, 510(k) for the Modified VersaPulse” PowerSuite” Surgical Lasers
+Summary of Safety and Effectiveness,
+Page 7
+
+o treatment of menorrhagia by the photocoagulation, vaporization, or
+ablation, of the endometrial lining of the uterus under direct
+hysteroscopic visualization;
+
+o intra-uterine treatment of submucous fibroids, benign endometrial
+polyps, and uterine septum by incision, excision, ablation, and/or vessel
+coagulation;
+
+o intra-abdominal treatment of endometriosis and/or peritoneal adhesions
+with laser contact tips;
+
+o soft tissue excisional procedures such as excisional conization of the
+cervix.
+
+Ho:YAG -— Gasteroenterology Surgery
+* Open and endoscopic gasteroenterology surgery (ablation, vaporization,
+incision, excision, resection, coagulation and hemostasis, including:
+
+o gall bladder calculi;
+
+0 biliary/bile duct calculi;
+
+o benign and malignant neoplasm;
+
+© polyps;
+
+o colitis;
+
+o ulcers;
+
+o angiodysplasia,
+
+o hemorrhoids;
+oO varices;
+eo esophagitis;
+o esophageal ulcer;
+o Mallory-Weiss tear;
+© gastric ulcer;
+o duodenal ulcer;
+o non-bleeding ulcer; :
+9 gastric erosions;
+© colorectal cancer;
+oo. gastritis;
+o bleeding tumors;
+© pancreatitis;
+o vascular malformations;
+o  telangiectasias;
+o  telangiectasias of the Osler-Weber-Renu disease.
+Nd:YAG - Gastroenterology Surgery
+¢ Gastroenterology surgery (ablation, vaporization, incision, excision, and
+coagulation of soft tissue) including:
+o partial removal of neoplastic tissue in the management of esophageal
+obstruction for symptomatic relief of dysphagia;
+: Attachment 11, Page 7
+
+Premarket Notification, 510(k) for the Modified VersaPulse” PowerSuite” Surgical Lasers
+Summary of Safety and Effectiveness,
+Page 8
+© gastrointestinal hemostasis including, varicies, esophagitis, esophageal
+ulcer, Mallory-Wiess tear, gastric ulcer, angiodysplasia, stomal ulcers,
+non-bleeding ulcers, and gastric erosions;
+© gastrointestinal tissue ablation of benign and malignant neoplasm,
+hemorrhoids and polyps.
+Ho:YAG - Pulmonary Surgery
+* Open and endoscopic pulmonary surgery (cutting, ablation, vaporization,
+incision, excision and coagulation of soft tissue).
+Nd:YAG - Thoracic and Pulmonary Surgery
+¢ Thoracic and pulmonary surgery (ablation, vaporization, incision, excision,
+and coagulation of soft tissue) including treatment of:
+o laryngeal lesions;
+o airway obstructions including carcinoma;
+o polyps and granulomas;
+© palliation of obstructing carcinomas of the tracheobronchial tree.
+Ho:YAG ~ Dermatology and Plastic Surgery
+e Incision, excision, resection, ablation, coagualation, hemostasis and
+vaporization of soft, mucosal, fatty and cartilaginous tissues, in therapeutic
+plastic, dermatologic and aesthetic surgical procedures, including:
+© scars;
+o tattoo removal;
+o vascular lesions;
+© port wine stains;
+o hemangioma;
+o telangiectasia of the face and leg;
+© rosacea;
+© corns;
+o papillomas;
+o basal cell carcinomas;
+o lesions of skin and subcutaneous tissue;
+o plantar warts;
+© periungual and subungual warts;
+o debridement of decubitus ulcer;
+9 skin tag vaporization.
+Nd:YAG - Dermatology and Plastic Surgery
+¢ Dermatology and plastic surgery (ablation, vaporization, incision, excision,
+and coagulation of soft tissue) including:
+o lesions of skin and subcutaneous tissue;
+o telangiectasia;
+° port wine lesions;
+Attachment 11, Page 8
+
+Premarket Notification, 510(k) for the Modified VersaPulse” PowerSuite” Surgical Lasers
+Summary of Safety and Effectiveness,
+. Page 9
+
+o spider veins;
+
+o hemangiomas;
+
+o plantar warts;
+
+© periungual and subungual warts;
+
+o removal of tattoos;
+
+o debridement of decubitus ulcer;
+
+o treatment of keloids.
+
+Nd:YAG - Podia
+¢ Podiatry (ablation, vaporization, incision, excision, and coagulation of soft
+tissue) including:
+
+o matrixectomy;
+
+o plantar warts;
+
+© neuromas;
+
+© periungual and subungual warts;
+
+0 radical nail excision.
+
+Nd:YAG - Neurosurge’
+* Neurosurgery limited to:
+
+o hemostasis in neurosurgery procedures such as excision of brain lesions,
+spinal cord lesions, cranial nerves, peripheral nerves, and pituitary
+glands.
+
+Nd:YAG - Ophthalmology
+¢ Ophthalmology limited to:
+© post-vitrectomy photocoagulation.
+Vv. Rationale for Substantial Equivalence
+The Modified Lumenis VersaPulse PowerSuite Holmium (Ho:YAG) and Dual
+Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers and Delivery Devices with
+Accessories share the same intended use, indications for use, similar design
+features, functional features, and therefore are substantially equivalent to the
+VersaPulse PowerSuite Holmium (Ho:YAG) and Dual Wavelength
+(Ho:YAG/Nd:YAG) Surgical Lasers and Delivery Devices with Accessories.
+In addition, the Modified Lumenis VersaPulse PowerSuite Holmium (Ho:YAG)
+and Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers are substantially
+equivalent in terms of indications for use to the Trimedyne Holmium Laser
+Systems (model 1210, model 1010-VHP, and model 1500-A) (002308), the
+Dornier Medilas H/2 Laser System (K984591) and the Convergent Odyssey 30
+Laser System (K951910).
+Attachment 11, Page 9
+
+Premarket Notification, 510(k) for the Modified VersaPulse” PowerSuite” Surgical Lasers
+
+Summary of Safety and Effectiveness,
+
+Page 10
+The Lumenis delivery devices are substantially equivalent to the previously
+cleared delivery devices in K990947.
+
+VII. Safety and Effectiveness Information
+Safety and effectiveness information was provided to demonstrate that the
+Modified Lumenis VersaPulse PowerSuite Holmium (Ho:YAG) and Dual
+Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers and Delivery Devices with
+Accessories are safe and effective, when indicated for use for general and specific
+applications in the medical specialties of urology; urinary lithotripsy;
+arthroscopy; discectomy; E.N.T. surgery; gynecological surgery; pulmonary :
+surgery, gastroenterology surgery, dermatology and plastic surgery and general
+surgery; for Ho:YAG and urology; general surgery; gastroenterology; thoracic
+and pulmonary surgery; E.N.T. surgery; podiatry; orthopaedics; and with limited
+indications in gynecology; neurosurgery; ophthalmology; and lumbar :
+discectomy for Nd:YAG.
+
+VII. Conclusion
+The Modified Lumenis VersaPulse PowerSuite Holmium (Ho:YAG) and Dual
+Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers and Delivery Devices with
+Accessories were found to be substantially equivalent to similar currently
+marketed and predicate surgical lasers, delivery devices and accessories.
+The Modified Lumenis VersaPulse PowerSuite Holmium (Ho:YAG) and Dual
+Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers and Delivery Devices with
+Accessories share the same intended use, indications for use, similar design
+features, and similar functional features as the currently marketed VersaPulse
+PowerSuite Holmium (Ho:YAG) and Dual Wavelength (Ho:YAG/Nd:YAG)
+Surgical Lasers and Delivery Devices with Accessories. The Modified Lumenis
+VersaPulse PowerSuite Holmium (Ho:YAG) and Dual Wavelength
+(Ho:YAG/Nd:YAG) Surgical Lasers and Delivery Devices with Accessories is
+also substantially equivalent in terms of indications for use to the Trimedyne
+Holmium Laser Systems (model 1210, model 1010-VHP, and model 1500-A)
+(K002308), the Dornier Medilas H/2 Laser System (K984591) and the Convergent
+Odyssey 30 Laser System (K951910).
+
+. Attachment 11, Page 10
+
+s18¥Icep,
+_
+f ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+& Panne
+* Food ane Drug Administration
+200 Corpor:
+AUG 2 9 2001 Rookvile MD 20850
+Ms. Lisa G. McGrath
+Senior Regulatory Affairs Associate
+Lumenis
+2400 Condensa Street
+Santa Clara, California 95051
+Re: K011703
+Trade/Device Name: Modified Lumenis VersaPulse® PowerSuite®™ Holmium (Ho:YAG)
+and Dual Wavelength (Ho: YAG/Nd:YAG) Surgical Lasers & Delivery
+Devices with Accessories
+Regulation Number: 878.4810
+Regulatory Class: II
+Product Code: GEX
+Dated: May 30, 2001 :
+Received: June 1, 2001
+Dear Ms. McGrath:
+We have reviewed your Section 510(k) notification of intent to market the device referenced
+above and we have determined the device is substantially equivalent (for the indications for use
+stated in the enclosure) to legally marketed predicate devices marketed in interstate commerce
+prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that
+have been reclassified in accordance with the provisions of the Federal Food, Drug, and
+Cosmetic Act (Act). You may, therefore, market the device, subject to the general controls
+provisions of the Act. The general controls provisions of the Act include requirements for annual
+registration, listing of devices, good manufacturing practice, labeling, and prohibitions against
+misbranding and adulteration.
+If your device is classified (see above) into either class I] (Special Controls) or class III
+(Premarket Approval), it may be subject to such additional controls. Existing major regulations
+_ affecting your device can be found in the Code of Federal Regulations, Title 21, Parts 800 to 895.
+A substantially equivalent determination assumes compliance with the Current Good
+Manufacturing Practice requirements, as set forth in the Quality System Regulation (QS) for
+Medical Devices: General regulation (21 CFR Part 820) and that, through periodic QS
+inspections, the Food and Drug Administration (FDA) will verify such assumptions. Failure to
+comply with the GMP regulation may result in regulatory action. In addition, FDA may publish
+further announcements concerning your device in the Federal Register. Please note: this
+response to your premarket notification submission does not affect any obligation you might
+have under sections 531 through 542 of the Act for devices under the Electronic Product
+Radiation Control provisions, or other Federal laws or regulations.
+
+Page 2 - Ms. Lisa G. McGrath /
+This letter will allow you to begin marketing your device as described in your 510(k) premarket
+notification. The FDA finding of substantial equivalence of your device to a legally marketed
+predicate device results in a classification for your device and thus, permits your device to
+proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CER Part 801 and
+additionally 809.10 for in vitro diagnostic devices), please contact the Office of Compliance at
+(301) 594-4659. Additionally, for questions on the promotion and advertising of your device,
+please contact the Office of Compliance at (301) 594-4639. Also, please note the regulation
+entitled, "Misbranding by reference to premarket notification” (21CFR 807.97). Other general
+information on your responsibilities under the Act may be obtained from the Division of Small
+Manufacturers International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its internet address “http://www.fda. gov/cdrh/dsma/dsmamain.html".
+Sincerely yours,
+Ah NAM a
+Celia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+Premarket Notification, 510(k) for the Modified VersaPulse® PowerSuite™ Surgical Lasers
+Attachment 3
+Indications For Use Statement
+
+510(k) Number (if Known): K L10
+Device Name: Modified Lumenis VersaPulse” PowerSuite” Holmium (Ho:YAG) and
+
+Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers & Delive
+
+Devices with Accessories _ /
+Indications For Use:
+The modified and the currently marketed VersaPulse PowerSuite Holmium (Ho:YAG)
+and Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers and Delivery Devices with
+accessories are intended for use in surgical procedures involving open, laparoscopic and
+endoscopic ablation, vaporization, excision, incision, and coagulation of soft tissue in
+medical specialties including: :
+
+« Ho:YAG - urology; urinary lithotripsy; arthroscopy; discectomy; E.N.T.
+surgery; gynecological surgery; pulmonary surgery; gastroenterology surgery;
+dermatology and plastic surgery and general surgery.
+
+* Nd:YAG- urology; general surgery; gastroenterology; thoracic & pulmonary
+surgery; E.N.T. surgery; podiatry; orthopaedics; dermatology and plastic surgery
+and with limited indications in gynecology; neurosurgery; ophthalmology; and
+lumbar discectomy.
+
+The modified and the currently marketed VersaPulse PowerSuite Holmium (Ho:YAG)
+and Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers and Delivery Devices with
+accessories are indicated for use in the performance of specific surgical applications in
+urology, urinary lithotripsy, arthroscopy /orthopaedics, discectomy, E.N.T. surgery,
+gynecological surgery/gynecology, general surgery, gastroenterology, thoracic and
+, pulmonary surgery, dermatology and plastic surgery, podiatry, and limited indications
+in neurosurgery and ophthalmology as follows:
+. *** Indications For Use Continued on Next Page (9 pages total) ***
+, (PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF
+: NEEDED) 5
+f (Division Sign-Off) ; : /
+Division of General, Restorative
+and Neurological Devices i
+Ol, Fos ,
+- 54 00K) Number}
+rescription Use Or Over-The-Counter Use.
+(Per 21 CFR 801.109) (Optional Format 1-2-96)
+Attachment 3, Page 1
+
+Premarket Notification, 510(k) for the Modified VersaPulse” PowerSuite” Surgical Lasers
+Attachment 3 — Continued (page 2 of 9)
+Indications For Use Statement
+510(k) Number (if Known):___
+Device Name: Modified _Lumenis VersaPulse PowerSuite Holmium (Ho:YAG) and
+Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers_and Delivery
+Devices with Accessories
+Indications For Use: —
+Ho:YAG - Urology
+* Endoscopic transurethral incision of the prostate (TUIP), bladder neck incision of
+the prostate (BNI), holmium laser ablation of the prostate (HoLAP), holmium
+laser enucleation of the prostate (HoLEP), holmium laser resection of the prostate
+, (HoLRP), hemostasis, vaporization and excision for treatment of benign prostatic :
+hypertrophy (BPH);
+* Open and endoscopic urological surgery (ablation, vaporization, incision,
+excision and coagulation of soft tissue) including treatment of:
+
+o bladder;
+
+o superficial and invasive bladder, urethral and ureteral tumors;
+
+o condylomas; :
+
+o lesions of external genitalia;
+
+o ureteral and penile hemangioma;
+
+/ o ureteral strictures;
+o bladder neck obstructions.
+° Urinary Lithotripsy including:
+
+o endoscopic fragmentation of urinary (urethral, ureteral, bladder and
+renal) calculi, including cystine, calcium oxalate, monohydrate and
+calcium oxalate dihydrate stones;
+
+o treatment of distal impacted fragments of steinstrasse when guide wires
+
+: cannot be passed.
+Nd:YAG - Urology :
+* Urological surgery (ablation, vaporization, incision, excision and coagulation of
+soft tissue) including:
+
+9 removal of superficial bladder tumors;
+
+o removal of invasive bladder carcinoma;
+
+© removal of benign or malignant lesions of the external genitalia, including
+condylomas;
+
+o treatment of urethral strictures;
+
+o treatment of vascularities of the bladder wall;
+
+o prostatectomy.
+
+f (ivision Sign-Off)
+Division of General, Restorative
+and Neurological Devices Attachment 3
+ttachment 3, Page 2
+510(k) Number__K 0! 70 3_
+
+Premarket Notification, 510k) for the Modified VersaPulse" PowerSuite” Surgical Lasers
+Attachment 3— Continued (page 3 of 9)
+Indications For Use Statement
+510(k) Number (if Known): _—_—
+Device Name: Modified Lumenis VersaPulse PowerSuite Holmium (Ho:YAG) and
+, Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers_and Delivery
+Devices with Accessories
+Indications for Use:
+Ho:YAG — Arthroscopy
+¢ Arthroscopy (ablation, excision and coagulation of soft and cartilaginous tissue)
+in various small and large joints of the body, excluding the spine, including: :
+o meniscectomy; :
+o plica removal;
+o ligament and tendon release;
+© contouring and sculpting of articular surfaces;
+o debridement of inflamed synovial tissue (synovectomy);
+o loose body debridement;
+o chondromalacia and tears;
+o lateral retinecular release;
+© capsulectomy in the knee
+o chondroplasty in the knee;
+o chondromalacia ablation.
+¢ Discectomy including:
+© percutaneous vaporization of the L4-5 and L5-S1 lumbar discs of the
+vertebral spine; open and arthroscopic spine procedures; foraminotomy.
+Nd:YAG - Orthopaedic Surgery
+« Arthroscopy (ablation, vaporization, incision, excision, and coagulation of soft
+tissue) including:
+Knee :
+o capsulectomy in the knee; :
+o chondroplasty in the knee;
+o plica removal in the knee;
+o lateral ligament release in the knee;
+o meniscectomy in the knee;
+© synovectomy in the knee;
+o osteoarthritic lesion removal in the knee; ~
+Shoulder
+oO coracoacromial release in the shoulder;
+o debridement of scar tissue in the shoulder;
+faTlheh A Hhifpse—
+(Division Sign-Off)
+Division of General, Restorative
+- and N i i
+eurological oe an Attachment 3, Page’
+510k) Number__K Ol F038 _
+
+Premarket Notification, 510(k) for the Modified VersaPulse® PowerSuite” Surgical Lasers
+Attachment 3 — Continued (page 4 of 9)
+Indications For Use Statement
+510(k) Number (if Known),
+Device Name: Modified Lumenis VersaPulse PowerSuite Holmium (Ho:YAG) and
+Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers_and_ Delivery
+Devices with Accessories
+Indications For Use: /
+Nd:YAG - Orthopaedic Surgery - Continued :
+o adhesive capsule release in the shoulder;
+© labral tear repair in the shoulder;
+© synovectomy in the shoulder. .
+e Discectomy:
+limited to open, percutaneous and arthroscopic vaporization of the L4-5 and L5—
+S1 lumbar discs of the vertebral spine in patients with:
+o unilateral leg pain greater than back pain;
+: © paresthetic discomfort in a specific dermatomal distribution;
+© positive straight leg raising test and/or positive bowstring sign;
+o possible neurologic finding including wasting, weakness, sensory
+alteration and reflex alteration;
+© noimprovement after at least 6 weeks of conservative therapy;
+o positive CT or MRI showing a subligamentous herniation at the
+location consistent with clinical findings.
+Ho:YAG - General Surgery
+* Open, laparoscopic, and endoscopic general surgery (vaporization, ablation,
+incision, and coagulation of soft tissue) including:
+o cholecystectomy;
+o lysis of adhesions;
+© appendectomy;
+o biopsy, pylorostenotomy, and removal of polyps of the sigmoid colon;
+o skin incision;
+o tissue dissection;
+o excision of external tumors and lesions;
+© complete or partial resection of internal organs, tumors and lesions;
+o mastectomy; .
+. o hepatectomy; ) / ff
+o pancreatectomy; Mh |
+o splenectomy; OO
+o thyroidectomy; Division Sign-Off) ;
+© parathyroidectomy; Division of General, Restorative
+and Neurological Devices Ke FOR
+510(k) Number —_—_—-_——
+Attachment 3, Page 4
+
+Premarket Notification, 510(k) for the Modified VersaPulse” PowerSuite” Surgical Lasers
+Attachment 3 — Continued (page 5 of 9)
+Indications For Use Statement
+510(k) Number (if Known): .
+Device Name: Modified Lumenis VersaPulse PowerSuite Holmium (Ho:YAG) and
+Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers and Delivery
+Devices with Accessories
+Indications For Use:
+Ho:YAG - General Surgery - Continued
+, o herniorrhaphy;
+o tonsillectomy;
+o lymphadenectomy; .
+o partial nephrectomy;
+o pilonidal cystectomy; .
+, . o resection of lipoma;
+o debridement of decubitus ulcer;
+o hemorrhoids;
+o debridement of statis ulcer;
+o biopsy.
+Nd:YAG - General Surgery
+* Open, laparoscopic, and endoscopic general surgery (ablation, vaporization,
+incision, excision, and coagulation of soft tissue) including:
+o cholecystectomy;
+o mastectomy; .
+o hepatectomy;
+© pancreatectomy;
+o splenectomy;
+/ o hemorrhoidectomy;
+o thyroidectomy;
+o parathyroidectomy;
+o herniorrhaphy;
+© tonsillectomy; :
+© appendectomy;
+o lymphadenectomy;
+© partial nephrectomy; aN Ab Ye
+o pilonidal cystectomy; fr ——_—__—— ,
+© resection of lipoma; (Division Sign-Off)
+o pelvic adhesiolysis; Division of General, Restorative
+o removal of lesions; and Neurological Devices
+o removal of polyps;
+o removal of tumors; 510(k) Number K 0 {/ TOS
+o tumor biopsy;
+o debridement of decubitus ulcers.
+Attachment 3, Page 5
+
+Premarket Notification, 510(k) for the Modified VersaPulse® PowerSuite” Surgical Lasers
+Attachment 3 - Continued (page 6 of 9)
+Indications For Use Statement
+510(k) Number (if Known):
+Device Name: Modified Lumenis VersaPulse PowerSuite Holmium (Ho:YAG) and
+Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers_and_ Delivery
+Devices with Accessories
+Indications For Use:
+Ho:YAG — E.N.T. Surge
+* Endoscopic endonasal/sinus surgery (ablation, vaporization, incision, and
+coagulation of soft tissue and cartilage) including:
+
+o partial turbinectomy; ‘ y|
+
+o ethmoidectomy; ¥ OTE TL ,
+
+o polypectomy; TT jen-O
+
+o maxillary antrostomy; One ° ae Restorative
+
+o frontal sinusotomy; Divisi logical Devices
+
+o sphenoidotomy; and Neurolog K Ol / Fos
+
+o dacryocystorhinostomy (DCR);
+
+. : : re
+
+o functional endoscopic sinus surgery (FESS)L0(k) Number
+
+Nd:YAG ~E.N.T. Surgery
+¢ Endonasal surgery (ablation, vaporization, incision, excision, and coagulation of
+soft tissue) including:
+
+o lesions or tumors of the oral, nasal, glossal, pharyngeal and laryngeal
+tissues;
+
+© tonsillectomy;
+
+o adenoidectomy.
+
+Ho:YAG - Gynecological Surgery
+¢ Open and laparoscopic gynecological surgery (ablation, vaporization, incision,
+excision, and coagulation of soft tissue).
+Nd:YAG - Gynecological Surgery :
+¢ Gynecological surgery limited to:
+
+o treatment of menorrhagia by the photocoagulation, vaporization, or
+ablation, of the endometrial lining of the uterus under direct
+hysteroscopic visualization;
+
+o intra-uterine treatment of submucous fibroids, benign endometrial
+polyps, and uterine septum by incision, excision, ablation, and/or vessel
+coagulation; /
+
+o intra-abdominal treatment of endometriosis and/or peritoneal adhesions
+with laser contact tips;
+
+o soft tissue excisional procedures such as excisional conization of the
+cervix. /
+
+Attachment 3, Page 6
+
+Premarket Notification, 510(k) for the Modified VersaPulse® PowerSuite” Surgical Lasers
+Attachment 3 — Continued (page 7 of 9)
+Indications For Use Statement
+510(k) Number (if Known):
+Device Name: Modified Lumenis VersaPulse PowerSuite Holmium (Ho:YAG) and
+Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers_and Delivery
+Devices with Accessories
+Indications For Use:
+_ Ho:YAG - Gasteroenterology Surgery
+¢ Open and endoscopic gasteroenterology surgery (ablation, vaporization,
+incision, excision, resection, coagulation and hemostasis, including:
+o gall bladder calculi;
+: 0 biliary/bile duct calculi;
+o »-benign and malignant neoplasm;
+o polyps;
+o colitis; .
+o ulcers;
+© angiodysplasia;
+o hemorrhoids;
+©. varices;
+o esophagitis; .
+o esophageal ulcer; ah Y
+o Mallory-Weiss tear;
+o gastric ulcer; ——er——r—'-.0—
+o duodenal ulcer; (Division Sign-Off) .
+© nor-bleeding ulcer; Division of General, Restorative
+© gastric erosions; and Neurological Devices
+o colorectal cancer; K olf Fos
+© gastritis; 510(k) Number __________——
+o bleeding tumors;
+© pancreatitis;
+o vascular malformations;
+o telangiectasias;
+o telangiectasias of the Osler-Weber-Renu disease.
+Nd:YAG - Gastroenterology Surgery
+* Gastroenterology surgery (ablation, vaporization, incision, excision, and
+coagulation of soft tissue) including: :
+© partial removal of neoplastic tissue in the management of esophageal
+obstruction for symptomatic relief of dysphagia;
+© gastrointestinal hemostasis including, varicies, esophagitis, esophageal
+ulcer, Mallory-Wiess tear, gastric ulcer, angiodysplasia, stomal ulcers,
+non-bleeding ulcers, and gastric erosions;
+© gastrointestinal tissue ablation of benign and malignant neoplasm,
+hemorrhoids and polyps.
+Attachment 3, Page 7
+
+: Premarket Notification, 510(k) for the Modified VersaPulse® PowerSuite” Surgical Lasers
+Attachment 3 ~ Continued (page 8 of 9)
+Indications For Use Statement
+510(k) Number (if Known):__
+Device Name: Modified Lumenis VersaPulse PowerSuite Holmium (Ho:YAG) and
+Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers _and Delivery
+Devices with Accessories
+Indications For Use:
+Ho:YAG - Pulmonary Sur:
+« Open and endoscopic pulmonary surgery (cutting, ablation, vaporization,
+incision, excision and coagulation of soft tissue).
+Nd:YAG - Thoracic and-Pulmonary Surgery
+e Thoracic and pulmonary surgery (ablation, vaporization, incision, excision, and
+coagulation of soft tissue) including treatment of:
+o laryngeal lesions;
+. 0 airway obstructions including carcinoma;
+o polyps and granulomas;
+o palliation of obstructing carcinomas of the tracheobronchial tree.
+Ho:YAG ~ Dermatology and Plastic Surgery
+¢ Incision, excision, resection, ablation, coagualation, hemostasis and vaporization
+: of soft, mucosal, fatty and cartilaginous tissues, in therapeutic plastic,
+dermatologic and aesthetic surgical procedures, including:
+© scars;
+o. tattoo removal;
+o vascular lesions;
+© port wine stains;
+o hemangioma;
+/ o telangiectasia of the face and leg;
+© rosacea;
+© corns; :
+° papillomas;
+o basal cell carcinomas; J] MUL...
+o lesions of skin and subcutaneous tissue; a
+o plantar warts; (Division Sign-Off)
+© periungual and subungual warts; Division of General, Restorative
+o debridement of decubitus ulcer; and Neurological Devices
+o skin tag vaporization.
+510(k) Number_K O// 703
+Attachment 3, Page 8
+
+Premarket Notification, 510(k) for the Modified VersaPulse’ PowerSuite” Surgical Lasers
+Attachment 3 - Continued (page 9 of 9)
+Indications For Use Statement
+510(k) Number (if Known):
+Device Name: Modified Lumenis VersaPulse PowerSuite Holmium (Ho:YAG) and
+Dual Wavelength (Ho:YAG/Nd:YAG) Surgi cal Lasers and Delivery
+Devices with Accessories
+Indications For Use:
+Nd:YAG - Dermatology and Plastic Surgery
+* Dermatology and plastic surgery (ablation, vaporization, incision, excision, and
+coagulation of soft tissue) including:
+co lesions of skin and subcutaneous tissue; : .
+o telangiectasia; : .
+© port wine lesions; Mh
+' spider veins; m
+o hemangiomas; (Division Sign-Off) ;
+o plantar warts; Division of General, Restorative
+© periungual and subungual warts; and Neurological Devices
+o removal of tattoos; FO
+o debridement of decubitus ulcer; 510(k) Number K O / ( S
+o treatment of keloids.
+Nd:YAG - Podiatry
+* Podiatry (ablation, vaporization, incision, excision, and coagulation of soft tissue)
+including:
+o matrixectomy;
+o plantar warts;
+© neuromas;
+© periungual and subungual warts;
+6 radical nail excision.
+Nd:YAG - Neurosurgery
+¢ Neurosurgery limited to:
+o hemostasis in neurosurgery procedures such as excision of brain lesions,
+spinal cord lesions, cranial nerves, peripheral nerves, and pituitary
+: glands. :
+Nd:YAG - Ophthalmology
+¢ Ophthalmology limited to:
+© post-vitrectomy photocoagulation.
+***(page 9 of 9) ***
+Attachment 3, Page 9
+

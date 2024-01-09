@@ -1,0 +1,148 @@
+7 So Kos 6 89
+Endoscopy 978 749 1000 MAY 2 5 2005 he We are smith&nephew
+Smith & Nephew, inc 978 749 1599 Fax
+ib Minuieman Road www.smith-nephew.com
+Andover, MA 01810
+
+SECTION IV
+510(k) SUMMARY OF SAFETY AND EFFECTIVENESS INFORMATION
+as required by the Safe Medical Devices Act of 1990 and codified in 21 CFR 807.92 upon
+which the substantial equivalence is based.
+Smith & Nephew Vulcan Articular Cartilage Probe
+Date Prepared: December 13, 2004
+A. Submitter’s Name:
+Smith & Nephew, Inc., Endoscopy Division
+150 Minuteman Road
+Andover, MA 01810
+B. Company Contact
+Karen Provencher
+Regulatory Affairs Specialist
+P: 978-749-1365; F: 978-749-1443
+C. Device Name
+Trade Name: Smith & Nephew Vulcan Articular Cartilage Probe
+Common Name: Monopolar Electrosurgical Probe
+Classification Name: Device, Electrosurgical Cutting and Coagulation and
+accessories (per 21 CFR § 878.4400)
+D. Predicate Devices
+The Smith & Nephew Smith & Nephew Vulcan Articular Cartilage Probe is
+substantially equivalent in intended use and fundamental scientific technology to the
+following legally marketed device in commercial distribution: Smith & Nephew
+Vulcan TAC C II Probe (K003198 formerly owned by Oratec Interventions, Inc.}.
+S&N Vulcan ACP
+Page 23 of 133
+
+2X We are smith&nephew
+E. Description of Device
+The Smith & Nephew Vulcan Articular Cartilage Probe is a single-use, monopolar
+radiofrequency probe which incorporates a pivoting ceramic head with an
+embedded RF electrode; protective sheath: and integrated cable. It requires a split
+ground pad and it is designed for use only with the Smith & Nephew Vulcan
+Generator.
+F. Intended Use
+The Smith & Nephew Vulcan Articular Cartilage Probe is indicated for arthroscopic
+chondroplasty procedures in the knee, shoulder, wrist, hip, etc.
+G. Comparison of Technological Characteristics
+The Smith & Nephew Vulcan Articular Cartilage Probe is similar to the Smith &
+Nephew Vulcan TAC C Il Probe in that both devices are monopolar, single use
+devices. Both probes require a split grounding pad and are designed for use only
+with the Smith & Nephew Vulcan Generator. The Smith & Nephew Vulcan Articular
+Cartilage Probe represents a specific indication for use within the scope of the
+cleared indications for the Smith & Nephew TAC C Il Probe. A major technological
+difference between the two probes is that the Smith & Nephew Vulcan TAC C II
+Probe is temperature controlled and the Smith & Nephew Vulcan Articutar Cartilage
+Probe is power controlled. Bench testing confirms substantial equivalence in
+performance characteristics.
+H. Summary Performance Data
+There are no known performance standards or special controls promulgated under
+section 415 of the Act for this device. The device was tested and found to be in
+compliance with ISO 10993-1, ANSI/AAMI HF-18 and IEC 60601-2-2. At the time of
+commercialization, the device will be incompliance with applicable sterilization
+standards.
+S&N Vulcan ACP
+Page 24 of 133
+
+é 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+wok Food and Drug Administration
+way 26 2005 Rodhile MD 20850
+Smith and Nephew Incorporated
+C/o Mr. J.A. Van Vugt
+Kema Quality B.V.
+4377 County Line Road
+Chalfont, Pennsylvania 18914
+Re: K050898
+Trade/Device Name: Smith and Nephew Vulcan Articular Cartilage Probe
+Regulation Number: 21 CFR 878.4400 Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: II
+Product Code: GEI, HRX
+Dated: May 13, 2005
+Received: May 16, 2005
+Dear Mr. Vugt:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class If (PMA),
+it may be subject to such additional controls. Existing major regulations affecting your device
+can be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA
+may publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. J.A. Van Vugt *
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your
+device to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification" (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www. fda. gov/cdrh/industry/support/index.html.
+
+Sincerely yours,
+
+4
+Khep—
+¢ Miriam C. Provost, Ph.D.
+6 Acting Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Indications for Use °
+510(k) Number (if known}: —
+Device Name: ___ Smith & Nephew Vulcan Articular Cartilage Probe
+Indications For Use:
+The Smith & Nephew Vulcan Articular Cartilage Probe is indicated for use in arthroscopic
+chondroplasty procedures in the knee, shoulder, wrist, hip, etc.
+Prescription Use __x AND/OR Over-The-Counter Use
+(Per 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)
+
+(PLEASE DO NOT WRITE BELOW THIS LINE —- CONTINUE ON ANOTHER PAGE IF NEEDED)
+oN
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+
+Fb Ge
+“OMgeic of)
+sSvision of . ...{, Restorative
+sud Neuroi. _-.ui Devices
+infty Wie Ser KOSHTL
+$&N Vulcan ACP
+Page 13 of 133
+

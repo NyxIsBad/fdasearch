@@ -1,0 +1,146 @@
+Wy JUL 16 2002
+Premarket Notification 510(k) Summary
+(as required by section 807.92(c))
+
+510K Number: K012018
+Submitter: o Frank J. Fucile, Director, Regulatory Affairs
+
+ACMI Corporation ,
+
+136 Turnpike Road
+
+Southborough, MA 01772 USA
+
+Phone: 508-804-2600, FAX: 598-804-2624
+Date prepared: July 10, 2002
+
+. Proprietary Name: ACMI BICAP COAG Bipolar Laparoscopy Probe
+
+Common Name: Laparoscopy Probe
+Classification Name: Endoscopic electrosurgical unit and accessories,
+
+21 CFR 876.4300
+Substantially Equivalent Devices:
+The BICAP COAG Bipolar Laparoscopy Probe to the ACMI Bipolar Hemostatic
+Electrode (K803214) and the Cabot Medical Surgiflex Suction-Irrigation Probe
+(K932626). : .
+Description of Device:
+The 5 mm ACMI BICAP COAG Bipolar Laparoscopy Probe (32 cm working length) is
+designed for laparoscopic coagulation, irrigation, and aspiration. The RF current path
+within the patient is identical to standard bipolar; consequently, the need for a patient
+dispersive electrode is eliminated. The current flow through the tissue is localized to help
+prevent a thermal effect distant from the surgical site.
+The BICAP COAG Bipolar Laparoscopy Probe connects to ACMI Surgiflex WAVE
+suction-irrigation tubing sets. Use of the BICAP COAG Probe can help reduce operating
+room time by reducing the number of instrument exchanges. With a bipolar tip at the end
+of the suction-irrigation shaft, hemostasis, blunt dissection, irrigation, and aspiration may
+
+ACMI CORPORATION 136 Turnpike Road Southborough. MA 01772-2104 USA 508.804 2600 Fax 508 804.2624
+
+be readily performed without withdrawing the instrument. The oval tip design of the
+probe provides easy, less traumatic access to ovarian and tubal cysts and other difficult to
+reach areas. BICAP COAG instruments are compatible with most bipolar generators,
+allowing them to be used with existing equipment.
+Intended Use:
+The BICAP COAG Bipolar Laparoscopy Probe is indicated for use in laparoscopic
+procedures to provide bipolar coagulation, blunt dissection, irrigation, and aspiration.
+The BICAP COAG Probe may be used in a variety of gastrointestinal, urological and
+gynecological procedures.
+Summary Comparison of Technological Characteristics Compared to Predicate
+Devices:
+The ACMI Bipolar Hemostatic Electrode is virtually identical to the BICAP COAG
+Bipolar Laparoscopy Probe in design and functions (coagulation, blunt dissection,
+suction, irrigation) except that the Bipolar Hemostatic Electrode was intended for use
+only in gastrointestinal procedures, while the BICAP COAG Probes are intended for
+general laparoscopic use including gastrointestinal, urological and gynecological
+procedures.
+The Cabot Medical Surgiflex Suction-Irrigation Probe is similar to the BICAP COAG
+Probe in regard to functions (coagulation, blunt dissection, suction, irrigation) and both
+are intended for general laparoscopic use including gastrointestinal, urological and
+gynecological procedures. The primary difference is that the Surgiflex Probe is
+monopolar while the BICAP COAG operates as a bipolar device.
+
+ACMI CORPORATION 136 Turnpike Road - Southborough, MA 01772-2104 USA 5088042600 Fax: 808.804.2624
+
+eee,
+e M4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+hart Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+JUL 16 2002
+ACMI Corporation
+Frank J. Fucile
+Director, Regulatory Affairs
+136 Turnpike Road
+Southborough, Massachusetts 01722
+Re: K012018
+Trade Name: ACMI BICAP COAG Bipolar Laparoscopy Probe
+Regulation Number: 878.4400 :
+Regulation Name: Electrosurgical Device, Cutting & Coagulation & Accessories
+Regulatory Class: II /
+Product Code: GEI
+Dated: May 2, 2002
+Received: May 3, 2002
+Dear Mr. Fucile:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and we have determined the device is substantially equivalent (for the
+: indications for use stated in the enclosure) to devices marketed in interstate commerce prior to
+May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that have
+been reclassified in accordance with the provisions of the Federal Food, Drug, and Cosmetic Act
+(Act) that do not require approval of a premarket approval application (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices,
+good manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+. may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation contro! provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. Frank J. Fucile
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 21 CFR Part 809.10 for in vitro diagnostic devices), please contact the Office of
+Compliance at (301) 594-4659. Additionally, for questions on the promotion and advertising of
+your device, please contact the Office of Compliance at (301) 594-4639. Also, please note the
+regulation entitled, "Misbranding by reference to premarket notification" (21CFR Part 807.97).
+Other general information on your responsibilities under the Act may be obtained from the
+. Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 443-6597 or at its Internet address
+: http://www.fda.gov/cdrb/dsma/dsmamain.html
+Sincerely yours, Pid
+he y Witten, Ph.D., M.D.
+: Director
+Division of General, Restorative
+and Neurological Devices
+: Office of Device Evaluation
+Center for Devices and
+Radiological Health
+: Enclosure
+
+. Kola2ol%
+_
+BICAP COAG Bipolar Laparoscopy Probe
+INDICATIONS FOR USE STATEMENT
+Premarket Notification Number K012018
+Device Name: BICAP COAG Bipolar Laparoscopy Probe
+The BICAP COAG Bipolar Laparoscopy Probe is indicated for use in laparoscopic
+procedures to provide bipolar coagulation, blunt dissection, irrigation, and aspiration.
+The BICAP COAG Probe may be used in a variety of gastrointestinal, urological and
+gynecological procedures.
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Qivision os,
+Division of General, Restorative .
+and Neurological Devices
+510(k)Number_KO/2 Ov 8
+ACMI CORPORATION - 136 Turnpike Road - Southborough, MA 01772-2104 - USA - 508.804.2600 - Fax: 508.804 2624
+

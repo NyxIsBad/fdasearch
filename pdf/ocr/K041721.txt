@@ -1,0 +1,154 @@
+AUG - 5 2004 Ko4l72/
+9. 510(k) Summary
+Company: HOYA ConBio (formerly Continuum Electro-Optics, {nc.)
+47733 Fremont Blvd
+Fremont, CA 94538
+(800) 532-1064 phone
+(510) 445-4550 fax
+Contact: Jim Green
+Vice President of Engineering
+Device Trade Name: LVI lase
+Common Name: Dental diode laser
+Classification Name: Instrument, surgical, powered, laser
+Classification Code: 79-GEX
+Equivalent Device(s): DioDent Dental Laser System by HOYA ConBio,
+Aurora by Premier Laser System,
+Twilite or Dentek LD-15 Diode Laser System by BioLase
+Technologies,
+DioLase ST by American Medical Technology (formerly ADT)
+Intended Use: The LVI lase is intended for incision,
+excision, ablation, vaporization, and/or coagulation of oral soft
+tissue (including marginal and interdental gingival and epithelial
+lining of free gingiva). It is also intended for light activation for
+bleaching materials for teeth whitening, and laser-assisted
+bleaching/whitening for teeth whitening.
+Comparison: The LVI lase, the DioDent Dental Laser
+System, the Aurora Diode Laser System, the
+Twilite/Dentek LD-15, the Dental Diode Laser, and the DioLase
+ST are equivalent in operating parameters, physical characteristics,
+and intended uses. (NOTE: Of the equivalent devices mentioned
+here, only the DioDent and the Twilite are cleared for teeth
+whitening intended uses. The LVI lase is seeking clearance for
+this in this submission).
+Nonclinical Performance
+Data: None
+Clinical Performance Data: None
+Additional Information: None
+1
+
+2 ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+“sonar Food and Drug Administration
+JUN 11 2007 Rockville MO 20850.
+
+HOYA ConBio, Inc.
+% Liza Burns and Associates
+Ms. Liza Burns
+Regulatory Consultant
+19722 Westview Drive
+Twain Harte, California 95383
+Re: K041721
+
+Trade/Device Name: LVI lase Dental Diode Laser
+
+Regulation Number: 21 CFR 878.4800
+
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and
+
+in dermatology
+
+Regulatory Class: II
+
+Product Code: GEX
+
+Dated: June 21, 2004
+
+Received: June 29, 2004
+Dear Ms. Burns
+This letter corrects our substantially equivalent letter of August 5, 2004.
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices,
+good manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with ali the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+Page 2 - Ms. Liza Burns
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to continue marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (2! CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www.fda.gov/cdrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+(\ hae
+Mark N. Melkerson
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+1. Indications for Use Statement
+510(k) Number: K041721
+Device Name: LVI lase
+Indications for Use: For the incision, excision, ablation, vaporization,
+and hemostasis of oral soft tissue.
+Examples:
+Excisional and incisional biopsies
+Exposure of unerupted teeth
+Fibroma removal
+Frenectomy and frenotomy
+Gingival troughing for crown impressions
+Gingivectomy
+Gingivoplasty
+Gingival incision and excision
+Hemostasis
+Implant recovery
+Incision and drainage of abscess
+Leukoplakia
+Operculectomy
+Oral papillectomies
+Pulpotomy
+Pulpotomy as an adjunct to root canal therapy
+(\\ Reduction of gingival hypertrophy
+- 4 Soft tissue crown lengthening
+(D ‘vision Sign- ulcular debridement (removal of diseased or
+Divi si inflamed soft tissue in the periodontal pocket to
+‘Sion of General, Restorati improve clinical indices including gingival index,
+and Neurolo ical Dev; ve, gingival bleeding index, probe depth, attachment
+Bical Devices loss and tooth mobility)
+Treatment of aphthous ulcers
+510() Numbe ke Ulyr\ Vestibuloplasty
+Fo Biopsy incision and excision
+Lesion (tumor) removal
+For light activation for bleaching materials for teeth
+whitening
+For laser-assisted bleaching/whitening for teeth.
+Prescription Use x OR Over-the-Counter Use
+(21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE
+IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+

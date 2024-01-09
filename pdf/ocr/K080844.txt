@@ -1,0 +1,194 @@
+1 .
+Gyrus ACMI G3Generator- Dissector Plasma Knife Traditional 510(k) Notification
+Gyrus ACMI Inc. :
+136 Turnpike Road : .
+Southborough, MA 01772
+a
+KOSO944 Fr 14 @ ;
+. —
+, 510(k) Summary of Safety and Effectiveness “a
+Gyrus ACMI Inc.
+Gyrus ACMI G3 Generator and Accessories - Dissector Plasma Knife
+General Information AVG 18 2009
+Manufacturer: Gyrus ACMI Inc.
+, 136 Turnpike Rd. :
+Southborough, MA 01772-2104
+Contact Person: Lorraine Calzetta
+Regulatory Affairs
+Tel. #: 508-804-2752
+Fax #: 508-804-2624
+Date Prepared: March 18, 2008
+Device Description , Classification Name:
+Electrosurgical cutting and coagulation
+devices and accessories
+. - (21CFR 878.4400, Class II)
+Trade Name: Gyrus ACMI G3 Generator and Accessories
+- Dissector Plasma Knife
+Generic/Common Name: Electrosurgical cutting and coagulation
+: devices and accessories
+Predicate Devices
+Gyrus ACMI G3 Generator and Accessories - Dissector Plasma Knife K041285
+Intended Uses :
+The Bipolar Generator section of the G3 RF Workstation and accessories are indicated [or
+ablation, resection and coagulation of soft tissue and hemostasis of blood vessels in
+otorhinolaryngology (Head and Neck) surgery including:
+‘ - Adenoidectomy - Papilloma Keloids
+: Cysts - Submucosal Palatal Shrinkage
+- Head, Neck, Oral, and Sinus Surgery : Tonsillectomy
+- Mastoidectomy - Traditional Uvulopalatoplasty (RAUP)
++ Myringotomy with effective Hemorrhage - Tumors
+Control - Tissue in the Uvula/Soft Palate for the
+- Nasal Airway Obstruction by Reduction of Treatment of Snoring
+Hypertrophic Nasal Turbinates - Uvulopalatopharyngoplasty (UPPP)
+: Nasopharyngeal / Laryngeal indications - Parotidectomy
+including Tracheal Procedures, Laryngeal
+, 5
+
+* . x
+Gyrus ACMI® Traditional 510(k) Notification
+Gyrus ACMI Inc. Statement of Intended Use
+136 Turnpike Road Southborough, MA 01772 KO GO Zuy Pe Q ch (a)
+Polypectomy, and Laryngeal Lesion Debulking - Neck Mass .
+- Neck Dissection (Radical and Modified Neck Dissection)
+The Gyrus ACMI Dissector Plasma Knife is indicated for resection and coagulation of soft
+tissue and hemostasis of blood vessels in head and neck surgery including Neck Dissection
+(Radical and Modified Neck Dissection), Tonsillectomy, Parotidectomy and UPPP when used
+with the bipolar generator section of the G3 Workstation.
+Product Description
+The Gyrus ACMI® G3 Generatof is an electrosurgical generator containing five key
+components:
+A dual output electrosurgical generator;
+Monopolar output side :
+Bipolar output side
+Disposables, ‘
+Monopolar electrodes (TCRF)
+- Bipolar PlasmaCision Electrodes
+Connector Cables ,
+Monopolar return pad; and
+Footswitch.
+The Gyrus G3 System Generator has two principal modes of operation dependant on which
+type of electrode is attached - The monopolar mode has controls for maximum temperature
+and energy delivered. The unit has readouts for total energy delivered, impedance, temperature
+for two thermocouples and time of energy delivery. - The bipolar mode has controls for output
+waveform type and power. The unit has readouts for set power and waveform. Connectors on
+the front panel include the monopolar connector for active electrode and dispersive electrode
+and separate dual bipolar connectors for PlasmaCision electrodes and bipolar instruments. The
+device is operated by a foot pedal, connected on the back panel.
+The Dissector Plasma Knife is a single use disposable bipolar instrument designed for use
+with the G3 generator within an ambient air environment. The instrument incorporates a
+suction channel, which allows for suction of fluids and gases during operative procedures
+when connected to an appropriate suction facility.
+Technological Characteristics and Substantial Equivalence
+The Gyrus ACMI® G3 Generator and Accessories - Dissector Plasma Knife are
+composed of the same materials and identical features of those of the predicate. There
+are no changes to the design of the generator or instrument pursuant to this
+submission. Therefore In summary, the Gyrus ACMI is substantially equivalent to the
+predicate device and presents no new questions of safety or efficacy
+6
+
+Z 4 DEPARTMENT OF HEALTH & HUMAN SERVICES
+“se Food and Drug Administration
+10903 New Hampshire A venue
+Document Mail Center —- WO66-0609
+Silver Spring, MD 20993-0002
+Gyrus ACMI, Inc.
+% Ms. Lorraine Calzetta .
+Regulatory Affairs AUG 1 8 2009
+136 Turnpike Road . .
+Southborough, Massachusetts 01772-2104 :
+Re: K080844
+Trade/Device Name: Gyrus ACMI® G3 Generator and Accessories — Dissector Plasma
+Knife
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+' Regulatory Class: Class II
+Product Code: GEI ;
+Dated: July 12, 2009
+Received: July 23, 2009
+Dear Ms. Calzetta: :
+We have reviewed your-Section 510(k) premarket-notification of intent to market the device
+' referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+‘devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class IIT (PMA),
+it may be subject to additional controls. Existing major regulations affecting your device can be /
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your dévice in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must .
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical
+device-related adverse events) (21 CFR 803); good manufacturing practice requirements as set
+
+Page 2 - Ms. Lorraine Calzetta
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+go to http://www.fda.gov/AboutFDA/CentersO ffices/CDRH/CDRHOffices/ucm 1] 15809.htm for
+the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please
+note the regulation entitled, “Misbranding by reference to premarket notification” (21CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CFR Part 803), please go to http://www.fda.gov/cdrh/mdr/ for the CDRH’s Office of
+Surveillance and Biometrics/Division of Postmarket Surveillance. —
+You may obtain other general information on your responsibilities under the Act from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda.gov/cdrh/industry/support/index.html.
+
+Mark N. Melkerson
+
+Director
+
+Division of Surgical, Orthopedic
+
+and Restorative Devices
+Office of Device Evaluation
+: Center for Devices and
+Radiological Health
+
+Enclosure
+
+Gyrus ACMI G3Generator- Dissector Plasma Knife Traditional 510(k) Notification
+Gyrus ACMI Inc.
+136 Turnpike Road
+Southborough, MA 01772
+Device Name: Gyrus ACMI® G3 Generator and Accessories - Dissector Plasma Knife
+510(k) Number: KO $0 & &
+Indications for use:
+The Bipolar Generator section of the G3 RF Workstation and accessories are indicated for ,
+ablation, resection and coagulation of soft tissue and hemostasis of bload. vessels in
+: otorhinolaryngology (Head-and Neck) surgery including:
+- Adenoidectomy : Papilloma Keloids
+- Cysts - Submucosal Palatal Shrinkage
+- Head, Neck; Oral, and Sinus Surgery - Tonsiflectomy
+: Mastoidectomy : Traditional Uvulopalatoplasty (RAUP)
+- Myringotomy with effective Hemorrhage * Tumors
+Control : Tissue in the Ovula/Soft Palate for the
+Nasal Airway Obstruction by Reduction of Treatment of Snoring
+Hypertrophic Nasal Turbinates * Uvulopalatopharyngoplasty (UPPP)
+‘ Nasopharyngeal / Laryngeal indications : Parotidectomy
+including Tracheal Procedures, Laryngeal . :
+Polypectomy, and Laryngeal Lesion Debulking - Neck Mass
+. - Neck Dissection (Radical and Modified Neck Dissection)
+The Gyrus ACMI Dissector Plasma Knife is indicated for resection and coagulation of soft ‘
+tissue and hemostasis of blood vessels in head and neck surgery including Neck Dissection,
+. (Radical and Modified Neck Dissection), Tonsillectomy, Parotidectomy and UPPP when used
+with the bipolar generator section of the G3 Workstation.
+Prescription Use: _ x OR Over-the-Counter Use:
+(Per 21 CFR 801.109) .
+. (PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF :
+NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+N J A a pa (ar iki
+(Division SignDivision of Surgical, Orthopedic,
+and Restorative Devices
+Page | of 1 510(k) Number. oki Q $ 4
+3
+

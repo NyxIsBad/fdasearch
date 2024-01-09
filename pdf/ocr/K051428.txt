@@ -1,0 +1,158 @@
+- 2005
+S10¢k;: Premarket Notification AUG 3 a
+VTRAC Excimer Lamp System
+510(k) Summary of Safety and Effectiveness
+PhotoMedex Inc., VTRAC Excimer Lamp System k oswW ay
+1. GENERAL
+e Submitter (Applicant): PhotoMedex, Inc.
+147 Keystone Drive
+Montgomeryville, PA, 18936
+e Contact Person: Bob Rose (760) 602-3300
+e Date Prepared: July 7, 2005
+2. DEVICE NAME
+e Classification name: Ultraviolet lamp for dermatologic disorders; 21 CFR
+§878.4630 — Class II
+e Common or usual name: Targeted (localized) UVB Excimer Lamp Phototherapy
+System
+¢ Trade or proprietary name: VTRAC Excimer Lamp System
+3. LEGALLY MARKETED PREDICATE DEVICES
+TheraLight UV120-2 UVA / UVB Phototherapy System
+Cleared via K024020 and K022165
+Lumenis BClear™
+Cleared via K020591 and K021762
+Levia Phototherapy System
+Cleared via K040062
+4. DEVICE DESCRIPTION
+The VTRAC Excimer Lamp System is a self-contained non-invasive (non-ablating)
+dermatological phototherapy instrument that emits targeted (ultra-narrow) ultraviolet wavelength
+that is included in the UV-B region of the electromagnetic spectrum centered at 308 nm, which
+has been determined to effective for the treatment of skin conditions that respond favorably to
+UV-B, narrow band UV-B, and monochromatic UV-B phototherapy. UNB-UVB is emitted from
+a XeCl excimer lamp inside a handpiece used to apply targeted UVB energy to only areas that
+require treatment, thus allowing non-involved areas (healthy) of the skin to be spared from
+exposure.
+XVI- 2
+
+S10(k): Premarket Notification
+VTRAC Excimer Lamp System
+5, INDICATIONS FOR USE
+UVB phototherapy for skin conditions which include psoriasis, vitiligo, atopic dermatitis,
+and leukoderma.
+6. SUBSTANTIAL EQUIVALENCE
+
+The intended use for the VTRAC Excimer Lamp System is similar to the predicate
+devices identified in that the wavelength, energy, indicated used and safety
+considerations are within the current applications of UV-B phototherapy, or supported by
+published clinical data included in this application.
+
+PhotoMedex believes the introduction of the VTRAC Excimer Lamp System poses no
+new issues of safety and is similar in intended use as compared to the predicates
+identified within this application.
+
+7, SAFETY AND EFECTIVENESS; PRODUCT PERFORMANCE
+The VTRAC Excimer Lamp System is designed, tested and are to be manufactured in
+accordance with both mandatory and voluntary standards, including 21 CFR PART 820 the Quality System Regulation, EN60601-1, EN60601-1-2, EN 60601-1-4, EN ISO
+14971, and UL2601-1 / UL60601-1. The inclusion of these standards will further ensure
+when the VTRAC Excimer Lamp System is used according to the instructions for use,
+that it is both safe and effective for the applications indicated.
+8. CONCLUSIONS
+Based on the information reviewed and provided within this application, PhotoMedex
+believes that the VTRAC Excimer Lamp System is substantially equivalent to the
+TheraLight UV120-2 UVA / UVB Phototherapy System, the Lumenis BClear™, and the
+Levia Phototherapy System, in that it is safe and effective as the legally marketed
+predicate devices, and that they share similar mechanisms for laser energy delivery and
+indications for use.
+XVI-3
+
+f SC DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+a: Food and Drug Administration
+4 9200 Corporate Boulevard
+AUG 9 - 2005 Rockville MD 20850
+Mr. Bob Rose
+Director of Regulatory Affairs... eee
+and Quality Assurance
+PhotoMedex, Inc.
+147 Keystone Drive
+Montgomeryville, Pennsylvania 18936
+Re: K051428
+Trade/Device Name: VTRAC Excimer Lamp System
+Regulation Number: 21 CFR 878.4630
+Regulation Name: Ultraviolet lamp for dermatologic disorders
+Regulatory Class: II
+Product Code: GEX
+Dated: May 27, 2005
+Received: June 1, 2005
+Dear Mr. Rose:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+‘ commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class II] (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register. ~
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2- Mr. Bob Rose
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+rn ene
+
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www.fda.gov/cdrh/dsma/dsmamain. html
+
+Sincerely yours,
+
+(habara pruchad
+; for
+
+Mark N. Melkerson
+
+Acting Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+Indications for Use
+510(k) Number (if known): K051428
+Device Name:
+VTRAC Excimer Lamp System
+Indications For Use:
+UVB phototherapy for skin conditions which include psoriasis, vitiligo, atopic dermatitis
+and leukoderma.
+Prescription Use xX AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)
+
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+a
+
+Concurrence of CH GE of [Aegan
+_yevision Sign- .
+“stvision of General, Restorative
+«ad Neurological Devices
+~N Wrewher Sos l4¢2 &
+

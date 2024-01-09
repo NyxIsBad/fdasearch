@@ -1,0 +1,216 @@
+K 072344
+510(k) SUMMARY
+Submitter: Bios Italia s.r.l.
+Via Guido Rossa, 10/12
+20090 Vimodrone (MJ) - Italy
+ay . it 4 y
+Contact: Aldo Casalino DEL 3 200)
+Date Summary Prepared: June 27, 2007
+Device Trade Name: APL MEDICAL SYSTEM
+Common Name: Medical Laser System
+Classification Name: Instrument, surgical, powered, laser
+GEX and FTC
+21 CFR 878.4810 and 21 CFR 878.4630
+Equivalent Device: MSq(M2) LTD - Lovely System (k042000 and k033946)
+Device Description: The portable device APL MEDICAL SYSTEM, is a multilaser and pulsed light system, designated to act on the most
+diffused imperfections of the skin and body. The
+equipmentm is conceived as an expandable system for the
+field of aesthetic medicine, composed of a modular
+platform, containing the entire electronics of the system and
+the cooling circuit, and a series of interchangeable hand
+pieces to be connected on the platform, finalized to treat
+specific groups of imperfections. A rapid connection
+enables the quick and easy replacement of the various hand
+pieces that can be mounted on the modular platform. The
+following hand pieces are available:
+1) Hand piece Pulsed Light. With the use of this hand piece
+the removal of unwanted hair is extremely quick and
+efficient, as it is possible to treat large areas (up to 9
+cm2) using a single pulse or “burst” mode This system
+is effective on varius skin types. On this hand piece it is
+possible to change easily the guide light, equipped with
+a specific light filter and to use thus that one most
+adequate for the individual photo type. Furthermore, it is
+
+possible to conduct a combination of methods to
+attenuate facial skin imperfections related to small
+perorbital and labial wrinkles. With the use of guide
+lights within the spectrum 300-380 nm it is possible to
+treat psoriasis and vitiligo disease with a specific
+therapy. This technique has the advantage of acting
+directly on the concerned area while respecting the
+surrounding tissues.
+
+2) Hand piece Nd:Yag Laser at 1064nm, long pulse (ms).
+With this laser it is possible to treat teleangectasies
+easyly and quickly with optimal results and without
+leaving a cicatrix. Furthermore, it is possible to hair
+removal on small areas with “difficult” skin and hairs.
+
+3) Hand piece Nd:Yag Laser 1064 and 532 nm Qs (Qswitched), short pulse (ns). This laser is able to
+selectively destroy melanosomes through cell lysis. The
+Qs laser is ideal for the treatment of pigmentated lesions
+and in general for all superficial pigmentations, since its
+wavelength is well absorbed by the melanin as well as
+by the haemoglobin. Furthermore, the pulse width
+makes this type of laser selective with regards to
+melanosomes -i.e. benign freckles, ephelis, café-au-lait
+stains, nervus pilus, seborrheic keratosis and skin
+chloasm, and tattoos. Fin and superficial vessels are
+better treated with the Nd:Yag laser 532 nm Qs which
+causes less pain than other laser types, completing the
+treatment which may effect the Nd:Yag laser, long
+pulse.
+
+4) Hand piece Erbium Laser at 2.940 nm. Due to the high
+power and the exclusive guide light, the use of this laser
+results in the ablation process which is a delicate and
+uniform exfoliation of the atrophic superficial (5
+micron) layer of the skin.
+
+Intended Use: The APL MEDICAL SYSTEM is indicate for: removal of
+unwanted hair and to effect stable long-term or permanent
+hair reduction; laser skin procedures for the treatment of
+acne scars and wrinkles; incision, excision, ablation,
+vaporization of soft tissue; non-ablative treatment of facial
+wrinkles, such as, but not limited to periocular wrinkles and
+perioral wrinkles; removal of tattoos and blemishes of the
+skin, the treatment of various pigmentation lesions,
+treatment of capillaries, teleangiectasies and vascular
+lesions, the treatment of vitiligo and psoriasis.
+
+Rationale for Substancial The product specification, functionality, indication for use,
+
+Equivalence: and treatment parameters of the APL MEDICAL SYSTEM
+are the same or very similar to the legally marketed laser
+MSq(M2) LTD - Lovely System Model: Lovely II
+Harmony.
+Both systems have the same indication for use.
+Both systems comprise a flashlamp pumped laser rod
+(Nd:YAG) generating light at a wavelength of 1064 nm,
+which is subsequently delivered to the patient via an optical
+fiber delivery system, and focusing handpiece.
+The APL MEDICAL SYSTEM output characteristics
+(including pulse duration and fluence) are identical, or very
+similar, to those of the predicate device.
+Both lasers utilize class IIIA aiming beams.
+Both lasers are microprocessor controlled devices.
+Both systems utilize an internal closed loop water-air heath
+exchanger circuit for optimal thermal control of laser cavity
+The risks and benefits for the APL MEDICAL SYSTEM are
+comparable to those for the predicate device. Therefore, the
+introduction of this laser should not raise new questions of
+Safety and Effectiveness .
+
+Non-Clinical Performance Data: None
+
+Clinical Performance Data: None
+
+2 ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Heaith Service
+om Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+DEC 0 3 2007
+Bios Italia s.r.
+% Mr. Aldo Casalino
+General Manager
+Via Guido Rossa, 10/12
+Vinodrone (Milan) MI I-20090
+Italy
+Re: K072344
+Trade/Device Name: APL Medical System
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and in
+dermatology
+Regulatory Class: H
+Product Code: GEX, FTC
+Dated: November 8, 2007
+Received: November 27, 2007
+Dear Mr. Casalino:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+Page 2 — Mr. Aldo Casalino
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474. For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda.gov/cdrh/industry/support/index.html.
+
+Sincerely yours,
+
+Mak N Mlle
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+INDICATION FOR USE STATEMENT
+510(k) Number (if known): K072344
+Device Name: APL MEDICAL SYSTEM
+Sponsor Name: Bios Italia s.r.b.
+Indication for Use: :
+The APL MEDICAL SYSTEM is a modular multi-laser and multi-use device and are
+intended for use in aesthetic, cosmetic, and surgical applications.
+It is used to treat common imperfections and lesions of skin and body , including:
+1. The removal of unwanted hair and to effect stable long-term or permanent hair
+reduction
+2. Laser skin treatment procedures for the treatment of:
+e Acne scars
+e Wrinkles
+3. Incision, excision, ablation, vaporization of soft tissue
+4. The non-ablative treatment of facial wrinkles, such as, but not limited to:
+¢  Periocular wrinkles
+¢  Perioral wrinkles
+5. Removal of tattoos and blemishes of the skin, the treatment of various pigmentation
+lesions
+6. Treatment of capillaries, teleangiectasies and vascular lesions
+7. Treatment of vitiligo and psoriasis :
+. The equipment should only be used under medical supervision.
+Do Not Write Below This Line — Continue on Another Page if Needed
+Concurrence of CDRH, Office of Debi + uation (ODE)
+(Division i, 0)
+Divisio " :
+Prescription Use sf and x - General, Restorative,
+Over-The-Counter Use Oo urological Devices
+S10(4) Namber!” ek
+oe
+

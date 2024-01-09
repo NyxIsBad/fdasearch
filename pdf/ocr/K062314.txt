@@ -1,0 +1,158 @@
+SECTION 5. 510(K) SUMMARY
+eS eee
+5. 510 (kK) SUMMARY Koer 3 } ¢
+510 (k) SUMMARY
+(per 21 CFR §807.92)
+HORUS Laser Keratome
+DEC 2 2 2006
+GENERAL INFORMATION
+Manufacturer: Carl Zeiss Meditec AG
+Géschwitzer Strasse 51-52
+07740 Jena
+Germany
+Est. Reg. No. 9615030
+Contact Person: Michael Giebe
+RA-Manager
+U.S. Designated Agent: Kent W. Jones
+Vice President, RA/CA/Compliance
+Carl Zeiss Meditec Inc.
+5160 Hacienda Drive
+Dublin, California 94568
+(925) 557-4353 (phone)
+(925) 557-4481 (fax)
+Classification name: Keratome
+Classification: Class II (ace. 21 CFR 878.4810)
+Product Code: GEX (21 CFR 878.4810)
+HNO (21 CFR 886.4370)
+Trade/Proprietary name: Horus
+PREDICATE DEVICE
+Company: IntraLase Corporation
+Device: IntraLase FS Laser (K013941)
+Company: Bausch & Lomb Surgical
+Device: Hansatome Microkeratome (K010260)
+SOL OLS
+
+SECTION 5. 510(k) SUMMARY
+INTENDED USE
+The Horus Laser Keratome is indicated for use in the creation of a corneal flap in patients
+undergoing LASIK surgery or other treatment requiring initial lamellar resection of the
+cornea.
+DEVICE DESCRIPTION
+The Horus Laser Keratome is a precision ophthalmic surgical laser designed for use in
+performing lamellar corneal resections. The cutting action of the Horus Laser Keratome
+is achieved through precise individual mirco-photodisruptions of tissue, created by tightly
+focused ultrashort pulses which are delivered through a disposable applanation lens while
+fixating the eye under very low vaccum.
+SUBSTANTIAL EQUIVALENCE
+The Horus Laser Keratome has technological characteristics very similar to those of the
+IntraLase FS Laser, the laser predicate device, while the indication for use and the
+intended use are identical to those of the Hansatome Microkeratome.
+SUMMARY
+The Horus Laser Keratome has been designed and tested to applicable safety standards.
+In addition, the Horus Laser Keratome was found to perform equivalently to the predicate
+device, the Hansatome Microkeratome, with respect to the creation of cornea resections
+in extensive ex-vivo studies.
+A statement of substantially equivalence to another product is required by 21 CFR
+807.87 and relates only to whether the present product can be marketed without
+prior reclassification or clinical approval. The present submission is therefore not
+related to the coverage of any patent and is not to be interpreted as an admission or
+used as evidence in a patent infringement lawsuit. As the commissioner of the FDA
+stated: "A determination of substantial equivalence under the Federal Food, Drug
+and Cosmetic Act related to the fact that the product can be lawfully marketed
+without pre-market approval or reclassification. The determination is not intended
+to have any bearing whatsoever on the resolution of patent infringement suits." 42
+Federal Register 42, 50 et seq. (1977).
+
+00004156
+
+Co
+e J DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+era Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Carl Zeiss Meditec, Inc. DEC % 2 2006
+c/o Kent Jones
+5160 Hacienda Drive
+Dublin, CA 94568
+Re: K062314
+Trade/Device Name: Horus Laser Keratome
+Regulation Number: 21 CFR 878.4310
+Regulation Name: Laser Instrument, Surgical, Powered
+Regulatory Class: Class II
+Product Codes: GEX; HNO
+Dated: December 21, 2006
+Received: December 22, 2006
+Dear Mr. Jones:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class I (Special Controls) or class I! (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21 :
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Kent Jones
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www. fda.gov/cdrh/industry/support/index.html.
+: Sincerely yours,
+
+Malvina BC#ydelman, M.D.
+
+Director
+
+Division of Ophthalmic and Ear, Nose
+
+and Throat Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+SECTION 4. INDICATIONS FOR USE STATEMENT
+4. [INDICATIONS FOR USE STATEMENT
+510(k) Number (if known): Koy 23 l Y
+Device Name: Horus Laser Keratome
+Indications for Use: The Horus Laser Keratome is indicated for use in the creation of a
+comeal flap in patients undergoing LASIK surgery or other
+‘treatment requiring initial lamellar resection of the cornea.
+Prescription Use __ x AND/OR Over-The-Counter Use
+(Part 21 CFR 80t Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE
+OF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+(Division f , Z
+Sign-Off) Prescription U:
+
+Division of Ophtha’ 5 apnoea,
+
+Nose and Throat Devens (Per 21 CFR 801.109)
+
+510(k) Number 1&0 6 2 3/4
+
+———— veneers
+Page of
+POCO
+

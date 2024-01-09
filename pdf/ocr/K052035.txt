@@ -1,0 +1,171 @@
+CT
+Canady Plasma Probes for flexible Endoscopy C A N A D Y
+510(k) Premarket Notification TECHNOLOGY
+510(k) Summary
+AUG 3 1 2005
+510(k) Summary of Safety and Effectiveness for
+Canady Argon Plasma Probes
+Kos2e35 P
+Submitted By: Canady Technology LLC { ( 4@
+24 Research Drive
+Hampton, Virginia 23666
+Contact Person: Dr. Jerome Canady
+Phone: 757 857 4501
+Facsimile: 757 855 7741
+Date Prepared: 07.01.2005 /
+Common Name: Electrosurgical Argon Beam Probe
+Trade Name: Canady Plasma Probes for flexible Endoscopy
+- Canady Plasma GIT Probe
+- Canady Plasma TBS Probe
+Classification Name: Electrosurgical cutting and coagulation device and accessories
+(21CFR878.4400)
+Product Code: 79 GE!
+Predicate Devices: - Erbe APC Applicators: K#963189, cleared Nov. 26, 1996
+- Erbe APC Applicators: K#013348, cleared Oct. 26, 2001
+- Conmed ABC Flex Probes: K# 990586, cleared May 17, 1999
+Device Description:
+The Canady Plasma Probes are tubular instruments and are flexible. They are provided in
+various lengths and diameter sizes to accommodate the various size/types of endoscopes for
+a variety of applications (i.e. the treatment of various target tissues inside a patient). The
+Probes have applications in endoscopic surgical procedures such as upper and lower
+gastroenterology and bronchoscopy to provide a means of coagulation using electrosurgical
+current and argon gas.
+The device consists of a connector which acts also as a handle for maneuvering the probe
+inside the working channel of an endoscope. Via an inner lumen of the Canady Plasma
+Probe argon gas is delivered to the operative site as well as an internal wire to carry high
+frequency (HF) electrosurgical current to a tungsten electrode tip at the end of the tubing. A
+ceramic tip insulates the thermal plastic tubing from the heat generated during coagulation.
+1 The electrode is positioned in the ceramic tip such that it cannot contact the patient's tissue
+| during coagulation procedure.
+
+CT
+Canady Plasma Probes for flexible Endoscopy we C A N A D Y
+510(k) Premarket Notification
+" 510(k) Summary TECHNOLOGY
+The Canady Plasma Probes are provided sterile by means of ethylene oxide and are
+isposable (Single Use
+dispo (Sing ) (nae 2 4D
+Application
+An endoscope is manipulated inside the patient to locate tissue that requires treatment. Upon
+finding the target tissue, the Canady Plasma Probe is threaded into the working channel of
+the endoscope, until the tip of the Probe slightly protrudes from the end of the scope. Then
+opening of the Probe is positioned towards in close proximity of the area to be treated. The
+Canady Plasma Probes have depth marker rings close to the tip for positioning purposes.
+When high frequency voltages reaches the certain level and the proximity to tissue is close
+enough, electrically conductive argon plasma forms in the gas stream. This allows the
+current to flow between the probe and the tissue. Current density upon arrival at the tissue
+surface from an APB probe (Argon Plasma Beam) causes coagulation. The application of the
+energy to the tissue is uniform and contact free. Canady Plasma Probes are for single use
+only.
+: Intended Use:
+The Canady Plasma Probes' intended use is for the delivery of argon gas plasma energy for
+argon enhanced coagulation of tissue.
+Electrical Characteristic:
+Canady Plasma Probes can be operated in combination with HF generators which are ©
+compatible to the connector hose cleared under K#013348 to a
+max. HF voltage of 4.0 kVp / max. HF power of 50W __ for the TBS probes
+max. HF voltage of 4.3 kVp / max. HF power of 909W_ _for the GIT probes (2.3 mm)
+max. HF voltage of 4.3 kVp / max. HF power of 120 W for the GIT probes (3.2 mm)
+Dimensions:
+The lengths of the Canady Argon Probes are 1.6 m (5.2 ft) to 3.4 m (11 ft). The diameters of
+the probes are 1.5 mm (4.5 Fr) to 3.2 mm (9.6 Fr).
+Similarities to Predicate Devices:
+The Canady Plasma Probes have the same performance specifications and intended use
+like the predicate devices. They are also provided sterile by ethylene oxide and are
+disposables for single use only. The connector is compatible in function to the connector of
+the probe which is cleared in K#013348 and also compatible to the corresponding connector
+hose.
+The tube diameters and lengths are very similar. Both, the Canady Plasma Probes and the
+predicate devices have marking rings at the distal end (scaled probe tip). Also the used
+materials — which is ceramic at the distal end and Teflon for the tubes of the probes - are
+identical. in consequence the insulation characteristic is the same. The electrical
+characteristics are one and the same.
+Differences to Predicate Devices:
+The connectors of the predicate devices K#990586 and K#963189 are different.
+Conclusions:
+Canady Plasma Probes are substantial equivalent in its intended Use, Dimensions, Used
+Materials, Construction, Quality, Electrical Characteristics, Operational Principles and
+Labeling to the legally marketed devices to which the Canady Plasma Probes are compared
+| in this submission.
+| The differences do not affect safety and effectiveness.
+
+: Wa DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+vont Food and Drug Administration
+9200 Corporate Boulevard
+AUG 3 1 2005 Rockville MD 20850
+Canady Technology, LLC
+c/o Mr. Stefan Preiss
+TPR Project Manager
+TUV America Inc., TUV Product Service
+1775 Old Highway 8
+New Brighton, Minnesota 55112-1891
+Re: K052035
+Trade/Device Name: Canady Plasma Probe
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: II
+Product Code: GEI
+Dated: August 17, 2005
+Received: August 22, 2005
+Dear Mr. Preiss:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2- Mr. Stefan Preiss
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+“Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www. fda.gov/edrh/dsma/dsmamain.htm|
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Acting Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+510(k) Number (if known): OFS 2045
+Device Name: Canady Plasma Probe
+Indications for Use:
+Argon Enhanced Coagulation of Tissue
+Prescription Use _X_
+(Per 21 CFR 801.109)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+(Division Sign-Off) Ke"
+Division of General, Restorative,
+and Neurological Devices
+| 510(k) Number_ KOS 2035 —
+

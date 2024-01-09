@@ -1,0 +1,191 @@
+, K, © 72754
+Gz
+ENCISIGN
+510(k) Summa
+DATE: 5/19/07
+510(k) Submitter: wee ES nay
+ENCISION INC.
+6797 Winchester Circle
+Boulder, CO 80301 USA
+Establishment Registration: 1722040
+Judith V. King, VP Regulatory Affairs and Quality Assurance
+Phone: 303-339-6917
+Fax: 303-444-2693
+e-mail: jking@encision.com
+Device Name: AEM Disposable Electrodes and AEM Disposable Handpieces
+Common name: Device, Electrosurgical, Cutting and Coagulation and Accessories
+Classification: CFR Section: 878.4400
+Class: T
+Product Code: GET
+Predicate Devices:
+Electrodes en
+‘Trade, Proprietary or Model Name ; Manufacturer
+Model ES1000 series Monopolar Laparoscopic Electrodes with ENCISION INC.
+JElectroshield _.
+« Model 30-6000 series Reusable Monopolar Electrodes Kirwin Surgical Products
+i Model $380 series Unipolar Electrodes Richard Wolf Medical ; |
+_ Instruments Corp.
+Models SW11100, SW11200, SW11202, SW11300 (Reusable) Shining World Healtheare
+and SW1220, SW12202, SW12300 (Disposable) Electrosurgical Co., Lid.
+Pencils ce
+Handpieces _ _
+Trade, Proprictary or Model Name Manufacturer
+Model ES1000 series Monopolar Laparoscopic Electrodes with ENCISION INC |
+Electroshield
+Model ES4000 AEM Cord (AEM Monitor accessory) ENCISION INC.
+Model E2508 Disposable Pencil ~|YValleylabina
+Models SW11100. SW 1200, SW11202. SW11300 (Reusable) Shining World Healthcare |
+and SW1220. SW12202, SW 12300 (Disposable) Electrosurgical Co.. Ltd,
+Pencils a
+ENCISION 510(i) Notification Summary page 1 of 3
+AEM® Disposable Electrodes and AEM Disposable Handpieces
+
+GN
+
+P.
+
+ENCISIGN
+Description of Devices;
+The AEM Disposable Electrode and the AEM Disposable Handpiece connect to a compatible
+electrosurgical generator via an adapter on the ENCISION AEM Monitor. The handpiece has foot
+switching and hand switching versions. The electrodes and handpieces are single use products,
+which are provided sterile. They are designed not to be re-sterilized.
+The AEM Monitoring System, including the electrodes and handpieces, are designed to minimize
+the likelihood of stray energy injuries caused by active insulation failure or capacitive coupling.
+The monitor does this by shutting down the ESU when excessive current is returned via the shield
+circuit which extends to near the tip of the electrode.
+The electrodes, which consist of an insulated tip, shaft with locking knob, and AEM shield
+assembly, are available in various tip styles. The electrode has an inner insulation between the
+active conductor and shield tube, as wel] as a secondary outer insulation on the outside of the
+electrode shaft. The electrodes snap into the handpiece.
+One version of the handpiece provides switching for the Cut and Coag functions of the ESU, This
+version has an integral cord. The other version uses foot-switching provided with the
+electrosurgical generator. The foot-switching handpiece connects to either the existing reusable or
+disposable AEM Cord from Encision. The electrodes may be removed from the handpiece and
+replaced with another electrode within the sterile field.
+The electrode can rotate freely or be locked in one of multiple orientations relative to the
+handpiece, as preferred by the surgeon.
+Intended Use:
+AEM Disposable Electrodes and AEM Disposable Handpieces are electrosurgical
+accessories intended, by use of monopolar high-frequency electrical current from
+compatible electrosurgical generators, for ablation, removal, resection and coagulation of
+soft tissue where associated hemostasis is required in open, endoscopic and laparoscopic
+surgical procedures.
+The devices are intended for use by qualified medical personnel trained in the use of
+electrosurgical equipment.
+AEM instruments incorporate the use of AEM technology and are intended for use with the
+Encision AEM Monitoring System and electrosurgical generators having compatibility with the
+AEM Monitor.
+Technological Characteristics:
+The Encision AEM Disposable Electrodes and AEM Disposable Handpieces incorporate the
+same technological characteristics as the predicate devices for delivery of the ESU high
+frequency current, consisting of insulated conductors and shafts with appropriately shaped tips for
+electrosurgery. The control for ESU Cut and Coag modes on the handswitching handpiece is a
+switch similar in design and function to the predicate handpiece.
+Like the Encision predicate devices, the AEM Disposable Electrodes and AEM Disposabie
+Handpieces include an additional AEM shielding function which diverts stray energy from the
+shaft of the instrument and is monitored by the Encision AEM Monitor.
+Non-clinical Performance Testing:
+Performance of the devices’ AEM technology and delivery of electrosurgical energy has been
+verified by bench testing consisting of continuity and capacitance measurements, and
+ENCISION 510(k) Notification Summary page 2 of 3
+AEM® Disposable Electrodes and AEM Disposable Handpieces
+
+a
+=
+ENCISIGN
+compatibility testing with a worst case representative electrosurgical generator and the AEM
+Monitor.
+Conclusions:
+The AEM Disposable Electrodes and AEM Disposable Handpieces are safe and effective and are
+substantially equivalent to the predicate devices.
+ENCISION 510(k) Notification Summary page 3 of 3
+AEM® Disposable Electrodes and AEM Disposable Handpieces
+
+gn,
+2 SC DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+vt Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Encision, Inc. OCT 1 $ 2007
+% Intertek Testing Services
+Mr. Daniel W. Lehtonen
+2307 East Aurora Road Unit B7
+Twinsburg, Ohio 44087
+Re: K072789
+Trade/Device Name: AEM Disposable Electrodes and AEM Disposable Handpieces
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: H .
+Product Code: GE]
+Dated: September 28, 2007
+Received: October 1, 2007 ;
+Dear Mr. Lehtonen:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+cece adulteration... - -—-— ————— ——_- fe a
+If your device is classified (see above) into either class II (Special Controls) or class II] (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. Daniel W. Lehtonen
+This letter will allow you to begin marketing your device as described in your Section 5 10(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+“Misbranding by reference to premarket notification" (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at toll-free number (800) 638-2041 or
+(240) 276-3150 or the Internet address http://www. fda.gov/cdrh/industry/support/index.html.
+Sincerely yo
+ize Dr la
+Ve ns? { a
+Mark N. Melkerson 18
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+. 8
+ENCISIGN
+Indications for Use
+510(k) Number (if known): K 072984
+Device Name: AEM Disposable Electrodes and AEM Disposable Handpieces
+Indications For Use:
+The AEM Disposable Electrodes and AEM Disposable Handpieces are electrosurgical
+accessories intended, by use of monopolar high-frequency electrical current from
+compatible electrosurgical generators, for ablation, removal, resection and coagulation of
+soft tissue where associated hemostasis is required in open, endoscopic and laparoscopic
+surgical procedures.
+The devices are intended for use by qualified medical personnel trained in the use of
+electrosurgical equipment.
+Prescription Use X OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (Part 21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED) __
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+(Division Sign-O)
+Division of General, Restorative,
+and Neurological Devices
+510(k) Number__|t 6m
+Page 1 of 1
+

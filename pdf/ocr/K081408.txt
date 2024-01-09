@@ -1,0 +1,222 @@
+$10(k) Summary
+Ellipse A/S Ko (4 Wy
+Ellipse MultiFlex with Nd:YAG handpiece
+This 5/0(k) summary is submitted in accordance with the requirements of 21 CFR Part
+807.87(h) and Part 807.92.
+A. Contact information and device identification:
+Date of the summary: 16 May 2008 ocr 17 2008 .
+Submitted by/manufacturer: Ellipse A/S
+Agern Alle 11
+2970 Hoersholm, Denmark
+Tel: +45 4576 8808
+Fax: + 45 4517 6851
+Contact person: Ole Kofod
+Device Trade Name: Ellipse MultiFlex (with IPL and Nd:YAG handpieces).
+Device Model number: 9ESF7496 system (with 9APP7472 Laser handpiece).
+Common Name: Intense Pulsed Light (IPL) & Laser.
+Classification name: Laser surgical instrument for use in general and plastic surgery and in
+dermatology (per 21 CFR Part 878.4810).
+Device classification: Class II.
+Product code: GEX
+Predicate devices legally Multi-Spot Nd:YAG (K060448) manufactured by
+marketed to which Ellipse  Lumenis Inc., 2400 Condensa Street, Santa Clara, CA 95051, USA.
+A/S claims substantial (Laser surgical instrument for use in general and plastic surgery and
+equivalence: in dermatology (per 21 CFR Part 878.4810)).
+Alma Harmony long pulsed Nd: YAG (K033946) manufactured by
+MSq(M2) Ltd., 7 Haeshel St., P.O.B. 3021, Caesarea Industrial park,
+38900 Israel.
+(Laser surgical instrument for use in general and plastic surgery and
+in dermatology (per 21 CFR Part 878.4810)).
+Lux1064 (K041879) manufactured by
+Palomar Medical Technologies, Inc., 82 Cambridge Street,
+Burlington, MA 01803, USA.
+(Laser surgical instrument for use in general and plastic surgery and
+in dermatology (per 21 CFR Part 878.4810)).
+Ellipse Flex PPT (K052688) manufactured by
+Ellipse A/S, Agern Alle 11, DK-2970 Hoersholm, Denmark, as far as
+all IPL applications concerns.
+(Laser surgical instrument for use in general and plastic surgery and
+in dermatology (per 21 CFR Part 878.4810)).
+HM WORD DOCUMENTS\102 NDYAG\FDA\SECTION $ 510(K) SUMMARY.DOC
+Ole Kofod 15-05-2008. 9:21:25 Page 1 of 2
+
+B. Description of Ellipse Multiflex:
+
+Ellipse Multiflex is an Intense Pulsed Light (IPL) system used for long-term removal of unwanted hair; for
+treatment of sun-damaged skin, including uneven pigmentation, age spots, large pores, diffuse redness, and
+for the treatment of telangiectasias, port wine stains and inflammatory acne in the area of dermatology.
+The system consists of a console containing power unit and control electronics with control and display
+panel including software.
+
+IPL Applicators/hand-pieces are connected to the system in order to generate light energy for treatment in
+the waveband 400 nm - 950 nm.
+
+The above was cleared under K052688.
+
+Additionally a Nd: YAG handpiece (1064 nm) can be connected to the Ellipse MultiF lex for treatment of
+vascular lesions as stated under Intended Use.
+
+C, Intended Use:
+
+Ellipse MultiFlex is intended for use in dermatology.
+
+Ellipse MultiFlex used with IPL applicators (9APP7133, 7116, 7114, 7134, 7212, 7377, 7213):
+
+e Hair removal (permanent hair reduction).
+
+e Treatment of benign pigmented lesions (including, but not limited to solar lentigines, ephilides,
+mottled pigmentation) and benign vascular lesions (including but not limited to diffuse redness,
+telangiectasias, port wine stains).
+
+e Treatment of inflammatory acne.
+
+Ellipse MultiFlex used with Nd:YAG applicator (9APP7472):
+e Treatment of leg vessels (0.1 — 3.0 mm diameter).
+D. Performance Standards
+The Ellipse MultiFlex Intense Pulsed Light (IPL) and Laser system has been tested according to and
+complies with:
+
+¢ US FDA 21 CFR 1040.10 and 1040.11 for class IV Laser Products.
+
+e IEC 60601-1, UL 60601-1 and CSA C22.2 No. 601.1.
+
+e IEC 60825-1 and IEC 60601-2-22.
+
+e TEC 60601-1-2.
+
+¢ Complies with the European Medical Device Directive 93/42/EEC (Annex Il).
+
+e Manufactured under 1S013485 Quality Management System certified by DGM and QMI.
+
+E. Substantial Equivalence conclusion:
+
+The Ellipse MultiFlex system is substantially equivalent in terms of technological characteristics,
+performance, intended use/indications for use to the predicate devices listed on page 1 of this document.
+All the stated intended uses of Ellipse MultiFlex with Nd:YAG has earlier been investigated and cleared by
+FDA for equipment which the performed comparison has shown to be substantially equivalent to regarding
+the applications in question.
+
+The IPL Intended Use applications, as already cleared under K052688 for Ellipse Flex PPT, is maintained
+for the Ellipse MultiFlex used with IPL handpieces/applicators. The system platform remains. Ellipse
+MultiF lex is the next generation of the Ellipse Flex PPT which incorporates a Nd:YAG handpiece in
+addition to the IPL handpieces.
+
+HAl WORD DOCUMENTS\102 NDY AG\FDA\SECTION 9 510(K) SUMMARY.DOC
+
+‘Ole Kofod Thursday, 15 May 2008 Page 2 of2
+
+- g DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+com Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Ellipse A/S
+% Ole Kofod
+Agern Allé 11 OCT 1 7 2008
+DK-2970 Hersholm
+Denmark
+Re: K081408
+Trade/Device Name: Ellipse MultiFlex
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and
+in dermatology
+Regulatory Class: II
+Product Code: GEX /
+Dated: September 2, 2008
+Received: September 3, 2008
+Dear Ole Kofod:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class IH (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act .
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Ole Kofod
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket ~
+Surveillance at (240) 276-3474. For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www.fda.gov/cdrh/industry/support/index.html.
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative .
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+510(k) Notification
+Device Name: Ellipse MultiFlex
+
+Koy (4oY¥
+Indications for Use:
+Ellipse MultiFlex is intended for use in dermatology.
+Ellipse MultiFlex used with IPL applicators (QAPP7133, 7116, 7114, 7134, 7212, 7377,
+7213): 
+e Hair removal (permanent hair reduction).
+
+« Treatment of benign pigmented lesions (including, but not limited to solar lentigines,
+ephilides, mottled pigmentation) and benign vascular lesions (including but not
+limited to diffuse redness, telangiectasias, port wine stains).
+
+« Treatment of inflammatory acne. .
+
+Ellipse MultiFlex used with Nd:YAG applicator (QAPP7472).
+e Treatment of leg vessels (0.1 — 3.0 mm diameter).
+The Indications for Use for Ellipse MultiFlex are:
+Application Treatment Variable
+[1 [27374 [5 [6 |
+Hair Removal
+HR Applicator Hair (Thin, Normal, Thick) viv |wiv i
+HR-S Applicator
+Treatment of Benign Pigmented Lesions . . :
+Same ae [Pomme venom [|e [o lo]
+Tenimeteenacinis | Vestine | 7/7] |7 | 0) |
+SC
+emetic Panett [Pomme eevee)
+Femaotaimminse [ele 9]
+WA MOd Genwi,
+(Signature)
+(Division Sign-Off) . Ole Kofod
+Division of General, Restorative, (Typed Name)
+and Neurological Devices ee
+(Date)
+Yo¥
+510(k) Number_ KOS Mo% (Premarket Notification 510(k) Number)
+Prescription Use| X__ AND/OR Over-The-Counter Use
+(21CER 801 Subpart D) (21 CFR 801 Subpart C)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+

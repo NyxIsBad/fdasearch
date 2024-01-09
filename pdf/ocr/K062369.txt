@@ -1,0 +1,161 @@
+NOV - 8 2006
+Section 5 — 510(k) Summary or 510(k) Statement
+L General Information I KY b Ra 8 6 1
+Submitter: IRIDEX Corporation ss
+1212 Terra Bella Avenue
+Mountain View, CA 94043-1824
+USA
+Contact Person: John Jossy
+Director of Regulatory Affairs and Quality Assurance
+Summary Preparation Date: August 11, 2006
+Il. Names
+Device Names: OcuLight TX
+Primary Classification Names: Laser Powered Surgical Instrument; Laser, Ophthalmic
+Ii. Predicate Devices
+e IRIS Medical OcuLight GL/GLx (K050562)
+¢ Leminis Inc. Novus Spectra (K022327)
+¢ Adept Medical Concepts, Inc Quanta (K032220)
+e Biolitec AG (K002296)
+IV. Product Description
+The OcuLight TX is a solid state laser that delivers true continuous wave green laser (532
+nm) light for otolaryngologic, dermatology, and ophthalmic applications. The integrated
+system is comprised of the OcuLight TX laser console, various compatible optical fiber
+delivery devices, and a Footswitch. The laser console contains the laser head, imaging
+optics, power supplies, control electronics, and firmware. The electronic system is
+comprised of various sense and control electronics, user controls and displays, and an
+embedded microprocessor that monitors all system functions. The microprocessor
+interprets operator commands, formats displays and supervises laser emission. A visible
+red (630-650 nm) semiconductor diode laser is used for aiming.
+V. Indications for Use
+The OcuLight TX is intended for use in otolaryngological, dermatological and ophthalmic
+surgical procedures. In otolaryngology it is indicated for stapedectomy, stapedotomy,
+myringotomy, lysis of adhesions, control of bleeding, removal of acoustic neuromas, and
+soft tissue adhesion in micro/macro otologic procedures. In dermatology it is indicated for
+the treatment of vascular and pigmented skin lesions. In ophthalmology it is indicated for
+retinal photocoagulation, laser trabeculoplasty, iridotomy, and iridoplasty.
+Premarket Notification, 510(k) Submission for: Section 5: 510(k) Summary — Page 5-1
+OcuLight TX
+
+VI. Rationale for Substantial Equivalence
+The OcuLight TX shares the same or similar indications for use, device operation, overall
+technical and functional capabilities, and therefore is substantially equivalent to the
+predicate devices.
+Vil. Safety and Effectiveness Information
+The review of the indications for use and technical characteristics provided demonstrates
+that the OcuLight TX is substantially equivalent to the predicate devices.
+Vili. Conclusion
+The OcuLight TX was found to be substantially equivalent to the predicate devices.
+The OcuLight TX shares the same or similar indications for use, similar design features,
+and functional features with, and thus is substantially equivalent to, the predicate devices.
+a
+Premarket Notification, 510(k) Submission for: Section 5: 510(k) Summary — Page 5-2
+OcuLight TX
+
+é iC DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+me Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+NOV - 8 2006
+IRIDEX Corporation
+% Mr. John Jossy
+Director, Regulatory Affairs and
+Quality Assurance
+1212 Terra Bella Avenue
+Mountain View, California 94043-1824
+Re: KQ62369
+Trade/Device Name: OcuLight TX
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and
+in dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: October 11, 2006
+Reccived: October 13, 2006
+Dear Mr. Jossy:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+gencral controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class I (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+Page 2 — Mr. John Jossy
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+“Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www.fda.gov/cdrh/industry/support/index.html.
+Sincerely yours,
+
+{ow Who
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Indications for Use Statement
+510(k) Number (if known): Koo KKO 23 b 4
+Device Name: OcuLight TX
+Otolaryngology:
+The OcuLight TX is intended to be used in ENT surgery for tissue incision, excision,
+coagulation, vaporization, ablation and vessel hemostasis. Indications for use include, but are not
+limited to:
+Siapedectomy,
+Stapedotomy
+Myringotomy
+Lysis of adhesions
+Control of Bleeding
+Removal of Acoustic Neuromas
+Soft Tissue Adhesion in Micro/Macro Otologic Procedures
+Dermatology:
+The OcuLight TX is intended to photocoagulate issue in dermatological procedures. Indications
+for use include:
+Focal laser treatment of vascular and pigmented skin lesions.
+Ophthamology:
+The OcuLight TX is intended to photocoagulate ocular tissue in ophthalmic procedures.
+Indications for use include:
+Retinal Photocoagulation
+Laser Trabeculoplasty
+Iridotomy
+tridoplasty
+Prescription Use ¥ AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of C , Office of Device Evaluation (ODE)
+uf —
+(Division Sign-Off)
+Divisies of Gener !. Restorative,
+and Neurologaas 2 1ees
+oat — \paundsbS
+S510) & aber 7 ON
+Page_1 of 1
+

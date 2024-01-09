@@ -1,0 +1,162 @@
+Trod Medical, SA Encage™ 510(k)
+SECTION 5 fags 19 @
+510(k) SUMMARY
+(As required by 21 CFR 807.92)
+K oGQIqISY OCT 1-7 2008
+_
+
+5.1 Submitted by
+Trod Medical SA
+9 Av. des Montboucons
+25 000 Besancon
+France
+5.2 Contact person
+Ms Celine Garcia,
+Regulatory affairs head |
+Phone : +33 3 81 53 22 43
+Fax : +33 3 81.53 21 72
+E-mail : celine.garcia@trodmedical.com
+5.3 Date Initial Summary prepared :
+January 28, 2008
+5.4 Name of the device
+Proprietary Name: ENCAGE™ bipolar RF probe
+Common / Usual name: Hand-held electrosurgical device
+Classification Name: Electrosurgical cutting and coagulation device and accessories (2) CFR |
+878.4400)
+5.5 Predicate devices
+
+- INCIRCLE Bi-Polar RF Ablation device (K070711)
+
+- INTRACEPT Bi-Polar RF Probe and Instrument Set (K070443)
+
+- ATRICURE Bi-Polar coagulation System (K011722)
+
+- RITA STARBURST SDE electrosurgical device (K030967)
+5.6 Device description
+The ENCAGE™ bipolar RF probe is a sterile, disposable, bi-polar, Radio Frequency (RF),
+hand-held electrosurgical device that coagulate/ablate a region of soft tissue using bipolar RF
+energy. The device is designated for use in percutaneous, laparoscopic and intraoperative
+surgical procedures. The ENCAGE™ bipolar RF probe is used in conjunction with the
+
+Page1/2
+
+fa Q 4 2
+KOogaqagse oo Zo @
+Trod Medical, SA OT Encage™ $10(k)
+Stockert NEURO NSO RF Generator and Interconnect Cables to create radiofrequency lesions
+in soft tissue.
+5.7 Intended Use
+The ENCAGE™ bipolar RF probe is intended to be used with the Stockert N50
+radiofrequency (RF) generator for the thermal coagulation of soft tissues.
+5.8 Comparison of Technological characteristics
+The ENCAGE™ bipolar RF probe is substantially equivalent in design, materials, function
+and intended use to the following devices cleared for commercial distribution:
+~ INCIRCLE Bi-Polar RF Ablation device (K07071 1)
+- INTRACEPT Bi-Polar RF Probe and Instrument Set (K070443)
+- ATRICURE Bi-Polar coagulation System (K011722)
+- RITA STARBURST SDE electrosurgical device (K030967)
+|
+5.9 Summary of Performance data
+The ENCAGE™ bipolar RF probe has been designed to comply with the applicable sections
+of ANSI/AAMI American Standard for Electrosurgical devices HF-18:2001 and the
+International Electrotechnical Commission Standard for Electrosurgical devices IEC 60601-22:2006. Bench testing/functional testing performed on the ENCAGE™ bipolar RF probe
+demonstrates that this device is substantially equivalent to the predicate devices. No new
+safety or effectiveness issues have been raised.
+|
+|
+Page 2/2
+
+2 ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Heaith Service
+"hres Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Trod Medical SA OCT 17 2008
+% TUV SUD America, Inc.
+Mr. Stefan Preiss
+1775 Old Highway 8 NW
+New Brighton, Minnesota 55112-1891
+Re: K082954
+Trade/Device Name: ENCAGE™ bipolar RF probe
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: II
+Product Code: GEI
+Dated: October 1, 2008
+Received: October 3, 2008
+Dear Mr. Preiss:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. Stefan Preiss
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474, For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda.gov/cdrh/industry/support/index.html.
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Trod Medical, SA Encage™ 510(k)
+SECTION 4
+INDICATION FOR USE
+510(k) Number (ifknown):NA KO SQAS q |
+Device Name: ENCAGE™ bipolar RF probe i
+Indication For Use:
+|
+The ENCAGE™ bipolar RF probe is intended to be used in conjunction with
+radiofrequency (RF) generators for percutaneous, laparoscopic, or intraoperative thermal |
+coagulation of soft tissues. |
+|
+Prescription Use X AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+09 218.
+510(k) Number Koy?’
+Page 1 of 1
+

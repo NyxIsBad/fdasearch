@@ -1,0 +1,249 @@
+OE 1 2 2005
+01HdD400 4 of 4
+510(k) SUMMARY
+Danish Dermatologic Development A/S (DDD)
+Ellipse Flex PPT dermatologic IPL system.
+This 5/0(k) summary is submitted in accordance with the requirements of 21 CFR Part
+807.87(h) and Part 807.92.
+A. Contact information and device identification:
+Date of the summary: 08 November 2005
+Submitted by/manufacturer: Danish Dermatologic Development A/S
+Agern Alle 11
+2970 Hoersholm, Denmark
+Tel: + 45 4576 8808
+Fax: + 45 4517 6851
+Contact person: Ole Kofod
+Device Trade Name: Ellipse Flex PPT.
+Device Model number: 9ESF7255.
+Common Name: Intense Pulsed Light (IPL) system.
+Classification name: Laser surgical instrument for use in general and plastic surgery and in
+dermatology (per 21 CFR Part 878.4810).
+Device classification: Class II.
+Product code: GEX
+Predicate devices legally Ellipse PPL (K043255) manufactured by Danish Dermatologic
+marketed to which DDD Development A/S, Agern Alle 11, DK-2970 Hoersholm, Denmark.
+claims equivalence: (Laser surgical instrument for use in general and plastic surgery and
+in dermatology (per 21 CFR Part 878.4810).
+StarLux™ Pulsed Light System (K041086) manufactured by Palomar
+Medical Technologies, Inc., 82 Cambridge Street, Burlington, MA
+01803.
+(Laser surgical instrument for use in general and plastic surgery and
+in dermatology (per 21 CFR Part 878.4810)).
+Lumenis Family of IPL (K030342) manufactured by
+Lumenis Inc., 2400 Condensa Street, Santa Clara, CA 95051, USA.
+(Laser surgical instrument for use in general and plastic surgery and
+in dermatology (per 21 CFR Part 878.4810)).
+HAL WORD DOCUMENTS(98 ELLIPSE SUPER FLEX\FDANS! 0(K) SUMMARY ESF 08-11-2005.D0C
+Ole Kofod O8-11-2005 3:38:31 Page 1 of 4
+
+K05 288
+2 oe H
+
+B. Description of Ellipse Flex PPT:
+Ellipse Flex PPT is an Intense Pulsed Light (IPL) system used for long-term removal of unwanted hair,
+for treatment of sun-damaged skin, including uneven pigmentation, age spots, large pores, diffuse
+redness, and for the treatment of telangiectasias, port wine stains and inflammatory acne in the area of
+dermatology.
+The system consists of a console containing power unit and control electronics with control and display
+panel including software.
+Applicators/hand-pieces are connected to the system in order to generate light energy for treatment in the
+waveband 400 nm — 950 nm.
+C. Intended Use of Ellipse Flex PPT:
+Ellipse Flex PPT is intended for use in dermatology:
+
+e Hair removal (permanent hair reduction).
+
+e Treatment of benign pigmented lesions (including, but not limited to solar lentigines,
+ephilides, mottled pigmentation) and benign vascular lesions (including but not limited to
+diffuse redness, telangiectasias, port wine stains).
+
+e Treatment of inflammatory acne.
+
+The Indications for Use for Ellipse Flex PPT are:
+[i [273 [4 [5 {6 |
+Hair Removal
+HR Applicator Hair (Thin, Normal, Thick) vivi[vyiviy
+HR-S Applicator
+Hair Removal : - :
+Treatment of Benign Pigmented Lesions fDi .
+znd Benign Vase Lon [vewtsvatiennain |v |v |v |v [0] 8)
+Treatment of Telangiectasias | Vessel size Thin, medium, thick) | ¥ [VT] 1S] 9 |
+Treatment of Port Wine Stains [ Color (Red, blue) TV TV TV TOTS |
+Treatment of Individual Pigmented Lesions | PigmentColr sd V [VT [Vv To |
+[Treatment ofInfiammatoryAcne | CL TV TSI
+Key: ¥ Allowed; © Not Allowed
+FEM WORD DOCUMENTS\98 ELLIPSE SUPER FLEXFDAIS LOK) SUMMARY ESF 08-11-2005.DOC
+Ole Kofod 08-11-2005 3:38:31 Page 2 of 4
+
+Ko52u88 3o0f4
+D. Comparison of Ellipse Flex PPT to predicate devices:
+Ellipse Fiex PPT Ellipse PL StarLuxTM Lumenis Family of
+Pulsed Light IPL
+System
+Current submission
+Technology/ Intense Pulsed Light | Intense Pulsed Light | Intense Pulsed Light | Intense Pulsed Light
+Operation/ (IPL)/broad spectrum | (IPL)/broad spectrum | (IPL)/broad spectrum | (IPL)/broad spectrum
+Device light/touch screen light/touch screen light and Nd:YAG light and Nd:YAG
+description operation. operation. laser handle Lux laser handle.
+1064
+Intended Use Hair removal and the | Hair removal and the | Treatment of Surgical, aesthetic
+treatment of benign treatment of benign inflammatory acne and cosmetic
+pigmented and pigmented and and for the treatment | applications requiring
+vascular lesions; vascular lesions; of benign pigmented | selective
+Treatment of epidermal and photothermolysis and
+Inflammatory Acne. cutaneous lesions, hemostasis of soft
+including warts, scars | tissue in the medical
+and striae. specialties of general
+and plastic surgery,
+and dermatology.
+a
+setting
+1,5-100 ms
+mee (
+piece spot size mm, 10 x 15mm mm, 15 x 35mm
+repetion rate
+Cooling method | Cooling handpiece by | Cooling handpiece by | Contact cooling Skin cooling
+circulating water. circulating water. technology. components
+integrated in hand
+piece.
+classification GEX GEX GEX GEX
+HM WORD DOCUMENTS198 ELLIPSE SUPER FLEX\FDA\S10(K) SUMMARY ESF 08-11-2005 DOC
+Ole Kofod 08-11-2005 3:38:31 Page 3 of 4
+
+‘ so t N
+COS AwWSD Loy ¥
+
+Conclusion:
+All applications of the Ellipse PPL (DD) are included in the Ellipse Flex PPT.
+StarLux™ (Palomar Medical Technologies, Inc.) as a broader range of applications than
+Ellipse Flex PPT, the intended use for Ellipse Flex PPT is covered by the StarLux™
+Lumenis One of the Lumenis Family of IPL (Lumenis, Inc.) has a broader range of
+applications than Ellipse Flex PPT as Lumenis One includes a Laser module for vascular
+treatment applications in addition to the IPL modules. Ellipse Flex PPT does not employ a
+Laser module, only IPL. Ellipse Flex PPT thus utilizes a subset of the Lumenis One
+technologies.
+
+The Ellipse Flex PPT has been evaluated and compared to the above systems and to their
+application modules (to Ellipse PPL (DDD), Lumenis One (Lumenis, Inc.) ,and StarLux™
+(Palomar Medical Technologies, Inc.). The Ellipse Flex PPT system, as far as the identical
+modules, applications and intended uses are concerned, are judged to be identical to Ellipse
+PPL and substantially equivalent to the Lumenis One (Lumenis, Inc.) ,and StarLux™
+(Palomar Medical Technologies, Inc.) (predicate devices cleared in K043255, K041086 and,
+K030342 respectively)
+
+Based on this analysis of the overall performance characteristics of the mentioned predicate
+devices Danish Dermatologic Development A/S believes that no significant differences exist.
+The Ellipse Flex PPT system should not raise new issues of safety and effectiveness and is
+judged to be substantially equivalent to the mentioned predicate devices.
+
+H:\l WORD DOCUMENTS98 ELLIPSE SUPER FLEXWDA\S10(K) SUMMARY ESF G8-11-2005.DOC
+
+‘Ole Kofod 08-11-2005 3:3831 Page 40f4
+
+f Wa DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+wo Food and Drug Administration
+9200 Corporate Boulevard
+DEC 1% 2005 Rockville MD 20850
+Ole Kotod
+QA/RA Manager
+Danish Dermatologic Development A/S
+Agern Alle 11
+DK-2970 Horsholm
+Denmark
+Re: K052688
+Trade/Device Name: Ellipse Flex PPT, Model 9ESF7255
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and
+plastic surgery and in dermatology.
+Regulatory Class: II
+Product Code: GEX
+Dated: November 5, 2005
+Received: November 9, 2005
+Dear Ole Kofod:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications for
+use stated in the enclosure) to legally marketed predicate devices marketed in interstate commerce
+prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that
+have been reclassified in accordance with the provisions of the Federal Food, Drug, and Cosmetic
+Act (Act) that do not require approval of a premarket approval application (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices, good
+manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish
+further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean that
+FDA has made a determination that your device complies with other requirements of the Act or any
+Federal statutes and regulations administered by other Federal agencies. You must comply with all
+the Act’s requirements, including, but not limited to: registration and listing (21 CFR Part 807);
+labeling (21 CFR Part 801); good manufacturing practice requirements as set forth in the quality
+systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product radiation
+control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Ole Kofod
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device to
+proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+‘ contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain other
+general information on your responsibilities under the Act from the Division of Smal! Manufacturers,
+International and Consumer Assistance at its toll-free number (800) 638-2041 or (301) 443-6597 or
+at its Internet address http://www.fda.gov/cdrh/industry/support/index.html.
+Sincerely yours,
+
+Mark N. Melkerson
+
+Acting Director
+
+Division of General, Restorative
+
+, and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+aw . . AN
+- KOS2L59 41 oe Abbreviated - 510(k) Notification — Corr. 1
+\
+Device Name: Ellipse Flex PPT
+Indications for Use:
+The Intended Use for Ellipse Flex PPT is:
+Ellipse Flex PPT is intended for use in dermatology:
+¢ Hair removal (permanent hair reduction).
+¢ Treatment of benign pigmented lesions (including, but not limited to solar lentigines,
+ephilides, mottled pigmentation) and benign vascular lesions (including but not
+limited to diffuse redness, telangiectasias, port wine stains).
+e Treatment of inflammatory acne.
+The Indications for Use for Ellipse Flex PPT are:
+Application Treatment Variable
+[i [2 [3 [4 [s Te |
+. . Hair Removal
+HR-S Applicator
+a aaomaer Hair Thin, Noma, Tih
+Treatment of Benign Pigmented Lesions . - =
+[iesBeageVecukeE Sean [Piemesioe vests |v |v | v |v] 9 [9 |
+Framatror wesw eawmsiti |v [7 |v 39
+Tramerotianieatrimnestains [Pein [71] 17/9
+Tramavotiwaminaee | dee |e [vo
+Key: V Allowed; © Not Allowed
+Cla kfc
+(Signature)
+Ole Kofod.
+(Typed Name)
+G-l/ ~ 2605
+(Date)
+KCSLE8S
+(Premarket Notification 510(k) Number)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use X_ OR Over-The-Counter Use
+(Per 24CFR 801.109) (Optional Format 1-2-96)
+~ My
+(Division SignDivision of General, Restorative,
+and Neurological Devices
+510(k) Number_KOS 28> _
+

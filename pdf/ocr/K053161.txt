@@ -1,0 +1,135 @@
+510(k) Summar
+JAN 1 8 2006 (k) y ko s3\b|
+for ee
+Sirona Dental Systems SIROLaser
+1. SPONSOR
+Sirona Dental Systems GmbH
+Fabrikstrasse 31
+D-64625 Bensheim
+Germany
+Contact Person: Fritz Kolle
+Telephone: 49 6251 16 32 94
+Date Prepared: October 9, 2005
+2. DEVICE NAME
+Proprietary Name: STROLaser
+Common / usual name: Dental Soft Tissue Laser
+Classification Names: Laser instrument, surgical, powered
+3. PREDICATE DEVICE )
+Ceralas DI5
+4. INTENDED USE
+Intra- and extra-oral surgery including incision, excision, hemostasis, coagulation and
+vaporization of soft tissue.
+Indications for use are the following applications: marginal and interdental gingiva
+and epithelial lining of free gingiva, frenectomy frenotomy, biopsy, operculectomy,
+Implant recovery, gingivectomy, gingivoplasty, gingival (roughing crown
+lengthening, hemostasis of donor site removal of granulation tissue, laser assisted
+flap surgery debridement of deseased epithelial lining, incisions and draining of
+abscesses, tissue retraction for impressions, papillectomy, vestibuloplasty, excision of
+lesions, exposure of unerupted/partially erupted teeth, removal of hyperplastic
+tissues, treatment of aphthous ulcers, leukoplakia, sulcular debridement (removal of
+—.s eee
+Sirona Dental 510(k) Summary October 9, 2005
+SIROLaser APPENDIX F * Page | of 2
+
+diseased or inflamed soft tissue, in the penodontal pocket), pulpotomy, pulpotomy as
+adjunct to root canal therapy.
+5. DEVICE DESCRIPTION
+The SIROLaser is a Diode Laser System for dental soft tissue surgery. The system
+is comprised of the laser unit, laser fibers of different diameters hand pieces and
+tips of different angulations, a finger or a foot switch.
+The STROLaser has the following basic functions
+¢ Ability to emit laser radiation either in continuous wave mode (cw) or
+chopped mode (laser radiation is switched on and off with a presetable
+frequency and a duty cycle of 1:1)
+¢ Setup and display of treatment parameters:
+© power,
+© treatment time,
+oO chop frequency
+¢ Selection of predetermined settings for different indications
+¢ Upgradeable firmware
+6. BASIS FOR SUBSTANTIAL EQUIVALENCE
+The Sirona Dental Systems SIROLaser Device is substantially equivalent to the
+Ceramoptec Ceralas DIS (K983058, K991891) sold latterly under the Biolitec
+brand name SmilePro™ 980. Performance testing to validate the safety and
+effectiveness of the SIROLaser includes electrical safety, electromagnetic
+compatibility, and validation testing of both hardware and software functions.
+eee
+Sirona Dental 510(k) Summary October 9, 2005
+SIROLaser APPENDIX F « Page 2 of 2
+
+: Wa DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+% NV
+>: Food and Drug Administration
+9200 Corporate Boulevard
+JAN I 8 2006 Rockville MD 20850
+
+Sirona Dental Systems GmbH
+c/o Mr. Stefan Preiss
+TUV America, Inc. * .
+1775 Old Highway 8
+New Brighton, Minnesota 55112-1891
+Re: K053161
+
+Trade/Device Name: SIROLaser
+
+Regulation Number: 21 CFR 878.4810
+
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and in
+
+dermatology
+
+Regulatory Class: II
+
+Product Code: GEX
+
+Dated: December 30, 2005
+
+Received: January 3, 2006
+Dear Mr. Preiss:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class IT (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+i
+5t0(k) Number (if known): Ko S 4) ‘o (
+Device Name: ss SIROLaser
+Indications for Use:
+Intra- and extra-ora! surgery including incision, excision, hemostasis, coagulation and
+vaporization of soft tissue.
+Indications for use are the following applications: marginal and interdental gingiva and
+epithelial lining of free gingiva, frenectomy frenotomy, biopsy, operculectomy, Implant
+recovery, gingivectomy, gingivoplasty, gingival troughing crown lengthening, hemostasis of
+donor site removal of granulation tissue, laser assisted flap surgery debridement of deseased
+epithelial lining, incisions and draining of abscesses, tissue retraction for impressions,
+papillectomy, vestibuloplasty, excision of lesions, exposure of unerupted/partiaily erupted
+teeth, removal of hyperplastic tissues, treatment of aphthous ulcers, leukoplakia, sulcular
+debridement (removal of diseased or inflamed soft tissue, in the periodontal pocket),
+pulpotomy, pulpotomy as adjunct to root canal therapy.
+Prescription Use NX OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart 9) (21 CFR 807 Subpart ©)
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NECESSARY)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Sirona Dental Systems 5 10(k) October 9, 2005
+Sirolase . Page vin
+of e wes
+(Division SignDivisi
+ivision of General, Restorative,
+and Neurological Devices
+510(k) Number_£253)G /
+

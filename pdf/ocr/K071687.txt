@@ -1,0 +1,409 @@
+Section 1— 5104) Summary Statement
+(_ Ko71687 AUG - 7 2008
+L General Information
+Submitter: IRIDEX Corporation
+1212 Terra Bella Avenue
+Mountain View, CA 94043-1824
+Contact Person: David Buzawa
+Director of Regulatory Affairs and Quality Assurance
+Summary Preparation Date: June 5, 2008
+Ik. Names
+Device Names: Family of IRIDEX IQ Laser Systems (1Q532, 1Q577, 1Q
+630-670, IQ810) & Delivery Device Accessories
+Primary Classification Names: Laser Powered Surgical Instruments (and Accessories)
+Ill. Predicate Devices
+¢ IRIS Medical OcuLight TX
+e IRIS Medical |Q 810 Diode Laser
+« IRIS Medical OcuLight GLIGLx
+« Asclepion Meditec AG Laser System Yellow Star
+e Lumenis Novus Varia Ophthalmic Laser
+« IRIDEX OtoProbe
+e IRIDEX D’Amico\Peyman Fluted EndoPrabe
+» Straight and I!luminating LaserProbes ~ Adjustable Intuitive
+« IRIDEX IRIS Medical G-Probe Handpieces
+e IRIDEX IRIS Medical DioPexy Probe Handpieces
+« IRIDEX Wireless Footswitch
+TV. Product Description
+The Family of IRIDEX IQ Laser Systems is comprised of the following main
+components:
+© Main console containing the major electrical components, including:
+> Control Panel including control knobs (power, interval, duration or software
+assigned function), treat/standby button, and display;
+> Two delivery device fiber-optic connector ports (only one active at a time);
+> LIO illumination connection;
+> Smart key port for detecting/operating safety filters and/or accessory
+identification;
+> Emergency stop switch;
+>» Key switch;
+» Connector ports for the footswitch, remote control, and power cord;
+Premarket Notification 510(k) KO71687
+Family of IRIDEX IQ Lasers a
+CONFIDENTIAL i
+f Page 1 of 5 .
+( a
+
+— 510(k) Summary Statement (continued)
+
+e A treatment Footswitch (either wired, wireless, or wireless with PowerAdjust);
+
+e A Wired Remote Control that duplicates the control panel;
+
+* Delivery Accessories including OtoProbe handpieces, EndoProbe handpieces,
+G-Probe and DioPexy Probe Handpieces, Dermatology Handpieces, Microscope
+Adapters, and Laser Indirect Ophthalmoscopes.
+
+© Optional Cart/Stand
+
+V. Indications for Use
+
+The Family of IRIDEX® IQ Laser Systems (IQ 532 [532nm], 1Q 577 [577nm], 1Q 630
+670 [630nm-670nm], IQ 810 [810nm]) and the hand pieces, delivery devices &
+
+accessories that are used with them to deliver laser energy in either CW-pulse,
+
+MicroPulse™,or LongPulse™ mode. intended for soft and fibrous tissue, including
+
+osseous tissue incision, excision, coagulation, vaporization, ablation and vessel
+
+hemostasis in the medical specialties of , dermatology, ear, nose and throat (ENT)
+otolaryngology, and ophthalmology as follows:
+
+532 nm
+
+Dermatology
+
+e Pigmented Skin Lesions
+« Vascular Lesions
+Ear, Nose, and Throat (ENT) Otolaryngology
+Otosclerotic Hearing loss and/or diseases of the inner ear:
+= Stapedectomy
+« Stapedotomy
+» Myringotomies
+= Lysis of Adhesions
+= Control of Bleeding
+= Removal of Acoustic Neuromas
+" Soft tissue Adhesion in Micro/Macro Otologic Procedures
+Ophthalmology
+Indicated for retinal photocoagulation, laser trabeculoplasty, iridotomy, iridoplasty
+including:
+e Retinal photocoagulation (RPC) for the treatment of
+> Diabetic retinopathy, including:
+-Nonproliferative retinopathy
+~ Macular edema
+~ Proliferative retinopathy
+> Retinal tears and detachments
+Premarket Notification 510(k) KO7 1687
+Family of IRIDEX 1Q Lasers
+CONFIDENTIAL
+Page 2 of 5
+
+—§10(k) Summary Statement (continued)
+> Lattice degeneration
+> Age-related macular degeneration (AMD)
+> Retinopathy of prematurity
+> Sub-retinal (choroida!) neovascularization
+> Central and branch retinal vein occlusion
+« Laser trabeculoplasty, iridotomy, iridoplasty for the treatment of glaucoma, including
+> Primary open angle/Closed angle
+377mm.
+Dermatology:
+e Treatment of Vascular and pigmented lesions
+Ophthalmology:
+Indicated for use in photocoagulation of both anterior and posterior segments including:
+¢ Retinal photocoagulation, panretinal photocoagulation and intravitreal
+endophotocoagulation of vascular and structural abnormalities of the retina and
+choroids inchiding :
+> proliferative and nonproliferative diabetic retinopathy;
+> choroidal neovascularization;
+> branch retinal vein occlusion;
+> age-related macular degeneration
+> retinal tears and detachments
+> retinopathy of prematurity
+¢  Iridotomy, iridectomy and trabeculoplasty in angle closure glaucoma and open angle
+Glaucoma
+630 — 6700m
+Ophthalmology:
+Indicated for use in photocoagulation of both anterior and posterior segments including:
+© Retinal photocoagulation, panretinal photocoagulation and intravitreal
+endophotocoagulation of vascular and structural abnormalities of the retina and
+choroid including:
+> proliferative and nonproliferative diabetic retinopathy;
+> choroidal neovascularization;
+> branch retinal vein occlusion;
+> age-related macular degeneration
+> retinal tears and detachments
+> retinopathy of prematurity
+¢ Iridotomy, iridectomy and trabeculoplasty in angle closure glaucoma and open
+angle glaucoma
+Promarket Notification 510) KOviea7,—~=~C“‘<*~;«XC;*~*<“<‘<S;C 72C }RODW*”*“‘(
+Family of IRIDEX IQ Lasers
+CONFIDENTIAL
+Page 3 of 5
+
+—510(k) Summary Statement (continued)
+810nm
+Opthalmology:
+Indicated for retinal photocoagulation, laser _trabeculoplasty, _transscleral
+cyclophotocoagulation, transscleral retinal photocoagulation, iridotomy, including the
+following:
+e Retinal photocoagulation for the treatment of:
+> Diabetic retinopathy including:
+- Nonproliferative retinopathy
+~ Macular edema
+- Proliferative retinopathy
+> Retinal Tears, Detachments and Holes
+> Lattice degeneration
+> Age-related macular degeneration (AMD) with choroidal neovascularizations
+(CNV)
+> Retinopathy of prematurity
+> Sub-retinal (choroidal) neovascularization
+> Central and Branch Retinal Vein Occlusion
+¢ Laser Trabeculoplasty, Iridotomy, Transscleral Cyclophotocoagulation (TSCPC)
+for the treatment of glaucoma, including;
+> Primary open angle
+> Closed angle
+> Refractory Glaucoma (recalcitrant/uncontro!led)
+VI Performance Standards
+The The Family of IRIDEX® IQ Laser Systems (IQ 532 [532nm], 1Q 577 [577nm], IQ
+630-670 [630nm-670nm], IQ 810 [810nm]) accessories conforms with: Federal
+Regulations; the performance standards 21 CFR 1040.10 and 1040.11 for medical laser
+systems; and, International Harmonized Standards.
+VI. _ Rationale for Substantial Equivalence
+The Family of IRIDEX IQ Laser Systems shares the same or similar indications for use,
+device operation, overall technical and functional capabilities, and therefore is
+substantially equivalent to the predicate devices.
+VU. Safety and Effectiveness Information
+The review of the indications for use and technical characteristics provided demonstrates
+that the Family of IRIDEX IQ Laser Systems is substantially equivalent to the predicate
+devices.
+Premarket Notification 510(K)KO71687.=2=«2#2£84025252 °° OO
+Family of fRIDEX {Q Lasers
+CONFIDENTIAL
+Page 4 of 5
+
+— §10(k) Summary Statement (continued)
+VIII. Conclusion
+The Family of IRIDEX IQ Laser Systems was found to be substantially equivalent to the
+predicate devices.
+The Family of IRIDEX IQ Laser Systems share the same or similar indications for use,
+similar design features, and functional features with, and thus is substantially equivalent
+to, the predicate devices.
+Premarket Notification 510(k) K071687
+Family of IRIDEX {Q Lasers
+CONFIDENTIAL
+Page 5 of 5
+
+? g DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+"hve Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Iridex Corporation AUG - 7 2008
+% Mr. David Buzawa
+Director Regulatory Affairs
+1212 Terra Bella Avenue
+Mountain View, California 94043-1824
+Re: K071687
+Trade/Device Name: Family of IRIDEX® IQ Laser Systems dQ 532, IQ 577, IQ 630-670,
+IQ 810)
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and
+in dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: June 8, 2008
+Received: June 9, 2008
+Dear Mr, Buzawa:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class Ill (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+Page 2 - Mr. David Buzawa
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. ‘The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474, For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda. gov/cdrh/industry/support/index.html.
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+: Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+oO +
+nen for Use Statement { 5 { o 3
+510(k) Number (if known): ( K07168:
+Device Name: Family of IRIDEX® IQ Laser Systems (IQ 532, 1Q 577, 1Q 630-670, IQ 810.
+Indications for Use:
+The Family of IRIDEX® IQ Laser Systems (IQ §32 [532nm}, 1Q 577 [577nm], 1Q 630-670 [630nm-670nm], IQ 810
+[810nm]) and the hand pieces, delivery devices & accessories that are used with them to deliver laser energy in either
+CW-pulse, MicroPulse™,or LongPulse™ mode. Intended for soft and fibrous tissue, including osseous tissue incision,
+excision, coagulation, vaporization, ablation and vessel hemostasis in the medical specialties of , dermatology, ear, nose
+and throat (ENT) otolaryngology, and ophthalmology as follows:
+532 nm
+Dermatotogy
+» Pigmented Skin Lesions
+« Vascular Lesions
+Ear, Nose, and Throat (ENT)/ Otolaryngology
+Otosclerotic Hearing {oss and/or diseases of the inner ear:
+« Stapedectomy
+= Stapedotomy
+" Myringotomies
+" Lysis of Adhesions
+= Control of Bleeding
+* Removal of Acoustic Neuromas
+* Soft tissue Adhesion in Micro/Macra Otologic Procedures
+Ophthalmology
+Indicated for retinal photocoagulation, laser trabeculoplasty, iridotomy, iridoplasty including:
+* Retinal photocoagulation (RPC) for the treatment of
+> Diabetic retinopathy, including:
+- Nonproliferative retinopathy
+— Macular edema
+~ Proliferative retinopathy
+» Retinal tears and detachments
+» Lattice degeneration
+> Age-related macular degeneration (AMD)
+> Retinopathy of prematurity
+> Sub-retinal (choroidal) neovascularization
+» Central and branch retinal vein occlusion
+« Laser trabeculoplasty, iridotomy, iridoplasty for the treatment of glaucoma, including
+>» Primary open angle/Closed angle
+Prescription Use v AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Eyaluation (ODE)
+fy
+\ He oe
+. hh Mo meccn an a
+(Division Sign-Off)
+a ee 2
+Division of General, Restorative,
+* *
+and Neurological Devices
+“ 2 a
+510(k) Number._4O
+. Page 1 of 3
+
+ications for Use Statement - Continued ? ‘s A at 3
+510(k) Number (if known): ( K071687 >
+Device Name: Family of IRIDEX® 1Q Laser Systems (IQ 532, !Q 577, IQ 630-670, IQ 810)
+577nm
+Dermatology:
+» Treatment of Vascular and pigmented lesions
+Ophthalmoloay:
+Indicated for use in photocoagulation of both anterior and posterior segments including:
+* Retinal photocoagulation, panretinal photocoagulation and intravitreal
+endophotocoagulation of vascular and structural abnormatities of the retina and choroid
+including :
+- proliferative and nonproliferative diabetic retinopathy;
+- choroidal neovascularization;
+- branch retinal vein occlusion;
+- age-related macular degeneration
+- retinal tears and detachments
+- retinopathy of prematurity
+¢ — Iridotomy, iridectomy and trabeculoplasty in angle closure glaucoma and open angle
+Glaucoma
+630 - 670nm
+Ophthalmology:
+Indicated for use in photocoaguiation of both anterior and posterior segments including:
+¢ Retinal photocoagulation, panretinal photocoagulation and intravitreal endophotoccagulation of vascular and
+structural abnormalities of the retina and choroid including:
+- proliferative and nonproliferative diabetic retinopathy;
+- choroidal neovascularization;
+- branch retinal vein occlusion;
+- age-related macular degeneration
+- retinal tears and detachments
+~ retinopathy of prematurity
+¢ — Iridotomy, iridectomy and trabeculoplasty in angle closure glaucoma and open angle glaucoma
+Prescription Use v ANDIOR Over-The-Counter Use
+(Part 21 CFR'801 Subpart D) (21 CFR 801 Subpart C)
+PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED
+Concurrence of CDRH, Office of Device Evaluatiqn (ODE)
+— seoeeviens oe saree anne ee
+(Division ign-Off)
+. 2
+oa ive.
+Division of General, Restorative,
+. :
+and Neurological Devices
+IL orl Gyk
+510(k) Number__——-—--—------——
+Page 2 of 3
+
+5 a
+Indications for Use Statement - Continued 4 So # ¢ 4
+(gn “
+610(k) Number (if known): * _K071687 ?
+Device Name: Family of IRIDEX® IQ Laser Systems (IQ 532, 1Q 77, IQ 630-670, IQ B10)
+810nm .
+Ophthalmology
+Indicated for retinal photocoagulation, laser trabeculoplasty, transscleral cyclophotocoagulation, transscleral
+fetinal photocoagulation, iridotomy, including the following examples:
+« Retinal photocoagulation for the treatment of.
+> Diabetic retinopathy, including:
+~ Nonproliferative retinopathy
+- Macular edema
+- Proliferative retinopathy
+> Retinal Tears, Detachments and Holes
+> Lattice degeneration
+> Age-related macular degeneration (AMD) with choroidal neovascularization (CNV)
+> Retinopathy of prematurity
+> Sub-retinal (choroidal) neovascularization
+> Central and Branch Retinal Vein Occlusion
+e Laser trabeculoplasty, Iridotomy, Transscleral Cyclophotocoagulation (TSCPC) for the treatment of
+glaucoma, including:
+> Primary open angle
+> Closed angle
+> Refractory Glaucoma (recalcitrant/uncontrolled)
+Prescription Use v AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Davice Evaluation (ODE)
+fe
+(Division Sign-Off) ti
+sont 1ve.
+Division of General, Restorative,
+. .
+and Neurological Devices
+| ta Ve vy
+,
+510(k) Number-_——.
+Page 3 of 3
+

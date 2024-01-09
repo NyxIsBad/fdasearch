@@ -1,0 +1,161 @@
+07369 7 g Vek a
+Bee
+JUL 22 2008
+510(k) Summary for the PULSAR™ Generator
+and PEAK PlasmaBlade™ Tissue Dissection Device
+1. Submitter name and address:
+PEAK Surgical, Inc.
+2464 Embarcadero Way
+Palo Alto, CA 94303
+Phone: 650-331-3022
+Fax: 650-331-3293
+Contact: Grace Carlson, MD
+Date Prepared: October 29, 2007
+2. Device Name:
+Trade Name: PULSAR™ Generator and
+PEAK PlasmaBlade™ Tissue Dissection Device
+Common Name: Electrosurgical Device and Accessories
+Classification Name: Electrosurgical Cutting and Coagulation Device and
+Accessories (21 CFR 878.4400)
+3. Predicate Devices:
+Medtrex OR Pro 300 Electrosurgical Generator (K981724)
+Ellman Surgitron 120 IEC (K013255)
+Valleylab E2515 Electrosurgical Accessory (K791639)
+Valleylab Coated Electrode (K962044)
+Utah Medical Ceramic Blade Electrode (K960255)
+4. Device description:
+The PULSAR Generator is a microcontroller based, isolated output,
+electrosurgical unit that has been designed to produce monopolar and bipolar RF
+energy for cutting and coagulation during surgery. The PULSAR Generator is
+used with the PEAK PlasmaBlade Tissue Dissection Device, which is a single
+use, sterile handpiece for monopolar energy delivery. The PEAK PlasmaBlade
+Tissue Dissection Device consists of an insulated blade electrode, rotating
+bendable shaft, handle with integrated controls, and a cable. An optional
+footswitch may be used to operate the system in lieu of the controls on the
+PlasmaBlade handpiece.
+PEAK Surgical, Inc.
+PULSAR Generator and PEAK PlasmaBlade Premarket Notification
+October 29, 2007 22
+
+kov7oe3? e Fel “OQ
+; bere
+5. Intended Use:
+The PULSAR Electrosurgical Generator with the PlasmaBlade Tissue Dissection
+Device is intended to be used for cutting and coagulation of soft tissue during
+surgical procedures.
+6. Technological Characteristics
+The PULSAR Generator with the PEAK PlasmaBlade Tissue Dissection Device
+is similar to the predicate devices in that they are all electrosurgical instruments
+used to cut tissue and coagulate soft tissue, utilizing RF powered distal ends.
+7. Performance Data
+Preclinical laboratory and performance tests were executed to ensure the devices
+functioned as intended and met design specifications. Sufficient data were
+abtained to show that the device is substantially equivalent to the predicate
+devices, and meets safety and effectiveness criteria.
+8. Sterilization
+The PEAK PlasmaBlade Tissue Dissection Device is provided sterile. The device
+is not intended for reuse or resterilization.
+9. Conclusions
+By virtue of design, materials, function, and intended use, the PULSAR Generator
+and PEAK PlasmaBlade Tissue Dissection Device is substantially equivalent to
+FDA-cleared devices currently marketed in the United States. In establishing
+substantial equivalence to the predicate devices, PEAK Surgical evaluated the
+indications for use, materials incorporated, product specification and energy ‘
+requirements of those systems.
+PEAK Surgical, Inc.
+PULSAR Generator and PEAK PlasmaBlade Premarket Notification
+October 29, 2007 23
+
+? ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+oe Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+JUL 22 2008
+PEAK Surgical, Inc.
+% Grace A. Carlson, MD
+2464 Embarcadero Way
+Palo Alto, California 94303
+Re: K073057
+Trade/Device Name: PULSAR™ Generator and PEAK PlasmaBlade™ Tissue Dissection
+Device
+Regulation Number: 21 CFR 878.4400
+RepulationName: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: II
+Product Code: GEI
+Dated: June 20, 2008
+Received: June 23, 2008
+Dear Dr. Carlson:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified m accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class IT (Special Controls) or class I] (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling 21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 ~ Grace A. Carlson, MD
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97), For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474. For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda. gov/edrh/industry/support/index.html.
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+
+Office of Device Evaluation
+
+Center for Devices and
+Enclosure
+
+joP30S 2g. ef |
+Indications for Use
+510(k) Number (if known):
+Device Name: PULSAR™ Generator and
+PEAK PlasmaBlade™ Tissue Dissection Device
+Indications for Use:
+The PULSAR Generator with the PEAK PlasmaBlade Tissue Dissection Device is
+intended to be used for cutting and coagulation of soft tissue during surgical procedures.
+Prescription se AND . Over-TheCounter Lge
+(Part 21 CFR 801 Subpart D) VOR (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE
+IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+| (Division Sign-Off)
+oo ivisi al, Restorative
+, PEAK Surgical, Inc. Division of Gener , . ,
+PULSAR Generator and PEAK PlasmaBlade Premf&ikét Neurological Devices
+October 29, 2007 20
+510(k) Number_—
+

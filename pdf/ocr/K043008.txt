@@ -1,0 +1,136 @@
+NOV 17 2004
+510(k) SUMMARY
+1. Submitter Name and Address k 0 & 2 00 6
+SurgRx, Inc. _
+380 Portage Avenue
+Palo Alto, CA 94306
+Contact: Linda Oleson
+Phone: (650) 739-0920 xt 107
+Date: 10/28/04
+2. Device Name
+Trade name: EnSeal Vessel Sealing & Hemostasis System (with RF-60 generator/controller)
+Common name: Electrosurgical open and laparoscopic instruments and accessories
+Classification name: Electrosurgical Cutting and Coagulation Device and Accessories
+(per 21 CFR section 878.4400) and Gynecologic Electrocautery and Accessories (per 21
+CFR 884.4120).
+3. Predicate Device
+EnSeal™ Vessel Sealing and Hemostasis System # K031133
+4. Device Description
+The RF-60 generator/controller which is used in conjunction with the EnSeal System.
+The functionality and remaining components of the System are the same.
+5. Intended Use
+The SurgRx EnSeal devices are intended for use during open or laparoscopic general
+and gynecologic surgery to cut and seal vessels, cut, grasp and dissect tissue and/or
+seal vessels during surgery. The SurgRx EnSeal Vessel Sealing & Hemostasis System
+has not been shown to be effective for tubal sterilization or tubal coagulation for
+sterilization procedures. Do not use this system for these procedures.
+6. Technological Characteristics
+The EnSeal electrosurgical instruments are the same as the predicate devices utilizing
+RF powered bipolar distat ends.
+7. Performance Data
+Preclinical laboratory (bench & live animal studies) and performance tests were executed
+to ensure the devices function as intended and meet design specifications.
+8. Conclusions
+The EnSeal System is equivalent to the predicate devices based on results of design
+validation. We believe that the RF-60 generator/controller used in conjunction with the
+EnSeal devices is safe and effective and substantially equivalent to the predicate devices.
+380 Portage Avenue | Palo Alto, CA 94306 j Tel 650.739.0920 | Fax 650.739.0929 | www.surgn.com
+_ orl
+
+ain
+j DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+f=,
+ae Food and Drug Administration
+9200 Corporate Boulevard
+NOV 17 2004 Rockville MD 20850
+Ms. Linda Oleson
+Director of Clinical and Regulatory Affairs
+SurgRx, Inc.
+380 Portage Avenue
+Palo Alto, California 94306
+Re: K043008
+Trade/Device Name: SurgRx EnSeal Vessel Sealing & Hemostasis System
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: II
+Product Code: GEI, HGI
+Dated: October 29, 2004
+Received: November 1, 2004
+Dear Ms. Oleson:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class Ill (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Ms. Linda Oleson
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+“Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www.fda.gov/edrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+Yanan C. Bevo
+Catia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+
+Office of Device Evaluation
+
+Center for Devices and Radiological Health
+Enclosure .
+
+Indications for Use Statement
+Applicant: SurgRx, inc.
+510(k) number (if known): K O04 309%
+Device Name: SurgRx EnSea! Vessel Sealing & Hemostasis System
+Indications for Use:
+The SurgRx EnSeal system includes bipolar electrosurgical instruments and an
+accessory adapter for use with standard electrosurgical generators. {t is intended for use
+during open or laparoscopic, general and gynecologic surgery to cut and seal vessels,
+cut, grasp and dissect tissue during surgery.
+Indications for use include open and laparoscopic general and gynecological surgical
+procedures (including urologic, thoracic, plastic and reconstructive, bowel resections,
+hysterectomies, cholecystectomies, gall bladder procedures, Nissen fundoplication,
+adhesiolysis, oophorectomies, etc.), or any procedure where vessel ligation (cutting and
+sealing), tissue grasping and dissection is performed. The devices can be used on
+vessels up to (and including) 7 mm and bundles as large as will fit in the jaws of the
+instruments.
+The SurgRx EnSeal Vessel Sealing & Hemostasis System has not been shown to be
+effective for tubal sterilization or tubal coagulation for sterilization procedures. Do not use
+this system for these procedures.
+Prescription Use_X_ OR Over-The-Counter Use
+(Per 21 CFR 801.109)
+(Optional Format 1-2-96)
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)
+: Concurrence of CDRH, Office of Device Evaluation (ODE)
+Tuuanl Karvot
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices Page 1 of 1
+043008
+

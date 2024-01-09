@@ -1,0 +1,149 @@
+APR 15 2003
+510(k) Summary Ko023 S41
+for
+DioLase 980 D Diode Laser System
+1. SPONSOR
+. American Dental Technologies, Inc.
+
+5555 Bear Lane
+Corpus Christi, TX 78405
+Contact Person: Roger Dartt, CEO
+Telephone: 1-800-320-1050
+Date Prepared: October 11, 2002
+
+2. DEVICE NAME
+Proprietary Name: DioLase 980 D Laser System
+Common/Usual Name: Dental Laser System
+Classification Name: Laser Surgical Instrument
+
+3. PREDICATE DEVICES
+BioLitec Smilepro 980 nm Diode Laser
+
+4. INTENDED USE
+The Diolase 980 D Diode Dental Laser System is intended for use in the
+following procedures: Frenectomy, Frenotomy, Biopsy, Operculectomy,
+Implant Recovery, Gingivectomy, Gingivoplasty, Gingival Troughing, Crown
+Lengthening, Hemostasis of Donor Site, Removal of Granulation Tissue,
+Laser-assisted Flap Surgery, Debridement of Deseased Epithelial Lining,
+Incisions and Draining of Abscesses, Tissue Retraction for Impressions,
+Papillectomy, Vestibuloplasty, Excision of Lesions, Leukoplakia, Exposure of
+Unerupted/Partially Erupted Teeth, Removal of Hyperplastic Tissues,
+Treatment of Aphthous Ulcers, Sulcular Debridement, Pulpotomy, Pulpotomy
+as an Adjunct to Root Canal Therapy, and Light Activation of Bleaching
+Materials.
+
+5. DEVICE DESCRIPTION
+The Diolase 980 D Diode Dental Laser System is a portable instrument
+intended for ablating, incising, excising, and coagulating intraoral soft tissue
+(including the marginal and interdental gingival) using a contact fiber optic
+delivery system.
+6. BASIS FOR SUBSTANTIAL EQUIVALENCE
+The Diolase 980 D Diode Dental Laser System has the same intended use and
+the same or substantially equivalent technical specifications and mechanism
+of action as compared with the named predicated devices. The comparison of
+specifications are as follows:
+ADT Diolase 980
+Wavelength [980mm [980 nm
+3 _
+21sW
+2W=1W
+[Pulse Duration OFF [0110 99.9See. | 01 to 99. Sec. ~~
+[Aiming Beam [635 nia, SmW; Red | 635 am, mW; Ret
+ooting Kir Cooked
+Pwaghe 18s Os
+[Dimensions RT a x9"
+1
+
+pr nrcte
+i DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+a
+sn Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+APR 15 2002
+Ms. Marcia Van Valen
+Regulatory Specialist
+American Dental Technologies, Inc.
+12 Prairie Falcon
+Aliso Viejo, CA 92656
+Re: K023547
+Trade/Device Name: Diolase 980 D Diode Dental Laser System
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and in
+dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: January 15, 2003
+Received: January 16, 2003
+Dear Ms. Van Valen:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class HI (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Ms. Marcia Van Valen
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (301) 594-4659. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www.fda.gov/cdrh/dsma/dsmamain.html
+Sincerely yours,
+rurcant O Pevert |
+(a-Celia M. Witten, Ph.D., M.D.
+' Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+510(K) Notification: \K 0 2 3 5 y 7
+Device Name: Diolase 980 D Diode Dental Laser System
+Indications for Use:
+The following indications for use are the same as those approved on the predicate device.
+The DioLase 980 D Diode Dental Laser System is intended for the following applications
+on intraoral and extraoral soft tissue (including marginal and interdental gingival and
+epithelial lining of free gingival): Frenectomy, Frenotomy, Biopsy, Operculectomy,
+Implant Recovery, Gingivectomy, Gingivoplasty, Gingival Troughing, Crown
+Lengthening, Hemostasis of Donor Site, Removal of Granulation Tissue, Laser-assisted
+Flap Surgery, Debridement of Diseased Epithelial Lining, Incisions and Draining of
+Abscesses, Tissue Retraction for Impressions, Papillectomy, Vestibuloplasty, Excision of
+Lesions, Leukoplakia, Exposure of Unerupted/Partially Erupted Teeth, Removal of
+Hyperplastic Tissues, Treatment of Aphthous Ulcers, Sulcular Debridement, Pulpotomy,
+Pulpotomy as an Adjunct to Root Canal Therapy, and Light Activation of Bleaching
+Materials.
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NECESSARY)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+al Vaevort
+' (ivision Sign-Off)
+Division of General, Restorative
+and Neurological Devices
+510(k) Number __ Kor 9S4 T
+Prescription Use ne OR Over-The-Counter Use
+(Per 21 CFR 801.109) (Optional Format 1-2-96)
+American Dental Technologies, Inc.
+DioLase 980 D Diode Laser 510(k)
+

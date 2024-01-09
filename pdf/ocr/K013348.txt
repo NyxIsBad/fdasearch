@@ -1,0 +1,235 @@
+OCT 2 6 2001
+510K SUMMARY
+Kot334¢
+‘ Submitted By: ERBE USA;Ine. :
+2275 Northwest Parkway ‘
+Suite 105
+Marietta, GA 30067
+Tel: 770-955-4400
+Fax: 770-955-2577
+Contact Person: John Tartal
+Date Prepared: 10/05/01
+Common Name: Argon Plasma Coagulator (APC) Connector Hose and
+Probes
+Trade/Proprietary Name: ERBE APC Handle and Applicators
+Classification Name: Electrosurgical cutting and coagulation device and
+accessories (21CFR878.4400)
+Product Code: 79GEl
+Legally Marketed Device: Accessories (APC Connector Hose and Probes) submitted in
+the ERBE APC 300 Argon Plasma Coagulator and
+Accessories, 510(k) Number: K963189
+Note: The APC Connector Hose and Probes being submitted in this premarket
+notification are modified from the accessories in the above 510(k). The modifications
+were determined to require a 510(k) submission.
+Device Description:
+The APC Connector Hose is a flexible connecting cable. It has a pronged connecting
+end to the APC Probe and is 8.2ft. (2.5m) in length (Note: The other end of the hose
+connects to an ERBE Argon Plasma Coagulator Model APC 300.). The connector ends
+of the Hose are made of polyamide, poly ether ether ketone (PEEK), and plastic
+(Thermoflex). The cable portion of the Hose is silicone. The Hose is a conduit for both
+electrosurgical current and argon gas. The APC Connector Hose is provided non-sterile
+and is reusable (Note: The cleaning and sterilization processes have been validated
+and are provided in the Notes for use to the customer.).
+I-14
+
+510K SUMMARY
+
+: The APC Probes are also tubular instruments and are flexible. They are provided in
+various lengths and diameter sizes to accommodate the various size/types of ,
+endoscopes for a variety of applications (i.¢., the treatment of various target tissues
+inside a patient). The lengths of the APC Probes are 4.9ft. (1.5m) to 9.8ft. (3m). The
+diameters of the APC Probes are 4.5 French (1.5mm) to 9.6 French (3.2mm). For the
+Probe, the connector end is made of plastics (polypropylene and Thermoflex). The tube
+portion of the Probe is made of Teflon (PTFE) and has a stainless steel wafer shape
+electrode close to the tip for terminating electrical current. For the lateral opening (side
+fire) Probe there is a glued on ceramic tip. The APC Probes have either an axial
+(straight fire) or a lateral (side fire) opening allowing the energy to be delivered straight
+or at a 45 to 90 degree angle. The two types of openings for the APC Probes allow the
+physician a choice in the direction of delivering the argon plasma to the treatment site.
+The APC Probes are provided sterile by means of ethylene oxide and are disposable
+(Single Use) [Note: The sterilization cycle has been validated. See Section IV,
+Sterilization information, !V-1 to IV-2).
+The APC Connector Hose and Probes are accessories of the ERBE Argon Plasma
+Coagulator Model APC 300 (Note: The Coagulator is used with an ERBOTOM ICC
+Series Electrosurgical Generator Unit.). The APC Connector Hose attaches to gas as
+well as electrical inputs of the Coagulator and then to an APC Probe (Note: The
+Coagulator has an instrument recognition system which identifies the Probe for argon
+gas flow purposes.). An endoscope is manipulated inside the patient to locate tissue
+that requires treatment. Upon finding the target tissue, the APC Probe is threaded into
+the working channel of the endoscope, until the tip of the APC Probe slightly protrudes
+from the end of the scope. Then opening of the APC Probe is positioned towards/in
+close proximity of the area to be treated ((Note: The APC Probes have depth marker
+rings close to the tip for positioning purposes.). The APC/ICC system is activated via a
+footswitch. When high frequency voltage reaches the critical level and the proximity to
+tissue is close enough, electrically conductive argon plasma forms in the gas stream.
+This allows the current to flow between the probe and the tissue. Current density upon
+arrival at the tissue surface causes coagulation. The application of the energy to the
+tissue is uniform and contact free.
+Intended Use:
+The APC Connector Hose and Probes are intended for use in argon plasma
+coagulation. The device is used to treat many conditions in endoscopy for various
+surgical procedures.
+Similarities and Differences of the Modified Device to the Current Device (Predicate
+Comparison/Substantial Equivalence):
+APC Connector Hose
+
+INl-2
+
+510K SUMMARY
+
+, Similarities
+The modified Hose has the same performance specifications, intended use, packaging,
+and labeling. Also like the predicate, it is provided non-sterile and is re-usable with the
+same cleaning procedures.
+Differences
+For the modified Hose, the end that connects to the APC Filter/Coagulator (Model APC300) has a slightly smaller insert thread diameter (Note: Change is from 7.2mm to
+6.8mm) in comparison to the predicate. This change was made to make the connection
+to the APC Filter/Coagulator (Model APC-300) more secure/tighter. Also, the modified
+Hose has a one piece y-connector where as the predicate’s is a two-piece v-connector
+(Note: Change enhances integrity). The cable of the modified Hose is more flexible
+then the cable of the predicate, making manipulation easier. In addition, the connector
+end of the Hose that attaches to an APC Probe is made of a material (i.e., a plastic in
+comparison to a polyamide) that is harder and has two pins instead of one in
+comparison to the predicate (Note: The modified connection to the APC Probe is more
+
+/ secure.).
+All the changes have been verified or validated in design control.
+Finally, a contract manufacturer will make the modified APC Connector Hose in
+comparison to the predicate that is made in-house by ERBE Elektromedizin GmbH.
+APC Probe ,
+Similarities
+The modified APC Probes have the same performance specifications, intended use,
+and labeling. Dimensional and packaging specifications are very similar. Also like the
+predicate, it is provided sterile by ethylene oxide and is single use.
+Differences
+For the modified APC Probes, the end that joins to the APC Connector Hose has a
+receptacle for a two-prong attachment instead of one pin. Also the material of the
+connector end is made of a plastic instead of nylon. The attachment end is hardier and
+the connection to the APC Connector Hose is more secure with the two pins. One of
+the APC Probes (P/N: 20132-100) is slightly longer than the longest predicate (P/N:
+20132-166) [Note: Increase is from 2.5m/8.2ft. to 3m/9.8ft.] The 3m/9.8ft. Probe is for
+use in an endoscope that has a longer channel. Also, the internal electrode that is close
+to the tip was modified from a coiled wire to a solid wafer shaped piate. The electrode
+ignites better and cools quicker because of the larger surface area in the modified APC
+Probe (i.e., there is more consistency in activation). in addition, the ceramic tip has
+been found not to be necessary for the straight fire Probes which helps reduce
+agglutination at the tip.
+
+IH-3
+
+510K SUMMARY
+The packaging specifications have slightly changed from the predicate device submitted , ,
+in the 510(k). The package is shorter and wider (260 x 230mm in comparison to 400 x
+205mm).
+All the changes have been verified or validated in design control.
+Finally, a contract manufacturer will manufacture the modified APC Probes in contrast
+with the predicate devices, which are made in-house by ERBE Elektromedizin GmbH.
+Conclusion:
+The APC Connector Hose and Probes have the same intended use, principles of
+operation, and technological characteristics as the accessories in the previously cleared
+predicate device.
+The dimensional or structural modification as well as the material change to the
+connector ends of the APC Connector Hose does not adversely affect the safety or
+effectiveness of the accessory. Also, the contract manufacturing of the APC Connector
+Hose does not raise safety or efficacy concerns.
+The structural modification to the connector end of the APC Probes, the material
+changes in the APC Probes, as well as the redesigned internal electrode does not
+/ adversely affect the safety or effectiveness of the accessories. Also, the one Probe
+being longer and the packaging changes did not have a safety or efficacy impact.
+In addition, the contract manufacturing of the APC Probes does not raise safety or
+efficacy concerns.
+Il-4
+
+ey
+f DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+RSC
+“Nene Food and Drug Administration
+9200 Corporate Boulevard
+OCT 26 2001 Rockville MD 20850
+Mr. John Tartal
+Quality Assurance/Regulatory Affairs
+Manager
+ERBE USA, Inc. .
+2275 Northwest Parkway, Suite 105
+Marietta, Georgia 30067
+Re: K013348
+Trade/Device Name: ERBE APC Handle and Applicators
+Regulation Number: 878.4400
+Regulation Name: Electrosurgical Cutting and Coagulation Device
+and Accessories
+Regulatory Class: II
+Product Code: GEI
+Dated: October 5, 2001
+Received: October 9, 2001
+Dear Mr. Tartal:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controis. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. John Tartal
+
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 21 CFR Part 809.10 for in vitro diagnostic devices), please contact the Office of
+Compliance at (301) 594-4659. Additionally, for questions on the promotion and advertising of
+your device, please contact the Office of Compliance at (301) 594-4639. Also, please note the
+regulation entitled, “Misbranding by reference to premarket notification” (21CFR Part 807.97).
+Other general information on your responsibilities under the Act may be obtained from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 443-6597 or at its Internet address
+http://www. fda.gov/cdrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+: Celia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+, . Page 1 of 1
+S10 (ie) NuwBeR (re KNOWN): KO1ZS 4G
+DEVICE Name: APC Connector Hose and Probes
+INDICATIONS FOR USE: ,
+APC Coagulation ,
+‘ : 2 =
+3 MS
+“og §
+. 3 7
+. : vom mr SS
+0 8 6
+(PLEASE ‘DO NOT WRITS BELOW THIS LINE-CONTINUE ON ANOTHER PB: ,
+If NEEDED.) .
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+ssl”
+ivision Sign-O: .
+Prescription Use J °" Dion SARE
+(Per 21 CFR 801.109) pal forma
+and Neurologi ces
+510(k) Number_KO13 340 3 c me
+

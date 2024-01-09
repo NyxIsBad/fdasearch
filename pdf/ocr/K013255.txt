@@ -1,0 +1,204 @@
+Nov 07 200 ollman Surgitron 120 IEC
+510 (k) Summary
+Koizass
+1. Submitter name and address: ee
+Frank Lin, Ph.D. :
+Director of R&D engineering
+eflman international
+1135 Railroad Avenue
+Hewlett. New York 11557
+2. Device name and classification:
+2.1 Device Name: Surgitron 120 IEC (Also known as Surgitron 4.0 Dual RF)
+‘ 2.2 Classification: Class 2 device, 21 CFR 878.4400
+3. Description of the device:
+The ellman Surgitron 120 IEC enhanced capability Electrosurgery Generator described
+herein is a compact source of high power RF energy to be employed for a variety of
+radiosurgery procedures. This action is achieved by front panel selection of waveforms
+and power level. All selection is effected through push buttons and lamps which give the
+operator feedback of status. Power level for each mode is indicated by front panel digital
+displays which also show the status of self-test and monitoring. This display is
+interlocked with the controls to prevent operation when FAIL is displayed. The final
+output power control is made through foot and/or hand switches. Both Monopolar and
+Bipolar electrodes are provided. It is designed to comply with international safety
+standards.
+4. The intended use/indication for use of the device: |
+4.1 Cutting !
+Snoring, Submucosal palatal shrinkage, traditional uvulopalatoplasty (RAUP), |
+myringotomy with effective hemorrhage control, epistaxis treatment, and turbinate
+shrinkage, Skin Incisions, Biopsy. Cysts, Abscesses, Tumors, Cosmetic Repairs,
+Development of Skin Flaps, SkinTags, Blepharoplasty,
+4.2 Blended Cutting and Coagulation
+Snoring, Submucosal palatal shrinkage, traditional uvulopalatoplasty (RAUP),
+myringotomy with effective hemorrhage control, epistaxis treatment, and turbinate
+shrinkage, Skin Tags, Papilloma Keloids, Keratosis, Verrucae, Basal CellCarcinoma,
+Nevi, Fistulas, Epithelioma, Cosmetic Repairs, Cysts, Abscesses, Development of Skin
+Flaps,
+4.3 Hemostasis
+Control of Bleeding, Epilation, Telangiectasia |
+Page | of 2
+
+( 4.4 Fulguration
+’ Basal Cell Carcinoma, Papilloma, Cyst Destruction, Tumors, Verrucae, Hemostasis.
+4.5 Bipolar
+Pinpoint, Precise Coagulation, Pinpoint Hemostasis in any field (Wet or Dry), Snoring,
+Submucosal palatal shrinkage, traditional uvulopalatoplasty (RAUP), myringotomy
+with effective hemorrhage control, epistaxis treatment, and turbinate shrinkage.
+5. Identification to predicate devices
+5.1 Sugitron IEC II with general use indication K001253
+5.2 ERBOTOM ICC 200 with general use indication K933157
+6. Summary of the technological characteristics of the new device in comparison to the
+predicate devices. ,
+Substantial equivalence
+___ In Technological Characteristics comparison _—_
+f oliman ERBOTOM
+i FEATURE ollman SURGITRON IEC II 1CC200 WITH
+i SURGITRON 120IEC | WITH GENERAL USE
+(New Application Device )| INDICATION K001253 INDICATION
+k PREDICATE K933157 PREDICATE
+Mndications For Use Snoring, submucosal Same As New Device |Same As New Device
+| palatal shrinkage, :
+i traditionat i
+| uvulopalatoplasty (RAUP), |
+i inytingotomy with i
+A effective hemorrhage |
+| control, epistaxis treat, and |
+turbinate shrinkage. Also,
+see page 5 for detail.
+[Design Specification | UL544 and IEC601-2-2 |Same As New Device {Same As New Device
+fOurput Energy [120 Watt {100 Watt 200 Watt
+[Output Waveform (s) 4.0 MHz Sin-wave CW, « |Same As New Device |350KHz Sine-Shaped and
+| Fully Rectified, Partially 1MHz Pulse-modulated
+Rectified, and 1.7 MIIz for
+Fulgurating Spark-Gap
+Standards Met UL2601 and IEC UL2601 and IEC TEC 601-1
+601-1 601-2-2, 601-1 601-2-2,
+| BS15724:2.2 BS15724:2.2
+[Delivery system and Monopolar and Bipolar Monopolar and Bipolar Same As New Device
+configuration
+[Biocompatibility Test |Electrodes identical to [Same As New Device |Same As New Device
+predicate device
+ISterilization Method(s) |Refer to page 6, Note I Same As New Device |Not Indicated
+EY
+Page 2 of 2
+
+es
+f & DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+% re
+~ Food and Drug Administration
+Corporate Boulevard
+DEE 2 001 Rockville MD 280
+Mr. Frank Lin
+Director of Engineering
+Research and Development Department
+Ellman International, Inc.
+1135 Railroad Avenue
+Hewlett, New York 11557-2316
+Re: K013255
+Trade/Device Name: Surgitron 120 IEC
+Regulation Number: 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: II
+Product Code: GEI
+Dated: September 27, 2001
+Received: September 28, 2001
+Dear Mr. Lin:
+This letter corrects our substantially equivalent letter of November 7, 2001 regarding the file
+number.
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act). You may, therefore, market the device, subject to the general controls
+provisions of the Act. The general controls provisions of the Act include requirements for annual
+registration, listing of devices, good manufacturing practice, labeling, and prohibitions against
+misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+ur any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CER Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Mr. Frank Lin
+This letter will allow you to continue marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally Part 809.10 for in vitro diagnostic devices), please contact the Office of Compliance
+at (301) 594-4659. Additionally, for questions on the promotion and advertising of your device,
+please contact the Office of Compliance at (301) 594-4639. Other general information on your
+responsibilities under the Act may be obtained from the Division of Small Manufacturers,
+International and Consumer Assistance at their toll free number (800) 638-2041 or at (301)
+443-6597 or at its Internet address http://www.fda.gov/odrh/dsma/dsmamain html.
+
+Sincerely yours,
+
+Celia M. Witten, Ph.D., M.D.
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+| Nov 0 7 2001
+510K Notification page 5 olan international
+Surgitron - General & Plastic Surgery Use
+$10(k) Number (if known) _KO13.2SS"
+Device Name:___ SURGITRON 120 TEC__
+Indication For Use: is idendical to the Surgitron as a preammendment device such as:
+* Cutting
+
+Snoring, Submucosal palatal shrinkage, traditional uvulopalatoplasty (RAUP),
+
+myringotomy with effective hemorrhage control, epistaxis treatment, and turbinate
+
+shrinkage, Skin Incisions, Biopsy, Cysts, Abscesses, Tumors, Cosmetic Repairs,
+
+Development of Skin Flaps, SkinTags, Blepharoplasty,
+
+* Blended Cutting and Coagulation
+
+Snoring, Submucosal palatal shrinkage, traditional uvulopalatoplasty (RAUP),
+
+myringotomy with effective hemorrhage control, epistaxis treatment, and turbinate
+
+shrinkage, Skin Tags, Papilloma Keloids, Keratosis, Verrncae, Basal CellCarcinoma,
+
+Nevi, Fistulas, Epithelioma, Cosmetic Repairs, Cysts, Abscesses, Development of Skin i
+| Flaps, {
+! * Hemostasis :
+, Control of Bleeding, Epilation, Telangiectasia
+| :
+1 * Fulguration
+| Basal Cell Carcinoma, Papilloma, Cyst Destruction, Tumors, Verrucae, Hemostasis. .
+i :
+* Bipolar :
+
+Pinpoint, Precise Coagulation, Pinpoint Hemostasis in any field (Wet or Dry), Snoring, i
+
+Submucosal palatal shrinkage, traditional uvulopalatoplasty (RAUP), myringotomny ,
+
+with effective hemorrhage control, epistaxis treatment, and turbinate shrinkage
+
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE |
+IF NEEDED)
+1
+Concurrence of CDRH, Office of Device Evaluation(ODE)
+_ / (Division Sign-Off) .
+Prescription Use__*/ ____ Division of Gei@Pal, Restoratiever-The- Counter Use
+(Per 21 CFR 801.109) “and Neurological Devices ,
+(Optional Format 1-2-96)
+| 510(k) Number :
+\ [Sass .
+

@@ -1,0 +1,153 @@
+KO$O4GS] JUL -3 2008
+510(k) Summa
+Date: . February 15, 2008 Frage | ‘b
+Sponsor of the 510(k)
+AngioDynamics, Inc.
+603 Queensbury Ave
+Queensbury, NY 12801
+Establishment Registration number 1319211
+Contact: Brian Kunst, Vice President, Regulatory Affairs and Quality Assurance
+518-798-1215, x1123
+Device Identification:
+Proprietary Name: Uniblate Electrosurgical Device
+Common Name: Radiofrequency probe
+Classification Name: Electrosurgical cutting and coagulation device and
+accessories
+Classification Number: 21 CFR §878.4400
+Classification Panel: General and Plastic Surgery
+Product Code: GEI
+Regulatory Class: I
+Legally marketed device to which equivalence is claimed:
+Angiodynamics Uniblate Electrosurgical Device, 510(k) K070101
+Angiodynamics (formerly RITA Medical Systems) Starburst Electrosurgical Device
+510(k) K030967
+Valleylab Cool-Tip Electrosurgical probe, 510(k) K052796
+Intended Use / Indications
+The AngioDynamics Uniblate System is intended for coagulation and ablation of tissue
+during percutaneous, laparoscopic, and intraoperative surgical procedures, such as partial
+or complete ablation of non-resectable liver lesions, osteoid osteoma, and palliation of
+pain associated with metastatic lesions involving bone in patients who have failed or are
+not candidates for standard therapy.
+
+Kogogs)
+. Device Description
+“ge 8 AG)
+The UniBlate Electrosurgical Device is a monopolar radiofrequency (RF) device that consists of a
+variably insulated electrode that provides an adjustable ablation zone of 1 cm~3 om.. The device
+has an attached electrical cable and infusion tubing set which connects the it directly to the RITA
+Medical 1500X RF generator and the IntelliFlow peristaltic pump. The electrical cable provides
+RF energy and temperature feedback to the generator and the pump infuses normal saline through
+the infusion tubing set. The UniBlate Electrosurgical Device is a single use device.
+Technological Differences:
+The AngioDynamics UniBlate, AngioDynamics Starburst Electrosurgical device (K030967), and
+Valleylab Cool-Tip (K052796) are monopolar electrodes used to deliver RF energy during open,
+laparoscopic or percutaneous procedures to ablate and coagulate soft tissue. The UniBlate is
+designed to provide a scaleable coagulation zone. The UniBlate electrode has a single active
+electrode that can be exposed from 1 cm to 2.5 cm by retracting an insulating sheath. The CoolTip has a fixed length active electrode, but is available in different sizes of lcm, 2cm, and 3cm.
+The UniBlate allows for local fluid delivery as well as temperature monitoring. The Starburst
+SDE is a mulit-tined probe that provides an adjustable ablation zone up to 2cm.
+Intended Use
+The AngioDynamics Uniblate Electrosurgical Device is intended for coagulation and
+ablation of tissue during percutaneous, laparoscopic, and intraoperative surgical
+procedures, such as partial or complete ablation of non-resectable liver lesions, osteoid
+_ , osteoma, and palliation of pain associated with metastatic lesions involving bone in
+patients who have failed or are not candidates for standard therapy
+The Angiodynamics Starburst electrosurgical device is indicated for coagulation and
+ablation of tissue during percutaneous, laparoscopic, and intraoperative surgical
+procedures, such as partial or complete ablation of non-resectable liver lesions and
+palliation of pain associated with metastatic lesions involving bone in patients who have
+failed or are not candidates for standard therapy
+The Valleylab Cool-tip RF System (generator and accessories) is intended for the
+use in percutaneous, laparoscopic, intraoperative coagulation and ablation of
+tissue, such as partial or complete ablation of non-resectable liver lesions and osteoid.
+osteoma tumors within bone.
+
+? g DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+2 i
+heya Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+AngioDynamis, Inc.
+% Mr. Brian Kunst JUL -3 2008
+603 Queensbury Avenue
+Queensbury, New York 12804
+Re: K080451
+Trade/Device Name: Uniblate Electrosurgical Device
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: II
+Product Code: GEI
+Dated: May 24, 2008
+Received: May 29, 2008
+Dear Mr. Kunst:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. Brian Kunst
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474. For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda.gow/edrh/industry/support/index.html,
+Sincerely yours,
+Mark N. Melkerson
+Director
+' Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+Indications for Use
+510¢k) Number (if known): K080451
+Device Name:  Uniblate Electrosurgical Device
+. Indications for Use:
+The AngioDynamics Uniblate Electrosurgical Device is intended for coagulation
+and ablation of tissue during percutaneous, laparoscopic, and intraoperative
+surgical procedures such as partial or complete ablation of non-resectable liver
+lesions, osteoid osteoma, and palliation of pain associated with metastatic lesions
+involving bone in patients who have failed or are not candidates for standard
+therapy .
+Prescription Use X AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 807
+Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF :
+NEEDED) :
+eee
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Qa
+(Divisioh Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+510(k) Number.
+

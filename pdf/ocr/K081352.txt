@@ -1,0 +1,169 @@
+(OFI3S 2
+Attachment IV
+510(k) Summary
+OCT 23 2006
+Submitter: Sciton, Inc.
+Address: 925 Commercial Street, Palo Alto, CA 94303
+Phone: (650) 493-9155
+Fax: (650) 493-9146
+Contact Person: Jay M. Patel, VP of Regulatory Affairs
+Date Prepared: October 21, 2008
+Device Trade Name: Profile Multi-Platform System
+Common Name: Laser/Light Powered Surgical Device (and Accessories)
+Classification Name: Laser Surgical Instrument, 21 CFR 878.4810.
+Legally Marketed K070388: Profile Multi-Platform Laser System and Accessories
+Predicate Device: K070805: ULTRAWAVE It EX 1320
+K042474: ARION Laser System
+K034030: Cynosure Apogee Elite Laser
+K024371: GentleLASE Family of Laser Systems
+K024260: GentleLASE Family of Laser Systems
+K080121: Cynosure Smartlipo Multiwavelength Laser
+K072751: CoolTouch NS160 CoolLipo Nd:YAG Surgical Laser
+K072779: Ceralas D 980nm Diode Laser System (Models D15, D25)
+Description of The Profile Multi-Platform System is a modular, multi-wavelength laser/light system.
+Profile Multi-Platform The system uses scanning and focusing optics to deliver a pattern of thermal
+System energy to the treatment site. The system consists of control console which houses the
+power supply, cooling system, fiber optic delivery system and/or articulated arm
+delivery system with handpiece and/or scanner.
+Intended Use: 755 nm Indications for Use:
+The 755 nm Profile Multi-Platform System with its accessories is indicated for
+stable long-term, or permanent hair reduction for all skin types (Fitzpatrick | - V1)
+including tanned skin. It is also indicated for the treatment of vascular lesions,
+benign pigmented lesions and wrinkles.
+1320 nm Indications for Use:
+The 1320nm Profile Multi-Platform System with its accessories is intended for the
+surgical incision, excision, vaporization, ablation, and coagulation of soft tissue.
+Soft tissue includes skin, cutaneous tissue, subcutaneous tissue, striated and
+smooth tissue, muscle, cartilage meniscus, mucous membrane, lymph vessels
+and nodes, organs and glands. The Profile 1320nm laser is further indicated for
+laser assisted lipolysis.
+2940 nm Indications for Use:
+The 2940 nm Profile Multi-Platform System with Profractional handpiece and
+delivery system is intended for use in dermatological procedures requiring skin
+resurfacing and coagulation of soft tissue.
+Page 1 of 2
+
+Technological The Profile Multi-Platform System shares the same indications for use, similar design
+
+Characteristics features (including wavelength, laser/light medium and delivery systems, power
+supply, cooling and contro! system), functional features (including power output,
+repetition rate, energy, spot size and fluence), and is therefore substantially
+equivalent to the above legally marketed predicate devices.
+
+Safety and The indications for use are based upon the indications for use for predicate systems.
+
+Effectiveness Technologically, the Profile Multi-Platform System is substantially equivalent to the
+listed predicate devices. Therefore, the risks and benefits for the Profile Multi-Platform
+System are comparable to the predicate devices.
+
+Conclusion The Profile Multi-Platform System shares similar indications for use, design features,
+and similar functional features as, and therefore is substantially equivalent to the
+currently marketed predicate devices.
+
+Page 2 of 2
+
+2 ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+come Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Sciton, Inc.
+% Mr. Jay M. Patel OCT 23 2008
+VP of Regulatory Affairs
+925 Commercial Street
+Palo Alto, California 94303
+Re: K081352
+Trade/Device Name: Profile Multi-Platform System
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and
+and in dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: September 5, 2008
+Received: September 5, 2008
+Dear Mr. Patel:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device'is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21 ~
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+Page 2 — Mr. Jay M. Patel
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to :
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474. For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda.goy/cdrh/industry/support/index.html.
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Attachment III
+Statement of Indications for Use
+510(k) Number (if known): __—sKO81352_
+Device Name: Profile Multi-Platform System
+Indications for Use:
+755 nm Indications for Use:
+The 755 nm Profile Multi-Platform System with its accessories is indicated for
+stable long-term, or permanent hair reduction for all skin types (Fitzpatrick | V1) including tanned skin. It is also indicated for the treatment of vascular
+lesions, benign pigmented lesions and wrinkles.
+1320 nm Indications for Use:
+The 1320nm Profile Multi-Platform System with its accessories is intended for
+the surgical incision, excision, vaporization, ablation, and coagulation of soft
+tissue. Soft tissue includes skin, cutaneous tissue, subcutaneous tissue,
+striated and smooth tissue, muscle, cartilage meniscus, mucous membrane,
+lymph vessels and nodes, organs and glands. The Profile 1320nm laser is
+further indicated for laser assisted lipolysis.
+2940 nm Indications for Use:
+The 2940 nm Profile Multi-Platform System with Profractional handpiece and
+delivery system is intended for use in dermatological procedures requiring
+skin resurfacing and coagulation of soft tissue.
+Prescription Use X OR = Over-The-Counter Use
+(Per 21CFR801)
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+AS fc kn
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+{ 2
+510(k) Number__KO%/3 5
+Page 1 of 1
+

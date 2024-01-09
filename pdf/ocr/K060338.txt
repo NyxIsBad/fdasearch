@@ -1,0 +1,268 @@
+MAR 9 2006
+Attachment 4
+510(k) Summary Statement
+I. General Information iK O lo 0 33 Y
+Submitter: Lumenis, Inc. es
+2400 Condensa Street
+Santa Clara, California, U.S. A.
+95051-0901
+Contact Persons: Connie Hoy
+Summary Preparation Date: February 5, 2006
+I. Names
+Device Names: Family of Selecta Ophthalmic Laser Systems, Delivery
+Device and Accessories
+Selecta 1064 Ophthalmic Laser System
+Selecta SLT Ophthalmic Laser System
+Selecta Duo Ophthalmic Laser System
+Selecta Duet Ophthalmic Laser System
+Selecta Trio Ophthalmic laser System
+LaserLink S
+Primary Classification Name: 79, General and Plastic Surgery Panel
+GEX, Laser powered surgical instrument
+III. Predicate Devices
+¢ Lumenis Family of Selecta Ophthalmic Laser Systems K051944
+IV. Product Description
+The Lumenis Selecta is a fully integrated flash lamp pumped, solid state, Nd:YAG
+ophthalmic surgical laser system intended for use in the treatment of ocular pathology
+and for use as a diagnostic slit lamp.
+The Selecta Family of Ophthalmic Lasers, Delivery Device and Accessories are comprised of the
+following configurations:
+Selecta 1064°— a Nd:YAG laser providing Q-switched laser pulses at a wavelength of
+1064nm for use in photodisruption of ocular tissue (posterior capsulotomy, papillary :
+membranectomy, iridotomy). The 1064nm treatment beam delivers a 4 nsec, 0.3-10mJ
+adjustable and selectable single, double or triple pulse of energy. It is conditioned through
+beam shaping optics to generate a photodisruption micro pulse of plasma at a precision
+adjustable location relative to the visual focal plane (located at slit lamp center of
+rotation) and along the slit lamp objective lens axis. A twin aiming beam is also focused by
+the slit lamp objective to a converging 20um spot located at the focal point of the lens. The
+Page | of 3
+
+focal point of photodisruption is adjustable 0-350m in the posterior direction by the
+physician relative to this convergence of the twin aiming beams.
+Selecta SLT® — a Nd:YAG laser providing Q-switched frequency doubled pulses at a
+wavelength of 532nm for use in selective laser trabeculoplasty. The treatment beam
+delivers a 4nsec, 0.1-2mJ adjustable single pulse of energy. The aiming and treatment
+beams are coaxial with each other and focused by the slit lamp objective to a 400um spot
+at the focal point of the lens.
+Selecta Duet® — a Nd:YAG laser providing Q-switched laser pulses at a wavelength of
+1064 nanometers for use in photodisruption or Q-switched frequency doubled pulses at a
+wavelength of 532nm for use in selective laser trabeculoplasty, depending upon the mode
+selected. The Selecta Duo contains two aiming beam modules that produce a single beam
+for the 532nm mode and a dual beam for the 1064nm mode, respectively.
+LaserLink S — a laser slit lamp delivery adaptor that may be coupled to each of the above
+Selecta models and connected to a currently cleared Lumenis 532nm photocoagulator to
+allow the physician to use the Selecta slit lamp to deliver 532nm continuous wave laser
+energy for photocoagulation.
+Selecta Duo — a Selecta 1064 and LaserLink S slit lamp delivery device with a currently
+cleared Lumenis 532nm photocoagulator
+Selecta Trio — a Selecta Duet and LaserLink S slit lamp delivery device with a currently
+cleared Lumenis 532nm photocoagulator
+Selecta SLT and LaserLink S$ with a currently cleared Lumenis 532nm photocoagulator
+Vv. Indications for Use
+Selecta 1064: photodisruption of ocular tissue using light energy emitted by a Nd:YAG
+laser, including discission of the posterior capsule of the eye (posterior
+capsulotomy), and discission of pupillary membranes (pupillary
+membranectomy) in aphakic and pseudophakic patients, and
+iridotomy/iridectomy
+Selecta SLT: _ selective laser trabeculoplasty
+Selecta Duet: photodisruption of ocular tissue using light energy emitted by a Nd:YAG
+laser, including discission of the posterior capsule of the eye (posterior
+capsulotomy), and discission of pupillary membranes (pupillary
+membranectomy) in aphakic and pseudophakic patients, and
+iridotomy/iridectomy; and
+selective laser trabeculoplasty
+LaserLink $: laser delivery system for use by an ophthalmologist in the treatment of
+ocular tissue;
+
+, laser delivery system indicated for use for a variety of ophthalmic uses,
+including the indications specified in the laser operator manual. Refer to
+the laser operator manual, Indications for Use section.
+
+Page 2 of 3
+
+The Selecta 1064, Selecta SLT and Selecta Duet Ophthalmic Lasers are also intended
+
+for use as a diagnostic slit lamp, specifically,
+
+An AC-powered slit lamp biomicroscope intended for use in eye
+examination of the anterior segment, from the cornea epithelium to the
+posterior capsule. It is used to aid in the diagnosis of diseases or trauma
+which affects the structural properties of the anterior segment.
+
+Selecta Duo: — same indications for use as a Selecta 1064® and LaserLink S slit lamp
+delivery device with a currently cleared Lumenis 532nm
+photocoagulator
+
+Selecta Trio: same indications for use as a Selecta Duet and LaserLink S slit lamp
+delivery device with a currently cleared Lumenis 532nm
+photocoagulator
+
+VI. Rationale for Substantial Equivalence
+The devices in this submission are identical to the predicate devices. The purpose of this
+510(K) is for a name change only with no changes to the device or the indications for use.
+VIL. Performance Data
+None
+VIII, Conclusion
+
+The Family of Selecta Ophthalmic Laser Systems, Delivery Device and Accessories are
+
+substantially equivalent to the predicate laser devices, delivery systems and accessories.
+
+The Family of Selecta Ophthalmic Laser Systems, Delivery Device and Accessories
+
+share the same intended use, indications for use, and technological characteristics as the
+
+predicate laser systems.
+Page 3 of 3
+
+é ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+vo Food and Drug Administration
+9200 Corporate Boulevard
+MAR g 2006 Rockville MD 20850
+Lumenis, Inc.
+c/o Ms. Connie Hoy
+Global Director of Regulatory Affairs and
+Quality Assurance
+2400 Condensa Street
+Santa Clara, California 95051
+Re: K060338
+Trade/Device Name: Family of Selecta Laser Systems (Selecta 1064. and Selecta Duct.
+Selecta Duo, Selecta Trio and Delivery Device (Laserl.ink S) and
+Accessories
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgicaj instrument for use in general and plastic surgery and i
+dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: February 5, 2006
+Received: February 10, 2006
+Dear Ms. Hoy:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments. or to
+devices that have been reclassified in accordance with the provisions of the Federal Food. Druy.
+and Cosmetic Act (Act) that do not require approval of a premarket appreval application (PMA}
+You may, therefore, market the device. subject to the general controls provisions of the Act. [he
+general controls provisions of the Act include requirements for annual registration. fisting 0!
+devices, good manufacturing practice. labeling. and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into cither class I (Special Controls) or chiss TEEPE \..
+may be subject to such additional controls. Existing major regulations allecting vour device can
+be found in the Code of Federal Regulations, Title 21. Parts 800 to 898. In addition. FDA tan
+publish further announcements concerning your device in the Federal Register
+Please be advised that FDA’s issuance of a substantial equivalence determination does net mean
+that FDA has made a determination that your device complies with other requirements of the \el
+or any Federal statutes and regulations administered by other Federal agencies. You must
+
+|
+Page 2 — Ms. Hoy
+comply with all the Act’s requirements, including. but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manulacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820): and if applicable. the electronic
+product radiation control provisions (Sections 531-542 of the Acti: 21 CFR 1000-1080
+: This letter will allow you to begin marketing your device as described in your Section S10(4\)
+
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus. permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801}. please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled.
+"Misbranding by reference to premarkct notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http:/Avww.fda.gov/edrh/dsma/dsmamain.huml ©
+
+Sincerely yours,
+
+Mark N. Metkdyson
+
+Acting Director
+
+Division of General. Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+‘ Enclosure
+
+i
+Attachment 2
+Indications for Use Statement as Requested by FDA
+510(K) Number (if Known): K Ok 03 3 y
+Device Name: Family of Selecta Ophthalmic Laser Systems (Selecta SLT, Selecta 1064, and
+Selecta Duet, Selecta Duo, Selecta Trio and Delivery Device (LaserLink S) and Accessories
+Indications for Use: :
+
+Selecta 1064: photodisruption of ocular tissue using light energy emitted by a Nd:YAG
+laser, including discission of the posterior capsule of the eye (posterior
+capsulotomy), and discission of pupillary membranes (pupillary
+membranectomy) in aphakic and pseudophakic patients, and
+iridotomy/iridectomy
+
+Selecta SLT: _ selective laser trabeculoplasty
+
+Selecta Duet: photodisruption of ocular tissue using light energy emitted by a Nd:YAG
+laser, including discission of the posterior capsule of the eye (posterior
+capsulotomy), and discission of pupillary membranes (pupillary
+membranectomy) in aphakic and pseudophakic patients, and
+iridotomy/iridectomy; and
+selective laser trabeculoplasty
+
+LaserLink S: laser delivery system for use by an ophthalmologist in the treatment of
+ocular tissue;
+laser delivery system indicated for use for a variety of ophthalmic uses,
+including the indications specified in the laser operator manual. Refer to
+the laser operator manual, Indications for Use section.
+
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+510(k) Number_5060336
+
+Prescription Use: ___X. OR Over-The-Counter Use:
+
+(Per 21 CFR 801.109)
+
+Optional Format 1-2-96
+
+Attachment 2, Continued
+indications for Use Statement as Requested by FDA
+510(K) Number (if Known):
+Device Name: Family of Selecta Ophthalmic Laser Systems (Selecta SLT, Selecta 1064, and
+Selecta Duet, Selecta Duo, Selecta Trio) and Delivery Device (LaserLink S) and Accessories
+Indications for Use:
+
+The Selecta 1064, Selecta SLT and Selecta Duet Ophthalmic Lasers are also intended
+
+for use as a diagnostic slit lamp, specifically,
+
+An AC-powered slit lamp biomicroscope intended for use in eye
+examination of the anterior segment, from the cornea epithelium to the
+posterior capsule. It is used to aid in the diagnosis of diseases or trauma
+which affects the structural properties of the anterior segment.
+
+Selecta Duo: same indications for use as a Selecta 1064® and LaserLink § slit lamp
+delivery device with a currently cleared Lumenis 532nm
+photocoagulator
+
+Selecta Trio: same indications for use as a Selecta Duet and LaserLink § slit lamp
+delivery device with a currently cleared Lumenis 532nm
+photocoagulator
+
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+Concurrence of CD) ove Device Evaluation (ODE)
+(Division Si
+Division of General, Restorative,
+and Neurological Devices
+2
+510(k) Number__“060332
+Prescription Use: xX. OR Over-The-Counter Use:
+. (Per 21 CFR 801.109)
+Optional Format 1-2-96
+

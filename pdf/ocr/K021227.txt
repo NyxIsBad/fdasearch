@@ -1,0 +1,283 @@
+i/¥
+ko621{27 JUN 2 6 2002
+Summary of Safety and Effectiveness Information ZAP LASERS, LLC
+Premarket Notification, Section 510(k) APRIL 15, 2002
+Regulatory Authority: Safe Medical Devices Act of 1990, 21 CFR 807.92
+i Device Name:
+Trade Name: SoftLase G2 - Surgical Diode Laser System
+Common
+Name(s): Surgical Laser System
+Classification
+Name(s): Laser, Surgical
+2 Establishment Name & Registration Number:
+Name: ZAP LASER, LLC
+Number: applied/pending
+3. Classification(s):
+§ 878.4810 Laser surgical instrument for use in general and plastic surgery and in
+dermatology. (a) Identification. (1) A carbon dioxide laser for use in general surgery and in
+dermatology is a laser device intended to cut, destroy, or remove tissue by light energy emitted
+by carbon dioxide. (2) An argon laser for use in dermatology is a laser device intended to
+: destroy or coagulate tissue by light energy emitted by argon.
+(b) Classification. Class I.
+Device Class: Class I for all requested indications
+Classification Panel: General and Plastic Surgery & Others
+Product Code(s): GEX
+4. Section 514 Compliance
+ZAP LASERS, LLC intends to comply fully with the general controls authorized under Sections
+501, 502, 510, 516, 518, 519, and 520 of the Food, Drug, and Cosmetic Act.
+J. Performance Standards
+United States Food and Drug Administration mandated performance standards for this device
+exist and are provided under Sections 21 CFR 1010 & 1020. In addition, various voluntary
+performance standards are utilized. Voluntary standards utilized include Standard Operating
+Procedures, vendor & process certification and qualification procedures, Quality Systems
+Regulations, ISO materials standards and cGMP & ISO 9000 series quality regulations.
+ZAP LASERS, LLC also meets appropriate general controls authorized under Sections 501, 502,
+510, 516, 518, 519, and 520 of the Food, Drug, and Cosmetic Act.
+6. Special Controls:
+All Class II devices are subject to Special Controls.
+SoftLase.doc 35
+
+ko21227 2/¢
+7. Labeling:
+The laser system discussed in this premarket notification will be manufactured by Zap Lasers,
+LLC and labeled as such. Zap Lasers, LLC will market the system exclusively to healthcare
+facilities, physicians and dentists. In addition to the usual package and identification labeling,
+the following additional Warnings, Cautions & Precautions statements are displayed as
+appropriate on or within the device packaging. They are repeated here for ease of review.
+Warning: Federal (United States) Law restricts this device to sale by or on the order of a
+physician or dentist only.
+& Summary Basis of Equivalence:
+There are no unique applications, indications, material or specifications presented herein. Evidence
+of equivalence has been demonstrated through:
+e The SoftLase G2 intended use and indications for use were previously cleared by FDA for the
+predicate devices.
+* The technical characteristics of the SoftLase G2 are similar to those of the cleared SoftLase,
+Aurora HL and Twilite lasers.
+e Laser output values of the SoftLase G2 are well within previously cleared values of the predicate
+dental laser systems as described.
+¢ The predicate devices and other previously cleared laser systems with similar power outputs have
+a proven safety and effectiveness in the treatment of the claimed indications.
+e Safety and performance testing.
+Therefore, the SoftLase G2 Surgical Diode Laser System is substantially equivalent to its predicate
+devices cited above and raises now new safety and/or effectiveness issues. :
+9. Predicate Device (legally marketed comparison device)
+Zap Lasers, Inc. believes that the following surgical laser systems are substantially equivalent to
+the SoftLase - Surgical Laser Diode System:
+1. SOFTLASE (K003440, ZAP Lasers, Inc.); 2, AURORA HL (K992374, Premier Laser
+Systems, Inc.) and 3. TWILITE (K003385, Biolase Technology, Inc.).
+To assist in the overall evaluation of the referenced surgical laser systems, the following Feature
+Comparison Table presents a brief graphic illustration of the primary features.
+| __ FEATURE "| __ SoftLase G2 - Surgical Diode Laser System | __SoftLase, Aurora HL & Twilite | SE?_|
+Wavelength 808+ 5am 808 + 5 nm (SoftLase); 810 nm (+ 170 | YES
+nm, -30 nm) (Aurora HL); 815 + 15nm
+‘Twilite
+power HL); 7 Watt (Twilite)
+| Operation mode | Continuous wave and pulsed | Continuous wave and pulsed ‘YES
+fiber
+Softase.dos 36
+
+K6A1A27 “fe Y
+beam
+Intended Use and | -Excision and Incision Biopsies Same YES
+Indications for ~Hemostatic assistance
+Use -Treatment of Apthous Ulcers
++Frenectomy
+-Frenotomy
+-Gingival Incision and Excision
+-Gingivectomy
+-Gingivoplasty
+-Incising and Draining of Abscesses
+-Operculectomy
+-Oral Papillectomy
+-Removal of Fibromas
+-Exposure of unerupted teeth
+-Soft Tissue Crown Lengthening
+-Sulcular Debridement (removal of diseased
+or inflamed soft tissue in the periodontal
+pocket}
+-Tissue retraction for Impression
+-Vestibuloplasty
+-Light activation of bleaching materials for YES
+teeth whitening
+-Laser-assisted bleaching / whitening of
+teeth
+10. Device Description:
+The laser diode assembly with fiber bundle, which contains 3 single diode lasers, each of 1.6
+watt output power (Class I'V lasers) lasing at about 808 nm. Each diode laser is coupled directly
+into a 200 um core optical fiber using a special positioner. The assembly also contains a 5-mw .
+power - 650 nm pilot laser diode, which is coupled into the three core fibers. In the second
+version of the device, a single 5 Watt laser diode is used. A special optical system is
+implemented to focus its laser diode radiation into a delivery fiber. It allows an effective use of
+300 um and 200 um fibers. In both versions, a visible light of pilot laser is used for aiming the tip
+of the delivering fiber onto the tissue.
+The laser diode power supply, with two controller PCBs supplies power to the diodes in DC or
+pulsed mode.
+The delivery fiber cables, consist of multi-mode, single core optical fibers available in 200, 300,
+400 and 600 um diameters. The standard SMA 905 fiber connector terminates one end of the
+delivery fiber, which is attached to the SMA union at the rear panel of the laser box. The other
+end of the fiber is stripped of its protective jacket and is cleaved to provide laser radiation output.
+The foot-switch, is a standard (UL-approved) commercial foot-switch/pedal that provides handsfree ON/OFF capabilities. This controls initiation/termination of laser power from the distal end
+of the delivery fiber. Each SoftLase G2 laser system is provided with two safety goggles, one
+fiber stripper and one sapphire wedge scribe for fiber cleaving.
+SoftLase.doc 37
+
+ko21222? 4/4
+; Hi. Applicant Name & Address:
+
+Zap Lasers, LLC
+
+2643 Pleasant Hill Road
+
+Pleasant Hill, CA 94523
+12, Company Contact:
+
+Jay Goble, DDS
+
+Zap Lasers, LLC
+
+2643 Pleasant Hill Road
+
+Pleasant Hill, CA 94523
+
+Phone: 888-876-4546
+
+Fax: 925-692-2063
+13. Submission Correspondent:
+
+Jay Goble, DDS
+
+Zap Lasers, LLC
+
+2643 Pleasant Hill Road
+
+Pleasant Hill, CA 94523
+
+Phone: 888-876-4546 .
+
+Fax: 925-692-2063
+14, Manufacturing Facility:
+
+The devices are physically manufactured at ZAP Laser, LLC premises in Pleasant Hill, CA. The
+
+devices are manufactured by Zap Lasers, LLC for distribution in the U.S.A.
+IS, Sterilization, Packaging & Storage Information:
+The diode laser device is not supplied sterile. The hand-piece, which secures the working end of the
+fiber, is sterilizable as well as fiber itself. The plastic canula, which is attached to the end of the handpiece and fixes the position of fiber tip is disposable. A special disinfecting protocol is developed for
+fiber stripping/cleaving.
+Packaging materials are typical medical grade tubes, plastic trays, peel-type pouches of the generic
+mylar/non-woven sandwich variety, etc. All packages should be intact upon receipt. Packaging should
+be inspected on arrival for evidence of shipping damage. Damaged packaging may indicate the presence
+of unsafe product and it should not be used until carefully inspected. If the package or product is
+damaged, the product should not be used and should be returned. Product must be handled, stored and
+opened in such a way that it is protected from inadvertent damage or contamination. When used, the
+product must be placed into use following cleaning, sterilization and accepted surgical sterile technique.
+SoftLase.doc 38
+
+ns og,
+: Le DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+"heen
+Food and Drug Administration
+; 9200 Corporate Boulevard
+; Rockville MD 20850
+JUN 2 6 2002
+Zap Lasers, LLC
+Jay Goble, DDS
+President
+2643 Pleasant Hill Road
+Pleasant Hill, California 94523
+Re: K021227
+Trade Name: Softlase G2-Surgical Diode Laser System
+Regulation Number: 878.4810
+Regulation Name: Laser Surgical Instrument
+Regulatory Class: I
+Product Code: GEX
+Dated: April 15, 2002
+Received: April 18, 2002
+Dear Dr. Goble:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and we have determined the device is substantially equivalent (for the :
+indications for use stated in the enclosure) to devices marketed in interstate commerce prior to
+May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that have
+been reclassified in accordance with the provisions of the Federal Food, Drug, and Cosmetic Act
+(Act) that do not require approval of a premarket approval application (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices,
+good manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable; the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Dr. Jay Goble
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 21 CFR Part 809.10 for in vitro diagnostic devices), please contact the Office of
+Compliance at (301) 594-4659. Additionally, for questions on the promotion and advertising of
+your device, please contact the Office of Compliance at (301) 594-4639. Also, please note the
+regulation entitled, "Misbranding by reference to premarket notification" (21CFR Part 807.97).
+Other general information on your responsibilities under the Act may be obtained from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 443-6597 or at its Internet address
+. http://www.fda.gov/cdrh/dsma/dsmamain.html
+5 .
+Sincerely “Perce
+(be Celia f Witten, Ph.D., M.D.
+Director
+: Division of General, Restorative
+‘ and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+‘ Enclosure
+
+Page _1 of__1
+510(k) Number: PK OZ S22
+Device Name(s): SoftLase G2 - Surgical Diode Laser System
+Intended Use(s) of the Device:
+The SoftLase G2 - Surgical Diode Laser System is to provide the ability to perform
+intraoral soft tissue dental, general, oral maxillo-facial and cosmetic surgery. The
+SoftLase G2 is intended for ablating, incising, excising, vaporization and coagulation
+intraoral soft tissues using a contact fiber optic delivery system. The system is also
+intended for use in teeth whitening procedures.
+The device will be used in the following areas: general and cosmetic dentistry
+otolaryngology, arthroscopy, gastroenterology, general surgery, dermatology & plastic
+surgery, neurosurgery, gynecology, urology, ophthalmology and pulmonary surgery. The
+following are the indications for use for which the device will be marketed:
+-Excision and Incision Biopsies
+-Hemostatic assistance
+-Treatment of Apthous Ulcers
+-Frenectomy
+-Frenotomy .
+-Gingival Incision and Excision
+: -Gingivectomy
+: -Gingivoplasty
+-Incising and Draining of Abscesses
+: -Operculectomy
+: -Oral Papillectomy
+-Removal of Fibromas
+Le -Exposure of interrupted teeth
+: -Soft Tissue Crown Lengthening
+: -Sulcular Debridement (removal of diseased or inflamed soft tissue in the
+: periodontal! pocket)
+-Tissue retraction for Impression
+-Vestibuloplasty :
+-Light activation of bleaching materials for teeth whitening
+-Laser-assisted bleaching / whitening of teeth >
+, PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NECESSARY
+, Concurrence of CDRH, Office of Device Evaluation (ODE)
+Qivision ws !
+Prescription Use ne Division ofGeneral, Restoméiveunter Use
+(Per 21 CFR 801.109) and Neurological Devices (Optional format 1-2-96)
+: SoftLase.doc
+: 510(k) Number_KO2!227 7
+

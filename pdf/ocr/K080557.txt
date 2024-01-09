@@ -1,0 +1,170 @@
+APR -2 2008
+Kososs7 S
+5100) SUMMARY age | VO
+BARRX Medical’s Instructions for Use changes for HALO*™ Coagulation
+Catheter and HALO Coagulation Catheter
+Submitter’s Name, Address, Telephone Number, Contact Person
+and Date Prepared:
+BARRX Medical Inc.
+540 Oakmead Parkway
+Sunnyvale, CA 94085
+Phone: (408) 328-7302
+Facsimile: (408) 328-7395
+Contact Person: Viorica Filimon
+Date Prepared: February 27, 2008
+Name of device and Name/Address of Sponsor:
+HALO*60+ Coagulation Catheter
+HALO*0 Coagulation Catheter
+BARRX Medical Inc.
+540 Oakmead Parkway
+Sunnyvale, CA 94085
+Common or Usual Name(s):
+Electrosurgical Coagulation Catheter
+Classification Name:
+Product code: GEI
+CFR Section: 878.4400 Electrosurgical, cutting & coagulation & accessories
+Device Class: II
+Classification panel: General & Plastic Surgery
+Page: 17
+BARRX Medical Inc 610(k)
+
+K o¢oss
+ee
+
+Predicate Device(s) f- W oa aL (@)
+
+K071543 HALO360+ Coagulation Catheter-BARRX Medical Inc.
+
+K062225 HALO®° Coagulation Catheter-BARRX Medical Inc.
+Intended Use / Indications for Use
+The HALO” Coagulation Catheter is intended for use in the coagulation of
+bleeding and non-bleeding sites in the gastrointestinal tract.
+The HALO Coagulation Catheter is indicated for use in the coagulation of
+bleeding and non-bleeding sites in the gastrointestinal tract including but not
+limited to, the esophagus. Indications include Esophageal Ulcers, Mallory-Weiss
+tears, Arteriovenous Malformations, Angiomata, Barrett’s Esophagus, Dieulafoy
+Lesions, and Angiodysplasia.
+Technological Characteristics
+The HALO™ Coagulation System consists of the HALO Energy Generator with a
+disposable single-use ablation catheter HALO%©+ Coagulation Catheter and
+HALO*™ Coagulation Catheter, a HALO™ Sizing Balloon, an output cable, and an
+optional footswitch. The HALO Coagulation Catheter comprises models 31041-XX
+and 32041-XX equivalent in performance and mode of operation. There are no
+changes to the design, principle of operations for any of the products included in the
+HALO System.
+Substantial Equivalence
+The HALO260+ Coagulation Catheter model 32041-XX and HALO*® Coagulation
+Catheter medel 31041-XX did not undergo any product or process changes, and
+have the same intended use, indications for use, technological characteristics, and
+principles of operation. This submission addresses instructions for use changes
+which consist of the following: .
+
+1) Adding a contraindication “Eosinophilic esophagitis”
+
+2) Provide clarifications to the instructions for use to improve the use of the
+
+device
+All these changes are not affecting the use of the device or its performance and did
+not raise questions regarding safety and efficacy. Thus the devices are equivalent.
+
+Page: 18
+BARRX Medical Inc 5100)
+
+2 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+in RR
+& Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Barrx Medical, Inc. APR ~ 2 2008
+% Viorica Filimon
+VP, Quality/Regulatory Affairs
+540 Oakmead Parkway
+Sunnyvale, California 94085
+Re: K080557
+Trade/Device Name: HALO* Coagulation Catheter and HALO** Coagulation Catheter
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: I
+Product Code: GEI
+Dated: February 27, 2008
+Received: March 4, 2008
+Dear Viorica Filimon:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal F ood, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class If (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Viorica Filimon
+This letter will allow you to begin markcting your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health's (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474. For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www.fda.gov/cdrb/industry/support/index html.
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+: and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Indications for Use Statement
+510(k) Number (Gf known): K OBZOsS Ss ]
+Device Name: HALO2° Coagulation Catheter and HALO*+ Coagulation Catheter
+Indications for Use:
+The HALO*™ Coagulation Catheter is intended for use in the coagulation of
+bleeding and non-bleeding sites in the gastrointestinal tract.
+The HALO*™ Coagulation Catheter is indicated for use in the coagulation of
+bleeding and non-bleeding sites in the gastrointestinal tract including but not
+limited to, the esophagus. Indications include Esophageal Ulcers, Mallory-Weiss
+tears, Arteriovenous Malformations, Angiomata, Barrett’s Esophagus, Dieulafoy
+Lesions, and Angiodysplasia.
+Prescription Use _X__ AND/OR Over-The-Counter Use____
+(Part 21 C.F.R. 801 Subpart D) (21 C.E.R. 807 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE -- CONTINUE ON ANOTHER
+PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device System Evaluation (ODE)
+. , Na ; Page _[ of _|_
+TTT = WX,
+Division Sign-O “
+Division of General, Restorative,
+and Neurological Devices
+£40(k) Number_K2 355 |
+Page: 15
+BARRX Medical Inc 510(k) /
+

@@ -1,0 +1,840 @@
+KoT2564 MAY 23 2008
+Section 5 ~ 510(k) Summary or 510(k) Statement
+L General Information
+Submitter: Alma Lasers, Ltd.
+Halamish Street (PO Box 3021), Industrial Park,
+Caesarea, 38900
+ISRAEL
+Contact Person: Ziv Karni
+' President,
+Alma Lasers, Ltd.
+Tatiana Epstein
+Regulatory Affairs Manager,
+Alma Lasers, Ltd.
+Summary Preparation Date: September 3”, 2007
+i. Names
+Device Names: Harmony XL™ Multi-Application Platform
+Primary Classification Names: Surgical Powered Laser Instrument, Ultraviolet
+Dermatological Light, and LED Phototherapy device
+Il. Predicate Devices
+« K033946 — MSq. Lovely System Models : Lovely I (Aria) & Lovely II (Harmony)
+© K04200 — Modified MSq. Family of Lovely Light/Laser Systems, Delivery Devices
+and Accessories
+© K051428 - PhotoMedex, Inc. VTRAC Excimer Lamp System
+® K060448 - Lumenis One Family of Systems
+© K030342 - Lumenis family of IPL Systems
+© K024093 - Lumenis Vasculight System
+® K020839 - Lumenis IPL Quantum Family
+@ K041086 - Palomar StarLux Pulsed Light System
+¢ K033549 - Palomar StarLux Pulsed Light System
+© K032460 - Sciton Profile BBL System
+© K050679 - Cutera Solera Opus Aesthetic Product
+ K003614 - Lumenis LightSheer System
+® K053628 - Lumenis LightSheer Duet
+© K030186 - Syneron Polaris LV Device
+® K052324 - Syneron Polaris LV, LVA Device
+® K042630 - SkinCare Technologies, Inc. RevLight Device
+Premarket Notification, 5$10(k) Submission for: Section 5: 510(k) Summary — Page 5-1
+Alma Lasers - Harmony XL™
+
+ke Lsey
+© K982546 - Diomedics Inc. Pain-X-2000 Models
+© K041879 - Palomar Lux1064 Device
+© K043429 - Cynosure Cynergy System
+¢ K033176 - Cynosure TriStar Aesthetic Workstation Laser
+¢ K033172 - Candela GentleY AG Family of Laser Systems
+© K023954 - Cutera (Altus) CoolGlide Laser System.
+Iv. Product Description
+The Alma Lasers Harmony XL™ Multi-Application Platform is comprised of the
+following main components:
+¢ The main console unit that incorporates the touch-screen control panel, power supply
+modules, cooling system, switching module, service panel and isolating transformer.
+e Variety of handpieces and attachment accessories.
+© Footswitch.
+Vv. Indications for Use
+The Alma Lasers Harmony XL™ Multi-Application Platform is intended for use in
+dermatologic and general surgical procedures.
+The Indications for Use of the Harmony XL™ Multi-Application Platform are provided
+in Section 4 of this submission,
+VI. _ Rationale for Substantial Equivalence
+The Alma Lasers Harmony XL™ Multi-Application Platform shares the same indications
+for use, device operation, technical and functional capabilities, and therefore is
+substantially equivalent to the predicate devices.
+VU. Safety and Effectiveness Information
+The review of the indications for use and technical characteristics provided demonstrates
+that the Alma Lasers Harmony XL™  Multi-Application Platform is substantially
+equivalent to the predicate devices.
+VIN. Conclusion
+The Alma Lasers Harmony XL™ Multi-Application Platform was found to be
+substantially equivalent to the predicate devices,
+The Alma Lasers Harmony XL™ Multi-Application Platform shares the same or similar
+indications for use, similar design features, and functional features with, and thus is
+substantially equivalent to the predicate devices.
+Premarket Notification, 510(k) Submission for: Section 5: 510(k) Summary — Page 5-2
+Alma Lasers - Harmony XL™
+
+2 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+G Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Alma Lasers, Ltd.
+% A. Worden Consulting
+Ms. Anne Worden MAY 23 2008
+3637 Bernal Avenue
+Pleasanton, California 94566
+Re: K072564
+Trade/Device Name: Harmony XL™ Multi-Application Platform and Thermoelectric
+Cooler
+Regulation Number: 21 CFR 878.4810 :
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and
+in dermatology
+Regulatory Class: II
+Product Code: GEX, FTC, HHR, LNK
+Dated: April 18, 2008
+Received: April 23, 2008
+Dear Ms. Worden:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered. by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+Page 2 —Ms. Anne Worden
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market,
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474, For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda.gow/edrh/industry/support/index.html.
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Indications for Use Statement
+510(k) Number (if known): K072564
+Device Name: Harmony XL™ Multi-Application Platform
+Indications for Use:
+The Harmony XL™  Multi-Application Platform is intended for use in aesthetic, cosmetic, and
+surgical applications requiring the ablation, vaporization, excision, incision, and photothermolysis
+(photocoagulation or coagulation) of soft tissue in the medical specialties of dermatology, general and
+plastic surgery, endoscopic/laparoscopic general surgery, gastroenterology, gynecology,
+otorhinolaryngology (ENT), neurosurgery, oculoplastics, oral surgery, ophthalmology (skin around
+the eyes), orthopedics, pulmonary/thoracic surgery, and urology for surgical and aesthetic
+applications, as follows:
+DERMATOLOGY AND PLASTIC SURGERY
+Harmony XL™ Multi-Application Platform:
+300-380 nm UVB Module Handpiece
+The 300-380 nm UVB module handpiece is indicated for:
+* The treatment of leukoderma, including vitiligo (acquired Jeukoderma).
+¢ The treatment of psoriasis, atopic dermatitis (eczema), and seborrheic dermatitis.
+. « Use on all skin types (Fitzpatrick I-VI), including tanned skin.
+Prescription Use” Over-The-Counter Use
+P —— AND/OR —
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+i
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Zs be SK Aye maken
+a 8 8 '
+(Division Sign-O
+Division of General, Restorative,
+and Neurological Devices
+510(k) Number_KO72564_ Page_1 of 16
+
+Indications for Use Statement
+510(k) Number (if known): K072564
+Device Name: Harmony XL™ Multi-Application Platform
+Indications for Use: - Continued from previous page DERMATOLOGY AND PLASTIC SURGERY - continued
+Harmony XL™ Multi-Application Platform:
+420-950 nm Acne Module AFT Handpiece
+The Advanced Fluorescence Technology (AFT) 420-950 nm Acne Module handpiece (with and
+without contact-cooling) is indicated for:
+
+* The treatment of moderate inflammatory acne vulgaris.
+
+« The treatment of benign pigmented epidermal lesions including dyschromia,
+hyperpigmentalion, melasma, and ephelides (freckles).
+
+* The treatment of cutancous lesions including warts, scars and striae.
+
+e The treatment of benign cutaneous vascular lesions including port wine stains,
+hemangiomas, facial, truncal and leg telangiectasias, rosacea, erythema of rosacea,
+angiomas and spider angiomas, poikiloderma of Civatte, leg veins and venous
+malformations.
+
+¢ Use on all skin types (Fitzpatrick L-VD.
+
+515-950 nm SV515 & SVL515 Module AFT Handpieces
+The Advanced Fluorescence Technology (AFT) 515-950 nm VL515 and SVL515 Module
+handpieces (with and without contact-cooling) are indicated for:
+
+¢ The treatment of moderate inflammatory acne (acne vulgaris).
+
+¢ The treatment of tattoos and benign pigmented epidermal! and cutaneous lesions including
+warts, scars, striae, dyschromia, hyperpigmentation, melasma, ephelides (freckles),
+lentigines, nevi, melasma, and café-au-lait macules,
+
+* The treatment of benign cutaneous vascular lesions including port wine stains,
+hemangiomas, facial, truncal and leg telangiectasias, rosacea, erythema of rosacea,
+angiomas and spider angiomas, poikiloderma of Civatte, leg veins and venous
+malformations.
+
+* The removal of unwanted hair to effect stable long-term or permanent hair reduction.
+
+¢ Use on Fitzpatrick skin types I-V.
+
+Prescription Use Over-The-Counter Use
+P —— AND/OR —
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+
+* Concurrence of CDRH, Office of Device Evaluation (ODE)
+
+MER AG Oph — Far sar
+(Division Sign-Off)
+Division of General, Restorative.
+
+and Neurological Devices
+
+012564 Page_2 of _16
+
+510(k) Number_ 072564
+
+_ Indications for Use Statement
+510(k) Number (if known): K072564
+Device Name: Harmony XL™ Multi-Application Platform
+Indications for Use - Continued:
+DERMATOLOGY AND PLASTIC SURGERY - Continued
+Harmony XL™ Multi-Application Platform - Continued:
+540-950 nm VL/PL, VP, and SSR Module AFT Handpieces
+The Advanced Fluorescence Technology (AFT) 540-950 nm VL/PL, VP, and SSR Module
+handpieces (with and without contact-cooling) are indicated for:
+
+© The treatment of moderate inflammatory acne vulgaris.
+
+* The treatment of benign pigmented epidermal lesions including dyschromia,
+hyperpigmentation, melasma, and ephelides (freckles), lentigines, nevi, melasma, and
+café-au-lait macules.
+
+* The treatment of cutaneous lesions including warts, scars and striae.
+
+* The treatment of benign cutaneous vascular lesions including port wine stains,
+hemangiomas, facial, truncal and leg telangiectasias, rosacea, erythema of rosacea,
+angiomas and spider angiomas, poikiloderma of Civatte, leg veins and venous
+malformations.
+
+« The removal! of unwanted hair to effect stable long-term or permanent hair reduction.
+
+« Use on all skin types (Fitzpatrick I-V1).
+
+570-950 nm SR Module AFT Handpiece
+The Advanced Fluorescence Technology (AFT) 570-950 nm SR Module handpiece (with and
+without contact-cooling) is indicated for: /
+
+* The treatment of moderate inflammatory acne vulgaris.
+
+* The treatment of benign pigmented epidermal lesions, including dyschromia,
+hyperpigmentation, melasma and ephelides (freckles).
+
+e The treatment of face and body vascular and pigmented lesions.
+
+e The treatment of cutaneous lesions, including scars and striae.
+
+. « The treatnient of benign cutaneous vascular lesions, including port wine stains,
+hemangiomas, facial, truncal and leg telangiectasias, rosacea, melasma, angiomas and
+spider angiomas, poikiloderma of Civatte, leg veins and venous malformations.
+
+¢ The removal of unwanted hair to effect stable long-term or permanent hair reduction.
+
+e Use on all skin types (Fitzpatrick I-VI).
+
+Prescription Use ANDIOR Over-The-Counter Use
+
+(Part 21 CFR 801 Subpart D) (21.CFR 801 Subpart C)
+
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+? L KR ? Osho fof tan,
+
+(Division Sign-Off)
+
+Division of General, Restorative,
+
+and Neurological Devices
+: Page_3 of _16
+
+510(k) Number__K072S 64
+
+Indications for Use Statement
+
+510(k} Number (if known): K072564
+Device Name: Harmony XL™ Multi-Application Platform
+Indications for Use - Continued:
+DERMATOLOGY AND PLASTIC SURGERY - Continued
+Harmony XL™ Multi-Application Platform - Continued:
+
+590 nm LED Module Handpiece
+
+The 590 nm LED module handpiece is indicated to:
+
+» Provide topical heating to promote increased blood flow for temporary relaxation of
+muscle and relief of pain.
+
+e Provide topical heating for the purpose of elevating and/or maintaining tissue
+temperature.
+
+650-950 nm HR Module AFT Handpiece :
+The Advanced Fluorescence Technology (AFT) 650-950 nm HR Module handpiece (with and
+without contact-cooling) is indicated for:
+
+* The treatment of tattoos.
+
+e The treatment of moderate inflammatory acne vulgaris.
+
+* The treatment of benign pigmented epidermal lesions including dyschromia,
+hyperpigmentation, melasma, and ephelides (freckles), lentigines, nevi, melasma, and
+café-au-lait.
+
+e The treatment of cutaneous lesions including warts, scars and striae.
+
+e The treatment of benign cutaneous vascular lesions including port wine stains,
+hemangiomas, facial, truncal and jeg telangiectasias, rosacea, erythema of rosacea,
+angiomas and spider angiomas, poikiloderma of Civatte, leg veins and venous
+malformations.
+
+¢ The removal of unwanted hair and to effect stable long-term or permanent hair
+reduction. :
+
+» Use on all skin types (Fitzpatrick I-VI), including tanned skin.
+
+Prescription Use ¥ Over-The-Counter Use
+P —— AND/OR —
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+2 ley a Oh for fie Xr,
+(Division Sign-Off) ~
+Division of General, Restorative,
+~ and Neurological Devices
+510(k) Number_{ 072 56 Page 4 of 16
+
+Indications for Use Statement
+510(k) Number (if known): K072564
+Device Name: Harmony XL™ Multi-Application Platform
+Indications for Use - Continued:
+DERMATOLOGY AND PLASTIC SURGERY - Continued
+Harmony XL™ Multi-Application Platform - Continued:
+780-950 nm SHR and ST AFT Module Handpieces
+The Advanced Fluorescence Technology (AFT) 780-950 nm SHR and ST Module handpieces
+(with and without contact-cooling) are indicated for:
+
+¢ The treatment of moderate inflammatory acne vulgaris.
+
+e The treatment of benign pigmented epidermal lesions including dyschromia,
+hyperpigmentation, melasma, and ephelides (freckles).
+
+¢ The treatment of cutaneous lesions including warts, scars and striae.
+
+e The treatment of benign cutaneous vascular lesions including port wine stains,
+hemangiomas, facial, truncal and leg telangiectasias, rosacea, erythema of rosacea,
+angiomas and spider angiomas, poikiloderma of Civatte, leg veins and venous
+malformations.
+
+e The treatment of pseudofolliculitis barbae (PFB).
+
+¢ The removal of unwanted hair and to effect stable long-term or permanent hair
+reduction.
+
+e Use on all skin types (Fitzpatrick I-VI), including tanned skin.
+
+Prescription Use ¥ Over-The-Counter Use
+
+__ AND/OR ——_—
+
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+NH
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+
+Vof k e 0 at taken,
+(Division Sign-Off) |
+Division of General, Restorative,
+and Neurological Devices
+
+q
+
+510(k) Number. kK 012 56 { Page_5 of _16
+
+Indications for Use Statement
+510(k) Number (if known): K072564
+Device Name: Harmony XL™ Multi-Application Platform
+Indications for Use - Continued:
+DERMATOLOGY AND PLASTIC SURGERY - Continued
+Harmony XL™ Multi-Application Platform - Continued:
+780-950 nm SST AFT Module Handpiece
+The Advanced Fluorescence Technology (AFT) 780-950 nm SST Module handpiece (with
+contact-cooling) is indicated for:
+
+* The treatment of tattoos. ‘
+
+« The treatment of moderate inflammatory acne vulgaris.
+
+e¢ The treatment of benign pigmented epidermal lesions including dyschromia,
+hyperpigmentation, melasma, and ephelides (freckles).
+
+¢ The treatment of cutaneous lesions including warts, scars and striae.
+
+* The treatment of benign cutaneous vascular lesions including port wine stains,
+hemangiomas, facial, truncal and leg telangiectasias, rosacea, erythema of rosacea,
+angiomas and spider angiomas, poikiloderma of Civatte, leg veins and venous
+malformations.
+
+* The treatment of psoriasis, vitiligo, atopic dermatitis (eczema), seborrheic dermatitis.
+
+e The treatment of pseudofolliculitis barbae (PFB).
+
+e The removal of unwanted hair to effect stable long-term or permanent hair reduction
+
+* Use on all skin types (Fitzpatrick I-VI), including tanned skin.
+
+Prescription Use ¥ ANDIOR Over-The-Counter Use
+
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+
+. (PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+i
+: Concurrence of CDRH, Office of Device Evaluation (ODE)
+we DRE Oph Loe tin
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+
+510(k) Number__K072.96 4 Page 6 of 16
+
+Indications for Use Statement
+510(k) Number (if known): 072564
+Device Name: Harmony XL™ Multi-Application Platform
+indications for Use: - Continued from previous page DERMATOLOGY AND PLASTIC SURGERY - continued
+Harmony XL™ Multi-Application Platform:
+1064 nm Long Pulsed and Q-Switched Nd:YAG Laser Module Handpieces
+The 1064 nm Nd:YAG Laser Module handpieces (Long Pulsed and Q-Switched with and
+without contact-cooling) are indicated for treatment and clearance of:
+e Benign vascular lesions such as, but not limited to treatment of:
+> Port wine stains
+: > Hemangiomas
+» Warts
+> Superficial and deep telangiectasias (venulectasias)
+> Reticular veins (0.1-4.0 mm dia.) of the leg
+> Rosacea .
+> Venus lake
+> Leg veins
+> Spider veins
+>» Poikiloderma of Civatte
+> Angiomas
+¢ Benign cutaneous lesions, such as, but not limited to:
+> Warts :
+> Scars
+» Striae
+> Psoriasis
+Prescription Use Over-The-Counter Use
+sn AND/OR ——
+. (Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+ed
+Coneurrence of CDRH, Office of Device Evaluation (ODE)
+‘
+<4 ; AAR,
+(Division Sign-Off)
+Division of General, Restorative,
+. and Neurological Devices
+510(k) Number_K 972 564 Page_7_ of 16
+
+Indications for Use Statement
+510(k) Number (if known): K072564
+Device Name: Harmony XL™ Multi-Application Platform
+Indications for Use: - Continued from previous page - .
+DERMATOLOGY AND PLASTIC SURGERY - continued
+Harmony XL™ Multi-Application Platform: :
+1064 nm Long Pulsed and Q-Switched Nd:YAG Laser Module Handpieces - continued
+The 1064 nm Nd:YAG Laser Module handpieces (Long Pulsed and Q-Switched, with and
+without contact-cooling) — continued:
+« Benign pigmented lesions such as, but not limited to: .
+> Lentigos (age spots)
+> Solar lentigos (sun spots)
+> Café-au-lait macules
+> Seborrheic keratoses
+> Nevi and nevus of Ota
+» Chloasma
+» Verrucae
+> Skin tags
+» Keratoses
+> The removal of black, blue or green tattoos (significant reduction in the intensity
+of black and /or blue/black tattoos).
+> Plaques
+Prescription Use ¥ Over-The-Counter Use
+ao AND/OR _—_
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE~-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+(Division Sign-Off) owen
+Division of General, Restorative.
+. and Neurological Devices
+510(k) Number_X012 564
+Page 8 of 16
+
+Indications for Use Statement
+
+510(k) Number (if known): K072564
+
+Device Name: Harmony XL™ Multi-Application Platform
+
+Indications for Use: - Continued from previous page 
+DERMATOLOGY AND PLASTIC SURGERY - continued
+
+Harmony XL™ Multi-Application Platform:
+1064 nm Long Pulsed and Q-Switched Nd:YAG Laser Module Handpieces - continued
+The 1064 nm Nd:YAG Laser Module handpieces (Long Pulsed and Q-Switched, with and
+without contact-cooling) — continued:
+
+« Pigmented lesions to reduce lesion size, for patients with lesions that would potentially
+benefit from aggressive treatment, and for patients with lesions that have not responded
+to other laser treatments.
+
+e The non-ablative treatment of facial wrinkles, such as, but not limited to:
+
+> Periocular wrinkles
+> Perioral wrinkles
+
+e Laser skin resurfacing procedures for the treatment of:
+
+> Acne scars
+> Wrinkles
+
+« Reduction of red pigmentation in hypertrophic and keloid scars where vascularity is an
+integral part.of the scar. :
+
+e Indicated for use on all skin types (Fitzpatrick I-VD, including tanned skin.
+
+1064 nm Long Pulsed Only Nd:YAG Laser Module Handpieces
+The 1064 nm Nd:YAG lasers (Long Pulsed only, with and without contact-cooling) is
+indicated for:
+
+¢ Removal of unwanted hair, for stable long-term, or permanent, hair reduction through
+selective targeting of melanin in hair follicles.
+
+e Removal or lightening of unwanted hair (with and without adjuvant preparation)
+
+e Treatment of pseudofolliculitis barbae (PFB)
+
+Prescription Use ¥ Over-The-Counter Use
+oT AND/OR _—C
+
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+
+{PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+~
+MARC Oh Lae teen
+
+(Division Sign-O
+
+Division of General, Restorative,
+
+and Neurological Devices
+
+510(k) Number_K07 25°64 ,
+
+. Page_9 of 16
+
+Indications for Use Statement
+510(k) Number (if known): K072564
+Device Name: Harmony XL™ Multi-Application Platform
+. DERMATOLOGY AND PLASTIC SURGERY - continued
+Harmony XL™ Multi-Application Platform:
+532 nm Long Pulsed and Q-Switched FD Nd:YAG Laser Module Handpiece Tips
+The 532: nm Frequency-Doubled (FD) Nd:YAG Laser Module handpieces tips (Long Pulsed
+and Q-Switched, with and without contact-cooling) are indicated for:
+¢ Incision, excision, ablation, vaporization of soft tissue.
+« Tattoo removal
+> Light blue
+> Yellow
+> Red
+>» Green
+e Vascular lesions
+> Hemangiomas (Port wine stains/birthmarks, cavernous, cherry, spider)
+hemangiomas)
+> Angiomas (cherry, spider)
+> Telangiectasia
+> Spider nevi .
+Prescription Use Over-The-Counter Use
+—— AND/OR —__
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+DUR RE Bh Sormnm
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+| 510(k) Number_G2125 64
+Page_10 of _16
+
+Indications for Use Statement
+510(k) Number (if known): K072564
+Device Name: Harmony XL™ Multi-Application Platform
+Indications for Use: - Continued from previous page DERMATOLOGY AND PLASTIC SURGERY - continued
+Harmony XL™ Multi-Application Platform:
+532 nm Long Pulsed and Q-Switched FD Nd:YAG Laser Module Handpiece Tips continued
+The 532 nm Frequency-Doubled (FD) Nd:YAG Laser Module handpiece tips (Long Pulsed
+and Q-Switched, with and without contact-cooling) are indicated for:
+« Benign pigmented lesions
+> Café-au-lait (macules)
+>» Lentigines (senile and solar) .
+> Freckles (ephelides)
+> Chloasma
+> Nevi
+> Nevus spillus
+> Nevus of Ota
+> Becker’s Nevi
+* Other pigmented cutaneous lesions
+> Verrucae
+> Skin tags
+> Keratoses
+> Plaques
+Prescription Use . AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+WARP Oph Le nam :
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+510(k) Number_K0.72. 564
+Page 11 of 16
+
+Indications for Use Statement
+510(k) Number (if known): K072564
+Device Name: Harmony XL™ Multi-Application Platform
+Indications for Use: -~ Continued from previous page DERMATOLOGY AND PLASTIC SURGERY - continued
+Harmony XL™ Multi-Application Platform:
+1320 nm Nd:YAG Laser Module Handpiece
+1320 nm Nd:YAG Laser Module handpiece (with and without contact-cooling) is indicated
+for the treatment of:
+e Fine lines and wrinkles
+e Periorbital wrinkles
+e Perioral wrinkles
+° Back acne
+e Atrophic acne scars
+« Mild to moderate inflammatory acne vulgaris
+Prescription Use ANDIOR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+camer ee OP kn
+(Division SignDivision of General, Restorative,
+and Neurological Devices
+| 510(k) Number_Ko12564_
+Page 12 of _16
+
+Indications for Use Statement
+510(k) Number (if known): K072564
+Device Name: Harmony XL™ Multi-Application Platform
+Indications for Use: - Continued from previous page DERMATOLOGY AND PLASTIC SURGERY - continued
+Harmony XL™ Multi-Application Platform:
+2940 nm Er: YAG Laser Module Handpiece with Standard & Scanner Accessory Tips
+The 2940 nm Fr:YAG Laser Module handpiece with standard and scanner accessory tips
+(with and without contact-cooling) is indicated for use in soft tissue (skin, cutaneous tissue,
+subcutaneous tissue, striated and smooth tissue, muscle, cartilage meniscus, mucous
+membrane, lymph vessels and nodes, organs, and glands:
+DERMATOLOGY AND PLASTIC SURGERY: :
+* Skin resurfacing
+¢ Treatment of wrinkles
+¢ Epidermal nevi
+« Telangiectasia
+* Spider veins
+e Actinic chelitis
+* Keloids :
+e = Verrucae
+e Skin tags
+e Anal tags
+« Keratoses
+¢ Scar revision (including acne scars)
+e Debulking benign tumors
+* Debulking cysts
+e Superficial skin lesions
+© Diagnostic biopsies
+ Decubitus ulcers
+Prescription Use ¥ Over-The-Counter Use
+an AND/OR —__
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+x
+ara teh he Odom barren
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+| Koirse4
+510(k) Number. obs Page 13 of 16
+
+Indications for Use Statement
+510(k) Number (if known): K072564
+Device Name: Harmony XL™ Multi-Application Platform
+Indications for Use: - Continued from previous page Harmony XL™ Multi-Application Platform:
+2940 nm Er: YAG Laser Module Handpiece with Standard & Scanner Accessory Tips Continued
+GENERAL SURGERY:
+
+* Surgical incision/excision, vaporization, ablation, and coagulation of soft tissue where
+skin incision, tissue dissection, excision of external tumors and lesions, complete or
+partial resection of internal organs, tumors and lesions, tissue ablation, and/or vessel
+coagulation may be indicated.
+
+GENITOURINARY:
+Treatment of:
+
+e Lesions of the external genitalia, urethra and anus, penis, scrotum, and urethra (includes
+condyloma acuminate, giant perineal condyloma, and verrucous carcinoma), vulvar
+lesions, polyps, and familiar polyps of the colon.
+
+GYNECOLOGY:
+Treatment of:
+
+e Cervical intraepithelial neoplasia (CIN), herpes simplex, endometrial adhesions, cysts,
+
+and condyloma.
+Prescription U: m4 Over-The-Counter Use
+Pron se AND/OR ve —
+
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+x
+
+LUPO OA Gang
+
+TF 7 “n
+(Division Sign-Off)
+
+Division of General, Restorative,
+and Neurological Devices
+510(k) Number_!S2 1Us¢
+Page_14 of 16
+
+Indications for Use Statement
+
+510(k) Number (if known): K072564
+
+Device Name: Harmony XL™ Multi-Application Platform
+
+Indications for Use: - Continued from previous page 
+Harmony XL™ Multi-Application Platform: :
+2940 nm Er:YAG Laser Module Handpiece with Standard & Scanner Accessory Tips Continued
+
+ORAL/MAXILLOFACIAL:
+Treatment oft
+* Benign oral tumors, oral and glossal lesions, and gingivectomy.
+OTORHYNOLARINGOLOGY/HEAD AND NECK (ENT):
+Treatment of:
+e Ear, nose and throat lesions, polyps, cysts, hyperkeratosis.
+e Excision of carcinogenic tissue and oral leukoplakia. '
+OPHTHALMOLOGY:
+Treatment of:
+© Soft tissue surrounding the eye and orbit.
+PODIATRY:
+Treatment of:
+« Warts, plantar verrucae, large mosaic verrucae.
+*® Matrixectomy.
+Prescription Use ¥ Over-The-Counter Use
+——_ AND/OR __
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+a Met RG Open face xn.
+ee ae
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+S6
+510(kK) Number _KO12 S64
+Page 15 of 16
+
+Indications for Use Statement
+510(k} Number (if known): K072564
+Device Name: Harmony XL™ Multi-Application Platform
+Indications for Use: ~ Continued from previous page Harmony XL™ Multi-Application Platform:
+2940 nm Er: YAG Laser Module Handpiece with Pixel Accessory Tips
+The 2940 nm Er:YAG Laser Module handpiece (with and without contact-cooling) with Pixel
+accessory tips is indicated for use in soft tissue for:
+DERMATOLOGY AND PLASTIC SURGERY:
+e Skin resurfacing
+Thermoelectric Cooler (TEC)
+The thermoelectric cooler, integrated into the light and laser handpieces, is indicated for use
+in cooling the epidermis at the treatment site prior to, during and after light or laser treatment
+in general surgery, plastic surgery and dermatology to:
+
+¢ Reduce pain during and/or associated with light or laser treatment;
+
+* Reduce discomfort during and/or associated with light or laser treatment;
+
+* Minimize thermal injury, including thermal necrosis, to non-target skin and skin
+structures during, and/or associated with light or laser treatment, thus reducing possible
+complications such as scabbing, scarring, hyper- and/or hypopigmentation;
+
+¢ Allow the use of higher light or laser fluences for light or laser treatments (such as for
+hair removal and the treatment of vascular or pigmented lesions); and
+
+© Reduce potential side effects of light or laser treatments (such as for hair removal and
+the treatment of vascular or pigmented lesions).
+
+Prescription Use ¥ AND/OR Over-The-Counter Use
+
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C) 
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+ren SN
+. Concurrence of CDRH, Office of Device Evaluation (ODE)
+, P 8 ar,
+(Division Sign-O
+Division of General, Restorative,
+* 2
+and Neurological Devices
+510(k) Number_.072 56
+, Page 16 of _16
+

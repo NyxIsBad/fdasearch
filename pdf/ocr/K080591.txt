@@ -1,0 +1,173 @@
+Lowes t/ po bee!
+NOV 14 2008
+§10(K) SUMMARY OF SAFETY AND EFFECTIVENESS
+Submitted by:
+Pharos Life Corporation
+11-380 Jamieson Parkway
+Cambridge, Ontario
+N3C 4N4
+1. Date Prepared:
+February 26, 2008
+2, Contact Person:
+Phil Cuscuna
+Tel.: 519 651-1177, ext 225
+Fax: 519 651-2277
+Email: phil.cuscuna@pharoslife.com
+3. Device Name and Classification:
+Trade Name: Tanda Skincare System
+Common Name: Tanda Skincare System
+Classification Name: Laser surgical instrument for use in general
+and plastic surgery and in dermatology
+Classification Panel: General & Plastic Surgery
+CFR Section: 21 CFR §878.4810
+Device Class: Class I
+Device Code: GEX
+4. Intended Use:
+The Tanda Skincare System is intended as an over-the-counter
+phototherapy device for the treatment of mild to moderate
+acne.
+5. Substantial Equivalence:
+The Tanda Skincare System is substantially equivalent to:
+. e Tanda Skincare System, Pharos Life Corp, KO70185, (Aug 21,
+2007}
+e Zeno, Tyrell Inc., K043377, (July 13, 2005)
+1/2
+
+Kegesy po 2ef >
+
+é. Device Description:
+The Tanda Skincare System is a modular platform which uses light
+treatment heads combined with onboard electronic controls
+and intelligence designed to offer solid state light source
+treatments for mild to moderate inflammatory acne.
+
+7. Comparison of Technological Differences:
+The intended use and technological characteristics of the Tanda
+Skincare System are virtually identical to the combined intended
+uses and technological characteristics of the listed equivalent
+devices. Any differences between the Tanda Skincare System
+and the equivalent devices have no significant influence on
+safety or effectiveness of the Tanda product.
+
+8. Additional Safety Data
+A clinical Study under the supervision of a Health Care
+practitioner (MD) was undertaken and shown to demonstrate
+that the Tanda Skincare System can be used safely as a nonprescription device.
+The Tanda Skincare System has undergone certification to IEC
+60601-1. In addition, testing and analysis have demonstrated
+compliance to ISO 10993 {Biocompatibility).
+The ocular hazard level presented by unprotected exposure to
+the Tanda Skincare light source was determine by applying the
+calculations specified in Threshold Limit Values for Chemical .
+Substances and Physical Agents & Biological Exposure Indices of
+the American Conference of Governmental Industrial Hygienists
+Worldwide and the standards of the International Commission on
+Non-ionizing Radiation Protection. The results indicate that the
+Tanda Skincare System - does not pose a risk of retinal injury due
+to either the blue-light phototoxic effect, or the thermal damage
+mechanism. In addition, there are no negative additive effects
+from light exposure.
+
+2/2
+
+2 g DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+2 eee
+“es Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+
+Pharos Life Corporation NOV 14 2008
+% Mr. Phil Cuscuna
+11-380 Jamieson Parkway
+Cambridge, Ontario, Canada
+N3C 4N4
+Re: K080591
+
+Trade/Device Name: Tanda Skincare System
+
+Regulation Number: 21 CFR 878.4810
+
+Regulation Name: Laser surgical instrument for use in general and plastic surgery
+
+and in dermatology
+
+Regulatory Class: II
+
+Product Code: GEX
+
+Dated: November 12, 2008
+
+Received: November 12, 2008
+Dear Mr. Cascuna:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+Page 2 - Mr. Phil Cuscuna
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device .
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474, For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464, You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+hitp://www. fda. gov/cdrh/industry/support/index.html.
+Sincerely yours,
+Madde 1 Welln
+Mark N. Melkerson
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+= = |
+0% 29 g '°
+Indications for Use
+510(k) Number:
+Device Name: Tanda Skincare System
+Indications For Use:
+The Tanda Skincare System is generally indicated to treat dermatological conditions.
+Specifically, Blue light modules are indicated to treat mild to moderate inflammatory
+acne.
+Prescription Use AND/OR Over-The-Counter Use 4
+(Part 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+_ gules
+i Gign-OF)  ctoratives
+(pivision st E enesth Resto
+sachon of wices ‘
+Dw evratoeieel Me
+. ana Newt? Vv 0% ook
+" her
+s4o(k) Num
+Page tof 1
+

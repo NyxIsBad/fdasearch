@@ -1,0 +1,152 @@
+sep 3 2002
+Section 4 2 yz q y
+510(k) Summary >
+General Information: sory je a
+Submitted by: Clarus Medical, LLC . i am RE
+1000 Boone Avenue North a. a ag
+Minneapolis, MN 55427 rm : moors
+can nos 3
+Contact: Tom Barthel, President ir: mse
+Telephone —- 763-525-8401 ee yon 3
+Facsimile 763-525-8656 NBS
+Summary Date May 8, 2002
+Device Name: Model 1150 Clarus Straight Firing Laser Fiber
+Model 1160 Clarus Side Firing Laser Fiber
+Common Name: Low OH Laser Fiber
+Classification Name: Laser surgical instrument for use in general and plastic
+surgery and in dermatology.
+Predicate Devices:
+S10(k) Number Description Manufacturer
+K922881 Model 1150 Laser Fiber Clarus Medical, LLC
+KOI 1207 Reusable Holmium Fiber Laser Peripherals
+K973172 Resposable Holmium Bare Fibers Trimedyne, Inc.
+K992083 Scatter Free Lateral Emitting liber Laser Peripherals
+K972272 Laser Peripherals Holmium Bare Fibers Laser Peripherals
+Intended Use:
+The Clarus Model 1150 Straight Firing and the Clarus Model 1160 Side Firing Laser
+Fibers may be used both intraoperatively and percutaneously through regulatory
+cleared delivery systems.
+Page 4.1
+
+Device Description:
+General
+This 510(k) submission is a modification of the existing Clarus Model 1150 Laser
+Fiber previously filed as K922881 and found to be substantially equivalent by the
+FDA on November 16, 1992. The original 510(k) device was a single-use,
+straight firing laser fiber with a fiber indicated for laser disc decompression where
+the laser is used to remove inner disc material. The laser fiber core ranges from
+380 — 600 microns. ‘The modifications represented by this submission are the
+addition of a reusable fiber, a side firing version (Model 1160), increased
+indications for any soft tissue application for which Ho:YAG lasers have been
+cleared, and an increased laser fiber core size range from 200 — 1000 microns.
+Construction
+The Model! 1150 Clarus Straight Firing Fiber is identical in materials, methods of
+manufacture, sterilization, and dimensions to the currently marketed Clarus
+Model 1150 Laser Fiber (K922881) with the following exceptions. These
+exceptions are: making the fiber assembly reusable, increasing the range of the
+laser fiber core size from 380 - 600 microns to 200 - 1000 microns, and the
+indications for use. The distal end is polished flat and the laser energy is
+transmitted in a forward direction. The low OHI fiber is terminated on the
+proximal end with a standard compatible laser connector. These devices consist
+of an optical fiber, which may be contained in a catheter tube, cannula, needle,
+handpiece or handle.
+The Model 1160 Clarus Side Firing Laser Fiber ts built identical to the Model
+1150 Clarus Straight Firing Fiber listed above with the following exceptions. ‘The
+exceptions being that the entire working length of the fiber is in a protective
+sheath and the distal end is polished at an angle, and then terminated in a quartz
+cap. The distal tip includes an exit beam indicator that is casily visible to the
+operator when the fiber is placed through an endoscope. On the proximal end, the
+low OH fiber is terminated with a standard compatible laser connector.
+The Clarus Model 1150 Straight Firing and the Clarus Model 1160 Side Firing
+Laser Fibers are supplied sterile (ETO) and are intended for reuse.
+Use Of Laser Fiber with Delivery system
+The Clarus Straight Firing and the Clarus Side Firing Laser Fibers may be used
+both intraoperatively and percutancously through regulatory cleared delivery
+systems.
+
+Page 4.2
+
+f C DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+rea Food and. Drug Administration
+9200 Corporate Boulevard
+: Rockville MD 20850
+Mr. Tom Barthel
+President SEP 3 2002
+Glarus Medical, LLC
+1000 Boone Avenue, North
+Minneapolis, Minnesota 55427
+Re: K021848
+Trade/Device Name: Model 1150 Clarus Straight Firing Laser Fiber
+Model 1160 Clarus Side Firing Laser Fiber
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser Surgical Instrument for Use in General and
+Plastic Surgery and in Dermatology
+Regulatory Class: Class II
+Product Code: GEX
+Dated: June 4, 2002
+Received: June 5, 2002
+Dear Mr. Barthel:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications for
+use stated in the enclosure) to legally marketed predicate devices marketed in interstate commerce
+prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that
+have been reclassified in accordance with the provisions of the Federal Food, Drug, and Cosmetic
+Act (Act) that do not require approval of a premarket approval application (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices, good
+manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish
+further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act or
+any Federal statutes and regulations administered by other Federal agencies. You must comply with
+all the Act’s requirements, including, but not limited to: registration and listing (21 CFR Part 807);
+labeling (21 CFR Part 801); good manufacturing practice requirements as set forth in the quality
+systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product radiation
+control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Mr. Tom Barthel / ‘
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device to
+proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 21 CFR Part 809.10 for in vitro diagnostic devices), please contact the Office of
+Compliance at (301) 594-4659. Additionally, for questions on the promotion and advertising of
+your device, please contact the Office of Compliance at (301) 594-4639. Also, please note the
+regulation entitled, "Misbranding by reference to premarket notification” (21CFR Part 807.97).
+Other general information on your responsibilities under the Act may be obtained from the Division
+of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 443-6597 or at its Internet address
+http://www.fda.gov/cdrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+“the, 1 Mer —
+fF Celia M. Witten, Ph.D., M.D.
+Director
+: Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+leboalryy
+Statement of Indications for Use The Clarus Straight Firing Laser Fiber and the Clarus Side Firing Lasers Fiber are for use
+in general, urological, OB-GYN, orthopedic, and ENT laser surgical procedures for
+cutting, vaporizing, or coagulating in any soft tissue application for which Ho:YAG
+lasers have been cleared.
+ahd A tL.
+
+(Wivision Sign-Off)
+
+Division of General, Restorative
+
+and Neurological Devices ,
+
+510) Number___ KOO18 §
+

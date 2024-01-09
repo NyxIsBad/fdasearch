@@ -1,0 +1,197 @@
+. MAY ~2 2008
+Gyrus ACMI PKS Plasma Morcellator Traditional 510(k) Notification
+Gyrus ACMI, Inc. 510(k) Summary
+136 Turnpike Road January 11, 2008
+Southborough, MA 01772 J .
+KO ZOO>GA
+510(k) Summary of Safety and Effectiveness
+Gyrus ACML, Ine. A 4 &)
+Gyrus ACMI PKS Plasma Morcellator a
+General Information
+Manufacturer: Gyrus Medical Ltd.
+Fortran Road, St. Mellons
+Cardiff UNITED KINGDOM CF3 0LT
+Establishment Registration Number: 9617070
+510(k) Submitter: Gyrus ACMI, Inc.
+136 Turnpike Rd.
+Southborough, MA 01772-2104
+Establishment Registration Number: 3003790304
+Contact Person: Terrence E. Sullivan
+Vice President, Regulatory Affairs
+Date Prepared: January 11, 2008
+Device Description
+Classification Name: Laparoscope, Gynecologic and
+accessories (21 CFR 884.1720), Class II,
+Obstetrics/Gynecology Panel;
+Electrosurgical cutting and coagulation
+device and accessories
+(21 CFR 878.4400), Class II
+General and Plastic Surgery Panel
+Project Name: Gyrus Medical Solid Organ Resection
+Device (SORD)
+Trade Name: Gyrus ACMI PKS Plasma Morcellator
+Generic/Common Name: Electrosurgical Instruments
+Predicate Devices
+. Gyrus Medical Inc. PlasmaCision Laparoscopic Spatula K041633
+Ethicon Inc. Gynecare Laparoscopic Morcellator K993801
+, 12
+
+‘ Gyrus ACMI PKS Plasma Moreellator Traditional 510(k) Notification
+Gyrus ACMI, Inc. 510(k) Summary
+136 Turnpike Road January 11, 2008
+Southborough, MA 01772 kK oO % Oo 0) 9 3
+Intended Uses
+The Gyrus ACMI PKS Plasma Morcellator is intended for cutting, coring, and
+extracting tissue in various operative laparoscopy procedures, including laparoscopic
+general surgical procedures, laparoscopic urological procedures, and laparoscopic
+gynecologic procedures:
+Product Description
+The Gyrus ACMI PKS Plasma Morcellator consists of two main elements: a
+Morcellator that includes a cutting shaft and handle with an integrated electrical cable
+that connects to a Gyrus Medical generator; and a Grasper that passes through the
+hollow shaft of the Morcellator, to grasp tissue and retract it toward the cutting
+element on the Morcellator shaft tip: An obturator may also be used to assist in the
+introduction of the device in laparoscopic procedures, and like the grasper, is
+positioned through the shaft of the Morcellator tube when being utilized
+Technological Characteristics and Substantial Equivalence
+The Gyrus ACMI PKS Plasma Morcellator utilizes features incorpotated-into the
+following legally marketed predicate devices:
+The Gyrus ACMI PKS Plasma Morcellator utilizes the same bipolar electrosurgical
+energy to cut tissue as that used in the predicate Gyrus Medical Inc. PlasmaCision
+Laparoscopic Spatula.
+The Gyrus ACMI PKS Plasma Morcellator connects to the same electrosurgical
+generators, the currently marketed Gyrus PlasmaKinetic SuperPulse System and
+Gyrus General Purpose Electrosurgical System generators, as the predicate Gyrus
+Medical Inc. PlasmaCision Laparoscopic Spatula: These generators were cleared.
+under K031085 and K050550, respectivély.
+The Gyrus ACMI PKS Plasma Morcellator is dimensionally similar to the predicate
+Ethicon Gynecare Laparoscopic Morcellator, having similar Morcellator shaft
+diameters.
+Like the predicate Ethicon Gynecare Laparoscopic Morcellator, the Gyrus ACMI PKS
+Plasma Morcellator utilizes a pistol grip Morcellator with a hollow shaft through
+which a grasper.is passed to grasp tissue to be resected.
+
+13
+
+‘ - Gyrus ACMI PKS Plasma Morcellator Traditional 510(k) Notification
+Gyrus ACMI, Inc. 510(k) Summary
+136 Turnpike Road January 11, 2008
+Southborough, MA 01772 K oO 9 00 g 3
+
+&. a 3 2 @
+Like the predicate Ethicon Gynecare Laparoscopic Morcellator, the Gyrus ACMI PKS
+Plasma Morcellator is indicated for cutting, coring, and extracting tissue in various
+operative laparoscopy procedures, including laparoscopic general surgical procedures,
+laparoscopic urological procedures, and laparoscopic gynecologic procedures.
+The Gyrus ACMI PKS Plasma Morcellator uses patient-contacting materials that are
+utilized in the predicate devices, as well as other legally marketed devices
+manufactured by Gyrus ACMI.
+During design verification, the performance of the PKS Plasma Morcellator was
+compared against the known performance characteristics of the predicate Gynecare
+Laparoscopic Morcellator using the bipolar tissue cutting technology of the predicate
+Gyrus PlasmaCision Laparoscopic Spatula. Testing demonstrated that the
+performance requirements were met, and that the PKS Plasma Morcellator exhibited
+comparable performance characteristics to both the predicate care Laparoscopic
+Morcellator and predicate Gyrus PlasmaCision Laparoscopic Spatula.
+In summary, the Gyrus ACMI PKS Plasma Morcellator is substantially equivalent to
+the predicate devices and presents no new questions of safety or efficacy.
+14
+
+2 ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+"hess Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Gyrus ACMI, Inc. MAY - 2 2008
+% Mr. Terrence E. Sullivan
+VP, Regulatory Affairs
+136 Turnpike Road
+Southborough, Massachusetts 01772
+Re: K080093
+Trade/Device Name: Gyrus ACMI PKS Plasma Morcellator
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: II
+Product Code: GEI, HET
+Dated: April 17, 2008
+Received: April 18, 2008
+Dear Mr. Sullivan:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class II] (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. Terrence E. Sullivan
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115, Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97), For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474. For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda.gov/cdrh/industry/support/index html.
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Gyrus ACMI PKS Plasma Morcellator Traditional 510(k) Notification
+Gyrus ACML, Inc. Statement of Intended Use
+136 Turnpike Road January 11, 2008
+Southborough, MA 01772
+Device Name: Gyrus ACMI PKS Plasma Morcellator
+510(k) Number: kK Og 0Oog>
+Statement of Intended use:
+The Gyrus ACMI PKS Plasma Morcellator is intended for cutting, coring, and
+extracting tissue in various operative laparoscopy procedures, including laparoscopic
+general surgical procedures, laparoscopic urological procedures, and laparoscopic
+gynecologic procedures,
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER
+PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use: X___ OR = Over-the-Counter Use:
+(Per 21 CFR 801.109)
+
+oayaston Signe
+
+vision of General, “estorative,
+
+ac Neurological Devices
+
+8) Nember———.___———
+10
+

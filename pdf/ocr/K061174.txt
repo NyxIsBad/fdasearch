@@ -1,0 +1,234 @@
+JUN 2 8 2006
+(2921 £O
+a
+K O6 176
+510 (k) Summary
+
+Date Prepared
+
+4/30/06 (Revised 6/25/06) .
+Submitter’s Information
+
+Ellman International Inc. is located at 3333 Royal Avenue, Oceanside, NY 11572.
+
+. Contact Name: Dr. Jon Garito
+
+Establishment Registration for Eliman International Inc. is 2428235
+Device Trade Or Proprietary Names
+
+Possible device trade names are:
+
+«  Surgi-Max
+
+Device Common, Usual, or Classification Names
+
+Electrosurgical Unit and Accessories, Electrosurgical Cutting and Coagulation and Accessories
+Classification Panel
+
+Classification of this device would fall under the responsibility of the Division of General, Restorative,
+
+and Neurological Devices.
+Class
+
+Classification: Class 2
+
+Product Code: GEI, 21 CFR 878.4400
+
+K ob u7y Iya @
+_
+Description of the Device
+The Surgi-Max Electrosurgery Generator is a compact source of high radio-frequency RF energy to be
+employed for a variety of radiosurgery procedures. This action is achieved by front panel selection of
+._ waveforms and power level. All selection is effected through push buttons and lamps, which give the
+operator feedback of status.
+Power level for each mode is indicated by front panel digital displays, which also show the status of
+self-test and monitoring. The display is interlocked with controls to prevent operation when FAIL is
+displayed. The final output power control is made through foot and/or hand switches. Both Monopolar
+and Bipolar electrodes are offered. :
+The power output in the CW (Cut) mode is 120 watts into (500 ohms) a matched load. The output
+frequency is maintained at 4.0 MHz +/- 400Hz over all service and loading conditions including short
+and open for monopolar mode. .
+Three output waveforms are provided:
+CW CUT - Continuous wave output with average power equal to the maximum with no deliberate
+modulation.
+CUT / COAG - Deeply modulated envelope with average to peak power ratio approximately 50%.
+Modulation occurring at 120 or 100 Hz rate.
+HEMO - Deeply modulated wave with average to peak ratio approximately 50%. Modulation
+occurring at 120 or 100 Hz rate of square wave.
+Output Characteristics
+[Mode | Output Waveform | Max Output Power
+CUT 4.0 MHz CW sinusoid 120W @ 500 Ohms Via footswitch or
+fingerswitch
+CUT / COAG 4.0 MHz w/ rectified full | 90W @ 500 Ohms Via footswitch or
+wave envelope fingerswitch
+HEMO 4.0 MHz w/ square wave | 60W @ 500 Ohms Via footswitch or
+rectified envelope fingerswitch
+BIPOLAR HEMO 1.7 MHz w/ square wave | 40W @ 200 Ohms Via footswitch
+tectified envelop
+BIPOLAR TURBO 1.7 MHz w/ modulated | 120W @ 200 Ohms
+envelope
+
+KO6& 111g begs , 4
+
+Physical Characteristics
+Size: 9" (W) x 5" (H) x 13" (D)
+Weight: 18 Ibs / 8.16 kg
+The subject device is packaged with the following items:
+
+¢ Ellman Surgi-Max Radiofrequency Generator
+
+« Power Cord .
+
+© Footswitch & Cable
+
+« Foot controlied Handpiece
+
+* Bipolar Cable
+
+© Disposable Neutral Plate
+
+« Instruction Manual
+
+« Fingerswitch Handpiece
+
+Intended Use [21-CFR 807.92(a)(5)]
+Orthopedic, arthroscopic, spinal, and neurosurgical
+For resection, ablation, and coagulation of soft tissues and hemostasis of blood vessels in orthopedic,
+arthroscopic, spinal and neurological procedures. For soft tissue resection and ablation during
+arthroscopic surgical procedures of knee, shoulder, ankle, elbow, hip and wrist.
+. Cutting :
+
+Snoring, Submucosal palatal shrinkage, traditional uvulopalatoplasty (RAUP), myringotomy with
+effective hemorrhage control, epistaxis treatment, and turbinate shrinkage, skin incisions, biopsy,
+cysts, abscesses, tumors, cosmetic repairs, development of skin flaps, skin tags, Blepharoplasty.
+Blended Cutting and Coagulation
+Snoring, Submucosal palatal shrinkage, traditional uvulopalatoplasty (RAUP), myringotomy with
+effective hemorrhage control, epistaxis treatment, and turbinate shrinkage, skin tags, papilloma
+Keloids, Keratosis, Verrucae, Basal Cell Carcinoma, Nevi, Fistulas, Epithelioma, Cosmetic Repairs,
+Cysts, Abscesses, Development of skin flaps.
+Hemostasis and Nonablative Coagulation
+Control of bleeding, Epilation, Telangiectasia
+Bipolar
+Pinpoint, Precise Coagulation, Pinpoint Hemostasis, in any field (wet or dry), snoring, submucosal
+palatal shrinkage, traditional uvulopalatoplasty (RAUP), myringotomy with effective hemorrhage
+control, epistaxis treatment, and turbinate shrinkage.
+
+Technological Characteristics [21 CFR 807.92(a)(6)]
+Ellman International believes that the subject device is substantially equivalent to the predicate device.
+Performance Data [21 CFR 807.92(b)(1)]
+The Ellman Surgi-Max complies with IEC 60601-! and IEC 60601-2-2.
+Predicate Device [21 CFR 807.92(a)(3)]
+The predicate devices are listed as follows:
+e Ellman Surgitron IEC 120 / 4.0 DU ~ K013255
+Conclusion {21 CFR 807.92(b)(3)]
+We believe the differences between the subject device and predicate device are minor and conclude that
+the subject devices are as safe and effective as the predicate devices.
+
+f Ma DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+a
+a: Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+
+Elliman International Inc. % Jon Garito, Ph.D. ‘JUN 2 ons
+President
+3333 Royal Avenue
+Oceanside, New York 11572
+Re: K061174
+
+Trade/Device Name: Ellman Surgi-Max
+
+Regulation Number: 21 CFR 878.4400
+
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+
+Regulatory Class: II
+
+Product Code: GEI, HRX
+
+Dated: April 26, 2006
+
+Received: April 27, 2006
+Dear Dr. Garito:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments. or to
+devices that have been reclassified in accordance with the provisions of the Federal Food. Drug.
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices. good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+{f your device is classified (see above) into either class II (Special Controls) or class HI] (PMA). it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21. Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements. including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801): good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act): 21 CFR 1000-1050.
+
+Page 2 — Jon Garito, Ph.D.
+This letter will allow you to begin marketing your device as described in your Section $10(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+“Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www. fda.gov/cdrh/industry/support/index.html.
+
+Singerely yours, dD
+
+, 4
+Cha (ae (uel Mt
+Tet
+ark N. Melkerson
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Indications for Use
+5 10(k) Number (if known): K061174
+Device Name: Ellman Surgi-Max
+Orthopedic, arthroscopic, spinal, and neurosurgical
+For resection, ablation, and coagulation of soft tissues and hemostasis of blood vessels in orthopedic,
+arthroscopic, spinal and neurological procedures. For soft tissue resection and ablation during arthroscopic
+surgical procedures of knee, shoulder, ankle, elbow, hip and wrist.
+Cutting
+Snoring, Submucosal palatal shrinkage, traditional uvulopalatoplasty (RAUP), myringotomy with effective
+hemorrhage control, epistaxis treatment, and turbinate shrinkage, skin incisions, biopsy, cysts, abscesses, tumors,
+cosmetic repairs, development of skin flaps, skin tags, Blepharoplasty.
+Bi d Cutting and Coaeulation
+Snoring, Submucosal palatal shrinkage, traditional uvulopalatoplasty (RAUP), myringotomy with effective
+hemorrhage control, epistaxis treatment, and turbinate shrinkage, skin tags, papilloma Keloids, Keratosis,
+Verrucae, Basal Cell Carcinoma, Nevi, Fistulas, Epithelioma, Cosmetic Repairs, Cysts, Abscesses, Development
+of skin flaps.
+Hemostasis and Nonablative Coagulation
+Control of bleeding, Epilation, Telangiectasia
+Bipolar
+Pinpoint, Precise Coagulation, Pinpoint Hemostasis, in any field (wet or dry), snoring, submucosal palatal
+shrinkage, traditional uvulopalatoplasty (RAUP), myringotomy with effective hemorrhage control, epistaxis
+treatment, and turbinate shrinkage.
+Prescription Use X___ AND/OR Over-The-Counter Use ,
+(Part 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+SSeS
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+- i :
+CW bee Avcbity) han
+(Division Sig:-Off)
+Division of General, Restorative,
+and Neurological Devices
+hoe fp bb OL ig
+510(k) Number_in |
+

@@ -1,0 +1,190 @@
+HOYA ConBio, Inc.
+ko 6 3 f 3 F Special 510(k) RevLite Laser System with LCD
+RevLite Q-Switched Laser System 510k Summary
+HOYA ConBio
+47733 Fremont Boulevard, Fremont, California $4538 A A N 2 ad ons
+510-445-4500 www,conbio,com 510-445-4550 Fax - 07
+Submitter: Hoya ConBio, Inc.
+47733 Fremont Blvd.
+Fremont, California 94538
+Phone: 510-445-4500
+Fax: 510-445-4550
+Contact: Donna K. Templeman
+Regulatory Consultant
+Date Summary Prepared: December 21, 2006
+Device Trade Name: RevLite™ Q-Switched Nd: YAG Laser System
+Common Name: Dermatology Laser System
+Classification Name: Instrument, surgical, powered, laser
+79-GEX
+Classification Code: 878.4810 Laser surgical instrument for use in general and plastic
+surgery and in dermatology (1) A carbon dioxide laser for use in
+general surgery and in dermatology is a laser device intended to
+cut, destroy, or remove tissue by light energy emitted by carbon
+dioxide.
+(2) An argon laser for use in dermatology is a laser device
+intended to destroy or coagulate tissue by light energy emitted by
+argon.
+Equivalent Device: RevLite C6 Q-Switched Nd: YAG Laser System — K063112
+Device Description: The RevLite System with LCD Panel laser unit and controls are
+contained in a single console. Electrical power is supplied to the
+console by the facility’s power source. Laser energy produced
+within the device is delivered to the tissue by means of an
+articulated arm and a specially designed MultiSpot Handpiece or
+optional Multilite Dye Laser Handpieces. The user activates laser
+emission by means of a footswitch. The RevLite System
+incorporates 2 very narrow laser applications designed to apply
+more energy over a larger spot size at the same fluence level,
+enabling the physician to treat a larger area more rapidly.
+‘Page 218
+Proprietary Information
+
+cob > P34 HOYA ConBio, Inc.
+Special 510(k) RevLite Laser System with LCD
+Intended Use: For use in dermatology for the following indications: Treatment
+of Epidermal Pigmented Lesions, Treatment of Dermal
+Pigmented Lesions Nevus of Ota, Incision, Excision, Ablation,
+Vaporization of Soft Tissue for General Dermatology,
+Dermatologic and General Surgical Procedures for Coagulation
+and Hemostasis, Laser skin resurfacing procedures for the
+treatment of acne scars and wrinkles, Tattoo Removal: Dark Ink:
+(Black & Blue) Light Ink: (Red, Sky Blue, Green), Treatment of
+Vascular Lesions, Removal or lightening of unwanted hair with or
+without adjuvant preparation
+Comparison: The RevLite Laser System with LCD Panel is comparable to its
+predicate and parent devices in terms of its indications for use,
+technical specifications, operating performance features, and
+general design features.
+Nonclinical Performance
+Data: None
+Clinical Performance Data:
+none
+Additional Information: None requested at this time.
+Page 219
+Proprietary Information
+
+? ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+a a  _ _
+“rawas Food and Drug Administration
+
+9200 Corporate Boulevard
+Rockville MD 20850
+
+Hoya ConBio, Inc.
+% Ms. Donna K. Templeton
+Regulatory Consultant AN 28 2007
+DKT Consulting ~
+1105 Sunset Creek Lane
+Pleasanton, California 94566
+Re: K063834
+
+Trade/Device Name: RevLite” Q-Switched Nd: YAG Laser Systeml
+
+Regulation Number: 21 CFR 878.4810
+
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and in
+
+dermatology
+
+Regulatory Class: Class II
+
+Product Code: GEX
+
+Dated: December 22, 2006
+
+Received: December 27, 2006
+Dear Ms. Templeton:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class II] (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+Page 2 — Ms. Donna K. Templeton
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115 Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www. fda.gov/cdrh/industry/support/index.html.
+
+Sincerelypyour:
+
+{ Av \,
+
+Mark N. MelkerSon
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+
+Office of Device Evaluation
+
+Center for Devices and
+
+Radiological Health
+Enclosure
+
+HOYA ConBio, Inc.
+Special 510(k) RevLite Laser System with LCD
+510(k) Number (if known): C6 WIE
+Device Name: RevLite Q-Switched Nd: YAG Laser System
+Indications for Use:
+The RevLite Q-switched Nd: YAG Laser System is indicated for Incision, Excision, Ablation,
+Vaporization of Soft Tissue for General Dermatology, Dermatologic and General Surgical Procedures for
+Coagulation and Hemostasis.
+Specific Indications
+1064 nm wavelength:
+Tattoo Removal: Dark Ink: (Black & Blue)
+Nevus of Ota
+Removal or lightening of unwanted hair with or without adjuvant preparation.
+Skin resurfacing procedures for the treatment of acne scars and wrinkles
+532 nm wavelength (nominal delivered energy of 585nm and 650 nm with the Optional Multilite Dye
+Laser Handpiece):
+Tattoo Removal: Light Ink (Red, Sky Blue, Green)
+Treatment of Vascular Lesions including, but not limited to:
+e Prot wine birthmarks
+e  Telangiectasias
+e Spider angioma
+¢ Cherry angioma
+e = Spider nevi
+Treatment of Pigmented Lesions including, but not limited to:
+e © Café-au-lait bithmarks
+e — Solar lentiginos .
+e Senile lentiginos
+e  Becker’s nevi
+«  =Freckles
+© Nevus spilus
+Skin resurfacing procedures for the treatment of acne scars and wrinkles.
+Prescription Use xX AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW i E-CONTINUE ON ANOTHER PAGE
+CA
+Ye i J eee
+Concurrentpyy ESOT ‘pigf ED HPppvice Evaluation (ODE)
+Division of General, Restorative, page of __
+(Posted November 13, ropa New logical Devices
+Lb
+Proprietary Information 510 (k) N: Pageave [Lobb SV
+

@@ -1,0 +1,137 @@
+JAN 2 2 2002 K0d123 9F
+510(K) SUMMARY .
+Diomed 810 nm Surgical Lasers and EVLT Procedure Kit
+This 510(k) summary of safety and effectiveness for the Diomed 810 nm Surgical Lasers
+and EVLT Procedure Kit is submitted in accordance with the requirements of SMDA
+1990 and follows Office of Device Evaluation guidance concerning the organization and
+content of a 510(k) summary.
+Applicant: Diomed, Inc.
+Address: One Dundee Park
+Suite 5/6
+Andover, MA 01810
+Contact Person: Peter Klein
+Chief Executive Officer
+Telephone: 978-475-7771
+978-475-8488 (fax)
+Preparation Date: January, 2002
+(of the Summary)
+Device Name: Diomed 810 nm Surgical Lasers and EVLT Procedure Kit
+Common Name: Surgical Laser: GaAlAs Semiconductor Diode Laser
+Classification Device, Electrosurgical, Cutting & Coagulation & Accessories
+Name: (see: 21 CFR 878.4400). Product,Code: GEI. Panel: 79
+Legally marketed .
+predicate
+device: VNUS Closure System (K974521, K003092, K982816)
+Description of Diomed 810 nm Surgical Lasers and EVLT Procedure Kit
+the Device: is a semiconductor diode lasers operating at 810 + 20 microns and
+associated disposables.
+Indications for
+Use: Diomed 810 nm Surgical Lasers and EVLT Procedure Kit are
+intended for use in endovascular coagulation of the greater
+saphenous vein of the thigh in patients with superficial vein reflux.
+
+Comparison to
+
+Predicate Device: The intended use, method of tissue interaction, specifications,
+clinical technique and clinical results of the Diomed 810 nm
+Surgical Lasers and EVLT Procedure Kit are the same or very
+similar to those of the claimed predicate.
+
+Performance Data: _ Clinical tests performed by Diomed have demonstrated the
+substantially equivalent performance of the Diomed 810 nm
+Surgical Lasers and EVLT Procedure Kit with the predicate device
+used for substantially equivalent indications.
+
+Conclusion: Based on the foregoing, Diomed believes that the Diomed 810 nm
+Surgical Lasers and EVLT Procedure Kit are substantially
+equivalent to legally marketed predicate devices.
+
+ee
+f & DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+s a
+“ne Food and Drug Administration
+JAN 2 2 2002 Rockvite MD 20850
+Diomed, Ltd.
+c/o Ms. Maureen O'Connell
+§ Timber Lane
+North Reading, Massachusetts 01864
+Re: K012398
+Trade/Device Name: Diomed 810 nm Surgical Lasers and EVLT Procedure Kit
+Regulation Number: 878.4810
+: Regulation Name: Laser surgical instrument for use in general and
+plastic surgery and in dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: October 22, 2001 .
+Received: October 24, 2001 :
+Dear Mr. O'Connell:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820), and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Ms. Maureen O'Connell ,
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 21 CFR Part 809.10 for in vitro diagnostic devices), please contact the Office of
+Compliance at (301) 594-4659. Additionally, for questions on the promotion and advertising of
+your device, please contact the Office of Compliance at (301) 594-4639. Also, please note the
+regulation entitled, “Misbranding by reference to premarket notification” (21CFR Part 807.97).
+/ Other general information on your responsibilities under the Act may be obtained from the
+
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 443-6597 or at its Internet address
+http://www. fda.gov/cdrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+Celia M. Witten, Ph.D., M.D.
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+510(K) Number (if known): _s—iK 012398
+Device Name: Diomed 810 nm Surgical Lasers and EVLT Procedure Kit ,
+Indications For Use:
+Diomed 810 nm Surgical Lasers and EVLT Procedure Kit are intended for use in
+endovascular coagulation of the greater saphenous vein of the thigh in patients with
+superficial vein reflux.
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+OR
+Prescripuon Use fs . ~ ver-The -Counter Use
+ree Dy Atlul 7 alle sesame —
+E\ (Division Sign-Off)
+Division of Genera! Restorative
+and Neurological L:.vices
+at
+$10(k) Number ___ Old 24%
+

@@ -1,0 +1,279 @@
+510(k) Summary of Safety and Effectiveness Celon AG medical instruments
+. Celon ENT System
+SEP 2.6 2003 ‘tune 27" 2008,
+~ une ,
+40328338 (¢9 1054)
+510(k) Summary of Safety and Effectiveness
+This 510(k) summary of Safety and Effectiveness information is submitted in
+accordance with the requirement of 21 CFR Part 807.92
+Submitter: Celon AG medical instruments
+Rheinstrasse 8
+14513 Teltow
+Germany
+Contact Person: André Roggan, Ph. D.
+Director Research and Development
+Phone: +49-3328-3519-0
+Fax: +49-3328-3519-23
+United States Agent: Donald R. Bruce
+1005 California Ave.
+San Jose, CA 95125
+Phone: 408-691-6333
+Fax: 408-294-5258
+Date Summary Prepared: June 27", 2003
+Product Identification
+Proprietary Name: Celon ENT System
+Classification Name: Electrosurgical cutting and coagulation
+device and accessories (21 CFR 878.4400)
+Common Name: Electrosurgical Device and Accessories
+Manufacturer: Celon AG medical instrument
+Rheinstrasse 8
+14513 Teltow
+Germany
+Distributor: pending
+11
+
+510(k) Summary of Safety and Effectiveness Celon AG medical instruments
+Celon ENT System
+, 510(k) Summary
+4032333 (09 265 4) June 27", 2003
+Legally Marketed Device:
+The Celon ENT System is of comparable type and is substantially equivalent to
+the following currently marketed devices:
+Device 510(k) Number Date Cleared
+ArthroCare AccENT Electrosurgery System K973478 January 9", 1998
+ArthroCare ENTec Reflex Wand Electrodes K000036 February 4", 2000
+ArthroCare ENTec Reflex Wand Electrodes K000778 May 3%, 2000
+Somnus Somnoplasty System K971450 July 17", 1997
+Somnus Somnoplasty System K973618 December 19", 1997
+It complies with the same or equivalent standards and has the same intended
+use.
+Device Description
+The Celon ENT System is comprised of a power control unit (CelonLab ENT) and
+bipolar coagulation electrodes. The CelonLab ENT power control unit delivers a
+bipolar output via the bipolar coagulation electrodes of type CelonProBreath,
+CelonProSleep, and CelonProSleep PLUS. A neutral electrode (return conductor)
+is not required. The power control unit is user-friendly with a user display showing
+all the necessary process parameters. After switching on the equipment, the user
+selects the level of power and activates the radio frequency (RF) current by
+depressing the foot switch. The power control unit delivers an acoustic signal as
+an indicator of the coagulation status. Usually, general electrosurgical units have
+a fixed activation tone. However, in the case of the CelonLab ENT power control
+unit, the frequency of the acoustic signal is proportional to the tissue impedance.
+This permits acoustic monitoring of the coagulation status by the operator, since
+the latter is directly correlated with the impedance. If the impedance increases
+above a certain limit, signifying that the coagulation process is complete, this is
+additionally indicated by a clock pulsed sound and the power output is ceased
+automatically. Overdose effects in the treated tissue area are excluded by this
+power control function. The procedure time will be set automatically by the power
+control unit. The time interval between activation of the power control unit and the
+end of the coagulation procedure depends on applicator type, tissue properties
+and power setting, and can vary between 3 seconds and several minutes.
+Accessories included with the power control unit include a line power cable and
+single pedal foot pedal (CelonFootSwitch).
+12
+
+510(k) Summary of Safety and Effectiveness Celon AG medical instruments
+Celon ENT System
+
+4 510(k) Summa:
+KC3 2838 (e9 364) une 27", 2003.
+
+Materials: Materials and construction of the Celon ENT System are compliant
+
+with the international electrical safety standards IEC 60601-1, IEC 60601-1-2,
+
+IEC 60601-2-2, and the American national standard ANSI/AAMI HF-18.
+
+Additionally, the materials used in the design and construction of the
+
+CelonProBreath, CelonProSleep, and CelonProSleep PLUS bipolar coagulation
+
+electrodes, which have direct contact with the patient, are biocompatible
+
+according to !SO 10993 or USP 23 Class VI.
+
+Design: The system is designed to be a bipolar electrosurgical coagulation device
+
+with an automatic power control, including automatic output power reduction and
+
+acoustic monitoring of coagulation status.
+
+Intended Use of the Device
+
+This Celon ENT System has the same intended use as the legally marketed
+
+devices. This application system, comprising the CelonLab ENT power control
+
+unit and the CelonProBreath, CelonProSleep, and CelonProSleep PLUS bipolar
+coagulation electrodes, is indicated for ablation and coagulation of soft tissue in
+otorhinolaryngology (ENT) surgery including:
+
+CelonProBreath: Submucosal tissue shrinkage for nasal airway
+obstruction by reduction of hypertrophic nasal
+turbinates
+
+CelonProSleep: Submucosal tissue shrinkage and tissue coagulation
+in the uvula/soft palate for the treatment of snoring
+
+CelonProS/eep PLUS: Submucosal tissue shrinkage and tissue coagulation
+in the uvula/soft palate for the treatment of snoring
+
+The system is intended for use by qualified medical personnel trained in the use
+
+of electrosurgical equipment.
+
+13
+
+510(k) Summary of Safety and Effectiveness Celon AG medical instruments
+/ £ Ceton ENT System
+\ : j 510(k) S
+K032838 ) 40 ) une 27. 2003,
+Comparison with Legally Marketed Device:
+It is the opinion of Celon AG medical instruments that the Celon ENT System is
+of a type and substantially equivalent to legally marketed devices with respect to
+intended use and technological characteristics. It will comply with the safety
+requirements of IEC 60601-1, IEC 60601-1-2, IEC 60601-2-2, ANSI/AAMI HF-18
+and applicable collateral and particular standards. Furthermore, the
+CelonProBreath, CelonProSleep, and CelonProS/eep PLUS bipolar coagulation
+electrodes, which have direct contact with the patient, are biocompatible
+according to ISO 10993 or USP 23 Class VI. In addition, performance validation
+testing has been done to validate the performance of the device. The comparison
+results presented in this 510(k) notification show that the device is substantially
+equivalent to legally marketed devices and is safe and effective in its intended
+use.
+Conclusions
+The Celon ENT System does not result in any new potential safety risks and
+performs as well as or better than devices legally on the market. Celon AG
+medical instruments consider the Celon ENT System to be equivalent to other
+marketed devices with the same indications for use and meeting similar
+standards.
+Legal Notice
+CelonProBreath® and CelonProSleep® are registered trademarks of Celon AG
+medical instruments.
+14
+
+a meng
+z M4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Mame Food and Drug Administration
+SEP 26 2003 Rockville MD 20850"
+
+Celon AG Medical Instruments
+c/o Ms. Pamela Gwynn
+Underwriters Laboratories, Inc.
+12 Laboratory Drive
+P.O. Box 13995
+Research Triangle Park, North Carolina 27709-3995
+Re: K032838
+
+Trade/Device Name: Celon ENT System
+
+Regulation Number: 21 CFR 878.4400
+
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+
+Regulatory Class: II
+
+Product Code: GEI
+
+Dated: August 18, 2003
+
+Received: September !1, 2003
+Dear Ms. Gwynn:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food. Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA),
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing p.actice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class {I (Special Controls) or class II] (PMA). it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition. FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requifements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Ms. Pamela Gwynn
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (301) 594-4659. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www. fda.govw/cdrh/dsma/dsmamain. html
+
+Sincerely yours,
+
+catia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and Radiological Health
+‘ Enclosure
+
+Statement of Intended Use Celon AG medical instruments
+Celon ENT System
+
+Premarket Notification
+
+June 27", 2003
+
+6 Statement of Intended Use
+
+510(k) Number: pending KCZ2QB3SB
+
+Device Name: Celon ENT System
+
+Indications For Use:
+
+This application system, comprising the CelonLab ENT power control unit and the
+
+CelonProBreath, CelonProSleep, and CelonProSleep PLUS bipolar coagulation
+
+electrodes, is indicated for ablation and coagulation of soft tissue in
+
+otorhinolaryngology (ENT) surgery including:
+
+CelonProBreath: Submucosal tissue shrinkage for nasal airway
+obstruction by reduction of hypertrophic nasal
+turbinates
+
+CelonProSleep: Submucosal tissue shrinkage and tissue coagulation
+in the uvula/soft palate for the treatment of snoring
+
+CelonProSleep PLUS: Submucosal tissue shrinkage and tissue coagulation
+in the uvula/soft palate for the treatment of snoring
+
+The system is intended for use by qualified medical personnel trained in the use
+
+of electrosurgical equipment.
+
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER
+
+PAGE IF NEEDED)
+
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+
+Prescription Use _ xX OR Over-The-Counter Use
+
+(Per 21 CFR 801.109)
+
+Warn C.
+(Wivision Sign-Off)
+Division of General, Restorative
+and Neurological Devices
+2
+510(k) Number_032835 45
+

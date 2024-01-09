@@ -1,0 +1,224 @@
+AtriCure Incorporated AUG 3 0 2001 Bipolar Coagulation System 510(k)
+510(k) SUMMARY
+ATRICURE COAGULATION SYSTEM
+510(k) NOTIFICATION K010112 and KO1XXXX
+Kon7ag
+General Information a
+Manufacturer: AtriCure Medical Corporation
+6033 Schumacher Park Drive
+West Chester, OH 45069-3863
+(513) 755-4100
+Fax (513) 755-4108
+Est. Reg. No. XXXXXXX
+Contact Person: Mark L. Friedman, Ph.D.
+Vice President of Quality Assurance & Regulatory
+Affairs
+AtriCure Medical Corporation
+Date Prepared: [to be added after 510(k) process]
+Device Description
+Classification: Class Il
+Trade Name: AtriCure Bipolar Coagulation System
+Generic/Common Name: Electrosurgical cutting and coagulation device and
+Accessories 21CFR878.4400
+Predicate Devices
+1. Ethicon Non-Stick Bipolar Forceps (K973384)
+2. Link Technology’s Non-Stick Bipolar Forceps (K992931).
+3. The generator accessory is equivalent to the currently marketed Rita Model 1500
+Electrosurgical RF Generator, which received clearance under K993944
+4. Somnus Medical Technologies Model S1 Electrosurgical Generator KO00501
+5. Symbiosis Bipolar Forceps (K950286 and K951387)
+6. Kirwan Medical Bipolar Forceps (K945975 and K955001)
+7. CardioThoracic Systems MIDCAB/SVH Bipolar Forceps (K963930)
+8. Heartport Inc. Heartport Maze System (K970496)
+9, EndoCare Cryocare Cryosurgical System (K9801 10)
+10. CyroGen Cardiac Cryosurgical Unit (K974320)
+11.CyroGen Cryosurgical Unit and Accessories (KO03050)
+12. Galil Medical Cryo-Hit 200(K991517)
+13. Galil Medical Cryo-Hit (K993965)
+44
+
+AtriCure Incorporated Bipolar Coagulation System 510({k)
+
+Indication For Use Statement
+The AtriCure Bipolar Coagulation System is intended to ablate and coagulate
+soft tissue during General, ENT, Thoracic, Gynecology, and Urology surgical
+procedures. ;
+
+Product Description
+The AtriCure Bipolar Coagulation System consists of two components: AtriCure
+Bipolar Coagulator and AtriCure Bipolar Electrosurgical Generator.
+The Bipolar Coagulator is substantially equivalent to the predicate Bipolar
+Forceps in that each consists of a handle connected to a pair of grasping jaws
+with electrodes on each jaw arm. All the devices utilize the same bipolar
+Electrosurgical technology, i.e., radio frequency (RF) energy, to coagulate the
+tissue by heating. The Bipolar Coagulator contains a negative and positive
+electrode on opposite jaw arms. The function of the Bipolar Coagulator and
+predicate devices is the same, current flows from a negatively charged pole
+through the tissue to a positively charged pole. The Bipolar Coagulator is
+provided as a sterile single patient use device and is provided in a variety of
+shapes and sizes. The Bipolar Coagulator is constructed with standard
+biocompatible materials used in medical devices involved in tissue contact.
+The Bipolar Coagulator is designed to grasp tissue between the electrodes.
+When the energy is applied, the tissue touching the electrodes is coagulated.
+The field of coagulation extends up to 2 mm from the electrode. Area of
+coagulated tissue will be up to 4 mm in width or up to 60 mm in length. Fully
+coagulated tissue can be achieved for tissue thickness less than 10 mm.
+The Electrosurgical Generator is set to deliver 750 mA of current. As tissue
+coagulation proceeds the impedance increases. The voltage is set to not exceed
+75 Volts. When a voltage of 75 Volts is reached, the impedance increases and
+current flow decreases with voltage maintained at 75 Volts. Impedance of 400
+ohms typically indicates fully coagulated tissue. The unit will display impedance,
+current, voltage, and power on the front of the generator. The unit will also
+monitor the temperature of the coagulated tissue and has a range up to 125
+degrees Celsius. The surgeon may also use this temperature reading as a point
+of reference to determine the extent of tissue coagulation.
+The AtriCure Bipolar Coagulation System meets the following performance
+industrial/international standards.
+
+ANSI/AAMI HF 18 Electrosurgical Devices
+
+ANSI C101-1992 American National Standard for Leakage
+
+Current for Appliances
+45
+|
+
+AtriCure Incorporated Bipolar Coagulation System 510(k)
+
+AAMI ESI-1993 : Safe Current Limits for Electromedical
+Apparatus
+
+ISO 10993/EN 30993 Biological Evaluation of Medical Devices
+
+ISO 11607 Packaging for Terminally Sterilized Medical
+Devices
+
+ISO 11137 Sterilization of Health Care Products,
+Sterilization of Gamma Irradiation
+
+IEC/EN 60601-1 Medical Electrical Equipment - Part 1: General
+Requirements for Safety
+
+1EC/EN 60601-1+1 Medical Electrical Equipment - Collateral
+Standard: Safety Requirements for Medical
+Device Systems
+
+IEC/EN 60601-2 Medical Electrical Equipment - Part 1: General
+Requirements for Safety 2: Collateral Standard:
+Electromagnetic Compatibility - Requirements
+and Tests
+
+IEC/EN 60601-2-2 Medical Electrical Equipment - Part 2-2:
+Particular Requirements for the Safety of High
+Frequency Surgical Equipment
+
+EN 46001 Application of EN ISO 9001 to the Manufacture
+of Medical Devices
+
+UL 2601-1 Standard for Safety: Medical Electrical
+Equipment
+
+UL 544 Standard for Safety: Medical and Dental
+Equipment
+
+UL 498 Standard for Safety: Attachment Plugs and
+Receptacles
+
+Summary
+
+As contained in this 510(k) summary, the AtriCure Bipolar Coagulation System is
+
+substantially equivalent to the predicate devices identified.
+
+46
+
+—
+§ & DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+J a
+“tn Food and Drug Administration
+9200 Corporate Boulevard
+AU G 5 0 2001 Rockvilie MD 20850
+Mark L. Friedman, Ph.D.
+Vice President of Quality Assurance
+and Regulatory Affairs
+AtriCure Medical Corporation
+6033 Schumacher Park Drive
+West Chester, Ohio 45069
+Re: K011722
+Trade/Device Name: AtriCure Bipolar Coagulation System
+Regulation Number: 878.4400
+Regulatory Class: Il
+Product Code: GEI
+Dated: May 31, 2001
+Received: June 4, 2001
+Dear Dr. Friedman:
+We have reviewed your Section’510(k) notification of intent to market the device referenced
+above and we have determined the device is substantially equivalent (for the indications for use
+stated in the enclosure) to legally marketed predicate devices marketed in interstate commerce
+prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that
+have been reclassified in accordance with the provisions of the Federal Food, Drug, and
+Cosmetic Act (Act). You may, therefore, market the device, subject to the general controls
+provisions of the Act. The general controls provisions of the Act include requirements for annual
+registration, listing of devices, good manufacturing practice, labeling, and prohibitions against
+misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III
+(Premarket Approval), it may be subject to such additional controls. Existing major regulations
+affecting your device can be found in the Code of Federal Regulations, Title 21, Parts 800 to 895.
+A substantially equivalent determination assumes compliance with the Current Good
+Manufacturing Practice requirements, as set forth in the Quality System Regulation (QS) for
+Medical Devices: General regulation (21 CFR Part 820) and that, through periodic Qs
+inspections, the Food and Drug Administration (FDA) will verify such assumptions. Failure to
+comply with the GMP regulation may result in regulatory action. In addition, FDA may publish
+further announcements concerning your device in the Federal Register. Please note: this
+response to your premarket notification submission does not affect any obligation you might
+have under sections 531 through 542 of the Act for devices under the Electronic Product
+Radiation Control provisions, or other Federal laws or regulations.
+
+Page 2 - Mark L. Friedman, Ph.D.
+This letter will allow you to begin marketing your device as described in your 510(k) premarket
+notification. The FDA finding of substantial equivalence of your device to a legally marketed
+predicate device results in a classification for your device and thus, permits your device to
+proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 809.10 for in vitro diagnostic devices), please contact the Office of Compliance at
+— 301) 594-4659. Additionally, for questions on the promotion and advertising of your device,
+
+please contact the Office of Compliance at (301) 594-4639. Also, please note the regulation
+entitled, "Misbranding by reference to premarket notification” (21CFR 807.97). Other general
+information on your responsibilities under the Act may be obtained from the Division of Small
+Manufacturers International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its internet address “http://www.fda.gov/cdrh/dsma/dsmamain. html".
+
+Sincerely yours,
+
+Seca OO A
+
+Celia M. Witten, Ph.D., M.D.
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Page} of 1_
+510(k) Number (if known): K0i1722 .
+Device Name: AtriCure Bipolar Coagulation System
+Indications For Use:
+The AtriCure Bipolar Coagulation System is intended to ablate and coagulate soft tissue during
+General, ENT, Thoracic, Gynecology, and Urology surgical procedures.
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+(Optional Format 3-10-98)
+(ivision Sign-Off) .
+Division of General, Restorative
+and Neurological Devices
+ou7Z>
+510(k) Number KOU 72 >
+

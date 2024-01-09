@@ -1,0 +1,248 @@
+17
+re CANDELA K 0 Y 3 0 7 f
+510¢(k) Summar ,
+() y DEC 27 2006
+This 510(k) summary of safety and effectiveness information is submitted in accordance with the
+requirements of the Safe Medical Devices Act (SMIDA) of 1990. The contents of the 510(k)
+summary have been provided in conformance with 21 CFR §807.92.
+Submitter Information
+Company Name: Candela Corporation
+Company Address: 530 Boston Post Road
+Wayland, MA 01778
+Company Phone: 508-358-7400
+Company Facsimile: 508-358-5602
+Contact Person: Mr. Jeffrey Roberts
+Manager, Regulatory Affairs
+Date summary Prepared: 10/05/06
+Device Identification .
+Device Trade/Proprietary Name:Candela 3630 Laser System
+Common Name: Medical Laser System
+Classification Name: Laser Surgical Instrument, for use in General and Plastic
+Surgery and Dermatology
+Classification Regulation: 21 CFR § 878.4810
+Device Classification: 0
+Identification of Predicate Device
+Predicate Device(s): Candela Gentle Y AG Family of Laser Systems, K033172
+Candela GentleLASE Family of Laser Systems, K024371
+Candela GentleLASE Family of Laser Systems, K024335
+Candela Gentle LASE Family of Laser Systems, K024260
+Cynosure Apogee Elite Laser, {034030
+Device Description
+The Candela 3630 Laser System contains two separate Jaser heads (Alexandrite and Nd:YAG)
+which produce laser light outputs of 755 nm and 1064 nm. The outputs of each laser head are
+optically combined on the laser rail so that their beam paths are identical as they exit the laser
+system. This allows the use of a single delivery system which can output either 755 nm, 1064 nm
+wavelengths.
+Each laser head contains the appropriate solid state laser rod and high intensity xenon flashlamps
+to excite the laser medium. The laser heads are water cooled with a self contained circulating
+water system that includes a water to air heat exchanger so the system can be fully air-cooled.
+The temperature of the laser heads are regulated by the circulation of distilled water at a
+
+controlled temperature. A high voltage power supp'y is used to charge a storage capacitor which
+provides energy to the flashlamps. An IGBT (high voltage switch) is used to discharge the
+capacitor through the flashlamp. Each laser head has its own dedicated IGBT switch which is
+how the system controls which wavelength is produced. The resulting flash of the flashlamp
+excites the laser rod which causes emission of a pulse of laser energy.
+The Candela 3630 Laser System delivers laser energy with various pulse durations from 0,25
+milliseconds to 300 milliseconds (See attached specification 9914-92-0400 for further details).
+The output of this laser is delivered to the area of t:eatment by means of a lens coupled user
+replaceable optical fiber with a treatment handpiece attached to its distal end. A trigger switch
+(fingerswitch or footswitch) is used to control the delivery of laser pulses. The user may choose
+to deliver a single pulse each time the trigger switch is depressed, or pulses may be delivered
+repetitively as long as the switch is depressed, at repetition rates up to 10 pulses per second
+(depending on the chosen pulse duration).
+
+A microprocessor based system controller is used to monitor and direct all system functions,
+Users of the laser select parameters such as desired energy density (fluence) level and repetition
+rate and monitor operation via a touch screen and display pane]. The touch screen panel can also
+be used to enable or disable the triggering of the laser, to initiate the calibration feature and to
+obtain feedback from the system, such as the number of pulses delivered or spot size selected.
+The Candela 3630 Laser System supports spot sizes from 1.5 to 18 mm.
+
+Description of Intended Use
+
+735nm
+
+The Candela 3630 Laser System is indicated for the temporary hair reduction. Stable long-term
+or permanent hair reduction through selective targeting of melanin in hair follicles, Permanent
+hair reduction is defined as long-term stable reduction in the number of hairs regrowing after a
+treatment regime. On all skin types (Fitzpatrick I-IV) including tamed skin.
+
+Treatment of benign pigmented lesions. Treatmen: of wrinkles.
+
+1064nm
+
+The Candela 3630 Laser System is indicated for the removal of unwanted hair, for stable long
+
+term or permanent hair reduction and for treatment of PFB. The lasers are indicted on all skin
+types Fitzpatrick I-VI including tanned skin. Photocoagulation and hemostasis of pigmented and
+
+vascular lesions such as but not limited to port wine stains, hemoangioma, warts, telangiectasia,
+
+tosacea, venus lake, leg veins and spider veins. Coagulation and hemostasis of soft tissue. Benign
+
+Pigmented lesions such as, but not limited to, lentigos (age spots), solar lentigos (sun spots), cafe
+
+au lait macules, seborrheic keratoses, nevi, chloasma, verrucae, skin tags, keratoses, tattoos
+
+(significant reduction in the intensity of black and/or blue-black tatoos) and plaques.
+
+The laser is indicated for pigmented lesions to reduce lesion size, for patients with lesions that
+
+would potentially benefit from aggressive treatment, and for patients with lesions that have not
+
+responded to other laser treatments.
+
+The laser is also indicated for the reduction of red pigmentation in hypertrophic and keloid scars
+
+where vasoularity is an integral part of the scar,
+
+Treatment of wrinkles.
+
+Rationale for Substantial Equivalence
+
+The Candela 3630 Laser System has the same intended use, utilizes similar functional features
+(including power output, spot size, repetition rate, energy, and fluence) and matches key design
+aspects (including wavelength, light generation medium, power supply, cooling and controls
+system) , as the predicate devices.
+
+The Candela 3630 Laser System shares similar methods of assembly, method of operation, and
+intended uses, and therefore is substantially equivelent to the currently legally marketed Candela
+GentleYAG Family of Laser Systems, K033172, Candela GentleLASE Family of Laser Systems,
+K024371, K024335, K024260, and Cynosure Apoiee Elite Laser, 034030 predicate devices.
+Safety and Effectiveness Information
+
+The Candela 3630 Laser System is substantial ecuivalent to the currently legally marketed
+Candela Gentle YAG Family of Laser Systems, K033172, Candela GentleLASE Family of Laser
+Systems, K024371, K024335, K024260, and Cyncsure Apogee Elite Laser, K034030 predicate
+devices in intended use and technological features and therefore the risks and benefits are
+comparable to the predicate devices.
+
+We therefore believe that there are no new questions of safety or effectiveness raised by the
+introduction of the Candela 3630 Laser System.
+
+Conclusion
+
+Base on the similarities in indications for use, design features, and functional features the
+Candela 3630 Laser System has been shown to be substantially equivalent to the current legally
+marketed predicate devices.
+
+¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+e eS
+ees Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Candela Corporation
+% Mr. Jeffrey Roberts
+Manager, Regulatory Affairs
+530 Boston Post Road DEC 97 2006
+Wayland, Massachusetts 01778
+Re: K063074
+Trade/Device Name: Candela 3630 Laser System
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery
+and in dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: October 5, 2006
+Received: October 10, 2006
+Dear Mr. Roberts:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+
+: You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+
+If your device is classified (see above) into either class II (Special Controls) or class II (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+Page 2 — Mr. Jeffrey Roberts
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+“Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www.fda.gov/cdrh/industry/support/index.html.
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Indications for Use
+510(k) Number (if known): K063074
+Device Name: Candela 3630 Laser System
+Indications for Use:
+755nm
+: The Candela 3630 Laser System is indicated for the temporary hair reduction, Stable
+long-term or permanent hair reduction through selective targeting of melanin in hair
+follicles. Permanent hair reduction is defined as long-term stable reduction in the number
+of hairs regrowing after a treatment regime. On all skin types (Fitzpatrick I-IV) including
+. tanned skin.
+Treatment of benign pigmented lesions. .
+: Treatment of wrinkles.
+1064nm
+The Candela 3630 Laser System is indicated for the removal of unwanted hair, for stable
+long term or permanent hair reduction and for treatment of PFB. The lasers are indicted
+on all skin types Fitzpatrick I-VI including tarmed skin, Photocoagulation and hemostasis
+of pigmented and vascular lesions such as but not limited to port wine stains,
+hemoangioma, warts, telangiectasia, rosacea, venus lake, leg veins and spider veins.
+Coagulation and hemostasis of soft tissue. Benign pigmented lesions such as, but not limited
+to, lentigos (age spots), solar lentigos (sun spots), cafe au lait macules, seborrheic keratoses,
+nevi, chloasma, verrucae, skin tags, keratoses, tattoos (significant reduction in the intensity of
+black and/or blue-black tattoos) and plaques.
+The laser is indicated for pigmented lesions to reduce lesion size, for patients with lesions
+that would potentially benefit from aggressive tceatment, and for patients with lesions that
+have not responded to other laser treatments.
+The laser is also indicated for the reduction of red pigmentation in hypertrophic and keloid
+scars where vascularity is an integral part of the scar.
+Treatment of wrinkles. ,
+Qa ima ;
+Division of General, Restorative,
+ANG Mewivsgiiad VeVies .
+510(k) Number_KOU 30
+
+Prescription Use X Over-The-Counter Use
+
+(Part 21 CER 801 Subpatb) “NP/OR (9) CR 801 Subpart ©)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE
+
+OF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Page] of 1
+
+(Division Sign-Off) ;
+Division of General, Restorative,
+and Neurological Devices
+510(k) Number KoG20 1
+

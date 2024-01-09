@@ -1,0 +1,237 @@
+NIDEK INCORPORATED TRADITIONAL PREMARKET 510(k) NOTIFICATION
+pec 14 2004 MULTICOLOR LASER PHOTOCOAGULATOR MODEL MC-300
+a
+KOYZETIS poi of 4
+510(k) SUMMARY
+NIDEK GREEN LASER PHOTOCOAGULATOR MODEL MC-300
+1. SUBMITTER INFORMATION
+A. Company Name: Nidek Incorporated
+B. Company Address: 47651 Westinghouse Drive.
+Fremont, CA 94539-7474
+Cc, Company Phone: (510) 353-7722
+Company Fax: (510) 226-5750
+D. Contact Person: Hiro Matsuzaki
+Manager, Regulatory Affairs
+Nidek Incorporated
+E. Date Summary Prepared: September 30, 2004
+2. DEVICE IDENTIFICATION
+A. Classification Name: Ophthalmic Laser, and Powered Surgical Laser
+Instrument
+B. Trade/Proprietary Name: Nidek Multi Color Laser Photocoagulator Model
+MC-300
+C. Device Classification: Class II (per 21 CFR 886.4390 and 878.4810)
+D. Product Code: HQF and GEX
+3. SUBSTANTIAL EQUIVALENCE
+The Nidek Multi Color Laser Photocoagulator Model MC-300 is of comparable type
+and is substantially equivalent to the following predicate devices:
+09/30/04
+150
+
+NIDEK INCORPORATED TRADITIONAL PREMARKET 510(k) NOTIFICATION
+MULTI COLOR LASER PHOTOCOAGULATOR MODEL MC-300
+TTS TBS Bob
+Model GYC-1000 Japan 2003
+Ophthalmic Laser & 2002
+Delivery Devices
+The fundamental technical characteristics and device specifications of the Nidek
+Multi Color Laser Photocoagulator Model MC-300 are the same as those of the
+predicate devices. The Model MC-300 and the predicate devices are all Diode Laser
+Pumped Solid State Lasers (DPSSL). The Model MC-300 and the predicate device
+use a variety of delivery systems, including slit lamps, to deliver the laser beam. The
+Model MC-300 and the predicate devices are indicated for use in surgical treatment of
+ocular pathology, including retinal photocoagulation, panretinal photocoagulation,
+intravitreal endophotocoagulation, iridotomy, iridectomy and trabeculoplasty.
+4, DEVICE DESCRIPTION
+The Nidek Multi Color Laser Photocoagulator Model MC-300 is a diode pumped
+solid state laser (DPSSL) ophthalmic photocoagulation system that produces three
+treatment beams: a 532 nm (green) wavelength, a 561 (yellow) wavelength, and a 659
+(red) wavelength. The Model MC-300 uses the same wavelength for the aiming beam
+as the treatment beams, so that the operator can recognize the selected wavelength by
+the color of the aiming spot. The Model MC-300 splits the pumped laser beam into
+the aiming and treatment beams so that they can both be controlled separately. The
+multi-color laser beam is aligned with the respective aiming laser beam in the optical
+system inside the unit and gathers them in a fiber optic cable. The laser beam is led to
+the delivery unit via the fiber-optic cable, shaped into the specified spot size in the
+09/30/04
+151
+
+NIDEK INCORPORATED TRADITIONAL PREMARKET 510(k) NOTIFICATION
+MULTI COLOR LASER PHOTOCOAGULATOR MODEL MC-300
+KOT QTES p. ZF
+optical system, and emitted to the affected area (the emission areas of both the
+therapeutic laser beam and the aiming beam are the same).
+The Model MC-300 can be used to coagulate the target tissue efficiently and safely,
+and the system can be applied to transpupillary photocoagulation procedures using a
+, slit-lamp.
+
+A protective filter may be attached to each delivery unit in the observation optical
+path so that the operator’s eye can be protected from the laser beam if it is reflected
+from a patient’s eye or contact lens during laser emission. The Model MC-300 uses
+the following delivery units for use in a variety of ophthalmic procedures:
+e NIDEK Slit-Lamp Delivery Unit
+e ZEISS Slit-Lamp Attachable Delivery Unit
+e Binocular Indirect Ophthalmoscope Delivery Unit (Keeler All Pupil II Type)
+
+5. INTENDED USE
+The Nidek Multi Color Laser Photocoagulator Model MC-300 is indicated to be used
+in ophthalmic surgical procedures, including retinal and macular photocoagulation,
+iridotomy and trabeculoplasty
+
+6. TECHNOLOGICAL CHARACTERISTICS
+A comparison of the technological characteristics of the Nidek Multi Color Laser
+Photocoagulator Model MC-300 and the predicate devices has been performed, and
+the results of this comparison demonstrate that the Nidek Multi Color Laser
+Photocoagulator Model MC-300 has the same basic technological characteristics as
+the predicate devices and is equivalent to the marketed predicate devices. The
+
+09/30/04
+152
+
+NIDEK INCORPORATED TRADITIONAL PREMARKET 510(k) NOTIFICATION
+MULTI COLOR LASER PHOTOCOAGULATOR MODEL MC-300
+ry  mor— CO NEHA IOS PD :
+SO4 2798S P. oF UY
+differences between the Nidek Multi Color Laser Photocoagulator Model MC-300
+and the predicate devices are insignificant and do not affect the safety or effectiveness
+of the device.
+7. PERFORMANCE DATA
+The Nidek Multi Color Laser Photocoagulator Model MC-300 has been designed and
+will be tested in accordance with applicable safety standards. System and component
+testing was completed based on product specifications and hazard effects determined
+from the risk analysis.
+8. CONCLUSIONS
+Nidek Incorporated has demonstrated through its evaluation of the Nidek Multi Color
+Laser Photocoagulator Model MC-300 that the device is equivalent to the predicate
+device with respect to intended use, technological characteristics, and safety and
+effectiveness.
+09/30/04
+- 153
+
+Name of Manufacturer: Nidek Co., LTD
+Laser Model Name and Number: Nidek Multi Color Laser Photocoagulator Model MC-300
+Laser Type: (Circle all that apply)
+Alexandrite, Argon, CO2, Copper-Vapor(Diods) Dye, Nd:YAG, Erbium, Hol: YAG, Krypton,
+Ruby, KTP/532, Excimer, HENE, Accessory, Other
+Indications in this application: Ophthalmic surgical procedures, including retinal and macular
+photocoagulation, iridotomy and trabeculoplasty
+FDA Document Control Number: K042785
+FDA Product Codes: 79GEX, 86HQF
+Reviewer Computer Initials: ABC
+Date of Clearance Letter: 12/3/04
+Basis of Approval: (Circle all that apply)
+@redicate Device (PD)>Clinical Data (CD), Animal Data (AD), Specifications (SPECS), Bench
+Test Data (BTD), Histori@al Information (HI), Other
+Description of Laser: The Nidek Multi Color Laser Photocoagulator Model MC-300 is an ophthalmic
+photocoagulation system that uses a diode pumped solid state laser beam with wavelengths of 532 nm
+(green), 561 nm (yellow) and 659 nm (red) for therapeutic treatment as well as the aiming beams. The
+system can be used in ophthalmic surgical procedures such as retinal and macular photocoagulation,
+iridotomy and Jaser trabeculoplasty. The system can be applied to transpupillary photocoagulation
+procedures using two types of slit-lamp delivery units. The Binocular Indirect Ophthalmoscope (B.1.0.)
+Delivery Unit allows the physician to perform laser photocoagulation while observing the fundus with the
+indirect ophthalmoscope.
+
+ration Modes: (Circle all that apply)
+
+Pulsed, Q-Switched, Mode Locked, Contact, Free Beam, Other
+
+Wavelength in Nanometers: 532, 561 and 659
+Power/Energy Range (Watts/Joules): 50-2000 mW *
+Pulse Width: —0.02-3.00 sec
+Repetition Rate: —_0..2-1.0 sec in 0.1 sec increments
+Delivery System: fiber optic
+Comments: * A predicate device for the Nidek GYC-1000 (K030285) is the Nidek GYC-2000
+(Model II) (K980547) with a power output of 50-2000 mW in 10 mW increments.
+
+prencte
+ie DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+PSO
+“e Food and Drug Administration
+9200 Corporate Boulevard
+pec 14 2004 Rockville MD 20850
+Nidek, Incorporated
+c/o Ms. Carol Patterson
+Patterson Consulting Group, Inc.
+21911 Erie Lane
+Lake Forest, California 92630
+Re: K042785 .
+Trade/Device Name: Nidek Multi Color Laser Photocoagulator Model MC-300
+Regulation Number: 21 CFR 878.4810, 21 CFR 886.4390
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and in
+dermatology; Ophthalmic laser
+Regulatory Class: II
+Product Code: GEX, HQF
+Dated: September 30, 2004
+Received: October 6, 2004
+Dear Ms. Patterson:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class ITI (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Ms. Carol Patterson
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www. fda.gov/cdrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+. . 4 YP
+Vhinwam C Saevit™
+(
+: Ebetia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices .
+
+Office of Device Evaluation
+
+Center for Devices and Radiological Health
+Enclosure
+
+NIDEK INCORPORATED TRADITIONAL PREMARKET 510(k) NOTIFICATION
+MULTI COLOR LASER PHOTOCOAGULATOR MODEL MC-300
+Sinn nn
+INDICATIONS FOR USE
+510(k) Number: KO 4 21 8 Ss (To Be Assigned By FDA)
+Device Trade Name: Nidek Multi Color Laser Photocoagulator Model MC-300
+Indications For Use: The Nidek Multi Color Laser Photocoagulator Model
+MC-300 is indicated to be used in ophthalmic surgical
+procedures, including retinal and macular photocoagulation,
+iridotomy and trabeculoplasty.
+Prescription Use__X___ AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE
+IF NEEDED)
+ee
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Vrwan 0. Vaeyout
+Division Sign-Off) . Page lof__1
+Division of General, Restorative,
+a and Neurological Devices 99130104
+C a7
+510(k) Number KO%2759
+

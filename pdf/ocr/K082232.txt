@@ -1,0 +1,152 @@
+OCT 1 5 2008 Kog22%
+FDA 510K Summary of Safety and Effectiveness for
+EVIS MD PLATINUM BLUE LIGHT THERAPY
+1. General Information
+Submitter: Ageless Beauty Corporation
+28470 Avenue Stanford
+Suite 350
+Valencia, CA 91355
+Office: +1 877 629-4429
+Fax: +1 661 295-5088
+Contact Person: C/O Jili Creasy
+Aesthetica-Tech
+675 Pine Street
+Elgin, IL 60123
+847-429-9631
+contact@aestheticatech.com
+Summary Preparation Date: August 4, 2008
+2. Device Name
+Device Name: Evis MD Platinum BLUE Light Therapy
+Classification Name: Laser Surgical instrument for use in General, Plastic Surgery and
+in Dermatology
+Although this device is not a laser, the specifications developer
+feels this is the closest applicable classification name.
+Regulation Number 21 CFR 878.4810
+Regulatory Class. I
+Product Code GEX
+3. Predicate Device
+The Evis MD Platinum Blue Light Therapy device is substantially equivalent to the Tanda Skincare System
+Blue (K070185)
+4. Device Description
+The Evis MD Platinum Blue Light Therapy device that utilizes Light Emitting Diodes to provide LED light
+to the body. The hand hold device contains the power supplies and a built in timed sound signaling with auto
+shut off. The device delivers the light to the skin as it moves over the skin. The wavelength for Blue is 415
++/- 5 nm.
+5. Intended Use and Indications:
+The Evis MD Platinum Blue Light Therapy is intended to provide light to the body.
+Generally indicated to treat dermatological conditions and specifically indicated to treat mild to moderate
+inflammatory acne vulgaris.
+
+KOOP 2232
+
+6. Comparison of Technological Differences:
+The intended use and technological characteristics of the Evis MD Platinum Blue system are virtually
+identical to the intended use and technological characteristics of the listed equivalent devices. Any
+differences between the Evis MD Platinum Blue and the equivalent device have no significant influence on
+safety or effectiveness of the Evis product.
+
+7. Nonclinical Performance Data
+The Evis MD Platinum Blue was tested and complies with Electrical Safety and EMC testing, which include
+the requirements of IEC/EN/UL 60601-1 “Medical Electrical Equipment Part 1 - General Requirements for
+Safety” and was tested in accordance to Medical Directive 93/42/EEC - CSA 601.1, EMC Directive
+2004/108/EC TEC/EN 60601-1-2 “Medical Electrical Equipment Part 1-2, General Requirements for Safety —
+Collateral Standard Electromagnetic Compatibility Requirements and Tests. FCC 47CRF PT 18 Industrial,
+Scientific, and Medical Equipment. ICES 005 Radio Frequency Light Device
+
+8. Conclusions
+Based upon an analysis of the overall performance characteristics for the Evis MD Platinum Blue Light
+Therapy, Ageless Beauty Corporation believes that no significant differences exist between this system and
+the predicate systems quoted, therefore, the Evis MD Platinum Blue Light Therapy device does not impose
+any new safety or effectiveness concerns.
+
+2 J DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+her Food and Drug Administration
+9200 Corporate Boulevard
+OCT 1 5 2008 Rockville MD 20850
+Ageless Beauty Corporation
+% Aesthetica-Tech
+Ms. Jill Creasy
+675 Pine Street
+Elgin, [linois 60123
+Re: K082232
+Trade/Device Name: Evis MD Platinum Blue Light Therapy
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and
+in dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: September 22, 2008
+Received: September 24, 2008
+Dear Ms. Creasy:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class I] (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+Page 2 — Ms. Jill Creasy
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050. .
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474. For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance /
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda.gow/cdrh/industry/support/index html.
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Indications for Use
+510(k) Number (if known): leo La 232
+Device Name: Evis MD Platinum Blue Light Therapy
+Indications for Use:
+The Evis MD Platinum Blue Light Therapy device is intended to provide light to the body.
+1. Generally indicated to treat dermatological conditions and specifically indicated to treat mild to
+moderate inflammatory acne vulgaris.
+Prescription Use X AND/OR Over-The-Counter Use
+(21 CFR Part 801 Subpart D) (21 CFR Part 807 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+i
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+(Division ign-Off) Page lof}
+Division of General, Restorative,
+and Neurological Devices
+510(k) Number_KO $7232
+

@@ -1,0 +1,226 @@
+° : i \ % (3)
+JUN ~ 4 2004 “"
+kK 0406 94
+J
+Decision-Making Process | Answer | Remarks
+Flowchart step
+Performance data Yes Performance data demonstrate substantial
+demonstrate equivalence? equivalence. The changes do not affect the
+safety and effectiveness of the device. Ref.
+Section VIII Performance Data and Standards
+Conformance.
+“Substantially Equivalent” The device is substantially equivalent to the
+Determination predicate devices.
+Section XIV 510(k) Summary
+ees — eee
+March 12, 2004
+A. Submitter's Name / Address
+Ronda K. Magneson
+Manager, Regulatory Affairs and Quality Assurance
+Megadyne Medical Products, Inc.
+11506 South State Street
+Draper, UT 84020
+(801) 576-9669
+(801) 576-9698 fax
+B. Contact Person
+Primary: Ronda K. Magneson
+Manager of Regulatory Affairs and Quality Assurance
+Megadyne Medical Products, Inc.
+11506 South State Street
+Draper, UT 84020
+(801) 576-9669
+(801) 576-9698 fax
+Alternate: Ihsan Samara
+Compliance Engineer
+Megadyne Medical Products, Inc.
+11506 South State Street
+Draper, UT 84020
+(801) 576-9669
+(801) 576-9698 fax
+Megadyne Medical Products, Inc. Page 22 of 24
+510(k): Reusable Uncoated Laparoscopic Electrodes
+
+C. Device Name
+Common Name: Device, electrosurgical, cutting & coagulation &
+accessories
+Trade Name: Laparoscopic Electrode, Reusable Indicator Shaft
+(LERIS)
+Classification (if known): 21 CFR 878.4400, Electrosurgical cutting and
+coagulation device and accessories
+D. Predicate Devices
+Megadyne’s E-Z Clean Laparoscopic Electrode, cleared for marketing via 510(k)
+#(K913281) and, Electrosurgical Cutting and Coagulation Device, cleared for
+marketing via 510(k) #K943055.
+E. Applicant Device Description
+The Reusable Uncoated Laparoscopic Electrodes are stainless steel electrosurgical
+electrodes insulated over the majority of their length to protect against unwanted
+current paths. The insulation has a patented indication layer that aids in
+determining the electrode’s end-of-life. The reusable uncoated laparoscopic
+electrode tip has the intended geometry for cutting and coagulation and is offered
+in several configurations. The electrodes are intended for general laparoscopic
+electrosurgical use, and designed to fit into industry standard electrosurgical
+pencils and/or foot cables distributed by various manufacturers.
+F. Applicant Device Intended Use
+Reusable Uncoated Laparoscopic Electrodes are intended to be used in general
+laparoscopic surgical procedures requiring the use of electrosurgical cutting
+and/or coagulation.
+The electrodes are reusable; they are intended to be cleaned, sterilized, and reused.
+G. Technological Characteristics
+The Reusable Uncoated Laparoscopic Electrode shares the same technological
+characteristic found in the predicate devices. It is an electrode provided with
+various uncoated tip configurations and a shaft that includes the patented indicator
+shaft technology. The indicator shaft provides a safe method to utilize the
+electrode without compromising safety. This is accomplished by exposing a
+visible yellow layer indicating that the primary insulation has reached the end of
+its life.
+Megadyne Medicai Products, Inc. Page 23 of 24
+510(k): Reusable Uncoated Laparoscopic Electrodes
+
+fy 2 @®
+H. Safety information
+Questions of safety and effectiveness are the same for this device as for other
+laparoscopic electrodes on the market. There are no new technologies
+incorporated into the proposed electrode.
+Prior to release of the device for distribution, Megadyne conducted extensive
+testing of the device to assure its conformance to the voluntary standard ANS] /
+AAMI HE 18-2001, Electrosurgical Devices (Ref. Appendix). The clauses of the
+standard which apply to accessories are:
+Sterilization of reusable accessories:
+Conformance with the sterilization of reusable accessories requirement was
+demonstrated using the methods specified by the standard. The device is well
+within the requirements of the standard.
+Dielectric withstand of accessories:
+Conformance with the dielectric withstand of accessories requirement was
+demonstrated using the method specified by the standard. The device is well
+within the requirements of the standard.
+Shipping temperature:
+Conformance with the shipping temperature requirement for accessories was
+demonstrated using the method specified by the standard. The device is well
+within the requirements of the standard.
+Mechanical shock:
+Conformance with the sterilization of reusable accessories requirement was
+demonstrated using the method specified by the standard. The device is well
+within the requirements of the standard.
+I. Megadyne’s Manufacturing Facility
+
+Megadyne Medical Products, Inc.
+11506 South State Street
+Draper, UT 84020
+(801) 576-9669
+(801) 576-9698 fax
+
+Section XV Appendix
+
+The following test reports are available upon request:
+
+Document Title Document Number
+
+LERIS Dielectric Withstand Test X1150198-01
+
+LERIS Functionality Testing X1150209-01
+
+LERIS Electrode Environmental Cycling Memo to Design History File
+
+LERIS Mechanical Strength Test X1150197-01
+
+Megadyne Medical Products, Inc. Page 24 of 24
+
+510(k): Reusable Uncoated Laparoscopic Electrodes
+
+preg
+f DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Ss @
+Food arid Drug Administration
+c - 9200 Corporate Boulevard
+‘JUN = 4 2004 Rockville MD 20850
+Ms. Ronda K. Magneson
+Manager, Regulatory Affairs
+and Quality Assurance
+Megadyne Medical Products, Inc.
+11506 South State Street
+Draper, Utah 84020
+Re: K040699
+Trade/Device Name: Laparoscopic Electrode, Reusable Indicator Shaft (LERIS)
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: II
+Product Code: GE]
+Dated: March 12, 2004
+Received: March 17, 2004
+Dear Ms. Magneson:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to :
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class If (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Ms. Ronda K. Magneson .
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (301) 594-4659. Also, please note the regulation entitled,
+“"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www.fda.gov/cdrh/dsma/dsmamain. html
+
+Sincerely yours, a
+
+fra M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+
+Office of Device Evaluation
+
+Center for Devices and Radiological Health
+Enclosure
+
+Section IV _ Indications for Use Statement
+
+510(k) Number (if known): K 0 40 6 q q
+
+Device Name: Laparoscopic Electrode, Reusable Indicator Shaft (LERIS)
+
+Indications for use:
+
+The Reusable Laparoscopic Electrodes are intended to be used in general laparoscopic
+
+surgical procedures requiring the use of electrosurgical cutting and/or coagulation.
+
+The electrodes are reusable; they are intended to be cleaned, sterilized, and reused.
+
+Prescription Use__¥ AND/OR Over-The-Counter Us'
+- e
+(Part 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)
+
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+a
+
+Concurrence of CDRH, Office of Device Eyalyation (ODE)
+CS
+f ‘(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+Megadyne Medical Products, Inc. Page 9 of 24 £0 0 6F
+510(k): Reusable Uncoated Laparoscopic Electrode910(k) Number KOtO6T%_
+

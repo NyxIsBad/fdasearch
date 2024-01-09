@@ -1,0 +1,157 @@
+Kolfe1f 7
+@iinicon CORPORATION
+5825 AVENIDA ENCINAS ¢ CARLSBAD, CA 92008
+FEB 11 2002
+510(k) Summary
+Submitter: Clinicon Corporation
+5825 Avenida Encinas
+Carlsbad, CA 92008
+Contact person: Sean M. Curry
+16787 Bernardo Center Drive, Suite A
+San Diego, CA 92128
+Phone: (858) 675-8200
+FAX: (858) 675-8201
+Proprietary name: Clinicon Universal WaveGuide Handpiece and Fiber Tips
+Common name: CO, Laser Powered Surgical Instrument
+Classification: 878.4810
+Product Code: GEX
+Classification name: Laser surgical instrument for use in general and plastic surgery and
+in dermatology.
+Substantial equivalence claimed to:
+K903079, Luxar’s Endoguide ®, Microguide ™, Flexiguide™
+K992472, Clinicon’s SureGuide CO2 Laser Beam Delivery System
+Description:
+The Universal WaveGuide Handpiece comes in two designs, one that accepts 1.5 mm
+O.D. size fiber tips and one that accepts 2.5 mm O.D. size fiber tips. The 1.5 mm
+handpiece is used with the Free Beam and Flexible fiber tips. The 2.5 mm handpiece is
+used with the rigid fiber tips.
+The collet component determines the O.D. size fibers that can be inserted into the
+handpiece. The nozzle and tip lock collet secures the fiber and prevents twisting of the
+fiber tip. The hand piece is attached to the Clinicon WaveGuide Platform by the FSMA
+connector at the distal end of the waveguide.
+The Fiber Tips are made of the same proprietary waveguide fiber as the Clinicon
+WaveGuide Platform, described in the premarket notification, K992472, SUREGUIDE
+CO2 Laser Beam Delivery System.
+————— a Se ee
+Tel: 760 + 930 +0010 Fax: 760 + 930 «0074 www.clinicon.com 2
+
+L
+kK SOF y
+The waveguide fiber is inserted into a straight or curved stainless steel sheath for the 2.5
+mm O.D. rigid fiber tips or into a Teflon tube for the 1.5 mm O.D. flexible fiber tips.
+The fiber tips, both rigid and flexible are of various lengths for use in various surgical
+procedures. The rigid fiber tips are also of various degrees of curvature and certain tips
+may have a contact probe tip cover made of Teflon.
+The fiber tips are disposable, single-use devices, and both the rigid and flexible fiber tips
+have a section of colored polyethylene at the distal end of the fiber cable that acts as a
+depth gauge to assure the fiber is completely seated in the handpiece. The colored
+polyethylene also acts as a sterilizer indicator that will render the tips unusable if they are
+re-sterilized by distorting the polyethylene and preventing the fiber from being inserted
+into the handpiece.
+Intended use:
+The Clinicon Universal WaveGuide Handpiece and Fiber Tips are intended to be used to
+deliver carbon dioxide laser energy for the incision, excision, vaporization, ablation,
+coagulation or cauterization of soft tissue.
+Summary of technological characteristics:
+The Clinicon Universal WaveGuide Handpieces have the same technological
+characteristics as the Luxar handpieces used with Luxar medical fiber tips. The Clinicon
+Fiber Tips have the same technological characteristics as the Clinicon Sureguide CO2
+Laser Beam Delivery System, now marketed as the Clinicon Waveguide Platform.
+3
+
+Rye, .
+f DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+& ee
+a Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+FEB 11 2002
+Clinicon Corporation
+c/o Mr. Sean M. Curry
+Certified Software Solutions, Inc.
+16787 Bernardo Center Drive, Suite A
+San Diego, California 92128
+Re: K014048
+Trade Name: Clinicon Universal Waveguide Handpiece and Fiber Tips
+Regulation Number: 878.4810
+Regulation Name: Laser Surgical Instrument
+Regulatory Class: II
+Product Code: GEX
+Dated: December 4, 2001
+Received: December 7, 2001
+Dear Mr. Curry:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and we have determined the device is substantially equivalent (for the
+indications for use stated in the enclosure) to devices marketed in interstate commerce prior to
+May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that have
+been reclassified in accordance with the provisions of the Federal Food, Drug, and Cosmetic Act
+(Act) that do not require approval of a premarket approval application (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices,
+good manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class I] (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. Sean Curry
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 21 CFR Part 809.10 for in vitro diagnostic devices), please contact the Office of
+Compliance at (301) 594-4659. Additionally, for questions on the promotion and advertising of
+your device, please contact the Office of Compliance at (301) 594-4639. Also, please note the
+regulation entitled, “Misbranding by reference to premarket notification” (21CFR Part 807.97).
+Other general information on your responsibilities under the Act may be obtained from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 443-6597 or at its Internet address
+http://www. fda.gov/cdrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+Inova. Frovoot
+
+fF Celia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+510(k) Number (if known):_ K Of OUR
+Device Name:
+Indications for Use:
+The Clinicon UHP/disposable tip is/are indicated for use in general and plastic surgery,
+neurosurgery, ophthalmology, oral surgery, oto-rhino-laryngology, podiatry, gynecology,
+and urology procedures for incision, excision, vaporization, ablation, coagulation,
+cauterization of soft tissue.
+The Clinicon UHP/disposable tip indications are dependent upon the cleared indications
+for use of the laser system and laser system accessories to which it is attached.
+
+(Division Sign-Off) .
+
+Division of General, Restorative
+
+and Neurological Devices
+
+0/4048
+KOME Te
+510(kK) Number
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use X OR Over-the-Counter Use.
+(Per 21 CFR 801.109)
+5
+

@@ -1,0 +1,167 @@
+ko2290¢ =e
+/510(k) Premarket Notification =»--§s«- ||_—-Meillite Q-Switched Laser
+Summary of Safety information | February 2, 2003
+1. Device Name:
+Trade Name: Medlite Q-Switched Laser
+Common Names: Surgical Laser
+Classification Name: Instrument, Surgical, Powered, Laser FEB 2 9 2003
+2. Establishment Name & Registration Number:
+Name: Hoya-ConBio, Inc.
+Number: Pending
+3. Classification:
+Title 21, Code of Federal Regulations,
+§Sec. 878.4810 Laser surgical instrument for use in general and plastic surgery and in dermatology.
+(a) Identification. (1) A carbon dioxide laser for use in general surgery and in dermatology is a laser device intended
+to cut, destroy or remove tissue by light energy emitted by carbon dioxide. (2) An argon laser for use in dermatology
+is a laser device intended to destroy or coagulate tissue by light energy emitted by argon. (b) Classification. (1) Class
+I.
+(2) Class I for special laser gas mixtures used as a lasing medium for this class of lasers. The devices subject to this
+paragraph (b)(2) are exempt from the premarket notification procedures in subpart E of part 807 of this chapter,
+subject to the limitations in Sec. 878.9.
+[53 FR 23872, June 24, 1988, as amended at 61 FR 1123, Jan. 16, 1996; 66 FR 38803, July 25, 2001]
+ProCode: TOIGEX
+4. Guidance Documents, Performance Standards and Special Controls:
+At the present time, the following guidance documents are in effect for this device:
+Guidance on the Content and Organization of a Premarket Notification for a Medical Laser
+Compliance Guide for Laser Products (FDA 86-8260)
+Laser Products-Conformance with IEC 60825-1, Am.2 and IEC 60601-2-22; Final Guidance for Industry and FDA
+(Laser Notice 50)
+FDA mandated performance standards for this device exist and are specified under 21 CFR, §1010 and §1040.
+These standards, including QSR requirements are followed as required by regulation. Voluntary standards such as
+UL, in-house Standard Operating Procedures and vendor qualification procedures are in place and utilized in the
+production of the Medlite Q-Switched Laser.
+5. Equivalent Device(s):
+The Medlite Q-Switched Laser claims substantial equivalence to the Thermolase SoftLight Laser, K971207 and the
+Medlite Q-Switched Laser previously cleared via K983054. A feature comparison table is included on the following
+page for visual comparison of equivalence factors.
+MedliteResponse2.doc
+9
+
+2
+fog2z709 We
+6. Applicant/Sponsor Name / Address:
+Hoya-ConBio, Inc.
+47733 Fremont Blvd.
+Fremont, CA 94538
+510.445.4500 - 510.445.4550
+7. Company Contact:
+Mr, Dan Romitelli
+Hoya-ConBio, Inc.
+47733 Fremont Blvd.
+Fremont, CA 94538
+510.445.4500 - 510.445.4550
+8. Submission Correspondent:
+David W. Schlerf
+Buckman Company, Inc.
+200 Gregory Lane
+Pleasant Hill, CA 94523-3389
+925.356.2640 — 925.356.2654 fax
+david@fda-help.com
+9. Manufacturing Facility:
+Hoya-ConBio, Inc.
+47733 Fremont Blvd.
+Fremont, CA 94538 .
+510.445.4500 - 510.445.4550
+10, Description of the Device and Indications for Use:
+K014234 Laser, K971207
+Indications For Use: The Medlite Q-Switched Laser | Identical Identical Yes
+System is indicated for use in
+dermatologic and general surgical
+procedures for ecoagulation and
+hemostasis.
+System is indicated for use in laser | No
+skin resurfacing procedures for the
+treatment of acne scars and wrinkles.
+220/240 VAC - 50/60 Hz
+(nsec):
+arm
+Control:
+MedliteResponse2.doc
+10
+
+oy
+e C. DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Non,
+mee : ~ Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+FEB 2 0 2003
+Hoya-ConBio, Inc. /
+c/o Mr. David W. Schlerf
+Buckman Company, Inc.
+200 Gregory Lane
+Pleasant Hill, California 94523-3389
+Re: K022709
+Trade/Device Name: Medlite Q-Switched Laser
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and
+plastic surgery and in dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: December 15, 2002
+Received: December 31, 2002 /
+Dear Mr. Schlerf:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class II] (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Mr. David W. Schlerf
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (301) 594-4659. Additionally, for questions on the
+promotion and advertising of your device, please contact the Office of Compliance at (301) 5944639. Also, please note the regulation entitled, “Misbranding by reference to premarket
+notification” (21CFR Part 807.97) you may obtain. Other general information on your
+responsibilities under the Act may be obtained from the Division of Small Manufacturers,
+International and Consumer Assistance at its toll-free number (800) 638-2041 or (301) 443-6597
+or at its Internet address http://www. fda.gov/cdrh/dsma/dsmamain.htm]
+Sincerely yours,
+Yumuane C: avert
+Celia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+Page 1 of 1
+510(k) NUMBER: K022709
+DEVICE NAME : Medlite Q-Switched Laser
+INDICATIONS FOR USE:
+The Medlite Q-Switched Laser System is indicated for use in dermatologic and
+general surgical procedures for coagulation and hemostasis.
+The Medlite Q-Switched Laser System is indicated for use in laser skin
+resurfacing procedures for the treatment of acne scars and wrinkles.
+PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NECESSARY
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+(Division Sign-Off)
+Division of Genevs!. Restorative
+and Neurologi. 2. . .vices
+. 0(k) Numbe: .. PLO 2270 9
+Prescription Use _} OR Over-The-Counter Use
+(Per 21 CFR 801.109) (Optional format 1-2-96)
+MedliteResponse?2.doc
+3
+

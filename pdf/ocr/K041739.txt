@@ -1,0 +1,175 @@
+Koy! 4:
+Edwards Lifesciences LLC SEP 2.9 204. 0 / 43 9
+Special 510(k) Notification K041739
+Edwards E360 surgical ablation device September 13, 2004
+Attachment 3 - 510(k) Summary K041739
+
+Submitter: Edwards Lifesciences LLC
+
+Contact Person: Elizabeth Moran, Regulatory Affairs Specialist
+
+Date Prepared: September 13, 2004
+
+Trade Name: Edwards E360 surgical ablation device
+
+Classification Name: Class II, Laser Surgical Instrument
+
+Predicate Device(s): Malleable Surgical Lightstic 180 (Marketed under the trade
+name of Edwards surgical ablation handpiece) (K013901)
+AFx FLEX 10 Accessory for the AFx Microwave Abiation
+System (K013946)
+
+Edwards Retrograde Cardioplegia Cannula (K880103)
+Edwards Swan-Ganz™ Synthetic ControlCath
+Thermodilution Catheter (K001063)
+
+Device Description: The Edwards E360 surgical ablation device is a sterile,
+single-use, disposable device for delivery of 980 nm laser
+energy in the contact mode.
+
+. Indications for Use: The Edwards E360 surgical ablation device is intended to
+be used as a surgical instrument for coagulation of soft
+tissue (including cardiac tissue) in conjunction with or
+without endoscopic equipment (including laparoscopes,
+hysteroscopes, bronchoscopes, cystoscopes, gastrascopes,
+and colonoscopes), and coagulation of soft tissue in the
+contact mode in both open or closed surgical procedures
+(with or without handpiece).
+
+The Edwards E360 surgical ablation device is indicated for
+use in medicine and surgery with 980 to 1064 nm
+wavelength laser energy in the following surgical
+: specialties: General Surgery, Cardiac/Thoracic Surgery, :
+Plastic Surgery, and Dermatology.
+
+PROPRIETARY INFORMATION: This document and information contained herein may not be reproduced,
+
+used, or disclosed without written permission from Edwards Lifesciences LLC.
+
+K041739 Amendment 2 , Page 21 of 30
+
+Edwards Lifesciences LLC
+
+Special 510(k) Notification K041739
+
+Edwards E360 surgical ablation device September 13, 2004
+
+Comparative Analysis: It is demonstrated that the Edwards E360 surgical ablation
+device is comparable to the predicate device in design,
+intended use, materials, and principal of operation.
+
+Functional/Safety Testing: The Edwards E360 surgical ablation device has
+successfully completed design verification testing.
+
+Conclusion: The Edwards E360 surgical ablation device is substantially
+equivalent to the predicate device.
+
+me
+
+PROPRIETARY INFORMATION: This document and information contained herein may not be reproduced,
+
+used, or disclosed without written permission from Edwards Lifesciences LLC.
+
+K041739 Amendment 2 . Page 22 of 30
+
+= J DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+“am Food and Drug Administration
+9200 Corporate Boulevard
+FEB 07 2008 Rockville MD 20850
+Edwards Lifesciences, LLC
+c/o Ms. Elizabeth Moran
+Regulatory Affairs Specialist
+One Edwards Way
+Irvine, CA 92614
+Re: K041739
+Trade Name: Edwards E360 Surgical Ablation Device
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser Surgical Instrument for use in General and Plastic
+Surgery and in Dermatology
+Regulatory Class: II (two)
+Product Code: OCL, GEX
+Dated: September 13, 2004
+Received: September 14, 2004
+Dear Ms. Moran:
+This letter corrects our substantially equivalent letter of September 29, 2004.
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices,
+good manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA),
+it may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Page 2 - Ms. Elizabeth Moran
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to continue marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your
+device to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0120. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www. fda.gow/edrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+ft Bram D. Mea M.D.
+
+Director
+
+Division of Cardiovascular Devices
+
+Office of Device Evaluation
+
+Center for Devices and
+
+Radiological Health
+Enclosure
+
+Edwards Lifesciences LLC , . .
+Special 510(k) Notification K041739
+Attachment 2 - Indications for Use Statement
+510(k) Number (if known): K041739
+Device Name: Edwards E360 surgical ablation device
+Indications for Use:
+The Edwards E360 surgical ablation device is intended to be used as a surgical instrament
+for coagulation of soft tissue (including cardiac tissue) in conjunction with or without
+endoscopic equipment (including laparoscopes, hysteroscopes, bronchoscopes,
+cystoscopes, gastroscopes, and colonoscopes), and coagulation of soft tissue in the
+contact mode in both open or closed surgical procedures (with or without handpiece).
+The Edwards E360 surgical ablation device is indicated for use in medicine and surgery
+with 980 to 1064 nm wavelength laser energy in the following surgical specialties:
+Gencral Surgery, Cardiac/Thoracic Surgery, Plastic Surgery, and Dermatology.
+* y on
+
+vision Sign-Off) 5s
+
+visi.-n of Cardiovascular Devices
+
+:O(k) Number
+Prescription Use X_— AND/OR = Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER
+PAGE IF NEEDED)
+
+Concurrence of CDRH, Office of Device Evaluation (ODE) :
+: Page 1 of 1
+
+PROPRIETARY INFORMATION: This document and information contained herein may not be reproduced,
+used, or disclosed without written permission from Edwards Lifesciences LLC.
+K041739 Amendment 2 . Page 20 of 30
+

@@ -1,0 +1,166 @@
+K021804
+AUG 2 8 2002 (AGE 1 OF 2
+510(k) SUMMARY
+
+May 30, 2002
+COMPANY AND CONTACT PERSON
+Julie Goode, Product Regulation Manager
+Medtronic Gastroenterology/Urology
+800 53“ Ave
+Minneapolis, MN 55421
+(763) 514-7247
+TRADE NAME
+Precision Plus TUNA Office System
+Precision TUNA Office System
+PROVu TUNA System
+COMMON NAME
+Electrosurgical Generator and Accessories
+CLASSIFICATION NAME
+Electrosurgical Cutting and Coagulation Devices and Accessories
+NAME OF PREDICATE OR LEGALLY MARKETED DEVICE
+Precision Plus TUNA Office System, K014224
+Precision TUNA Office System, K002583
+PROVu TUNA System, K965061
+DESCRIPTION OF DEVICE
+Each system of the TUNA system product family consists of an RF generator, sterile single-use
+cartridge, reusable handle, reusable telescope, sterile single-use tubing set, single-use return
+electrode, and other accessories.
+STATEMENT OF INTENDED USE
+Each system of the TUNA system product family is indicated for the treat of symptoms due to
+urinary outflow obstruction secondary to benign prostatic hyperplasia (BPH) in men over the age
+of 50 with prostate sizes between 20 and 50 cc.
+“S10({k) Change Being Effected ==ss—“‘i‘“—S*s*=‘“‘—sS*~*s*~‘“‘—“Ssi‘“‘(“a‘(a‘(‘ PS
+Medtronic, Inc.
+Medtronic Gastroenterology/Urology Page 1
+
+K02.1 804
+: (Poe 2 962
+DETERMINATION OF SUBSTANTIAL EQUIVALENCE
+This premarket notification 510(k) change being effected is being submitted to add a
+contraindication regarding the use of the TUNA System on patients implanted with
+neurostimulators to the labeling of the TUNA System product family.
+The TUNA systems previously cleared by FDA, and currently marketed include:
+e PROVu TUNA System (510(k): K965061); was deemed substantially equivalent on
+January 28, 1997.
+e Precision TUNA Office System (510(k): K002583); was deemed substantially
+equivalent on February 13, 2001.
+e Precision Plus TUNA Office System (510(k): K014224); was deemed substantially
+equivalent on January 23, 2002.
+In determining substantial equivalence, the decision-making process follows the 510(k)
+“Substantial Equivalence” flow diagram as follows:
+e The TUNA System product family with the added contraindication is being compared to
+the following Marketed Device:
+Precision Plus TUNA Office System (510(k): K014224)
+Precision TUNA Office System (510(k): K002583)
+PROVu TUNA System (510(k): K965061)
+e The TUNA System product family with the added contraindication has thesame
+intended use as the:
+Precision Plus TUNA Office System (510(k): K014224)
+Precision TUNA Office System (510(k): K002583)
+PROVu TUNA System (510(k): K965061)
+e The TUNA System product family with the added contraindication has thesame
+technological characteristics as the:
+Precision Plus TUNA Office System (510(k): K014224)
+Precision TUNA Office System (510(k): K002583)
+PROVu TUNA System (510(k): K965061).
+~510(k) Change Being Effected == SOSO=~C“C~=~*‘“‘“‘—*~*S*S*S*S*S*C<“‘<‘“‘=C‘“‘“‘“‘ ; 3S
+Medtronic, Inc.
+Medtronic Gastroenterology/Urology Page 2
+
+a
+; DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Ne Food and Drug Administration
+9200 Corporate Boulevard
+AUG 2 8 2002 Rockville MD 20850
+Ms. Julie Goode Re: K021804 /
+Product Regulation Manager Trade/Device Name: SEE ATTACHMENT
+Medtronic, Inc. Regulation Number: 21 CFR §876.4300
+800 53 Avenue N.E. Regulation Name: Endoscopic electrosurgical unit
+MINNEAPOLIS MN 55421-1200 and accessories
+Product Code: 78 KNS ,
+Regulation Number: 21 CFR §878.4400
+Regulation Name: Electrosurgical cutting and
+Coagulation device and accessories
+Product Code: 79 GEI
+Regulatory Class: II
+Dated: May 30, 2002
+Received: June 3, 2002
+Dear Ms. Goode: :
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class HI (PMA),
+it may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing
+(21 CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic .
+product radiation control provisions (sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2
+This letter will allow you to begin marketing your device as described in your 510(k) premarket
+notification. The FDA finding of substantial equivalence of your device to a legally marketed
+predicate device results in a classification for your device and thus, permits your device to
+proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please .
+contact the Office of Compliance at one of the following numbers, based on the regulation
+number at the top of this letter:
+8xx.1 xxx (301) 594-4591
+876.2xxx, 3xxx, 4xxx, 5xxx (301) 594-4616
+884.2xxx, 3xxx, 4xxx, 5xxx, 6XxX (301) 594-4616
+892.2xxx, 3XXxX, 4xXxXx, 5xxx (301) 594-4654
+Other (301) 594-4692
+Additionally, for questions on the promotion and advertising of your device, please contact the
+Office of Compliance at (301) 594-4639. Also, please note the regulation entitled, “Misbranding
+by reference to premarket notification” (21 CFR Part 807.97). Other general information on
+your responsibilities under the Act may be obtained from the Division of Small Manufacturers,
+International and Consumer Assistance at its toll-free number (800) 638-2041 or (301) 443-6597
+or at its Internet address http://www.fda.gov/cdrh/dsma/dsmamain.html. : :
+Sincerely yours,
+Nancy C. london
+Director, Division of Reproductive,
+Abdominal, and Radiological Devices
+Office of Device Evaluation
+Center for Devices and Radiological Health
+Enclosure
+
+K021804 ATTACHMENT
+
+Trade/Device Name: TUNA® System Product Family, including Precision™ Plus TUNA® Office
+System (Model 6900 Cartridge, Model 6198 Handle, and Model 7900 Generator),
+Precision™ TUNA® Office System (Model 6800 Cartridge, Model 6198 Handle,
+and Model 7800 Generator), and PROVu™ TUNA® System (Model 6199 Cartridge,
+Model 6198 Handle, and Model 7600 Generator)
+
+INDICATIONS FOR USE
+510(k) Number: K ° 2 go 4
+Device Name: Precision Plus TUNA Office System
+Precision TUNA Office System
+PROVu TUNA System
+Indications for use:
+The TUNA System Product Family, including Precision Plus TUNA Office System, Precision
+TUNA Office System, and PROVu TUNA System is indicated for use in the treatment of
+symptoms due to urinary outflow obstruction secondary to benign prostatic hyperplasia (BPH) in
+men over the age of 50 with prostate sizes between 20 and 50 cc.
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Y
+Prescription Use VA OR Over-The-Counter-Use.
+_- , Per 21 CFR 801.109) “ :
+. CUnrty /C Oy :
+(Division : :
+Division of ’
+and Radiological Devices
+5 ¥&; Sumber Kol 30 uy a
+

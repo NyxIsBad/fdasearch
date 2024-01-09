@@ -1,0 +1,165 @@
+le va I ‘t @
+510(k) Summary for the Rhytec, Inc. Portrait® PSR®
+KO Fl 4¢6 JUL 26 2007
+This 510(k) Summary of Safety and Effectiveness is being submitted in accordance with
+the requirements of the SMDA 1990 and 21 CFR 807.92.
+1. General information
+Submitter: Rhytec, Inc.
+130 Turner Street
+Building Two
+Waltham, MA 02453
+Contact Person: Robert Zoletti
+Director, Regulatory Affairs and Quality
+Rhytec, Inc.
+Telephone: 781-419-9482
+Fax: 781-419-9401
+Summary Preparation Date: June 22, 2007
+2. Names
+Device Name: Portrait® PSR®
+Classification Name: Electrosurgical cutting and coagulation
+device
+Product Code: GEl
+3. Predicate Devices
+K060948 - Portrait® PSR® Rhytec, Inc. Portrait? PSR®
+4. Device Description
+The Portrait® PSR® is an electro-surgical device for use in dermatological
+applications. UHF energy from the generator converts Nitrogen gas into plasma
+within the handpiece. The plasma emerges from the nozzle at the distal end of
+the handpiece and is directed onto the skin to be treated. Rapid heating of the
+skin occurs as the excited gas gives up energy to the skin. Through the
+combination within the handpiece of precisely controlled energy and Nitrogen
+gas, individual plasma pulses are produced that will give predictable tissue
+effects.
+510K PAGE 26
+
+Koti +96
+age a 4 @
+510(k) Summary for the Rhytec, Inc. Portrait® PSR?
+5. Indications for Use
+The Portrait® PSR° is indicated for treatment of the following dermatological
+conditions:
+¢ Treatment of wrinkles and rhytides
+¢ Superficial skin lesions
+* Actinic Keratosis
+* Viral Papillomata
+« Seborrhoeic Keratosis
+6. Technological Characteristics
+Modifications include:
+e Revised the allowable plasma pulse repetition rate from 1 to 4.0 Hz to 1 to
+2.5 Hz as recommended in the treatment parameters in K060948.
+¢ Removal of the 12 hour nozzle use life. Nozzie life will continue to be
+monitored by the number of pulses used.
+e Decreased the number of continuous pulses with the foot switch pressed
+from 120 to 50.
+e Added the number of pulses per patient treatment to the display.
+7. Clinical and Non-Clinical Data
+The device modifications did not raise new questions of safety or efficacy, no
+performance data is required.
+Rhytec, Inc. 510(k) Summary
+510K PAGE 27
+
+f Ke DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+a. Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+
+Rhytec Incorporated
+% Mr. Robert Zoletti
+Director, Regulatory Affairs JUL 26 2007
+130 Turner Street, Building Two
+Waltham, Massachusetts 02453
+Re: K071786
+
+Trade/Device Name: Rhytec, Inc. Portrait®
+
+Regulation Number: 21 CFR 878.4400
+
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+
+Regulatory Class: II
+
+Product Code: GEI
+
+Dated: June 27, 2007
+
+Received: July 2, 2007
+Dear Mr. Zoletti:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medica! Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class I (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation contro} provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. Robert Zoletti
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+"marketed predicate device results in a classification for your device and thus, permits your device
+
+{o proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www. fda.gov/cdrh/industry/support/index.html.
+
+Sincerely yours,
+
+A Anh... —
+\
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Indications for Use
+510(k) Number (if known): KO Fl 7 $ 6
+Device Name: __ Rhytec, inc. Portrait®
+PSR®
+The Portrait® PSR’ is indicated for treatment of the following dermatological conditions:
+« Treatment of wrinkles and rhytides
+e Superficial skin lesions
+¢ Actinic Keratosis
+e Viral Papillomata
+« Seborrhoeic Keratosis
+Indications for Use are unchanged from K060948
+Prescription Use X ANDIOR Over-The-Counter Use ___
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE OF
+NEEDED)
+snewswusennyneerrareseusnetnaneasenmmapsetttatiamreuannnmerestuastasmmmemarrnvaenateanteeeemmititnantitteentmtttamenrraeantatita
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+8 ion Sign-Off) .
+(Dis { Genera! Qestorative,
+Division 0 ib ces
+ical bev
+and Neurologi ; (
+eons
+510(k) Number.
+510K PAGE 25
+

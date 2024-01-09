@@ -1,0 +1,177 @@
+Gyrus ACMI] Inc. PKS Omni Instrument Traditional 510(k) Notification
+Gyrus ACMI Ine Summary of Safety and
+136 Turnpike Road Effectiveness
+Southborough, MA 01772 C 6 Z | ‘Th b June 12, 2008
+510{k} Summary of Safety and Effectiveness AUG - 8 2008
+Gyrus ACMI Incorporated
+Gyrus ACMI Inc. PKS Omni Instrument YP 4
+
+General Information
+Manufacturer: Gyrus ACMI Incorporated
+
+136 Turnpike Rd.
+
+Southborough, MA 01772-2104
+Contact Person: Lorraine Calzetta
+Date Prepared: June 12, 2008
+Device Description
+Classification Name: Electrosurgical cutting and coagulation
+
+. device and accessories
+
+(21 CFR 878.4400), Class II
+
+General and Plastic Surgery Panel
+Trade Name: Gyrus ACMI Inc. PKS Omni Instrument
+Generic/Common Name: Electrosurgical Instruments
+Predicate Device
+Gyrus Medical Inc. Zip Wing Cutting Dissector K023493
+Gyrus Medical Open Forceps K024286
+Gyrus Medical Plasma Seal K061975
+Gyrus Medical Plasmacision and Plasmablend Electrodes K050460
+Valleylab Ligasure Sealing System/ Ligasure V K031011
+Gyrus General Purpose Electrosurgical Generator K050550
+Intended Uses
+The Gyrus ACMI Inc.PKS Omni Instrument is intended for electrosurgical coagulation,
+mechanical grasping and dissection of tissue, and sealing of vessels up to 3mm, during the
+performance of laparoscopic and general (open) surgical procedures. It is intended for use
+with the Gyrus ACMI G400 workstation cleared under K050550.
+
+Gyrus ACMI Inc. PKS Omni Instrument Traditional 510(k) Notification
+Gyrus ACMI Inc Summary of Safety and
+
+136 Turnpike Road Effectiveness
+
+Southborough, MA 01772 ko G | 7 b b June 12, 2008
+
+Device Description 2 2 h
+The PKS Omni Instrument is a single-use device with a classic laparoscopic looms.
+layout, with a 5mm shaft available in several lengths from 15 to 45cm, supporting
+symmetrically opening steel jaws. These are curved in a manner similar to Maryland forceps
+and other laparoscopic graspers, and contain bipolar electrosurgical elements that allow
+coagulation, cutting and vessel sealing. It is intended for use with the Gyrus ACMI G400
+workstation
+
+Technological Characteristics and Substantial Equivalence
+
+Like the predicate Zip Wing cleared under K023493, the upper and lower jaws contain the
+electrical elements that when placed at the desired tissue site, induce the cutting or
+coagulating/sealing tissue effect as the applicable generator mode is actuated.
+
+The device is a refinement of already proven existing technology, Gyrus’s PlasmaKinetic (PK)
+technology developed for dry field surgery (K050460). It relies upon simultaneous contact of
+both active and return electrodes of the bipolar device with the tissue. Other Gyrus devices use
+this principle in two modes to achieve cutting and coagulation effects. The Device is
+constructed of similar materials as other Gyrus ACMI electrosurgical devices.
+The PKS Omni is intended to offer cutting and coagulation using bipolar electrosurgical
+energy application in a manner similar to other devices on the market (such as Gyrus ACMI
+Open Forceps (K024286,) and Valley Lab Ligasure V (K031011) for coagulation of vessels,
+and Plasmacision electrodes (K050460) for bipolar cutting and surface coagulation of tissue).
+Summary of Safety and Effectiveness
+The Gyrus ACMI Inc. PKS Omni Instrument, as described in this submission, is substantially
+equivalent to the predicates in intended use, principles of operation and fundamental scientific
+technology and raises no new issues of safety and effectiveness.
+
+oy
+
+i ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+"hase Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Gyrus ACMI, Inc. % Ms. Lorraine Calzetta AUG - 8 2008
+Regulatory Affairs
+136 Turnpike Road
+Southborough, Massachusetts 01772
+Re: K081766
+Trade/Device Name: Gyrus ACMI Inc. PKS Instrument
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: II
+Product Code: GEI
+Dated: June 12, 2008
+Received: June 20, 2008
+Dear Ms. Calzetta:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Ms. Lorraine Calzetta
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474. For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda.gov/cdrh/industry/support/index.html.
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure 
+Gyrus ACMI Inc. PKS OMNI Instrument Traditional 310(k) Notification
+Gyrus ACMI Inc Statement of Intended Use
+136 Turnpike Road . June 12, 2008
+Southborough, MA 01772
+SSS
+Device Name: Gyrus ACMI Inc. PKS Omni Instrument
+510(k) Number: k O g | 7 bb
+Indications for use:
+The Gyrus ACMI Inc. PKS Omni Instrument is intended for electrosurgical coagulation,
+mechanical grasping, and dissection of tissue, and sealing of vessels up to 3mm, during the
+performance of laparoscopic and general (open) surgical procedures when used in conjunction
+with the Gyrus ACMI G400 workstation.
+Prescription Use: X__ OR — Over-the-Counter Use:
+(Per 21 CFR 801.109)
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+eee
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+
+2) —
+
+Division'Sign-Off)
+
+Division of General, Restorat:;<
+
+and Neurological Devices
+
+a
+Loy Wl
+510(k) Number_—__—+_—_-—WV
+

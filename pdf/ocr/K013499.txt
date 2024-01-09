@@ -1,0 +1,158 @@
+510(k) Summary mM
+Nov 1 6 2068 for 015499
+Diomed 15plus and Diomed 30plus Lasers —_—
+1. SPONSOR
+Diomed Inc.
+1 Dundee. Park
+Suite 5/6
+Andover
+MAOI810
+USA
+Contact Person: Angie Glover
+Telephone: 011 44 1223 729 337
+Date Prepared: October 19, 2001
+2. DEVICE NAME
+Proprietary Name: Diomed 15plus and Diomed 30plus Lasers
+Common/Usual Name: Surgical Lasers
+Classification Name: Laser Surgical Instruments
+3. PREDICATE DEVICES
+Diomed 15 and Diomed 30 Lasers -K962354
+4. Device DESCRIPTION
+The Diomed 1Splus and Diomed 30plus Lasers are modified versions of the
+Diomed 15 and Diomed 30 lasers. A shorter pulse duration (50 ms) has been
+added to both the 15plus and 30plus lasers. The modified devices include a spot
+handpiece/software delivery system in addition to a fiber delivery system.
+A Fluence Display has been added to enhance the efficiency of existing clinical
+indications when using the spot hand piece. A power meter (currently used in the
+Diomed Inc. Special 510(k) October 19, 2001
+Diomed 15plus and Diomed 30plus Lasers Page E-1
+
+Diomed 30 laser) has been added to the Diomed 15plus laser to improve the
+accuracy of delivered powcr/flucnce to the treatment site.
+5. INTENDED USE
+
+The Diomed 15plus and 30plus Lasers are intended for use in delivering 15 or
+30 watts of continuous wave radiation to a flexible optical fiber or spot hand piece
+for use in ablation, incision, excision, coagulation, and vaporization of soft tissues
+in open and endoscopic surgical procedures.
+
+6. TECHNOLOGICAL CHARACTERISTICS AND SUBSTANTIAL EQUIVALENCE
+The Diomed 15plus and Diomed 30plus Lasers and the original Diomed 15 and
+Diomed 30 Lasers all consist of a Class IV Gallium Aluminum Arsenide diode
+lascr and a visible aiming beam. The original Diomed 15 and Diomed 30 lasers
+offer a fiberoptic mode while the modified Diomed 15plus and Diomed 30plus
+offers both a fiberoptic and spot handpiece mode.
+The Diomed 15plus and Diomed 30plus Lasers and the Diomed 15 and Diomed
+30 Lasers all have essentially identical performance characteristics except for
+slight changes to the pulse duration. Both the Diomed 15plus and Diomed
+30plus lasers and the predicate devices offer a fiberoptic mode. Additionally, the
+proposed device offers a spot mode.
+
+7. PERFORMANCE TESTING
+Verification and validation testing was successfully performed to confirm that the
+modified Diomed 15plus and Diomed 30plus Lasers function as intended.
+
+Diomed Inc. Special 510(k) October 19, 2001
+
+Diomed 15plus and Diomed 30plus Lasers Page E-2
+
+Hy
+f a DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+EEE
+"he
+Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Diomed, Inc.
+c/o Ms. Mary MeNainata-Cullinane NOV 1 6 2001
+Medical Device Consultants, Inc.
+49 Plain Street :
+North Attleboro, Massachusetts 02760
+Re: K013499
+Trade/Device Name: Diomed 15plus and Diomed 30plus Lasers
+Regulation Number: 878.4810
+Regulation Name: Laser surgical instrument for use in general and
+plastic surgery and in dermatology.
+Regulatory Class: II
+Product Code: GEX
+Dated: October 19, 2001
+Received: October 22, 2001
+Dear Ms. McNamara-Cullinane:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class If (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes aud regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Ms. Mary McNamara-Cullinane
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for yout Ucvive on our labeling regulation (71 CFR Part 801 and
+additionally 21 CFR Part 809.10 for in vitro diagnostic devices), please contact the Office of
+Compliance at (301) 594-4659. Additionally, for questions on the promotion and advertising of
+your device, please contact the Office of Compliance at (301) 594-4639. Also, please note the
+regulation entitled, "Misbranding by reference to premarket notification” (21CFR Part 807.97).
+Other general information on your responsibilities under the Act may be obtained from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 443-6597 or at its Internet address
+http://www. fda gov/edrh/dsma/dsmamain.htm!
+Sincerely yours,
+aa Lowber, AW?
+Celia M. Witten, Ph.D., M.D.
+( »_, Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+510(k) Number (if known): kK O BY q 4
+Device Name: Diomed 15plus and Diomed 30plus Lasers NOV 16 2001
+Indications For Use:
+The Diomed 15plus and Diomed 30plus lasers are indicated for contact and non-contact
+use for the following coft tiseue applications:
+« General Surgery
+. Ophthamology/Oculoplastic
+e Urology
+e Gastroenterology
+e Gynecology
+* Otorhinolaryngology
+. Pulmonary/T! horacic
+« Dermatology/Plastic Surgery
+e Neurosurgery (coagulation only)
+. Orthopedic
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOLHEK PAGE If NECESSART)
+a
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+ise Wl
+(ivision Sign-Off)
+Division of General, Restorative
+and Neurological Devices
+510(k) Number_KO377 7
+Prescription Use / OR Over-he-Counter Use
+(Per 21 CFR 801.109)
+
+(Optional Format 1-2-96)
+nnn
+Diomed Inc. Special 510(k) October 19, 2001
+Diomed [5plus and Diomed 30plus Lasers Page v
+

@@ -1,0 +1,143 @@
+APR 11 2002 K 020099
+510(k) Summary
+Ceralas Diode Laser System
+Submitter’s Name, Address, Telephone Number, Contact Person and Date
+Prepared
+biolitec, Inc.
+515 Shaker Road
+East Longmeadow, Massachusetts 01028
+Phone: (413) 525-0600
+Facsimile: (413) 525-0611
+Contact Person; Carol J. Morello, V.M.D.
+Date prepared: January 9,2002
+Name of Device and Name/Address of Sponsor
+Mega Beam/Ceralas Nonsterile Collimating Handpiece
+biolitec, Inc.
+515 Shaker Road
+East Longmeadow, Massachusetts 01028
+Classification Name
+Accessory to Surgical Laser Instrument
+Predicate Device
+biolitec Inc. Mega Beam/Ceralas Nonsterile Collimating Handpiece
+Intended Use /Indications for Use
+The biolitec, Inc. Mega Beam/Ceralas Nonsterile Collimating Handpiece
+is intended to be used as a fiberoptic laser delivery accessory with the
+CeralasD 980nm Diode Laser for the dental indications that the laser
+has already been cleared for in K983058, K991891 and K993002. Please
+refer to the Laser User Manual for the specific list of indications.
+Technological Characteristics
+The Mega Beam/Ceralas Collimating Handpiece consists of a 3 meter
+quartz optical fiber encased in a handpiece. The handpiece has lenses
+that collimate the beam to create a 7mm beam and resulting 7mm spot
+size.
+\AVDC - 6121/1 - #1331832 v1
+
+Performance Data
+biolitec conducted testing comparing the Mega Beam Ceralas Collimating
+Handpiece’s and the Mega Beam Bare Fiber’s handpiece efficiency,
+energy density and divergent half angle. These performance tests
+demonstrate that the Mega Beam/Ceralas Collimating Handpiece is as
+safe and effective as the bare fiber optic delivery system.
+
+Substantial Equivalencies
+
+The Mega Beam/Ceralas Collimating Handpiece has the same intended use as
+
+its predicate device.
+
+\AADC - 6£213/1 - #1331532 v1
+
+i &¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+% a :
+“oe ; oO "Food and Drug Administration
+. : . 9200 Corporate Boulevard
+Rockville MD 20850
+APR 11 2002
+Ms. Carol J. Morello, VMD
+Regulatory Affairs :
+Biolitec, Inc.
+515 Shaker Road
+East Longmeadow, MA 01028
+Re: K020099
+Trade/Device Name: Mega Beam/Ceralas Nonsterile Collimating Handpiece
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser Surgical Instrument for use in General and Plastic Surgery and in
+Dermatology
+Regulatory Class: II
+Product Code: GEX :
+Dated: January 9, 2002
+Received: January 11, 2002
+Dear Dr. Morello:
+We have reviewed your Section 510(k) notification of intent to market the device referenced
+above and have determined the device is substantially equivalent to devices marketed in
+interstate commerce prior to May 28, 1976, the enactment date of the Medical Device
+Amendments or to devices that have been reclassified in accordance with the provisions of the
+Federal Food, Drug, and Cosmetic Act (Act). You may, therefore, market the device, subject to
+the general controls provisions of the Act. The general controls provisions of the Act include
+requirements for annual registration, listing of devices, good manufacturing practice, labeling,
+and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (Premarket Approval), it may be subject to such additional controls. Existing major regulations
+affecting your device can be found in the Code of Federal Regulations, Title 21, Parts 800 to 895.
+A substantially equivalent determination assumes compliance with the Good Manufacturing
+Practice for Medical Devices: General (GMP) regulation (21 CFR Part 820) and that, through
+periodic GMP inspections, FDA will verify such assumptions. Failure to comply with the GMP
+. regulation may result in regulatory action. In addition, the Food and Drug Administration (FDA)
+may publish further announcements concerning your device in the Federal Register. Please note:
+this response to your premarket notification submission does not affect any obligation you might
+have under sections 531 through 542 of the Act for devices under the Electronic Product
+Radiation Control provisions, or other Federal laws or regulations.
+
+Page 2 - Ms. Carol J. Morello, VMD
+This letter will allow you to begin marketing your device as described in your 5 10(k) premarket
+notification. An FDA finding of substantial equivalence of your device to a legally marketed
+predicate device results in a classification for your device and thus, permits your device to
+proceed to the market, but it does not mean that FDA approves your device. Therefore, you may
+not promote or in any way represent your device or its labeling as being approved by FDA.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 809.10 for in vitro diagnostic devices), please contact the Office of Compliance at
+(301) 594-4639, Additionally, for questions on the promotion and advertising of your device, :
+please contact the Office of Compliance at (301) 594-4639. Other general information on your
+responsibilities under the Act may be obtained from the Division of Small Manufacturers,
+International and Consumer Assistance at its toll-free number (800) 638-2041 or at (301) /
+443-6597,
+
+Sincerely yours,
+
+flab A thse —
+_V Celia M. Witten, Ph.D., M.D.
+Directir
+Division of General, Restorative
+and Neurological Devices :
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Se Indications for Use Form .
+
+510(k) Number (if known): [A 020099
+
+Device Name: Mega Beam/Ceralas Nonsterile Collimating Handpiece
+Indications for Use:
+
+The biolitec, Inc. Mega Beam/Ceralas Nonsterile Collimating Handpiece is
+intended to be used asa fiberoptic laser delivery accessory with the
+CeralasD 980nm Diode Laser for the dental indications that the laser has
+already been cleared for in K983058, K991891 and K993002. Please refer
+to the Laser User Manual for the specific list of indications.
+
+(PLEASE DO NOT WRITE BELOW THIS LINE -- CONTINUE ON ANOTHER PAGE
+
+IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+\ Prescription Use XK OR Over-The-Counter
+: Use___
+(Per 21 C.F.R. 801.109}
+JA Af, oon rormat 12-96
+(Division Sign-Off)
+Division of General. Restorative
+curological Devices
+
+\AAWDC - 61215/1 - #1391532 v1 510(k) Number O J 0099
+

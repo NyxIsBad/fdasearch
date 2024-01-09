@@ -1,0 +1,144 @@
+JUN 2.0 2006 Koel 7
+510(k) Summary of Safety and Effectiveness
+Applicant:  Nanolite Technology, Inc.
+Address: 21250 Hawthorne Blvd., Suite 500
+Torrance, California 90503
+Phone: 909-598-5778
+Fax: 909-598-7369
+Contact Person: Hueng Khon Kim
+Summary Preparation Date: May 17, 2006
+Device Trade Name: Nanolite Skin Care System
+Device usual name: Low level light therapy device
+Device Classification:
+Regulatory Class: Class II
+Product Code: GEX
+Classification Panels: General and Plastic Surgery
+Regulation Number: 21 C.F.R. 878.4810 (Laser surgical instrument for
+use in general and plastic surgery and in dermatology)
+Note: The Nanolite Skin Care System is not a laser product; however,
+the applicant believes that this classification is the most applicable.
+Description of the Device:
+The Nanolite Skin Care System is a light-based device that uses LED
+to stimulate and regenerate skin cells. The device delivers red light at
+640 nm.
+The principal parts of the device are: the base that contains the power
+supply; a LED module containing surface mount device chip LEDs;
+one arm attached to the LED module to be positioned for patient
+treatment; and a control unit consisting of an LCD panel with a touchscreen display.
+
+The software in the LCD panel is preprogrammed to provide for
+twenty minutes of exposure time to LED lights per treatment. During
+each treatment, the lights are tumed on and off to prevent
+desensitization of the skin area that is being treated and to increase the
+stimulative effects of the energy from the LED.
+
+The Nanolite Skin Care System generates output power equal to 170
+mW/cm? from each LED. Since Nanolite has 6 LEDs per square
+centimeter, it generates total power dissipation per square meter of
+1020 mW/cm?. The device software is programmed to control the
+output power to create a standard dose of approximately 90J/cm? for
+each treatment.
+Predicate Devices:
+The Nanolite Skin Care System is substantially equivalent to Omnilux Revive
+manufactured by Photo Therapeutics Limited (K03 0426).
+Indications: .
+The Nanolite Skin Care System is indicated to treat pigmented lesions.
+Substantial Equivalence:
+The Nanolite Skin Care System and the predicate device are all light devices
+that use light emitting diodes to treat dermatological conditions by exposing
+_ the surface of the skin to light at precise wavelengths. They have the same
+intended use and general indications for use, are similarly designed, and have
+similar principles of operation, performance and technological characteristics.
+Although there are some differences in the technological characteristics of the
+Nanolite Skin Care System and its predicate devices, those differences do not
+raise new questions of safety or efficacy. Therefore, the Nanolite Skin Care
+System is substantially equivalent.
+
+é 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+wok Food and Drug Administration
+9200 Corporate Boulevard
+JUN 20 2006 Rockville MD 20850
+Nanolite Technology, Inc.
+c/o Daniel W. Lehtonen
+Intertek Testing Services
+2307 East Aurora Rd., Unit B7
+Twinsburg, OH 44087
+Re: K061117 ,
+Trade/Device Name: Nanolite Skin Care System™
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery
+and in dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: June 2, 2006
+Received: June 5, 2006
+Dear Mr. Lehtonen:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class I] (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must comply
+with all the Act’s requirements, including, but not limited to: registration and listing (21 CFR
+Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set forth in
+the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product
+radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. Daniel W. Lehtonen
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at 240-276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification" (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www.fda.gov/cdrh/industry/support/index.html.
+
+Sincerely yours,
+
+j
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+
+Office of Device Evaluation
+
+Center for Devices and Radiological Health
+Enclosure
+
+Indications for Use Statement
+510(k) Number: Kobmi7 _.
+Device Name: Nanolite Skin Care System™
+Indications for Use: ‘
+
+The Nanolite Skin Care System is indicated to treat pigmented lesions.
+Prescription Use _X_ OR Over-the-Counter Use
+(per 21 CFR 801.109)
+
+(Please do not write below this line — Continue on another page if needed)
+
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+mat A
+Division of General, Restorative,
+and Neurological Devices
+510(k) Number d/h]
+&
+

@@ -1,0 +1,138 @@
+FEB 21 2003 °°.
+K 0239420¢ .
+§10(k) SUMMARY OF SAFETY AND EFFECTIVENESS
+
+This summary of 510(k) safety and effectiveness information is being submitted in
+accordance with the requirements of the Safe Medical Devices Act (SMDA) of 1990 and
+21 CFR 807.92. All data included in this document is accurate and complete to the best of
+KSEA’s knowledge.
+Applicant: Karl Storz Endoscopy - America, Inc.
+
+600 Corporate Pointe Drive
+
+Culver City, CA 90230
+
+(310) 338-8100
+Contact: Susie S. Chen
+
+Director, Regulatory & Product Legal Affairs
+Device Identification; | Common Name:
+
+Electrosurgical Generator
+
+Trade Name: (optional)
+
+The KSEA Autocon II 200 Electrosurgical Generator
+Indication: The Autocon II 200 Electrosurgical Generator is intended for use by qualified
+surgeons to provide a high frequency (HF) electrical current for cutting and coagulating
+tissue during open and endoscopic surgeries, including general, plastic, urological, ENT,
+gynecologic, and arthroscopic procedures.
+Device Description: The Autocon II 200 consists of a generator, a dual pedal foot switch,
+and a power cord. The footswitch activates the power for cutting and coagulation. The
+Autocon II 200 is able to provide either monopolar or bipolar modes for cutting and
+coagulation. It can be linked to Karl Storz SCB.
+Substantial Equivalence: The KSEA Autocon II 200 Electrosurgical Generator is
+substantially equivalent to the predicate devices since the basic design, dimensions, safety
+features, and intended uses are similar. The minor differences between the KSEA
+Autocon II 200 Electrosurgical Generator and the predicate devices raise no new issues of
+safety and effectiveness, as these differences have no effect on the performance, function
+or intended “ee devices.
+Signed: ( pe Ede ~
+
+Susie S. Chen
+Director, Regulatory & Product Legal Affairs
+
+4 ain
+{ ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+B a
+ne Food and Drug Administration
+9200 Corporate Boulevard
+FEB 2 1 2003 Rockville MD 20850
+Karl Storz Endoscopy
+Susie S. Chen
+Director, Regulatory & Product Legal Affairs
+600 Corporate Pointe Drive
+Culver City, California 90230
+Re: K023924
+Trade/Device Name: Autocon II 200 Electrosurgical Generator
+Regulation Number: 878.4400
+Regulation Name: Electrosurgical Generator
+Regulatory Class: Class IT
+Product Code: GEI
+Dated: November 20, 2002
+Received: November 25, 2002 :
+Dear Ms. Chen:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing
+
+Page 2 — Ms. Susie S. Chen
+(21 CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (301) 594-4659. Also, please note the regulation entitled, :
+“Misbranding by reference to premarket notification” (21CFR Part 807.97). Other general
+information on your responsibilities under the Act may be obtained from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address
+http://www. fda.gov/cdrh/dsma/dsmamain. html
+
+Sincerely yours,
+
+puduanl. Kevewt
+
+forCelia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+RS | ORGS ONES ee UTES 8 BE SU oe a Cagle ees (S77 | ae WEEDS
+ee ea rey ene cy ee EO. pees
+bo ee or Gin A i Sad ee ee Beda: 3 RE ee ae aS se) aA EERE
+PS eee
+CEI: Ee A ORS SR OS ES So Seas
+Pe eee eee Ee PS EEE SS Rg 5 oe FEN OR SEES AP ae NBR Speers os et a es Reg os Be
+510(k) Number (if known): Notyetassigned. K 023 gq oo
+
+Device Name: Autocon II 200 Electrosurgical Generator
+Indications for Use: The Autocon II 200 Electrosurgical Generator is intended for use by
+qualified surgeons to provide a high frequency (HF) electrical current for cutting and
+coagulating tissue during open and endoscopic surgeries, including general, plastic,
+urological, ENT, gynecologic and arthroscopic procedures.
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE
+IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use: V OR Over-The-Counter Use:
+(Per 21 CFR 801.109)
+(Optional Format 1-2-96)
+(Division Sign-Off)
+Division of General, Restorative
+and Neurologica: Jevices
+oacg
+510(k) Number __KO23924 __
+

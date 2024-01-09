@@ -1,0 +1,182 @@
+. UCT 5 ~ 2007
+OCI s © 2007 K070¢43
+510(k) Summary of Safety and Effectiveness
+b t h
+I. Submitter’s Name /
+Relievant MedSystems, Inc. 4
+713 Sandoval Way
+Hayward, CA 94544
+2. Company Contact
+Mark Smutka
+Regulatory and Clinical Consultant
+Telephone — 510-489-1080
+Fax — 510-489-1082
+3. Device Name
+Trade Name: INTRACEPT Bi-Polar RF Probe and Instrument Set
+Common Name: Radiofrequency Probe
+Classification Name: Radiofrequency Lesion Probe
+4, Date Summary Prepared
+September 27, 2007
+5. Predicate Devices
+-Neurotherm Disposable Radiofrequency Cannula (K994344)
+-InCircle Bi-Polar RF Ablation Device (K070711)
+-Stryker RF Coaxial Bipolar Electrodes and Cannulae (K043442)
+6. Description of Device
+The Relievant INTRACEPT Bi-Polar RF Probe and Instrument Sets are used
+in conjunction with the Stockert NEURO NSO RF Generator and Interconnect
+Cable to create radiofrequency lesions in soft tissue. The system delivers
+temperature-controlled, radiofrequency (RF) energy into targeted tissue via
+the probe to create lesions in soft tissue. The Instrument Sets are used to
+provide access to the target tissue and are available in a Standard Length and
+an Extra Length version.
+7. Intended Use
+The INTRACEPT Bi-Polar RF Probe and Instrument Set is intended to be
+used with radiofrequency (RF) generators for the thermal coagulation of soft
+tissues.
+8. Comparison of Technological Characteristics
+The INTRACEPT Bi-Polar RF Probe and Instrument Set are substantially
+equivalent in design, materials, function and intended use to the following
+devices cleared for commercial distribution:
+
+KO710443
+
+-Neurotherm Disposable Radiofrequency Cannula (K994344)
+
+-InCircle Bi-Polar RF Ablation Device (K070711)
+
+-Stryker RF Coaxial Bipolar Electrodes and Cannulae (K043442) faye aQ 4 (2)
+9. Summary of Performance Data
+
+The INTRACEPT Bi-Polar RF Probe and Instrument Set was tested and
+
+compared to predicate devices. In vivo data demonstrated that the
+
+INTRACEPT Bi-Polar RF Probe and Instrument Set creates clinically relevant
+
+lesions that are equivalent in size to the predicate device. The test data
+
+gathered demonstrate that this device is substantially equivalent to the
+
+predicate devices. No new safety or effectiveness issues have been raised.
+
+2 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+mat Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+
+Relievant MedSystems, Inc.
+% Mr. Mark Smutka
+Regulatory and Clinical Consultant
+713 Sandoval Way Gel RY 2007
+Hayward, California 94544 °
+Re: K070443
+
+Trade/Device Name: INTRACEPT Bi-Polar RF Probe and Instrument Set
+
+Regulation Number: 21 CFR 878.4400
+
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+
+Regulatory Class: II
+
+Product Code: GEI
+
+Dated: September 27, 2007
+
+Received: September 28, 2007
+Dear Mr. Smutka:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class II] (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination docs not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. Mark Smutka
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+“Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www. fda.gov/cdrh/industry/support/index.html.
+
+Sincerely yours, Nooo s
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Page 3 — Mr. Mark Smutka
+ce: HFZ-401 DMC
+HFZ-404 510(k) Staff
+HFZ-410 DGRND/GSDB
+D.O.
+f/t:GJM:kx1: 10-04-07 .
+OC Numbers:
+Division of Enforcement A 240-276-0115
+Dental, ENT and Ophthalmic Devices Branch 240-276-0115
+OB/GYN, Gastro. & Urology Devices Branch 240-276-0115
+General Hospital Devices Branch 240-276-0115
+General Surgery Devices Branch 240-276-0115
+Division of Enforcement B 240-276-0120
+Cardiovascular & Neurological Devices Branch 240-276-0120
+Orthopedic, Physical Medicine & Anesthesiology Devices Br 240-276-0120
+
+Indications for Use
+
+510(k) Number (ifknowny: KO 70443
+
+K070443
+
+Device Name:
+
+INTRACEPT™ Bi-Polar RF Probe and Instrument Set
+
+Indications For Use:
+
+The INTRACEPT Bi-Polar RF Probe and Instrument Set is intended to be used in
+conjunction with radiofrequency (RF) generators for the thermal coagulation of soft
+tissues.
+Prescription Use _X And/Or Over the Counter Use :
+(21 CFR Part 801 Subpart D) (21 CFR Part 801 Subpart C)
+
+. (PLEASE DO NOT WRITE BELOW THIS LINE, CONTINUE ON ANOTHER PAGE IF NEEDED)
+—— MEE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of In Vitro Diagnostic Device Evaluation and Safety (OIVD)
+Division Sign-Off VIL Aah.
+Office of In Vitro Diagnostic Device —. ESO
+Evaluation and Safety (Division Sign-Off)
+
+Division of General, Restorative,
+> 10) _KOTO¢4 and Neurological Devices
+s10(k) Number_ K OF
+Page | of 1
+

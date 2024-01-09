@@ -1,0 +1,188 @@
+14 510(k) Summary
+14.0 510(K) SUMMARY APR 25 2008
+This 510(k) summary of safety and effectiveness information is being submitted in accordance
+with the requirements of 21 CFR 807.92(a).
+SUBMITTER’S NAME, ADDRESS, TELEPHONE NUMBER, CONTACT PERSON, AND DATE
+SUMMARY PREPARED:
+a. Applicant: IntraLase Corp.
+9701 Jeronimo Road
+Irvine, CA 92618
+Tel: 949.859.5230
+b. Contact Person: Maureen Weiner, R.N.
+Regulatory Affairs Consultant
+5 Grindlay Pl
+Aliso Viejo, CA 92656
+Ph: 949.584.5771
+Fax: 949.461.3323
+Email: maureen.weiner@amo-inc.com
+c. Date of Summary Preparation December 3, 2007
+NAME OF DEVICE, INCLUDING TRADE NAME AND CLASSIFICATION NAME:
+Trade/Proprietary Name: _iFS Laser System
+Common/Usual Name: Laser
+Classification Name: Keratome
+Classification Code(s): 79 GEX, 86 HNO
+IDENTIFICATION OF THE PREDICATE DEVICE OR LEGALLY MARKETED DEVICE OR DEVICES
+TO WHICH SUBSTANTIAL EQUIVALENCE IS BEING CLAIMED: .
+510(k) # Trade Name Manufacturer
+K060372 IntraLase FS Laser IntraLase Corp.
+K063682 IntraLase Fusion Laser IntraLase Corp.
+K032910 Carriazo Pendular Microkeratome Schwind Eye Tech Solutions
+A DESCRIPTION OF THE DEVICE THAT IS THE SUBJECT OF THE 510(K), INCLUDING
+EXPLANATION OF HOW THE DEVICE FUNCTIONS, BASIC SCIENTIFIC CONCEPTS, SIGNIFICANT
+PHYSICAL AND PERFORMANCE CHARACTERISTICS (DESIGN, MATERIAL, PHYSICAL
+PROPERTIES):
+The iFS Laser System is a precision ophthalmic surgical laser designed for use as an ophthalmic
+surgical laser indicated for use:
+
+14 510(k) Summary
+
+e In the creation of a corneal flap in patients undergoing LASIK surgery or other treatment
+requiring initial lamellar resection of the cornea;
+
+e Inpatients undergoing surgery or other treatment requiring initial lamellar resection of the
+cornea;
+
+e In patients undergoing surgery or other treatment requiring initial lamellar resection of the
+cornea to create tunnels for placement of corneal ring segments;
+
+e In lamellar keratoplasty and corneal harvesting;
+
+e In the creation of a lamellar cut/resection of the comea for lamellar keratoplasty and in the
+creation of a penetrating cut/incision for penetrating keratoplasty.
+
+Comeal dissection with the iFS Laser is achieved through precise individual micro
+photodisruptions of tissue, created by tightly focused ultrashort optical which are delivered
+
+through a disposable applanation lens assembly while fixating the eye under low vacuum.
+
+STATEMENT OF INTENDED USE:
+
+The iFS Laser System is an ophthalmic surgical laser indicated for use:
+
+e In the creation of a corneal flap in patients undergoing LASIK surgery or other treatment
+requiring initial lamellar resection of the cornea;
+
+e In patients undergoing surgery or other treatment requiring initial lamellar resection of the
+cornea;
+
+e In patients undergoing surgery or other treatment requiring initial lamellar resection of the
+cornea to create tunnels for placement of corneal ring segments;
+
+e In lamellar keratoplasty and corneal harvesting;
+
+e In the creation of a lamellar cut/resection of the cornea for lamellar keratoplasty and in the
+creation of a penetrating cut/incision for penetrating keratoplasty.
+
+STATEMENT OF HOW THE TECHNOLOGICAL CHARACTERISTICS OF THE DEVICE COMPARE TO
+
+THOSE OF THE PREDICATE OR LEGALLY MARKETED DEVICE:
+
+The technological characteristics of the iFS Laser are substantially equivalent to those cleared
+
+under K060372, K063682, and K032910 for corneal resections and incisions.
+
+BRIEF SUMMARY OF NONCLINICAL TESTS AND RESULTS:
+
+The iFS Laser System has undergone testing and is in compliance with applicable safety
+
+standards. The iFS Laser and the accessory IntraLase Patient Interface were found to perform
+
+equivalently to the predicate laser and patient interface for the creation of corneal resections.
+
+Thus, the iFS Laser System and the predicate device have similar safety, effectiveness and
+
+performance profiles.
+
+Z 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+°
+amet Food and Drug Administration
+10903 New Hampshire Avenue
+Document Control Room -W066-G609
+Silver Spring, MD 20993-0002
+JAN 25 201
+Intralase Corporation
+c/o Maureen Weiner, R.N.
+5 Grindlay PI.
+Aliso Viejo, CA 92656
+USA
+Re: K073404
+Trade/Device Name: iFS Laser System
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser Instrument, Surgical, Powered
+Regulatory Class: II
+Product Code: GEX, HNO
+Dated: April 8, 2008
+Received: April 10, 2008
+Dear Ms. Weiner:
+This letter corrects our substantially equivalent letter of April 25, 2008.
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices,
+good manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical
+device-related adverse events) (21 CFR 803); good manufacturing practice requirements as set
+
+Page 2 - Maureen Weiner, R.N.
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+go to http://www.fda.gov/AboutFDA/CentersO ffices/CDRH/CDRHOffices/ucm115809.htm for
+the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please
+note the regulation entitled, "Misbranding by reference to premarket notification” (21CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CFR Part 803), please go to
+http://www. fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other general information on your responsibilities under the Act from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 796-7100 or at its Internet address
+http://www. fda.gov/Medical Devices/ResourcesforY ou/Industry/default.htm.
+Sincerely yours,
+Malvina B. Eydelman, M.D.
+Director
+/ Division of Ophthalmic, Neurological,
+and Ear, Nose and Throat Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health :
+
+Indications for Use
+510(k) Number (if known):_K073404 :
+Device Name(s):  iFS Laser System _
+t
+Indications for Use: '
+The iFS Laser System is an ophthalmic surgical laser indicated for use:
+e In the creation of a corneal flap in patients undergoing LASIK surgery or
+other treatment requiring initial lamellar resection of the cornea
+e In patients undergoing surgery or other treatment requiring initial lamellar
+resection of the cornea
+e In patients undergoing surgery or other treatment requiring initial lamellar
+resection of the cornea to create tunnels for placement of comeal ring
+segments
+° In lamellar keratoplasty and corneal harvesting
+® In the creation of a lamellar cut/resection of the cornea for lamellar
+keratoplasty and in the creation of a penetrating cut/incision for penetrating
+keratoplasty
+Prescription Use __X , AND/OR _—_ Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Page 1 of 1
+(Diviston Sign-Off)
+Division of Ophthalmic, Neurological and Ear,
+Nose and Throat Devices
+$10K) Number_A277 724%
+

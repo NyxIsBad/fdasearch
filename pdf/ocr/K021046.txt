@@ -1,0 +1,149 @@
+APR:1 6 2002
+Attachment 4 kK Ox! O¢k ify
+510(k) Summary TT ___
+Category: Comments .
+ee
+. Sponsor: Boston Scientific Corporation
+2710 Orchard Parkway
+San Jose, CA 95134
+Correspondent: Susan R. Pool
+Manager, Regulatory Affairs
+2710 Orchard Parkway
+San Jose, CA 95134
+Contact Information: E-mail: pools@bsci.com
+Phone: 408.895.3608
+‘ Fax: 408.895.2202
+Device Common Name Electrosurgical Probe
+Device Proprietary Name Cobra® Cooled Surgical Probe
+EES
+Device Classification 21 CFR § 878.4400, class II, product code
+GEI
+Predicate Device Electrosurgical Probe
+Predicate Device Manufacturer(s) Boston Scientific Corporation/ EP
+Technologies, Inc.
+Predicate Device Proprietary Cobra® Surgical Probe
+Name(s)
+Predicate Device Classification Class II
+Number
+Predicate Device Classification(s) 21 CFR § 878.4400, product code GEI
+Date Summary Was Prepared:
+March 28, 2002
+Description of the Device:
+The Boston Scientific Corporation Surgical Probe is a sterile, single use
+electrosurgical device intended to be used to coagulate soft tissues. The surgical
+probe transmits radiofrequency energy from electrodes which are connected to
+an Electrosurgical unit (non-sterile; re-useable) through an Instrument Cable
+(sterile; re-useable).
+CONFIDENTIAL 27
+
+Intended Use:
+The Probe is intended for use only under direct visual control of the physician
+during open, general surgical procedures to coagulate soft tissues. The Probe
+may also be used to coagulate blood and soft tissues to produce hemostasis.
+Comparison to Predicate Device:
+ee
+Predicate Device Modified Device
+510(k) Reference _K981981; K010956 Current Submission
+Intended Use Coagulation of tissue Same
+Device Electrosurgical Probe Same
+Description
+Single Use? Yes Same
+EO Sterilized? Yes Same
+Manufacturer Boston Scientific Corporation/EP Same
+Technologies, Inc.
+Device Class II, 21 CFR §878.4400, code Same .
+Classification GEI ____
+Summary of the Non-clinical Data:
+Where appropriate, testing conformed to the requirements of 21 CFR Part 58
+(Good Laboratory Practices (GLP)). Specifically, non-clinical tests conducted for
+the Device included Fluid Path Integrity, Bond Joint Tensile Strength, Bond Joint
+Torsional Strength, Distal Section Fatigue, Shaft to Handle Tensile Strength,
+Biocompatibility and, both acute and chronic, In vivo performance.
+CONFIDENTIAL 28
+
+ey
+g & DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+a a
+Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Ms. Susan Pool APR 1 6 2002
+Regulatory Manager / ‘
+Boston Scientific Corporation
+2710 Orchard Parkway
+San Jose, CA 95134
+Re: K021046
+: Trade/Device Name: Cobra Cooled Surgical Probe, Model 1596X
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: Class II
+Product Code: GEI
+Dated: March 28, 2002 :
+Received: April 1, 2002
+Dear Ms. Pool:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CER Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Ms. Susan Pool
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market. ,
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 21 CFR Part 809.10 for in vitro diagnostic devices), please contact the Office of
+Compliance at (301) 594-4659. Additionally, for questions on the promotion and advertising of
+your device, please contact the Office of Compliance at (301) 594-4639. Also, please note the
+regulation entitled, "Misbranding by reference to premarket notification” (21CFR Part 807.97).
+Other general information on your responsibilities under the Act may be obtained from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 443-6597 or at its Internet address
+http://www.fda.gov/cdrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+{0 Celia Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Attachment 2
+Intended Use Statement
+510(k) Number (ifknown): kKoale “eb Device Name:  Cobra® Cooled Surgical Probe
+Indication for Use:
+The Probe is intended for use only under direct visual control of the physician
+during open, general surgical procedures to coagulate soft tissues. The Probe
+may also be used to coagulate blood and soft tissues to produce hemostasis.
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use___1/ OR Over-the-Counter Use
+(Per 21 CER §801.109)
+ivision Sign-Off)
+Division of General, Restorative
+and Neurological Devices
+j 25
+510k) Number__K0 ZO0Y6
+

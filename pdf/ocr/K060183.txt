@@ -1,0 +1,280 @@
+“EB 16 2096
+KO b60!I$>
+WY YN
+510K SUMMARY
+Submitted By: ERBE USA, Inc. f’ ! 4 @
+2225 Northwest Parkway
+Marietta, GA 30067
+Tel: 770-955-4400
+Fax: 770-955-2577
+Contact Person: John Tartal
+Date Prepared: 01/23/06
+Common Name: Argon Plasma Coagulation (APC) Integrated Filter Probes
+and Adapter
+Trade/Proprietary Name: ERBE APC Integrated Filter Probes and Adapter
+Classification Name: Electrosurgical cutting and coagulation device and
+accessories (21CFR878.4400)
+Product Code: GE
+Legally Marketed Device: APC Connector Hose and Probes submitted in the ERBE
+510(k) Number K013348 as well as APC Membrane Filter
+(as an Accessory) in ERBE 510(k) Number K024047
+Note: The APC Integrated Filter Probes and Adapter are being submitted in this
+premarket notification are modified from the accessories in the above 510(k)s. The
+modifications were determined to require a 510(k) submission.
+Device Description:
+The APC Integrated Filter Probes incorporate a filter similar to the APC Membrane Filter
+and the hose (specifically the length) of an APC Connector Hose into one device. See
+Section IV, Appendix 1, Product Pictures (IV-2). The Probes are flexible. They are
+provided in various lengths, diameter sizes, and tip configurations to accommodate the
+various size/types of endoscopes for a variety of applications (i.e., the treatment of
+various target tissues inside a patient). The working lengths {i.e., the segment of the
+Probe that would go down a scope) of the APC Integrated Filter Probes are 4.9ft. (1.5m)
+to 9.8ft. (3m). The working diameters of the Probes are 4.5 French (1.5mm) to 9.6
+French (3.2mm). The Probes have either an axial (straight fire), lateral (side fire), or
+circumferential opening allowing the energy to be delivered straight, at a 45 to 90
+degree angle. or directly to target tissue regardless of the probe's position. The three
+types of openings for the APC Integrated Filter Probes allow the physician a choice in
+the direction or the option not to have to consider the direction (just proximity) of
+delivering the argon plasma to the treatment site which is based upon tissue resistance.
+H-1
+
+Ko60'1 $3
+510K SUMMARY le “4 2 4, (s)
+Note: Since the last 510(k), two (2) additional APC Probes became apart of the product
+line. The modifications were insignificant. One involved a different outer diameter and
+length, but the changes were within the ranges of dimensions that were already
+included in approved Probes. The other involved modifying the tip of a side fire probe
+for circumferential application. Besides the modification to the tip shape, the bonding
+material changed to Vitadur Alpha. However, the material difference in the tip did not
+raise any biocompatibility issues.
+For each Probe, the blue connector/filter end is made of plastics (including the
+membrane filter) with brass contact pins coated with nickel. The filter is 0.45 um and
+protects the Argon Plasma Coagulator (the Equipment) from contamination if there is a
+backflow of blood or any other fluid contaminant. The hose part of the Probe is made of
+Teflon (PTFE). Finally, the tube portion of the Probe is made of polyurethane, PTFE
+and a stainless steel wafer shape electrode close to the tip for terminating electrical
+current. Various glues/adhesives are used to secure all of the Probe’s parts. Ceramic
+tips are bonded on the APC Integrated Filter Side Fire and Circumferential Probes.
+Functionality and reliability of the Probes were demonstrated through validation testing
+using Recognized Standards. All added or modified materials in the APC Integrated
+Filter Probes were evaluated for biocompatibility with no problem found (See Section Ill,
+Biocompatibility, tII-10 to I1I-19).
+The APC Integrated Filter Probes are provided sterile by means of ethylene oxide and
+are disposable (Single Use) [Note: The sterilization cycle has been validated. See
+Section III, Sterilization Information, !l-20.].
+The APC Integrated Filter Probe Adapter is a flexible connecting cable. See Section IV,
+Appendix 1, Product Pictures (IV-3). It connects the APC Integrated Filter Probe to an
+ERBE Argon Plasma Coagulator. The Adapter is a conduit for both electrosurgical
+current and argon gas. It is approximately 13-1/2” in length. The connector ends of the
+Adapter are made of plastics. The cable portion of the Adapter is silicone. The
+Adapter's performance was validated via Recognized Standards. The APC Integrated
+Filter Probe Adapter is provided non-sterile and is reusable (Note: The Adapter only
+needs to be externally cleaned/disinfected unless it is contaminated.).
+The APC Integrated Filter Probes and Adapter are accessories of the ERBE Argon
+Plasma Coagulator Models APC 300 and APC 2 [Note: The Coagulator is used with an
+associated ERBE ElectroSurgical Unit (ESU)]. The APC Integrated Filter Probe
+Adapter attaches to gas as well as electrical inputs of the Coagulator and then to an
+APC Integrated Filter Probe [Note: It is possible to connect an APC Integrated Filter
+probe directed to ERBE Coagulator APC 2 Model if it has an FiAPC Receptacle). An
+endoscope is manipulated inside the patient to locate tissue that requires treatment.
+Upon finding the target tissue, the Probe is threaded into the working channel of the
+endoscope, until the tip of the APC Integrated Filter Probe slightly protrudes from the
+end of the scope. The opening of the Probe is positioned towards/in close proximity of
+the area to be treated (Note: The APC Integrated Filter Probes have depth marker rings
+close to the tip for positioning purposes.). The APC/ESU system is activated via a
+Wt-2
+
+Ko bol ¥d ;
+oo "ge 3G ©)
+510K SUMMARY
+
+footswitch. When high frequency voltage reaches the critical level and the proximity to
+tissue is close enough, electrically conductive argon plasma forms in the gas stream.
+This allows the current to flow between the probe and the tissue. Current density upon
+arrival at the tissue surface causes coagulation. The application of the energy to the
+tissue is uniform and contact free.
+
+Intended Use:
+
+The APC Integrated Filter Probes are intended for use in Argon Plasma Coagulation
+(APC). The devices are used to treat many conditions in endoscopy for various surgical
+procedures.
+
+Note: The APC Integrated Filter Probe Adapter is just the attachment piece to connect
+an APC Integrated Filter Probe to an ERBE Coagulator Model APC 300. The Adapter is
+only needed for the ERBE APC 2 Model if a FIAPC Receptacle is not installed.
+Similarities and Differences of the Modified Device to the Current Device (Predicate
+Comparison/Substantial Equivalence):
+
+APC Integrated Filter Probes and Adapter
+
+Similarities
+
+The APC Integrated Filter Probes have the same performance, working dimensional
+and tip specifications (i.e., working diameter and lengths as well as tip configurations),
+intended use, labeling, and packaging specifications as the predicate APC Probes. The
+APC Integrated Filter Probes incorporate a filter similar to and performs like the
+predicate APC Membrane Filter. Also like the predicates, the Filter Probes are provided
+sterile by ethylene oxide and are single use. Furthermore, the hose length of the APC
+Integrated Filter Probes is the same as the APC Connector Hose. Like the predicate
+APC Probes, the APC Integrated Filter Probes have an instrument recognition system.
+If attached directly into an ERBE Argon Plasma Coagulator Model APC 2 via an FIAPC
+receptacle, the Coagulator recognizes the Probe diameter size and automatically sets
+conservative default settings.
+
+The APC Integrated Filter Probe Adapter is basically the connectors of the APC
+Connector Hose. The connectors that attach to an ERBE Coagulator are the same as
+the connectors on the APC Connector Hose. The APC Integrated Filter Probe Adapter
+has the same type of materials (plastics and silicone), performance specifications,
+intended use, labeling, and packaging specifications as the predicate APC Connector
+Hose. Also like the predicate, it is provided non-sterile and is reusable.
+
+Differences
+
+The APC Integrated Filter Probes have a different connector end as well as
+incorporates a filter and length of hose (Note: Due to having the filter at the end of the
+Probes. the connector was modified. This was also done so that it only fits its
+designated Adapter.). The structural modifications of changing the connector end didn't
+
+I-3
+
+Ko 601 $% p
+hee
+510K SUMMARY “+ | 4 ()
+
+raise any safety or efficacy issues. The connector fits snugly on the designated Adapter
+(ie., the conduit to the ERBE Coagulator). Also no negative impact was found with the
+dimensional modification of including a filter and the hose in the Probes. The filter in the
+Probe is 0.45 um as compared to the stand alone APC Membrane Filter size being 0.2
+um. The larger pore size was found to be sufficient in keeping backflow fluid from
+reaching the Adapter or Coagulator. The slight materials changes (i.e., in plastics, the
+metal, and/or in glues) were found to be acceptable in producing a functionally reliable
+Probe. The instrument recognition system in the APC Integrated Filter Probes are
+chipped (EPROM) based as compared to the predicate APC Probes which are
+recognized via resistors. The chipped based recognition system is more specific and
+can provide more information. Finally; slightly different plastics, metals, and adhesives
+were used in the APC Integrated Filter Probes in comparison to the predicate APC
+Membrane Filter, Probes, and Connector Hose. The materials were found via validation
+testing and applied Recognized Standards to work well in the APC Integrated Filter
+Probes and the materials are biocompatible. See Section Ill, Biocompatibility and
+Summary of Design Control Activities.
+
+The APC Integrated Filter Probe Adapter is different that the APC Connector Hose in
+that it doesn’t have the hose portion and the connector to the Probe was modified so it
+only attaches to the APC Integrated Filter Probes. The dimensional modification of not
+having the hose portion and the structural modification to the end that connects to the
+APC Filter Probes do not raise any safety or efficacy concerns for the Adapter. The
+APC Integrated Filter Probe Adapter connects snugly to the Filter Probes. It was also
+found to function properly through validated testing and using Recognized Standards.
+The Adapter is also different that the predicate APC Connector Hose in that the Adapter
+has a resistor instrument recognition system. If the Adapter is used, it overrides specific
+probe recognition. However, no safety or efficacy issues are expected because the
+Adapter's resistor sets the lowest/most conservative default settings (i.e., gas flow and
+wattage) on an ERBE Coagulator. As a result for the Probe being used, the settings
+adjustments on the ERBE Coagulator would only be upward. Setting maximums for the
+gas flow rate and wattage are specified for each APC Probe in the Notes On Use (NOU)
+for the Probes. in the “How to Use” section of the NOU, the user is also directed to
+setting limitations and instructed not to exceed maximums for the APC Probe being
+used. If the gas flow rate limit is appreciably exceeded when using the Adapter and the
+smallest diameter APC Probe, then the Coagulator errors preventing activation. With
+the Adapter and the largest diameter APC Probe the maximum gas flow rate is limited:
+however, no problem with in the clinical environment is expected. Typically, desired
+settings are established during test firing of the Probe. Therefore, no problems in
+regards to not having specific probe recognition are expected. Biocompatibility testing
+was not necessary because the Adapter doesn’t come in contact with the patient.
+
+W-4
+
+ko6o 1%3 fogs 6 9©
+oS
+510K SUMMARY
+Note: Incorporating the filter in the Probes eliminates the need to reprocess the Adapter
+between cases as compared with the APC Connector Hose because backflow
+contamination can not reach the Adapter or Coagulator.
+All the changes have been verified or validated in design control.
+Conclusion:
+The APC Integrated Filter Probes and Adapter have the same intended use, principles
+of operation, and technological characteristics as the accessories in the previously
+cleared predicate devices. None of the changes/modifications were found to have a
+safety or efficacy affect on the APC Integrated Filter Probes and Adapter.
+Ii-5
+
+é 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+,, a
+, vot Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+FEB 16 2006
+‘ Mr. John Tartal
+Manager
+Quality Assurance and Regulatory Affairs
+ERBE USA, Inc.
+2225 Northwest Parkway
+Marietta, Georgia 30157
+Re: K060183
+Trade/Device Name: ERBE APC Integrated Filter Probes and Adapter
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: II
+Product Code: GEI
+Dated: January 23, 2006
+Received: January 25, 2006
+Dear Mr. Tartal:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA),
+it may be subject to such additional controls. Existing major regulations affecting your device
+can be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA
+may publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as sct
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 ~ Mr. Tartal
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your
+device to proceed to the market. :
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21 CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http:/Awww.fda.gov/cdrh/industry/support/index.html.
+ark N. Melkerson
+Acting Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Indications for Use
+510(k) Number (if known): K060183
+Device Name: ERBE APC Integrated Filter Probes and Adapter
+Indications for Use:
+Argon Plasma Coagulation (APC)
+Prescription Use X__ AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE
+OF NEEDED)
+Concurrence of CDRH. Offike of Devjee Evaluation (ODE) .
+vivision » gael Yo
+division of Ger val, Restorative,
+and Neurologic: Devices Page 1 of |
+pacdky Number
+

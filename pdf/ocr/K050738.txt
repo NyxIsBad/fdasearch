@@ -1,0 +1,184 @@
+JUN 2 - 2005
+
+510 (k) SUMMARY KOSOTLY
+
+This 510(k) summary of safety and effectivness is submitted in accordance with the
+requirements of SMDA 1990 and follows Office of Device Evaluation guidence
+concerning the organization and content of a 510(k) summary.
+
+FiberTech’s USA Fiber Optic Delivery System
+
+Submitter’s Name, Address, Telephone Number, Contact Person and Date Prepared
+Submitted by:
+
+FiberTech GmbH
+
+Nalepastrasse 171
+
+12459 Berlin
+
+Germany
+
+Phone: 480-892-4528
+
+Fax: 480-892-4538
+
+Contact Person: Armin Kaus, Ph.D.
+
+Date Prepared: March 8, 2005
+
+Name of Device and Name
+
+FT Fiber Optic Delivery Systems
+
+Common or Usual Name
+
+Nd: YAG Laser Fiber Optic Delivery System;
+
+Ho: YAG Laser Fiber Optic Delivery System;
+
+KTP Laser Fiber Optic Delivery System;
+
+Diode Laser Fiber Optic Delivery System
+
+Classification Name
+
+Accessory to laser Surgical Instruments, Class II] in accordance with 21 C.F.R.
+
+§ 878.4810.
+
+The product code for the devices are GEX.
+
+Predicate Devices
+Ceramoptec’s Fiber Optic Delivery Sytems incl. Handpieces (K923953, K943445, ‘
+K942182 and K951775),
+Coherent’s Fiber Optic Delivery System incl. Handpieces (K960413, K960032 and
+K991258)
+InnovaQuartz Fiber Optic Delivery System (K994010),
+Laser Peripherals Fiber Optic Delivery System (K92272, K011207 and K030959),
+Trymedyne Inc., Fiber Optic Delivery System (K973172) :
+Intend of Use
+The Laser peripherals bare laser fibers, ENT fibers and Endoprobes are intended for use
+in laser surgical procedure for cutting, coagulating, or vaporizing in any soft tissue
+application for which compatible Nd: YAG, Ho: YAG, KTP and Diode lasers have been
+cleared.
+Technological Characteristics and Substancial Equivalence
+Fiber Optic Delivery Systems and Handpieces are intended to vaporize, coagulate, incise
+and excise tissue and which are designed for any indication for which compatible laser
+systems have been cleared by FDA. Similarly, the predicate devices are also components
+of delivery systems designed to deliver laser radiation to a specified point.
+Second, FiberTech’s Fiber Optic Delivery System’s fiber optical Handpiece and Tip has
+a similar material composition as its predicate devices. Third, the Fiber Optic Delivery
+System is available in sizes between 200 micron and 1000 micron.Ceramoptec’s and
+Coherent Laser Delivery Systems is available also in sizes ranging from 200 micron to
+1000 micron.
+Fourth, the reusable and the disposable Fiber Optic Delivery Systems are available in the
+same tip shapes and handpiece configurations. Further, both the reusable and the
+disposable devices are prepackaged sterile and fit lasers which employ SMA 905
+connectors or lasers which have suitable adapters to allow SMA 905 connectors to be
+used.
+Finally, the reusable Fiber Optic Delivery System can be reused only once the optical
+fiber tip is properly cleaned, inspected, stripped and cleaved.
+In sum, there are more or less no differences between the reusalbe and disposable fiber
+optic systems whith their predicate devices. Although these differences are so extremly
+minor there are no new questions of safety and effectiveness raised by the indroduction of
+this devices.
+
+Performance Data
+
+All of the Fiber Optic Delivery Systems are CE marked in accordance with the Medical
+Device Directive 93/42/EEC Annex II, Article 3. (Registration No: HD 2111863 01,
+Report No: C 2113751 E 02) and are also certified under the requirements specified in
+EN ISO 13485:2003 (Registration No: SX 60008740 0001) and certified for Quality
+Management System according to EN ISO 9001:2000 (Registration No: SY 60008739
+0001)
+
+Signed:
+
+Armin Kaus, Ph.D.
+
+Official Correspondent
+
+é 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+% TT
+von Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+JUN 2 ~ 2005
+Armin Kaus, Ph.D.
+President/CEO
+FiberTech GMBH
+4111 E. Valley Auto Drive, Suite 104
+Mesa, Arizona 85206
+Re: K050738
+Trade/Device Name: FT Fiber Optic Delivery Systems
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and in
+dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: April 11,2005
+Received: April 18, 2005
+Dear Dr. Kaus:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class I] (Special Controls) or class III (PMA),
+it may be subject to such additional controls. Existing major regulations affecting your device
+can be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA
+may publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 891); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 2! CFR 1000-10590.
+
+Page 2 — Armin Kaus, Ph.D.
+This letter will allow you to begin marketing your device-as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your
+device to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+“Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www.fda.gov/cdrh/industry/support/index.htm!.
+
+Sincerely yours,
+
+rae C. Provost, Ph.D.
+Acting Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+Indications for Use
+510(k) Number: K050738
+Device Name: FT Fiber Optic Delivery Systems
+Indications For Use: The Laser peripherals bare laser fibers, ENT fibers and
+Endoprobes are intended for use in laser surgical procedure
+for cutting, coagulating, or vaporizing in any soft tissue
+application for which compatible Nd: YAG, Ho: YAG,
+KTP and Diode lasers have been cleared.
+Prescription Use J OR Over-The-Counter Use
+Please do not right below this line — continue on another page if needed
+ae eee eas eee eee OF another page U needed
+Concurrence of CDRH, Office SZ. (ODE)
+. TT ggg cece
+woe: Las 1 Restorative
+wa ele Cevata
+a kovo7sel
+

@@ -1,0 +1,190 @@
+. KOS22-74
+SEP 2 1 2005
+Guidant Corporation Guidant VasoView® HemoPro™ Endoscopic Vessel Harvesting System
+Special 5100)
+
+APPENDIX A: 510(K) SUMMARY
+
+Submitter Guidant Corporation, Cardiac Surgery
+
+Submitter’s 3200 Lakeside Drive
+
+Address Santa Clara, CA 95054
+
+Telephone (408) 845-2014
+
+Fax (408) 845-2077
+
+Contact Person M. Laurie Wong
+
+Date Prepared August 19, 2005
+
+Device Trade Guidant VasoView® HemoPro™ Endoscopic Vessel Harvesting System
+
+Name
+
+Device Electrosurgical cutting and coagulation device and accessories
+
+Common Name
+
+Device Electrosurgical cutting and coagulation device and accessories
+
+Classification
+
+Name
+
+Device Class
+
+Classification :
+
+Summary of The design, materials, method of delivery, and intended use features of the
+
+substantial Guidant VasoView® HemoPro™ Endoscopic Vessel Harvesting System are
+
+equivalence substantially equivalent with regard to those features in the predicate devices:
+the VV4 (K030512, May 14, 2003), and the VV6 (K041981, August 20, 2004).
+
+Device The Guidant VasoView® HemoPro™ Endoscopic Vessel Harvesting System is
+
+description designed for use in conjunction with the 7 mm Endoscope. The Harvesting
+Cannula has four lumens which house the Endoscope, C-Ring, distal lens washer
+tube and VasoView® HemoPro™ Harvesting Tool for cutting and sealing of
+vessel branches. The C-Ring/distal lens washer is independently controlled by a
+C-Ring Slider on the handle of the device that retracts the vessel and washes the
+distal tip of the Endoscope. The Harvesting Tool can be extended/retracted from
+the main cannula by inserting it into the Tool Adapter Port, and rotated
+independently. The Harvesting Tool has two curved Jaws. One Jaw contains the
+heating elements for branch cutting and sealing; the second Jaw is longer and has
+a serrated inner edge. Cutting and sealing of vessel branches is achieved in two
+steps: (1) capture of the branch between the Jaws of the Harvesting Tool and
+then (2) simultaneous coagulation and ligation of the branch with the Jaws using
+direct current. Both steps are achieved by mechanical application of the
+Activation Toggle. Positioning of the device, cutting, and sealing are performed
+under endoscopic visualization. This device is intended for specific use with the
+VasoView® HemoPro™ Power Supply.
+
+August 19, 2005 Page A-i
+
+Guidant Corporation * Guidant VasoView® HemoPro™ Endoscopic Vessel Harvesting System
+Special 510(k)
+Indications for | The VasoView® HemoPro™ System is indicated for use in minimally invasive
+Use surgery allowing access for vessel harvesting, and is primarily indicated for
+patients undergoing endoscopic surgery for arterial bypass. It is indicated for
+cutting tissue and controlling bleeding through coagulation, and for patients
+requiring blunt dissection of tissue including dissection of blood vessels,
+dissection of blood vessels of the extremities, dissection of ducts and other
+structures in the extraperitoneal or subcutaneous extremity and thoracic space.
+Extremity procedures include tissue dissection/vessel harvesting along the
+saphenous vein for use in coronary artery bypass grafting and peripheral artery
+bypass or radial artery for use in coronary artery bypass grafting. Thoracoscopic
+procedures include exposure and dissection of structures external to the parietal
+pleura, including nerves, blood vessels and other tissues of the chest wall.
+Technological The Guidant VasoView® HemoPro™ Endoscopic Vessel Harvesting System
+characteristics incorporates the same fundamental scientific technology as the predicate devices.
+Performance The results of the verification testing demonstrate that the Guidant VasoView®
+data HemoPro™ Endoscopic Vessel Harvesting System meet the established
+acceptance criteria and performs in a manner equivalent to the predicate devices.
+No new safety or effectiveness issues were raised during the testing program.
+August 19, 2005 Page A-2
+
+\
+é 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Food and Drug Administration
+SEP 2 1 2005 9200 Corporate Boulevard
+Rockville MD 20850
+Ms. M. Laurie Wong
+Principal Regulatory Affairs Associate
+Guidant Corporation
+Cardiac Surgery
+3200 Lakeside Drive
+Santa Clara, California 95054
+Re: K052274
+Trade/Device Name: Guidant Vaso View® HemoPro™ Endoscopic
+Vessel Harvesting System
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: i
+Product Code: GEI
+Dated: August 19, 2005
+Received: August 22, 2005
+Dear Ms. Wong:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class If] (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2- Ms. M. Laurie Wong
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www.fda.gov/edrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Acting Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+Indications for Use
+
+510(k) Number (if known): K052274
+Device Name:_VasoView® HemoPro™ Endoscopic Vessel Harvesting System
+Indications For Use:
+The VasoView® HemoPro™ System is indicated for use in minimally invasive surgery
+allowing access for vessel harvesting, and is primarily indicated for patients undergoing
+endoscopic surgery for arterial bypass. It is indicated for cutting tissue and controlling
+bleeding through coagulation, and for patients requiring blunt dissection of tissue
+including dissection of blood vessels, dissection of blood vessels of the extremities,
+dissection of ducts and other structures in the extraperitoneal or subcutaneous
+extremity and thoracic space. Extremity procedures include tissue dissection/vessel
+harvesting along the saphenous vein for use in coronary artery bypass grafting and
+peripheral artery bypass or radial artery for use in coronary artery bypass grafting.
+Thoracoscopic procedures include exposure and dissection of structures external to the
+parietal pleura, including nerves, blood vessels and other tissues of the chest wall.
+
+Prescription Use __ x AND/OR Over-The-Counter Use
+
+(Part 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)
+
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+a
+
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+
+ivision Sign-Off)
+Division of General, Restorative,
+ar? Neurological Devices Page 1of_f
+Siva) Number_[X 0S 22
+

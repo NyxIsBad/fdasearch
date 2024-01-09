@@ -1,0 +1,165 @@
+Sciton Inc, Image Hair Removal Laser
+Pre-Market Notification
+NOV 05 2001
+510K Summary Statement for the
+Sciton Inc Image Hair Removal Laser
+kKOlasys Q
+en
+1. General Information
+Submitter: Sciton Inc
+845 Commercial Street
+Palo Alto, CA 94303
+Contact Person Peter Ailen
+Summary Preparation Date August 7, 2001
+2. Names
+Device Names Image, Image Hair Removal Laser
+and Image Long Pulse Nd:YAG
+Primary Classification Names: Laser Powered Surgical Instrument
+for use in General, Plastic Surgery
+and Dermatoigy in accordance with
+21CFR 878-4810.79-GEX
+3. Predicated Devices
+The product specifications, functionality, indications for use, and
+treatment parameters of the Sciton Inc Hair Removal Laser are the same
+or very similar to the following legally market lasers: :
+Altus Medical, Nd:YAG Aesthetic Laser
+Laserscope, Long Pulse Nd:YAG
+510K Image Hair Removal Laser
+Sciton Inc
+Section K-1 (Rev A 8-7-01)
+
+Sciton Inc, Image Hair Removal Laser
+Pre-Market Notification
+4. Product Description
+The Sciton Inc, Hair Removal Laser is a long pulsed, solid state infrared
+laser. It is intended to deliver laser energy for use in surgical and
+aesthetic applications requiring the of Removal of Hair folicles. The Hair
+Removal Laser produces a beam of infrared light at a wavelength of
+1064nm. The system consists of:
+A laser console
+Internal computer
+Control panel and display
+Articulated Arm
+Footswitch with optional handswitch
+Scanner and Handpieces with cooling capability
+5. Indications for Use
+The Sciton, Inc. Image Hair Removal Laser is intended for use in surgical
+and aesthetic applications requiring selective photothermolysis of target
+chromophores in soft tissue in general and plastic surgery and
+dermatology. In addition it is intended to effect stable long term, or
+permanent hair reduction through selective targeting of melanin in hair
+follicles (where permanent hair reduction is defined as a long term stable
+reduction in the number of hairs growing after a treatment regimen)
+6. Rationale for Substantial Equivalence
+The Sciton Inc Hair Removal Laser shares the same indications for use,
+similar design features (including wavelength, active medium, cooling
+system and controls), similar functional features (including pulse duration
+and fluence), and similar treatment parameters of other marketed long
+pulse Nd:YAG laser systems (as opposed to Q-switched lasers). Therfore
+the Sciton Inc Hair Removal Laser is substantially equivalent to the Altus
+Medical Laser Nd:YAG Aesthetic Laser , Laserscope
+510K Image Hair Removal Laser
+Sciton Inc
+Section K-2. (Rev A 8-7-01)
+
+VIC,
+if DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+& I I PT ae
+“oe . Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+
+Mr. Peter Allen NOV 05 2001
+Director, Regulatory Affairs
+Sciton, Inc.
+845 Commercial Street
+Palo Alto, California 94303
+Re: K012552
+
+Trade/Device Name: Sciton Image Hair Removal System
+
+Regulation Number: 878.4810
+
+Regulation Name: Laser surgical instrument for use in general and
+
+plastic surgery and in dermatology
+
+Regulatory Class: II
+
+Product Code: GEX
+
+Dated: August 7, 2001
+
+Received: August 8, 2001
+Dear Mr. Allen:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other F ederal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation contro! provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. Peter Allen
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 21 CFR Part 809.10 for in vitro diagnostic devices), please contact the Office of
+Compliance at (301) 594-4659. Additionally, for questions on the promotion and advertising of
+your device, please contact the Office of Compliance at (301) 594-4639. Also, please note the
+regulation entitled, "Misbranding by reference to premarket notification” (21CFR Part 807.97).
+Other general information on your responsibilities under the Act may be obtained from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 443-6597 or at its Internet address
+http://www. fda.gov/cdrh/dsma/dsmamain.html
+Sincerely yours,
+S cso WD alk. t AA
+Celia M. Witten, Ph.D., M.D.
+0. Director
+: Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+05 2001 0 545
+NOV FDA Submission Cover Sheet | 2 A
+510(K) Number (if known): kK 0 \ 2 5 C a
+Device Name: Sciton Image Hair Removal Laser
+Indications for Use:
+The Sciton, Inc. Image Hair Removal Laser is intended for use in surgical and
+aesthetic applications _ requiring selective photothermolysis of target
+chromophores in soft tissue in general and plastic surgery and dermatology. In /
+addition it is intended to effect stable long term, or permanent hair reduction :
+through selective targeting of melanin in hair follicles (where permanent hair ” :
+reduction is defined as a long term stable reduction in the number of hairs ~~ :
+growing after a treatment regimen) .
+(PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use “A OR Over The Counter Use
+(Per 21CFR 801)
+a
+(Division Sign-Off) .
+Division of General, Restorative
+and Neurological Devices
+‘101 255 2510(k) Number _ kor2ss*
+Section A-1 (Rev A 8-7-01)
+

@@ -1,0 +1,258 @@
+510(K) SUMMARY OF SAFETY AND EFFECTIVENESS
+SEB 9 2006-—<$a en A_—L
+Koy 174
+2.0 510(K) SUMMARY OF SAFETY AND EFFECTIVENESS
+————
+This 510(k) summary of safety and effectiveness information is being submitted in
+accordance with the requirements of SMDA 1990 and 21 CFR 807.92.
+APPLICANT OptiMedica Corporation
+TRADE NAME: PASCAL Synthesis” Delivery System
+COMMON NAME: _ Scanning Photocoagulator Delivery System
+DEVICE GEX
+CLASSIFICATION —=.21 CFR 878.4810
+Laser instrument, surgical, powered
+2.1 SUBSTANTIALLY EQUIVALENT
+The PASCAL Synthesis Delivery System is substantially equivalent in intended use and
+has the same technological characteristics as the delivery system incorporated into
+PASCAL Photocoagulator (K043486). The PASCAL Synthesis Delivery System is also
+substantially equivalent to the Infinitech Multi-Spot Slit Lamp Laser Adapter (K971950)
+by Infinitech, Inc. in functionality and technology in that when this device is connected to
+another laser, it enables the user to perform multi-spot laser photocoagulation.
+2.2 DESCRIPTION OF THE DEVICE SUBJECT TO PREMARKET NOTIFICATION
+The PASCAL Synthesis Delivery System is a scanning laser delivery system that enables
+the use of proprietary pattern scanning technology of the PASCAL multi-spot
+photocoagulator (a predicate device) with other commercially available laser platforms.
+This offers existing commercially available laser platforms the ability to deliver a full
+spectrum of pattern scanning options. The PASCAL Synthesis Delivery System is
+intended for use by trained ophthalmologists for diagnosis and treatment of ocular
+pathology.
+The PASCAL Synthesis Delivery System consists of the following system components:
+
+1) Scanning laser delivery system integrated into an Optimedica slit lamp with
+LCD/Touchscreen GUI that can be positioned by the user for optimal access
+and viewing.
+
+2) Scanner control module with scanner controls, power supply, electronics,
+optical fiber & electrical connections integrated into a slit lamp table.
+
+tS
+§10(K) PREMARKET NOTIFICATION OPTIMEDICA CORPORATION
+
+510(K) SUMMARY OF SAFETY AND EFFECTIVENESS
+qq — eee
+The PASCAL Synthesis Delivery System is compatible with the following commercially
+available laser systems:
+
+e Alcon Ophthalas 532 Eyelite Laser Photocoagulator
+e Zeiss Visulas 532s
+
+2.3. INDICATION FOR USE
+The PASCAL Synthesis Delivery System is a stand alone scanning delivery
+system that, when connected to compatible commercially available laser
+photocoagulators, allows fully functional scanning Photocoagulation.
+When connected to a compatible laser system, the PASCAL Synthesis Delivery
+System is indicated for use in the treatment of ocular pathology in both the
+posterior and anterior segments, retinal photocoagulation, pan retinal
+photocoagulation, focal photocoagulation and grid photocoagulation for vascular
+and structural abnormalities of the retina and choroid including:
+
+* Proliferative and nonproliferative diabetic retinopathy
+
+e Macular edema
+
+e Choroidal neovascularization
+
+e Branch and central retinal vein occlusion
+
+e Age-related macular degeneration
+
+e Lattice degeneration
+
+e Retinal tears and detachments
+
+e Iridotomy, iridectomy and trabeculoplasty in angle closure and open angle :
+
+glaucoma.
+
+2.4 CONTRAINDICATIONS
+Laser surgery is contraindicated when an appropriate procedure cannot be performed
+safely. This occurs when tissue targets cannot be visualized properly. Under such
+circumstances, an important tissue structure adjacent to a target tissue might be
+photocoagulated inadvertently. Corneal opacities, cataract formation, and vitreous
+hemorrhage can all interfere with the laser surgeon’s view of appropriate target
+structures. Treatment should be delayed until visualization has adequately improved.
+2.5 TECHNICAL CHARACTERISTICS
+All user parameters and technological characteristics of the PASCAL Synthesis Delivery
+System are consistent with those of the predicate device, the OptiMedica PASCAL
+Photocoagulator. Specifically, the PASCAL Synthesis Delivery System is the same
+delivery system as the delivery system in the cleared PASCAL Photocoagulator
+(K043486). Both delivery systems utilize a scanner to enable faster retinal
+photocoagulation. Both devices may operate in an equivalent Single Spot Mode as well
+as in a Pattern Mode, where the aim beam is rapidly scanned allowing the physician to
+visualize a user-selected pattern of spots at the appropriate location for treatment. Similar
+to the second predicate device, the Infinitech Multi-Spot laser adapter, the PASCAL
+i
+510(K) PREMARKET NOTIFICATION OPTIMEDICA CORPORATION
+PASCAT. SYNTHESIS DELIVERY SVSTEM Valume € Pace 4
+
+510(K) SUMMARY OF SAFETY AND EFFECTIVENESS
+Synthesis Delivery System is a stand alone unit that can perform multiple spot
+photocoagulation when connected to a compatible external laser system. Both the
+PASCAL Synthesis Delivery System and the Infinitech Multi-Spot laser adapter deliver
+laser power from the separate 532nm laser system they are connected to. Once activated
+by the user, the PASCAL Synthesis Delivery System delivers a predetermined pattern by
+sequentially scanning the placement of the laser spots and controlling the emission of the
+individual pulses of laser light. Likewise, treatment may be aborted by releasing the
+footswitch.
+The PASCAL Synthesis Delivery System has been tested and found to be compatible
+with the Zeiss Visulas 532s (K013402) and the Alcon Ophthalas 532 Eyelite Laser
+Photocoagulator (K962592) laser systems. At this time, no other systems have been
+tested for use with the PASCAL Synthesis Delivery System.
+2.6 PERFORMANCE DATA
+System performance verification testing was completed to verify that measured system
+performance complies with specifications and requirements. This was accomplished by
+connecting the PASCAL Synthesis Delivery System to the Zeiss Visulas 532s and the
+Alcon Ophthalas 532 Eyelite Laser Photocoagulator laser systems and performing
+functionality testing to verify that measured system performance complies with defined
+system specifications and performance requirements. This testing and evaluation was
+performed at OptiMedica’s facility in Santa Clara CA and at outside test facilities as
+required.
+Extensive system level testing was also completed, including system and software
+verification & validation testing, system life testing, system environmental & shipping
+testing, EMC/EMI and Electrical safety compliance testing along with system
+performance testing. System performance testing included evaluation of power
+delivered, pulse widths, scan patterns, spot size & beam uniformity. All test results
+demonstrated that performance of the PASCAL Synthesis Delivery System, when
+connected to these two commercially-available laser systems, was equivalent to the
+performance of the PASCAL Photocoagulator that incorporates the same delivery
+system. Verification testing conducted on the PASCAL Synthesis Delivery System also
+demonstrated compliance with system performance requirements and specifications; this
+testing further confirmed that this device consistently and accurately produces laser
+outputs that are equivalent to those produced by the PASCAL Photocoagulator predicate
+device.
+2.7. BASIS FOR DETERMINATION OF SUBSTANTIAL EQUIVALENCE
+The indications for use for the PASCAL Synthesis Delivery System are the same as those
+cleared for the predicate device, the PASCAL Photocoagulator (K043486). The
+materials used for the manufacture of the PASCAL Synthesis Delivery System and the
+delivery system of the predicate device, the PASCAL Photocoagulator, are also the same.
+Testing of the PASCAL Synthesis Delivery System has demonstrated that it is
+functionally equivalent to the predicate device.
+510(K) PREMARKET NOTIFICATION OPTIMEDICA CORPORATION
+BAGCCAT Guareurere Tie nero Guerona ValumalT Pace &
+
+2 ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+“ran Food and Drug Administration
+SEP 09 2008 Rockville MD 20850
+
+OptiMedica Corporation
+% ClinReg Consulting Services, Inc.
+Judy F. Gordon, D.V.M.
+733 Bolsana Drive
+Laguna Beach, California 92651 ‘
+Re: K081744
+
+Trade/Device Name: PASCAL Synthesis™ Delivery System
+
+Regulation Number: 21 CFR 878.4810
+
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and in
+
+dermatology
+
+Regulatory Class: 11
+
+Product Code: GEX
+
+Dated: June 18, 2008
+
+Received: June 19, 2008
+Dear Dr. Gordon: .
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class Il (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050. /
+
+Page 2 — Judy F. Gordon, D.V.M.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, “Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474. For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda. gov/cdrh/industry/support/index.html, :
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Director .
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+510(k) Number (ifknown): KO ¥ [7 4Y
+Device Name: PASCAL Synthesis” Delivery System
+Indications for Use:
+The PASCAL Synthesis Delivery System is a stand alone scanning delivery
+system that, when connected to compatible commercially available laser
+photocoagulators, allows fully functional scanning photocoagulation.
+When connected to a compatible laser system, the PASCAL Synthesis
+Delivery System is indicated for use in the treatment of ocular pathology in
+both the posterior and anterior segments, retinal photocoagulation, pan retinal
+photocoagulation, focal photocoagulation and grid photocoagulation for
+vascular and structural abnormalities of the retina and choroid including:
+* Proliferative and nonproliferative diabetic retinopathy
+e Macular edema ‘
+e Choroidal neovascularization
+. e Branch and central retinal vein occlusion
+e Age-related macular degeneration
+« Lattice degeneration
+e Retinal tears and detachments
+: © Iridotomy, iridectomy and trabeculoplasty in angle closure and open
+angle glaucoma.
+Prescription Use x AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW 19 INE-CONTINUE ON ANOTHER PAGE
+OF NEEDED) _
+Divison Senco nme
+Concurrence of CDRH, Office % > reves Evaluation (OD IE) .
+Sion of General, Restorative, Page _1_ of 1
+and Neurological Devices
+r
+| Moslon4
+510(k) Number.
+Pp
+510(K) PREMARKET NOTIFICATION OPTIMEDICA CORPORATION
+PASCAL SYNTHESIS DELIVERY SVSTEM Valine T Pace ?
+

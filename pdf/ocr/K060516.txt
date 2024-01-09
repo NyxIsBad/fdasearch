@@ -1,0 +1,244 @@
+MAY 1 5220060 K o6osié
+510(k) SUMMARY
+Danish Dermatologic Development A/S (DDD)
+Ellipse PPL dermatologic IPL system.
+This 510(k) summary is submitted in accordance with the requirements of 21 CFR Part
+807.87(h) and Part 807.92.
+A. Contact information and device identification:
+Date of the summary: 1 February 2006
+Submitted by/manufacturer: Danish Dermatologic Development A/S
+Agern Alle 11
+; 2970 Hoersholm, Denmark
+Tel: + 45 4576 8808
+Fax: + 45 4517 6851
+Contact person: Ole Kofod
+Device Trade Name: Ellipse PPL.
+Device Model number: 9ESL7228-B02.
+Common Name: Intense Pulsed Light (IPL) system.
+Classification name: Laser surgical instrument for use in general and plastic surgery and in
+dermatology (per 21 CFR Part 878.4810).
+Device classification: Class II.
+Product code: GEX
+Predicate devices legally Ellipse P PL (K043255) manufactured by Danish Dermatologic
+marketed to which DDD Development A/S, Agern Alle 11, DK-2970 Hoersholm, Denmark.
+claims equivalence: (Laser surgical instrument for use in general and plastic surgery and
+in dermatology (per 21 CFR Part 878.4810)).
+Ellipse Flex PPT (K052688) manufactured by Danish Dermatologic
+Development A/S, Agern Alle 11, DK-2970 Hoersholm, Denmark.
+(Laser surgical instrument for use in general and plastic surgery and
+in dermatology (per 21 CFR Part 878.4810)).
+HAI WORD DOCUMENTS(95 ELLIPSE SUPER LIGHTW0 12PL CHANGE 20Q05\FDA'S 1K) SUMMARY 12PL.- BO2.D0C
+Ole Kofod 31-01-2006 10:35:40 Page | of 3
+
+B. Description of Ellipse CPL:
+
+Ellipse PPL is an Intense Pulsed Light (IPL) system used for long-term removal of unwanted
+hair and for treatment of sun-damaged skin, including uneven pigmentation, age spots, large
+pores, diffuse redness, and for the treatment of telangiectasias, port wine stains and
+inflammatory acne in the area of dermatology.
+
+The system consists of a console containing power unit and control electronics with control
+and display panel including software.
+
+Applicators/hand-pieces are connected to the system in order to generate light energy for
+treatment in the waveband 400 nm — 950 nm.
+
+C. Intended Use of Ellipse PPL:
+
+Ellipse [’PL is intended for use in dermatology:
+
+e Hair removal (permanent hair reduction).
+
+e Treatment of benign pigmented lesions (including, but not limited to solar
+lentigines, ephilides, mottled pigmentation) and benign vascular lesions
+(including but not limited to diffuse redness, telangiectasias, port wine stains).
+
+¢ Treatment of inflammatory acne.
+
+The Indications for Use for Ellipse PL are:
+
+[1 [273 [4 Ts 16 |
+
+Hair Removal
+
+HR Applicator . A .
+
+HR-S Applicator Hair (Thin, Normal, Thick) ViviviviY
+
+Hair Removal
+
+HR-D Applicator Hair (Thin, Normal, Thick) Viviviviv ly
+
+Treatment of Benign Pigmented Lesions
+
+and Benign Vascular Lesions Pigmentation v|v\i|viv
+Fam onrtniememnn ||| [7] [|
+Color et ie) i iedet]s [9 |
+Siecle Cala)
+a FA CACC]
+LKey: ¥ Allowed; QNot Allowed 0
+
+HAL WORD DOCUMENTS5 ELLIPSE SUPER LIGHTW0 I2PL CHANGE 2005\FDA\S |0(K) SUMMARY L2PL - B02.DOC
+
+/ Ole Kofod 31-01-2006 10:35:40 Page 2 of 3
+
+D. Comparison of Ellipse I’PL to predicate devices:
+|__| Ellipse PL (B02) [Ellipse Flex PPT | Ellipse PPL (A01) |
+
+Technology/ Intense Pulsed Light | Intense Pulsed Light | Intense Pulsed Light
+
+Operation/ (IPL)/broad spectrum | (IPL)/broad spectrum | (IPL)/broad spectrum
+
+Device light/touch screen light/touch screen light/touch screen
+
+operation. operation.
+
+Intended Use Hair removal and the | Hair removal and the | Hair removal and the
+treatment of benign treatment of benign treatment of benign
+pigmented and pigmented and pigmented and
+vascular lesions; vascular lesions; vascular lesions;
+Treatment of Treatment of
+
+i a a
+
+Energy spectrum
+
+Energy ouput/ 0-26 J/cm 0-26 J/em’ 0-26 Jem
+
+setting
+
+Applicator/hand- | 10x 48 mm 10 x 48 mm 10x 48 mm
+
+pegaae | OTEeT [em [exon
+
+Charge time/ 1.5-2.0s 1.5-2.0 5 1,5-2.0s
+
+fqeinme [8208 [sas
+
+Cooling method | Cooling handpiece by | Cooling handpiece by | Cooling handpiece by
+
+— [Ceienstet [Sutnywtar | raging” | cougteente™
+
+Device Il; 21 CFR 878.4810, | II; 21 CFR 878.4810, | If; 21 CFR 878.4810,
+
+Conclusion:
+
+The Ellipse ’PL (B02) has been evaluated and compared to its predicate systems (to Ellipse
+PPL (A01) (manufactured by DDD), and Ellipse Flex PPT (manufactured by DDD)). The
+Ellipse PPL (B02) system, as far as the identical modules, applications and intended uses are
+concerned, are identical to Ellipse ’PL (A01) and identical and substantially equivalent to the
+Ellipse Flex PPT with regards to technology as well as modules, applications and intended
+uses.
+
+Based on this analysis of the overall performance characteristics of the mentioned predicate
+devices Danish Dermatologic Development A/S (DDD) concludes that no significant
+differences exist. The applications added to the original Ellipse PPL system does not raise
+new issues of safety and effectiveness and is substantially equivalent to the mentioned
+predicate devices.
+
+HAL WORD DOCUMENTS'95 ELLIPSE SUPER LIGHTIOO LPL (CHANGE 2005\FDAIS10(K) SUMMARY I2PL - B02.D0C
+Ole Kofod 31-01-2006 10:35:40 Page 3 of 3
+
+ees
+| if Kd DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+7 $$
+sot Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+MAY 15 2008
+Danish Dermatologic Development A/S
+c/o Mr. Ole Kofod
+QA/RA Manager
+Agern Alle 11
+2970 Hoersholm, Denmark
+: Re: K060516
+Trade/Device Name: Ellipse PPL
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery
+and in dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: February 1, 2006
+Received: February 27, 2006
+Dear Mr. Kofod:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+| You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+: devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class IT (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+. CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+Page 2 — Mr. Ole Kofod
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www. fda.gov/cdrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+fe. Mark N. Melkerson
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+: Radiological Health
+
+Enclosure
+
+‘ Indications for Use
+510(k) number: K060516
+Device Name: Ellipse PPL
+Indications for Use:
+! The Intended Use for Ellipse IPL is:
+Ellipse PPL is intended for use in dermatology:
+| e Hair removal (permanent hair reduction).
+¢ Treatment of benign pigmented lesions (including, but not limited to solar
+lentigines, ephilides, mottled pigmentation) and benign vascular lesions
+: {including but not limited to diffuse redness, telangiectasias, port wine stains).
+“ e Treatment of inflammatory acne.
+: The Indications for Use for Ellipse PPL are:
+(1 [2 [3 [415 Je |
+Hair Removal
+BR Applicator Hair (Thin, Normal, Thick) vivivivilv]9s
+HR-S Applicator
+! Pe terdauar _ Hac cin Noma
+, Cineleaaae [Pinions [|| [Tole
+: and Benign Vascular Lesions Pigmentation / Vessel Size Yi sts
+veoemtrmmemwmman| “[v[7[“[e]e]
+cameaunn) — |v[“| [7 oo)
+Fetetianseremetiai [Pamir ||| [eT
+! Feeatitommon see | dele oo
+.
+wr Prescription Use__X__ AND/OR Over-The-Counter Use.
+(Part 21CFR 801 Subpart D) (21 CFR 801 Subpart C)
+4
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+510(k) Number_2605'¢
+

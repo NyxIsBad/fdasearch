@@ -1,0 +1,177 @@
+Ko 64 307 JUL 18 2005
+510(k) SUMMARY (per CFR21 807.92(c))
+GENERAL INFORMATION: ) ; 4 @)
+510k Owner’s Name Aaron Medical |
+Address 7100 30" Avenue North
+St. Petersburg, Florida 33710-2902 ‘
+Contact Person Richard A. Kozloff
+Vice-President; Quality Assurance/Regulatory Affairs
+Telephone #: (727) 384-2323
+FAX Number: (727) 347-9144
+Date Prepared: May 8, 2006
+DEVICE DESCRIPTION:
+Trade Name: Bovie ina Flash™ Suture Remover
+Common Name: Suture Removal Device
+Classification Name: Electrosurgical Cutting and Coagulation Devices and
+Accessories (21CFR 878.4400; Class II; Product Code
+GED
+Thermal cautery Unit (21CFR 886.4115; Class II;
+Product Code HQP) ,
+Suture Removal Kit
+(Unclassified; Product Code MCZ)
+Gauze/Sponge, Nonresorbable for External Use
+(21CFR 878.4014; Class I; Product Code NAB)
+Manual Surgical Instrument for Manual Use (Forcep)
+(21CFR 878.4800; Class I; Product Code HTD)
+Surgical Instrument Motors and Accessories
+/Attachments (Battery Replacement/ Rechargeable)
+(21CFR 878.4820; Class I; Product Code MOQ)
+5-2 ,
+
+ko61 307
+510(k) SUMMARY (per CFR21 807.92(c))
+toa 221 gq@Q®
+
+DEVICE DESCRIPTION:
+
+Predicate Devices:
+
+Suncoast Medical Manufacturing Replace-a-Tip Cautery K840434
+
+Pyro Tip K841591
+
+Modern Medical Battery Powered Cautery K023506
+
+Busse Hospital Disposables Suture Removal Kit Pre-Amendment
+Powertron Medical Devices Battery Pack Exempt
+
+Medline Industries Gauze Exempt
+
+Medline Industries Forceps Exempt
+
+INTENDED USE:
+
+The Bovie inaFlash™ Suture Remover is used to perform suture removal procedures in health
+care facilities and veterinary offices. The suture removal procedures include those in which the
+sutures are located externally on the surface of the skin.
+
+DEVICE COMPONENTS AND OPERATION:
+
+The Suture Remover consists of a rechargeable power handle, charging stand, and a sterile,
+single-use kit distributed in a multipack. The single-use kit includes three components, two of
+which are Class I devices (forceps and gauze) commonly used in predicate suture removal kits.
+The forceps and gauze components are substantially equivalent to those included in other Class I,
+Premarket notification-exempt devices. The single-use tip component is included in the sterile kit.
+After the handle is charged, the tip is attached to the power handle. The bottom of the tip is
+placed flat against the sutured skin surface so that the tip filament only touches the suture. The
+button is pressed, delivering heat to the filament for about 0.5 second prior to deactivating. This
+process is completed for all sutures, after which the suture threads are easily removed using the
+supplied forceps. Using a heated filament to cut the suture provides an advantage over the use of
+scissors to cut the suture because pulling of the suture prior to the cut is minimized.
+
+The suture removal handle and cutting tip use technology substantially equivalent to the Suncoast
+Medical Replace-A-Tip Cautery (K840434), the Suncoast Medical Pyro Tip (K841591), and the
+Modern Medical Battery Powered Cautery (K023506). Replaceable tips for all devices are singleuse and are activated after pushing a button on the handle. Whereas the predicate devices use
+replaceable alkaline batteries, the Bovie Suture Cutter handle utilizes a rechargeable battery pack.
+The Modem Medical Battery Powered Cautery_(K023506) was also found substantially _
+equivalent for the use of sculpting (cutting and shaping to fit) woven grafts. These grafts are
+constructed of polyethylene matérials similar to those of suture material.
+Electromagnetic Compatibility testing in accordance with EN 60601-1-2 was successfully
+performed. Hazard analysis evaluations were also performed for the Suture Remover. There are
+no new hazards presented with the use of the Suture Cutter as compared with predicate devices.
+
+5-3
+
+é Le DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+vet Food and Drug Administration
+9200 Corporate Boulevard
+JUL 18 2006 Rockville MD 20850
+
+Aaron Medical
+% Mr. Richard Kozloff
+Vice President, QA/RA
+7100 30" Avenue North
+St. Petersburg, Florida 33710-2902
+Re: K061307
+
+Trade/Device Name: Bovie Suture Remover
+
+Regulatory Number: 21 CFR 878.4400
+
+Regulatory Name: Electrosurgical cutting and coagulation device and accessories
+
+Regulatory Class: II
+
+Product Code: GET
+
+Dated: May 8, 2006
+
+Received: May 12, 2006
+Dear Mr. Kozloff
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class Il (Special Controls) or class II] (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. Richard Kozloff
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www. fda.gov/cdrh/industry/support/index.html.
+Sincerely yours,
+i : ;
+Miser [ Aueliud
+tr
+Mark N. Melkerson
+Director
+Division of General, Restorative
+and Neurological Devices
+: Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+Indications for Use
+510(k) Number (if known): Kko061307
+Device Name: Bovie Suture Remover
+Indications for Use:
+The Bovie Suture Remover is used to perform suture removal procedures in health care facilities
+and veterinary offices. The suture removal procedures include those in which the sutures are located
+externally on the surface of the skin.
+Prescription Use _ ¥_ AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE
+IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+fo,
+- willie J)ueltout). ive |
+(Division Sign-Off)
+Divisi :
+iviston of General, Restorative,
+and Neurological Devices
+. 510(k) Number_ KO / SC 7
+4-2
+

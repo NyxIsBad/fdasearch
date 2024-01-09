@@ -1,0 +1,187 @@
+j c
+K 06 2048
+Section 5 — 510(k) Summary orSt0Qc-Siatement
+I. General Information 5
+EP .
+Submitter: Aesthera Corporation 3 2006
+6634 Owens Drive
+Pleasanton, CA 94588
+USA
+Contact Person: Robert Anderson
+Chief Technical Officer
+Summary Preparation Date: July 18, 2006
+I, Names
+Device Names: Aesthera Photopneumatic™ (PPx™) System
+Primary Classification Names: Accessory for, Laser Powered Surgical Instruments
+III. Predicate Devices
+¢ Aesthera AIP Intense Pulsed Light System (K041554);
+¢ Radiancy Acne System with ClearTouch Light Unit Assembly (K051268);
+* Radiancy Skin Station with Modified Light Unit Assembly for Psoriasis System
+(K052442);
+¢ Radiancy ClearTouch Lite Acne Clearance System (K06041 1);
+¢ Palomar LuxV Pulsed Light Handpiece for StarLux Systems (K040081);
+« Palomar StarLux Pulsed Light System (K041086);
+¢ Novalis Clareon & Solarus Pulsed Light Systems w/ AR Handpiece (K043319)
+IV. Product Description
+The Aesthera Photopneumatic™ (PPx™) System is comprised of the following main
+components:
+« Main console
+e PPx™ Treatment Handpiece
+¢ Optional coolant accessory — cryogenic, water, or air spray for cooling the handpiece
+tip; and
+¢ Treatment Footswitch.
+The Aesthera Photopneumatic™ (PPx™) System (with treatment handpiece) is a portable
+tabletop system used to deliver intense pulsed light to the patient treatment site via a
+delivery handpiece utilizing Photopneumatic technology. Intense pulsed light is emitted
+through the IntelliTip™ only when the tip is sealed against the selected patient treatment
+site. All emitted light is contained within the IntelliTip™ during treatment. The
+handpiece is uniquely designed to promote increased ergonomics with all user interface
+and controls located on the handpiece.
+Premarket Notification, 510(k) Submission for: Section 5: 510(k) Summary — Page 5-1
+Aesthera Photopneumatic™ (PPx™) System
+
+V. Indications for Use
+The Aesthera Photopneumatic™ (PPx™) System is intended for:
+¢ The treatment of benign vascular and pigmented lesions:
+e Permanent hair reduction;
+e The treatment of mild to moderate acne, including pustular acne, comedonal acne,
+
+and mild to moderate inflammatory acne (acne vulgaris).
+
+The Aesthera Photopneumatic™ (PPx™) System is intended for use on all skin types
+(Fitzpatrick skin types I-VI).
+
+VI. _—_ Rationale for Substantial Equivalence
+The Aesthera Photopneumatic™ (PPx™) System shares the same or similar indications
+for use, device operation, overall technical and functional capabilities, and therefore is
+substantially equivalent to the predicate devices.
+
+VII. Safety and Effectiveness Information
+The review of the indications for use and technical characteristics and the published
+medical literature provided demonstrates that the Aesthera Photopneumatic™ (PPx™)
+System is substantially equivalent to the predicate devices. Clinical data demonstrating
+the safety and effectiveness of the Aesthera Photopneumatic™ (PPx™) System for the
+treatment of mild to severe acne, including pustular acne, comedonal acne, and mild to
+moderate inflammatory acne (acne vulgaris) was provided.
+
+VIII. Conclusion
+The Aesthera Photopneumatic™ (PPx™) System was found to be substantially equivalent
+to the predicate devices.
+The Aesthera Photopneumatic™ (PPx™) System shares the same or similar indications
+for use, similar design features, and functional features with, and thus is substantially
+equivalent to, the predicate devices.
+
+Premarket Notification, 510(k) Submission for: SectionS: 510(k) Summary — Page 5-2
+
+Aesthera Photopneumatic™ (PPx™) System Page revised September 6, 2006
+
+| é SC DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+vat Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+SEP -7 2006
+
+Aesthera Corporation
+% AL Voss Associates
+Ms. Anne Worden
+Regulatory Consultant .
+3637 Bernal Avenue
+Pleasanton, California 94566
+Re: K062048
+
+Trade/Device Name: Aesthera Photopneumatic™ (PPx™") System
+
+Regulation Number: 21 CFR 878.4810
+
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and
+
+in dermatology
+
+Regulatory Class: II
+
+Product Code: GEX
+
+Dated: July 18, 2006
+
+Received: July 20, 2006
+Dear Ms. Worden:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+
+. adulteration.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+Page 2 — Ms. Anne Worden
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market. .
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+“Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http:/Awww.fda.gov/cdrh/industry/support/index.html.
+
+a
+
+a Ply L
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Indications for Use Statement
+510(k) Number (if known): K062048
+Device Name: Aesthera Photopneumatic™ (PPx™) System
+Indications for Use:
+The Aesthera Photopneumatic™ (PPx™) System is intended for:
+e = The treatment of benign vascular and pigmented lesions;
+e Permanent hair reduction; . /
+e The treatment of mild to moderate acne, including pustular acne, comedonal acne, and mild
+to moderate inflammatory acne (acne vulgaris).
+The Aesthera Photopneumatic™ (PPx™) System is intended for use on all skin types (Fitzpatrick
+skin types I-VI). .
+Prescription Use ¥ ANDIOR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+meal bee a!
+aoe 6 The in
+
+(Division Sign-off) fleet —
+
+ion of General, Restorative,
+
+an ae .
+
+eurological Devices
+510(k) Number KK OG 20Y¢ Page 1 of 1
+TS 1 of 1
+

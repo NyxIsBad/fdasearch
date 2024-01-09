@@ -1,0 +1,232 @@
+JUN 13 2003
+Attachment IV
+540(k) Summa KO2Q3 8F |
+
+Submitter: Sciton, Inc.
+
+Address: 845 Commercial Street, Palo Alto, CA 94303
+
+Phone: (650) 493-9155
+
+Fax : (650) 493-9146
+
+Contact Person: Jay M. Patel, Director of Regulatory Affairs
+
+Date Prepared: November 18, 2002
+
+Device Trade Name: Profile 1064 Laser System
+
+Common Name: Nd:YAG Laser System
+
+Classification Name: Laser Surgical Instrument, 21 CFR 878.4810.
+
+Legally Marketed Sciton’s laser systems (K002853, K003046 & K010285).
+
+Predicate Device: Altus Medical Aesthetic Nd:YAG Lasers (K991234,
+K991798, K003202 and K014040 and K022226);
+Lyra/Orion Laser Systems manufactured by Laserscope
+(K990718, K990903, KO03147, KO03765, KO10284,
+K010834 and K020021);
+and VeinLase, manufactured by HGM (K981952).
+
+Description of Profile Laser System is an Nd:YAG laser producing
+
+Profile Laser System: emission at a wavelength of 1064nm. It consists of a laser
+console, internal computer, control panel and display, an
+optical delivery system comprised of an articulated arm
+and a handpiece or scanner with cooling capability, and a
+footswitch.
+
+Intended Use: The Profile 1064 Laser Systems and Accessories are
+intended for use in the medical specialties of general and
+plastic surgery, dermatology, endoscopic/laproscopic
+general surgery, gastroenterology, gynecology,
+otorhinolaryngology (ENT), neurosurgery, oculoplastics,
+orthopedics, pulmonary/thoracic surgery and urology for
+surgical and aesthetic applications.
+
+Dermatology:
+
+Coagulation and hemostasis of benign vascular lesions
+such as, but not limited to port wine stains, hemangiomas,
+warts, telangiectasia, rosacea, venus lake, leg veins and
+spider veins. The lasers are also intended for the treatment
+of benign pigmented lesions such as, but not limited to,
+lentigos (age spots), solar lentigos (sun spots), café au lait
+macules, seborrheic keratoses, nevi, chloasma, verrucae,
+skin tags, keratoses, tattoos (significant reduction in the
+intensity of black and/or blue/black tattoos) and plaques.
+Additionally, the lasers are indicated for pigmented lesions
+to reduce lesion size, for patients with lesions that would
+potentially benefit from aggressive treatment, and for
+patients with lesions that have not responded to other laser
+treatments.
+
+Reduction of red pigmentation in hypertrophic and keloid
+scars where vascularity is an integral part of the scar.
+Removal of unwanted hair, for the stable long term, or
+permanent hair reduction through selective targeting of
+melanin in hair follicles, and for the treatment for
+pseudofolliculitis barbae (PFB). The Profile 1064 Laser
+Systems and Accessories are indicated for use on all skin
+types (Fitzpatrick I-VI), including tanned skin.
+
+The Profile 1064 Laser Systems and Accessories are
+indicated for the treatment of facial wrinkles.
+
+The intended use of the contact cooling system in the
+Profile handpiece is to provide cooling of the skin prior to,
+during and after laser treatment, for the epidermal
+protection and reduction of pain during laser treatment, to
+allow for the use of higher fluences for laser treatments
+such as hair removal and vascular lesions, and to reduce
+the potential side effects of laser treatments.
+
+Surgical Applications:
+
+Incision/excision and cutting, ablation,
+coagulation/hemostasis of soft tissue in the performance of
+surgical applications in endoscopy/aparoscopy,
+gastroenterology, general surgery, head and
+neck/otorhinolaryngology (ENT), neurosurgery,
+oculoplastics, orthopedics, plastic surgery,
+pulmonary/thoracic surgery, gynecology (e.g. menorrhagia)
+and urology.
+
+Rationale for Substantial The Profile Laser System and Accessories share the same
+Equivalence: indications for use and technological characteristics and is
+therefore substantially equivalent according to 510(k)
+guidelines to the above legally marketed predicate
+devices.
+Safety and Effectiveness The above indications for use are based upon the
+Information: indications for use for predicate laser systems.
+The technological characteristics are identical to previous
+predicate Sciton’s laser systems (KO02853, K003046 &
+K010285). As a result, the risks and benefits are
+comparable to the predicate devices.
+We therefore conclude that there are no issues of safety or
+effectiveness raised by the introduction of this device.
+
+ai
+e DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+ee
+me Food and Drug Administration ~
+9200 Corporate Boulevard
+Rockville MD 20850
+JUN 1.3 2003
+Mr. Jay M. Patel
+Director of QA/RA
+Sciton, Inc.
+845 Commercial Street
+Palo Alto, California 94303
+Re: K023881
+Trade/Device Name: Profile 1064 Laser Systems and Accessories ;
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general
+and plastic surgery and in dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: March 14, 2003
+Received: March 17, 2003
+Dear Mr. Patel:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class If (Special Controls) or class Ifl (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Mr. Jay M. Patel ~
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (301) 594-4659. Additionally, for questions on the
+promotion and advertising of your device, please contact the Office of Compliance at (301) 5944639. Also, please note the regulation entitled, "Misbranding by reference to premarket
+/ notification” (21CFR Part 807.97) you may obtain. Other general information on your
+responsibilities under the Act may be obtained from the Division of Small Manufacturers,
+International and Consumer Assistance at its toll-free number (800) 638-2041 or (301) 443-6597
+or at its Internet address http://www. fda.gov/cdrh/dsma/dsmamain.htm]
+Sincerely yours, :
+Alek A Mere —
+Celia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+Attachment ill .
+Statement of Indications for Use
+510(k) Number (if known): K D a 3 y f |
+Device Name: Profile 1064 Laser Systems and Accessories
+Indications for Use:
+The Profile 1064 Laser Systems and Accessories are intended for use in the medical
+specialties of general and plastic surgery, dermatology, endoscopic/laproscopic general
+surgery, gastroenterology, gynecology, otorhinolaryngology (ENT), neurosurgery,
+oculoplastics, orthopedics, pulmonary/thoracic surgery and urology for surgical and
+aesthetic applications.
+Dermatology:
+Coagulation and hemostasis of benign vascular lesions such as, but not limited
+to port wine stains, hemangiomas, warts, telangiectasia, rosacea, venus lake, leg
+veins and spider veins. The lasers are also intended for the treatment of benign
+pigmented lesions such as, but not limited to, lentigos (age spots), solar lentigos
+(sun spots), café au lait macules, seborrheic keratoses, nevi, chloasma,
+verrucae, skin tags, keratoses, tattoos (significant reduction in the intensity of
+black and/or blue/black tattoos) and plaques. Additionally, the lasers are
+indicated for pigmented lesions to reduce lesion size, for patients with lesions
+that would potentially benefit from aggressive treatment, and for patients with
+lesions that have not responded to other laser treatments.
+Reduction of red pigmentation in hypertrophic and keloid scars where vascularity
+\ is an integral part of the scar.
+QV Removal of unwanted hair, for the stable long term, or permanent hair reduction
+o X through selective targeting of melanin in hair follicles, and for the treatment for
+> f/f] pseudofolliculitis barbae (PFB). The Profile 1064 Laser Systems and Accessories
+z A are indicated for use on all skin types (Fitzpatrick I-VI), including tanned skin.
+Y
+8 § v The Profile 1064 Laser Systems and Accessories are indicated for the treatment
+~S e me of facial wrinkles.
+9 2 3 The intended use of the contact cooling system in the Profile handpiece is to
+provide cooling of the skin prior to, during and after laser treatment, for the
+oO .
+a e = epidermal protection and reduction of pain during laser treatment, to allow for the
+5 g g use of higher fluences for laser treatments such as hair removal and vascular
+g a Z lesions, and to reduce the potential side effects of laser treatments.
+~ ae & |
+
+Surgical Applications: .
+Incision/excision and cutting, ablation, coagulation/hemostasis of soft tissue in
+the performance of surgical applications in endoscopy/aparoscopy,
+gastroenterology, general surgery, head and neck/otorhinolaryngology (ENT),
+neurosurgery, oculoplastics, orthopedics, plastic surgery, pulmonary/thoracic
+surgery, gynecology (e.g. menorrhagia) and urology.
+(PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use x OR Over-The-Counter Use
+(Per 21CFR801)
+Fe kee
+(Division Sign-Off)
+Division of General, Restorative
+and Neurological Devices y )
+0238
+510(k) Number___K 023%
+

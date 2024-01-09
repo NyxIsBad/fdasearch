@@ -1,0 +1,171 @@
+510(K) Application 0 63 15s
+Lotus II Pulsed Er: YAG Laser System
+7 5.0 510(K) SUMMARY
+MAY 15 2009
+Applicant: LASEROPTEK.CO. LTD
+Address: 204 Hyundai I Valley
+223-12 Sangdaiwon, Jungwon
+Sungnam, Kyunggi 462-714
+/ South Korea
+Contact Person: Dr. Hong Chu (President)
+Telephone / Fax / E-mail: Tel) 82.31.737.9885~8
+Fax) 82.31.737.9889
+E-mail) hchu@Iaseroptek.com
+Submitter: DPS International
+Address: 22750 Hawthorne Blvd., Suite 211
+Torrance, CA 90505
+Contact Person: Phillip D. Cheon
+Telephone / Fax / E-Mail: Tel) 310.378.7545
+Fax) 310.378.8186
+E-mail) phillip@dpsii.com .
+Preparation Date: September 16, 2008
+Device Trade Name: Lotus II Pulsed Er: YAG Laser System
+Common Name: Er: YAG Pulsed Surgical Laser
+Classification Name: Instrument, Surgical, Powered laser, 79-GEX, 21
+CFR 878-4810
+Page 8 of 62
+
+510(K) Application
+Lotus II Pulsed Er: YAG Laser System
+Legally Marketed Predicate Devices: + DermaStar Er:YAG Laser System (K014057) by
+Asclepion-Meditec AG
+« MCL 30 Dermablate Er:YAG Laser System
+(K042968) by Cynosure, Inc.
+Description of the Lotus II Pulsed The Lotus II laser system is an Erbium: YAG laser
+Er: YAG Laser System: with a wavelength of 2.94 um. Laser activation is by
+footswitch. Three basic elements of operations are as
+follows:
+1) AEr:YAG crystal is used as a gain medium
+which produces a laser beam.
+2) A resonator then amplifies the beam.
+3) A lamp that contains Xe gas is used, as a
+pumping light source. The lamp requires a
+high-pressure power source device for
+operation. When the electric energy.
+generated from the high-pressure power
+source is induced into the electrode of the
+. lamp, it converts into light energy. This
+converted light energy pumps the Er: YAG
+crystal — a gain medium — and the light
+exhausted from the crystal is amplified into a
+. specific wavelength light. As it passes
+between the resonant gases, laser beam
+radiates to an output unit.
+The regulation of laser output and repetition rate can
+be set by the user via GUI (Graphic User Interface)
+and controlled by microprocessor, which interfaces
+with the power supply.
+Intended Use of the Lotus II Pulsed The Lotus II Pulsed Er: YAG Laser System is a
+Er: YAG Laser System: pulsed erbium doped yttrium-aluminum-garnet
+(Er: YAG) laser. It outputs laser light with a
+wavelength of 2940 nm, a wavelength very
+efficiently absorbed by the skin. It is intended for
+coagulation, vaporization, ablation and/or cutting of
+soft tissue (skin) in dermatology, plastic surgery ;
+(including aesthetic surgery), and ophthalmology
+; (skin around the eyes). This includes skin
+resurfacing and the treatment of wrinkles.
+/ Page 9 of 62
+
+: 510(K) Application
+Lotus II Pulsed Er: YAG Laser System .
+
+Performance Data: None .
+
+Conclusion: The spec and intended uses of the Lotus II Pulsed
+Er: YAG Laser System are the same or very similar to
+those of claimed predicate devices. Because of this,
+performance data were not required. The Lotus II
+Pulsed Er:YAG Laser System is substantially
+equivalent to legally marketed devices.
+The Lotus II Pulsed Er: YAG Laser System is another
+safe and effective device for coagulation,
+vaporization, ablation or cutting of soft tissue (skin)
+in dermatology, plastic surgery (including aesthetic
+surgery, and ophthalmology (skin around the eyes).
+
+\
+Page 10 of 62
+
+? ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+eras MAY 15 2009 Food and Drug Administration
+9200 Corporate Boulevard
+. Rockville MD 20850
+Laseroptek Co., Ltd.
+% DPS International : . .
+Mr. Phillip Cheon
+22750 Hawthome Boulevard, #211 :
+Torrance, California 90505
+Re: K083253
+Trade/Device Name: Lotus II Pulsed Er: YAG Laser System
+Regulation Number: 21 CFR 878.4810 ,
+Regulation Name: Laser surgical insrument for use in general and plastic surgery
+and in dermatology
+Regulatory Class: II
+Product Code: GEX .
+/ Dated: March 12, 2009
+Received: March 17, 2009
+Dear Mr. Cheon:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+, devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and ,
+adulteration. :
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical
+device-related adverse events) (21 CFR 803); good manufacturing practice requirements as set
+, forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic : :
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+
+Page 2 - Mr. Phillip Cheon
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding the reporting of adverse
+events under the MDR regulation (21 CFR Part 803), please contact the CDRH/Office of
+Surveillance and Biometrics/Division of Postmarket Surveillance at (240) 276-3464. For more
+information regarding the reporting of adverse events, please go to
+http://www. fda.gov/cdrh/mdr/.
+You may obtain other general information on your responsibilities under the Act from the /
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+. (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www.fda.gov/cdrh/industry/support/index.html.
+. Sincerely yours, PT
+Mark N. Melkerson
+Division of Surgical, Orthopedic
+and Restorative Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+\
+. Indications for Use
+510(k) Number (if known): K083253
+Device Name: Lotus II Pulsed Er:YAG Laser System
+Indications For Use:
+The Lotus II Er:YAG Laser System is intended
+for coagulation, vaporization, ablation or cutting
+of soft tissue (skin) in dermatology, plastic
+surgery (including aesthetic surgery), oral
+‘ surgery, and ophthalmology (skin around the
+eyes).
+Prescription Use __X AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER :
+, PAGE IF NEEDED) : . :
+q rrence, of CDRH, Office of Device Evaluation (ODE) .
+, Avision Fig+-O . rh~ . , - .
+Division of Surg:cal. Orthopedle,
+, and Restorative Devices
+. 510(k) Number. —_
+Page 1 of 1
+

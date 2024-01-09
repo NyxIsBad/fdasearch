@@ -1,0 +1,195 @@
+koe 172°
+Section 3 - 510(k) Summary JAN 3 1 2007
+Re: 061720
+This 510(k) summary of safety and effectiveness for the Cosmelight Intense Pulsed Light
+system by Penntack Enterprises Inc. is submitted in accordance with the requirements of
+the Safe Medical Devise Act (SMDA) of 1990 and follows the office of Devise Evaluation
+(ODE) guidance concerning the organization and content of a 510(k) summary
+Applicant : Penntack Enterprises Inc. _ __
+Address : 3321 NW 79 ST. Miami, FL 33147
+305-835-0411
+“Common Name’ Ine uGTigt Sue
+Common Name : Intense Pulsed Light System
+Classification Name} Laser surgical instrument for use in general and plastic and
+dermatology.
+21 CFR 878.4810
+Product Code: GEX
+Panel: 79
+Legally-marketed | The Cosmelight is substantially equivalent to the following currently
+Predicate Devices: | marketed devices:
+Lumenis Inc IPL Quantum, K020839
+Palomar Inc. EsteLux, K020453
+McCue Ple. McCue Energist ULTRA, K040659
+DDD A/S, Ellipse PL, K060516
+System Description:| The Cosmelight Intense Pulsed Light System is comprised of the |
+following main components:
+¢ Acontrol console unit. |
+e A control and color display panel.
+¢ Two removable handpieces with an integrated trigger switch
+and a Cooling System (a cooling device integrated into the
+handpieces. Quick Cool Handle ( QCH )
+e Power supply.
+Indicated Use : The Cosmelight Intense Pulsed Light System (and its accessories)
+| are indicated for use in surgical, aesthetic and cosmetic
+| | applications (requiring photothermolysis, photocoagulation and
+| | dermatology) in the treatment of acne, various benign pigmented |
+lesions and hair removal as follow: |
+| 1. Intense Pulse Light Energy Wavelengths from 400 - 950 nm |
+are indicated for the treatment of acne.
+2. Intense Pulse Light Energy Wavelengths from 560 - 120 Onm |
+Lo are indicated for the treatment of benign pigmented (epidermal
+1
+
+0617 7°
+and coetaneous) lesions including warts, scars and striae. For the |
+treatment of benign (cutaneous) vascular lesions including port
+wine stains, hemangiomas, facial, truncal and leg telangiectasias,
+rosacea, melasma, angiomas and spider angiormas, poikiloderma
+of civatte, leg veins, facial veins and venous malformations.
+3. Intense Pulse Light Energy Wavelengths from 700 - 1200 nm
+| are indicated for the treatment of unwanted hair (i.e., hair
+' removal).
+| 4. Quick Cool Handle (QCH )
+The Quick Cool Handle is indicated for use in cooling the |
+epidermis at the treatment Site prior to, during and after
+light or laser treatment in general surgery, plastic surgery
+And dermatology to :
+e Reduce pain associated with light or laser treatments
+(via partial anesthesia from Cooling). |
+e Minimize thermal injury, including thermal necrosis, to
+non target skin and skin Structures during light or laser
+treatments, thus reducing the possibilities of scabbing,
+scarring, hypo and / or hyper pigmentation.
+e Allows the use of higher light or iaser fluences for light
+or laser treatments (such as for hair removal and the treatm
+of vascular or pigmented lesions.
+Performance Data : | The differences in specifications of the Cosmelight system and the
+Predicate devices do not result in different performance or raise |
+_ ___| new questions of safety and efficacy. |
+Conclusion : Based on the foregoing, the Cosmelight system is substantially
+Equivalent to the legally-marketed predicate devices mentioned
+iabove.
+2
+
+= J DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+om Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+Penntack Enterprises, Inc.
+% Mr. Paul Pena
+Director
+3321 NW 79" Street
+Miami, Florida 33147
+JAN 3 9 2007
+
+Re: K061720
+
+Trade/Device Name: Cosmelight
+
+Regulation Number: 21 CFR 878.4810
+
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and in
+
+dermatology
+
+Regulatory Class: Class II
+
+Product Code: GEX
+
+Dated: November 24, 2006
+
+Received: November 28, 2006
+Dear Mr. Pena:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class I] (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean.
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. Paul Pena
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115 Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www.fda.gov/cdrh/industry/support/index.html. /
+
+Sincerely pourg,
+
+!
+{4 ¢
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices
+
+Office of Device Evaluation
+
+Center for Devices and
+
+Radiological Health
+Enclosure
+
+| a
+!
+| |
+! Indications for Use :
+f s1000 Number (if known): K061720. |
+4 |
+: Device Name: Cosmelight |
+f dications for Use: |
+[The Cosmelight Intense Pulsed Light System (and its accessories) are indicated for use |
+‘i surgical, aesthetic and cosmetic applications (requiring photothermolysis,
+i photocoagulation and dermatology) in the treatment of acne, various benign pigmented |
+| Testons and hair removal as follow:
+1. Intense Pulse Light Energy Wavelengths from 400 - 950 nm are indicated for the
+i treatment of: inflammatory acne.
+i 2. Intense Pulse Light Energy Wavelengths from 560 - 1200 nm are indicated for the
+i: Wreatment of: benign pigmented (epidermal and coetaneous) lesions including warts, |
+| iscars and striae. For the treatment of benign (cutaneous) vascular lesions including |
+‘port wine stains, hemangiomas, facial, truncal and leg telangiectasias, rosacea,
+|: bnelasma, angiomas and spider anglormas, poikiloderma of ctvatte, leg veins, facial :
+i: jvelns and venous malformations. |
+: 3. Intense Pulse Light Energy Wavelengths from 700 - 1200 nm are indicated for the
+i sreatment of: unwanted hair (Le., hair removal). |
+nd ;
+: Prescription Use X OR Over-The-Counter Use |
+| (Part 21 CFR 801 Subpart D ) (21CFR 807 Subpart C) |
+7 :
+ivf 1
+|
+; \ PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ON ANOTHER PAGE
+4 |
+! ! a i
+: (Divisior. sign-G)
+d Division of General, Restorative. | |
+: and Neurological Devices
+i lke? |
+7 510(k) Number... S-.. .- |
+|
+1 |
+

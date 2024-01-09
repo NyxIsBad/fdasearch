@@ -1,0 +1,408 @@
+Koe2zt
+510(k) Summary Statement
+For the GreenLight HPS™ Surgical Laser System & Accessories
+
+mt ysterm & Accessories |
+
+General Information
+
+A, Trade Name
+GreenLight HPS™ Series Surgical Laser System & Accessories
+
+B. Common Name
+Laser Instrument, Surgical, Powered
+
+Cc. Establishment Registration Number
+2937094
+
+D. Manufacturer's Identification
+Laserscope
+3070 Orchard Drive
+San Jose, CA 95134-2011
+(800) 243-9384-ext. 6795
+(408) 943-9630 FAX
+Official Correspondent
+Paul Hardiman
+Director, Regulatory Affairs
+
+E. Device Classification
+The GreenLight HPS™ Series Surgical Laser System &
+Accessories has been specifically classified as a Class II medical
+device by the OB/GYN, General Plastic Surgery, and ENT Device
+Advisory Panels.
+
+F. Performance Standards
+The GreenLight HPS™ Series Surgical Laser System &
+Accessories conforms with: Federal Regulations; the
+performance standards 21 CFR 1040.10 and 1040.11 for
+medical laser systems; and, International Harmonized
+Standards.
+
+G. Predicate Devices:
+e Laserscope Lyra Surgical Laser System & Accessories
+¢ Laserscope Lyra G™ Surgical Laser System & Accessories
+¢ 800 Series Surgical Laser System
+
+GreenLight HPS™ Surgical Laser System & Accessories
+
+Li 510(k) Submissi
+
+aserscope (k) Submission Page 1 of5 0 0 0 0 7
+
+\co6 27/9
+e 800 Series Surgical Laser System & Accessories
+e Modified Coherent VersaPulse Select Single Wavelength
+(Ho:YAG) and Dua! Wavelength (Ho: YAG/Nd:YAG)
+Surgical Lasers and Delivery Devices with Accessories
+e Laserscope Microbeam IV Micromanipulator
+H. Product Description:
+The Laserscope Gemini™ Surgical Laser System and Accessories
+consists of four major subsystems:
+« The Optical and Laser resonator System
+e The Electronics and Electrical System
+e Operator Interface
+e A variety of Delivery Devices and Accessories
+e A Cooling Sub-system
+I. Indications For Use:
+The GreenLight HPS™ Surgical Laser System and Accessories is
+intended for the surgical incision/excision, vaporization,
+ablation and coagulation of soft tissue. All soft tissue is
+included, such as skin, cutaneous tissue, subcutaneous tissue,
+striated and smooth tissue, muscle, cartilage meniscus, mucous
+membrane, lymph vessels and nodes, organs and glands.
+532nm Applications
+General Surgery: Vaporizing, Coagulating, Incising, Excising,
+Debutking, and Ablating of Soft tissue as well as in minimally
+invasive Endoscopic (e.g. laparoscopic) or open surgeries.
+Gastroenterology: Tissue ablation and hemostasis in the
+gastrointestinal tract; Esophageal neoplastic obstructions,
+including squamous cell carcinoma and adenocarcinoma;
+Gastrointestinal hemostasis (including Varices, Espohagitis,
+Esophageal Ulcer, Mallory-Weiss tear, Gastric Ulcer,
+Angiodysplasia, Stomal Ulcers, Non-bleeding Ulcers, Gastric
+erosions); Gastrointestinal Tissue ablation (Benign and
+Malignant neoplasm, Angiodysplasia, Polyps, Ulcer, Colitis,
+Hemorrhoids).
+Gynecology: Vaporizing, incising, or coagulating tissue
+associated with treatments of conditions such as:
+Endometriosis; Cervical, vulvar, and vaginal intraepitheal
+neoplasia; Condyloma Acuminata; Uterine Septum;
+Intrauterine adhesions; Submucosal fibroids.
+GreenLight HPS™ Surgical Laser System & Accessories
+Li 510(k) Submissi
+aserscope ubmission Page 2 of5 0 0 0 0 8
+
+KKob 7 NF
+
+Head and Neck/Otorhinolaryngology (ENT): Tissue incision,
+excision, ablation, and vessel hemostasis.
+Neurosurgery: Incising, excising, coagulating, and vaporizing
+neurological tumors of the firm textured type.
+Opthamology: Post-vitrectomy endophotocoagulation of the
+retina.
+Piastic Surgery: Vaporizing, Coagulating, Incising, Excising,
+debulking, and ablating of soft tissue in endoscopic and open
+procedures.
+Spinal Surgery: Percutaneous lumbar diskectomy.
+Thoracic Surgery: Vaporizing, Coagulating, Incising, Excising,
+Debulking, and ablating of soft tissue, including lung tissue in
+thoroscopic or open procedures.
+Urology: Cutting, coagulating, or vaporizing urologic soft
+tissues. Open endoscopic minimally invasive urological surgery
+(ablation, vaporization, incision, excision and coagulation of
+soft tissue) including treatment of: Bladder; Urethral & Ureteral
+Tumors; Condylomas; Lesions of external genitalia; Urethral &
+penile Hemangioma; Urethral Strictures; Bladder Neck
+Obstructions; and, when used at 532nm it is intended to
+hemostatically vaporize prostate tissue of men suffering from
+benign prostate hyperplasia/hypoplasia (BPH). The device is
+not intended to treat prostate cancer.
+1064nm Applications
+Endoscopic/Laparoscopic General Surgery: Cutting, ablation,
+and/or hemostasis of soft tissue in endoscopic or laparoscopic
+general surgery applications, including but not limited to:
+Cholecystectomy, Appendectomy, Vagotomy, Pyloromyotomy.
+Gastroenterology: Tissue ablation and hemostasis in the
+gastrointestinal tract; Esophageal neoplastic obstructions
+including Squamous cell carcinoma and Adenocarcinoma;
+Gastrointestinal hemostasis including: Varices, Espohagitis,
+Esophageal Ulcer, Mallory-Weiss tear, Gastric Ulcer,
+Angiodysplasia, Stomal ulcers, non-bleeding ulcers, Gastric
+erosions; Gastrointestinal tissue ablation including: Benign and
+malignant neoplasm; Angiodysplasia; Polyps; Ulcer; Colitis;
+Hemorrhoids.
+
+GreenLight HPS™ Surgical Laser System & Accessories
+
+Li 510(k) Submissi i]
+
+aserscope {k) Submission Page 3 0f5 0 0 Q 0 9
+
+\coEG ANF
+
+General Surgery: Soft tissue general surgery applications: Skin
+incision; Tissue dissection; Excision of external tumors and
+lesions; complete or partial resection of internal organs, /
+tumors, lesions; Tissue ablation; Vessel Coagulation.
+Gynecology: Treatment of menorrhagia by photocoagulation of
+the endometrial lining of the uterus; Ablation of endometrial
+implants and/or peritoneal adhesions; Soft tissue excisional
+procedures, such as excisional conization of the cervix; intrauterine gynecologic procedures where cutting, ablation and/or
+vessel coagulation may be indicated including Submucous
+fibroids, Benign endometrial polyps, Uterine septum.
+Head and Neck/Otorhinolaryngology (ENT): Tissue incision,
+excision, ablation, and vessel hemostasis.
+Hemostasis during Surgery: Adjunctive coagulation and
+hemostasis (bleeding control) during surgery in endoscopic
+(e.g. laparoscopic) and open procedures.
+Neurosurgery: Hemostasis for: Pituitary Tumor; Meningioma;
+Hemagioblastoma; AVMs; Glioma; Glioblastoma; Astrocytoma;
+Oligodendroglioma.
+Oculoplastics: Incision, Excision, Vaporization and/or
+coagulation of tissues in Oculoplastic procedures such as:
+Operations on the lacrimal system; Operation on the eyelids;
+Removal of biopsy or orbital tumors; Enucleation on eyeball;
+Exteneration of orbital contents.
+Orthopedics: Cutting, ablation, and/or hemostasis of intraarticular tissue in Orthopedic surgical and arthroscopic
+applications.
+Plastic Surgery: Cutting (incision/excision), coagulating, and
+vaporizing of soft tissue.
+Pulmonary Surgery: Palliative treatment of benign and
+malignant pulmonary airway obstructions, including: Squamous
+Cell Carcinoma; Adenocarcinoma; Carcinoid; Benign Tumors;
+Granulomas; Benign Strictures.
+Thoracic Surgery: Cutting (incision/excision), coagulating, and
+vaporizing of soft tissue. Thoracic applications including, but
+not limited to: Isolation of vessels for endarterectomy and/or
+by-pass grafts; Wedge Resections ; Thoractomy; Formation of
+Pacemaker pockets. Vaporization, coagulation,
+
+GreenLight HPS™ Surgical Laser System & Accessories
+
+L 510(k) Submissi 
+aserscope \(k) Submission Page 4 of 5 0 0 c 1 ry
+
+Kob ZF
+incision/excision, debulking, and ablation of lung tissue
+(Thoracoscopy).
+Urology: Urological Surgery (ablation, vaporization, incision,
+excision and coagulation of soft tissue) including: removal of
+superficial baldder tumors; removal of invasive bladder
+carcinoma; removal of benign or malignant fesions of the
+external genitalia including condylomas; treatment of urethral
+strictures; treatment of vascularitiesof the bladder wall;
+prostatectomy.
+J. Rationale for Substantial Equivalence
+Laserscope’s GreenLight HPS™ Series Surgical Laser System &
+Accessories share the same indications for use, similar design
+features, functional features, and therefore are substantially
+equivalent to the: Laserscope’s Lyra Surgical Laser System &
+Accessories, Lyra G™ Surgical Laser Systems & Accessories; the
+800 Series Surgical Laser Systems and Accessories; the
+Modified Coherent VersaPulse Select Wavelength (Ho:YAG) and
+Dual Wavelength (Ho:YAG/Nd:YAG) Surgical Lasers and Delivery
+Devices and Accessories; and, the Laserscope Microbeam IV
+Micromanipulator. Details are provided in the Substantial
+Equivalence Section of this submission.
+GreenLight HPS™ Surgical Laser System & Accessories
+Laserscope 510(k) Submission
+Page 5 of 5 OOC1!
+
+2 ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+“ova Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+
+Laserscope, LLC SEC ~ F 2006
+% Mr. Paul H. Hardiman
+Director, Regulatory Affairs
+3070 Orchard Drive
+San Jose, California 95134-2011
+Re: K062719
+
+Trade/Device Name: GreenLight HPS” SURGICAL LASER SYSTEM & Accessories
+
+Regulation Number: 21 CFR 878.4810
+
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and
+
+in dermatology
+
+Regulatory Class: IL
+
+Product Code: GEX
+
+Dated: November 6, 2006
+
+Received: November 7, 2006
+Dear Mr. Hardiman:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications for
+use stated in the enclosure) to legally marketed predicate devices marketed in interstate commerce
+prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that
+have been reclassified in accordance with the provisions of the Federal Food, Drug, and Cosmetic
+Act (Act) that do not require approval of a premarket approval application (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices, good
+manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class If (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must comply
+with all the Act’s requirements, including, but not limited to: registration and listing (21 CFR Part
+807); labeling (21 CFR Part 801); good manufacturing practice requirements as set forth in the
+quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product
+radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 — Mr. Paul H. Hardiman
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain other
+general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www. fda.gov/cdrh/industry/support/index.html.
+Sincerely your.
+4
+Ye L I
+Mark N.'Melkersoff
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+INDICATIONS FOR USE STATEMENT
+Page 1 of 4
+510(k) Number: koGZ7/F
+Device Name: GreenLight HPS™ SURGICAL LASER SYSTEM & Accessories
+Indications for Use:
+The GreenLight HPS™ Surgical Laser System and Accessories are intended for the surgical
+incision/excision, vaporization, ablation and coagulation of soft tissue. All soft tissue is included,
+such as skin, cutaneous tissue, subcutaneous tissue, striated and smooth tissue, muscle,
+cartilage meniscus, mucous membrane, lymph vessels and nodes, organs and glands.
+532nm Applications
+General Surgery: Vaporizing, Coagulating, Incising, Excising, Debulking, and Ablating of Soft
+tissue as well as in Endoscopic (e.g. laparoscopic) or open surgeries.
+Gastroenterology: Tissue ablation and hemostasis in the gastrointestinal tract; Esophageal
+neoplastic obstructions, including squamous cell carcinoma and adenocarcinoma,
+Gastrointestinal hemostasis (including Varices, Espohagitis, Esophageal Ulcer, Mallory-Weiss
+tear, Gastric Ulcer, Angiodysplasia, Stomal Ulcers, Non-bleeding Ulcers, Gastric erosions),
+Gastrointestinal Tissue ablation (Benign and Malignant neoplasm, Angiodysplasia, Polyps,
+Ulcer, Colitis, Hemorrhoids).
+Gynecology: Vaporizing, incising, or coagulating tissue associated with treatments of
+conditions such as: Endometriosis; Cervical, vulvar, and vaginal intraepitheal neoplasia;
+Condyloma Acuminata; Uterine Septum; Intrauterine adhesions; Submucosal fibroids.
+Head and Neck/Otorhinolaryngology (ENT): Tissue incision, excision, ablation, and vessel
+hemostasis.
+Neurosurgery: Incising, excising, coagulating, and vaporizing neurological tumors of the firm
+textured type.
+Opthamology: Post-vitrectomy endophotocoagulation of the retina.
+(PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ON ANOTHER PAGE)
+ie
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+\ U
+eee ° poem oe rae
+x (Division Sign-C
+Prescription Use: Di es ¢ G Over —The-Counter-Use
+(per 21 CFR 801.109) vision of General, Restoraiiy
+and Neurological Devices
+OH (
+510(k) Number_|CEC29|5 00001
+
+INDICATIONS FOR USE STATEMENT
+Page 2 of 4
+
+510(k) Number: k ob 27 [F
+Device Name: GreenLight HPS™ SURGICAL LASER SYSTEM & Accessories
+Plastic Surgery: Vaporizing, Coagulating, Incising, Excising, debulking, and ablating of soft
+tissue in endoscopic and open procedures.
+Spinal Surgery: Percutaneous lumbar diskectomy.
+Thoracic Surgery: Vaporizing, Coagulating, Incising, Excising, Debulking, and ablating of soft
+tissue, including lung tissue in thoroscopic or open procedures.
+Urology: Cutting, coagulating, or vaporizing urologic soft tissues. Open endoscopic minimally
+invasive urological surgery (ablation, vaporization, incision, excision and coagulation of soft
+tissue) including treatment of: Bladder; Urethral & Ureteral Tumors; Condylomas; Lesions of
+external genitalia; Urethral & penile; Hemangioma; Urethral Strictures; Bladder Neck
+Obstructions; and, when used at 532nm it is intended to hemostatically vaporize prostate tissue
+of men suffering from benign prostate hyperplasia/hypoplasia (BPH). The device is not intended
+to treat prostate cancer.
+1064 nm Applications
+Endoscopic/Laparoscopic General Surgery: Cutting, ablation, and/or hemostasis of soft
+tissue in endoscopic or laparoscopic general surgery applications, including but not limited to:
+Cholecystectomy, Appendectomy, Vagotomy, Pyloromyotomy.
+Soft tissue general surgery applications: Skin incision; Tissue dissection; Excision of external
+tumors and lesions; complete or partial resection of internal organs, tumors, lesions; Tissue
+ablation; Vessel Coagulation.
+
+‘ Gastroenterology: Tissue ablation and hemostasis in the gastrointestinal tract; Esophageal
+neoplastic obstructions including Squamous cell carcinoma and Adenocarcinoma;
+
+(PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ON ANOTHER PAGE)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use-—A— or Over —The-Counter-Use
+(per 21 CFR 801.109)
+.
+“
+00002
+
+INDICATIONS FOR USE STATEMENT
+Page 3 of 4
+
+510(k) Number: kK 0 6 2 VT q
+Device Name: GreenLight HPS™ SURGICAL LASER SYSTEM & Accessories
+Gastroenterology (contd.): Gastrointestinal hemostasis including: Varices, Espohagitis,
+Esophageal Ulcer, Mallory-Weiss tear, Gastric Ulcer, Angiodysplasia, Stomal ulcers, nonbleeding ulcers, Gastric erosions; Gastrointestinal tissue ablation including: Benign and
+malignant neoplasm; Angiodysplasia; Polyps; Ulcer; Colitis; Hemorrhoids.
+Gynecology: Treatment of menorrhagia by photocoagulation of the endometrial lining of the
+uterus; Ablation of endometrial implants and/or peritoneal adhesions; Soft tissue excisional
+procedures, such as excisional conization of the cervix; intra-uterine gynecologic procedures
+where cutting, ablation and/or vessel coagulation may be indicated including Submucous
+fibroids, Benign endometrial polyps, Uterine septum.
+Head and Neck/Otorhinolaryngology (ENT): Tissue incision, excision, ablation, and vessel
+hemostasis.
+Hemostasis during Surgery: Adjunctive coagulation and hemostasis (bleeding control) during
+surgery in endoscopic (e.g. laparoscopic) and open procedures.
+Neurosurgery: Hemostasis for: Pituitary Tumor; Meningioma; Hemagioblastoma; AVMs;
+Glioma; Glioblastoma; Astrocytoma; Oligodendroglioma.
+Oculopiastics: Incision, Excision, Vaporization and/or coagulation of tissues in Oculoplastic
+procedures such as: Operations on the lacrimal system; Operation on the eyelids; Removal of
+biopsy or orbital tumors; Enucleation on eyeball; Exteneration of orbital contents.
+Orthopedics: Cutting, ablation, and/or hemostasis of intra-articular tissue in Orthopedic
+surgical and arthroscopic applications.
+Plastic Surgery: Cutting (incision/excision), coagulating, and vaporizing of soft tissue.
+
+(PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ON ANOTHER PAGE)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use or Over —The-Counter-Use
+(per 21 CFR 801.109)
+
+INDICATIONS FOR USE STATEMENT
+Page 4 of 4
+510(k) Number: kob6279
+Device Name: GreenLight HPS™ SURGICAL LASER SYSTEM & Accessories
+Pulmonary Surgery: Palliative treatment of benign and malignant pulmonary airway
+obstructions, including: Squamous Cell Carcinoma; Adenocarcinoma; Carcinoid; Benign
+Tumors; Granulomas; Benign Strictures.
+Thoracic Surgery: Cutting (incision/excision), coagulating, and vaporizing of soft tissue.
+Thoracic applications including, but not limited to: Isolation of vessels for endarterectomy and/or
+by-pass grafts; Wedge Resections ; Thoractomy; Formation of Pacemaker pockets.
+Vaporization, coagulation, incision/excision, debulking, and ablation of lung tissue
+(Thoracoscopy).
+Urology: : Urological Surgery (ablation, vaporization, incision, excision and coagulation of soft
+tissue) including: removal of superficial baldder tumors; removal of invasive bladder carcinoma;
+removal of benign or malignant lesions of the external genitalia including condylomas; treatment
+of urethral strictures; treatment of vascularities of the bladder wall; prostatectomy.
+(PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ON ANOTHER PAGE)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use — or Over —The-Counter-Use
+(per 21 CFR 801.109)
+

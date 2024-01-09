@@ -1,0 +1,201 @@
+SEP 28 2004
+SUMMARY OF SAFETY AND EFFECTIVENESS INFORMATION
+Valleytab LigaSure™ Open Dissector Divider
+O4ls
+1. Submitter Information K a % 7
+ee
+
+Valleylab f
+
+A division of Tyco Healthcare Group LP a © 4 Q
+
+5920 Longbow Drive
+
+Boulder, CO 80301
+
+Contact: Charles M. Copperberg
+
+Manager, Regulatory
+
+Telephone: 303-530-6247
+
+, Date summary prepared: September 20, 2004
+2. Name of Device
+
+Trade or Proprietary Name: LigaSure™ Open Dissector Divider, Catalog
+
+Number LS4100
+
+Common Name: Bipolar, Open Electrosurgical Instrument
+
+Classification Name:
+
+« Electrosurgical Cutting and Coagulation Device and Accessories, and
+c * Gynecologic Electrocautery and Accessories
+3. Predicate Devices
+
+The LigaSure™ Open Dissector Divider (catalog number LS4100) is substantially
+
+equivalent to the following legally marketed devices:
+
+e For configuration, sealing and dissection capabilities the LS4100 is
+substantially equivalent to the Valleylab LS1200 LigaSure™ Precise
+Instrument (K010010)
+
+« For cutting capabilities, the LS4100 is substantially equivalent to the Valleylab
+LS1500 LigaSure™ 5mm Laparoscopic Sealer-Divider Instrument (K03101 1)
+
+4. Device Description
+
+The LigaSure Open Dissector Divider is a multi-functional, electrosurgical
+
+instrument intended for use with the LigaSure Vessel Sealing Generator
+
+(K981916) when performing open surgery. The instrument is capable of sealing
+
+and dividing vessels and tissue clamped between its jaws, grasping tissue, and
+
+dissection. Sealing of vessels and tissue containing vessels can be activated
+510(K) Notification LigaSure Open Dissector Divider LS4100
+dune 10, 2004
+
+Voge OQ 2
+using the activation button on the device or via a footswitch. The instrument also
+incorporates a mechanical cutting mechanism that divides tissue.
+
+The instrument attaches to the LigaSure™ generator with a ten (10} foot cable
+and a “smart” connector that identifies the instrument type to the generator. The
+instrument is supplied sterile for single-use.
+
+8. Intended Use
+The LigaSure™ Open Dissector Divider is a bipolar electrosurgical instrument
+intended for use with the LigaSure Generator in open, general and gynecologic
+surgical procedures where ligation and division of vessels is desired. This device
+creates ligation by application of bipolar electrosurgical RF energy and pressure
+{to vessels/tissue interposed between the jaws of the device. The ligation can
+then be transected using the built in cutting mechanism. The device can be
+used for vessels up to and including 7 mm in diameter and tissue bundies as
+large as will fit into the jaws of the instrument.
+Indications for use include general, open procedures including urologic, vascular,
+thoracic, and plastic and reconstructive, procedures where dissection, ligation
+and division of vessels are performed such as: spleenectomies, thryoidectomies,
+nephrectomies, prostatectomies, bowel resection and colectomy.
+The LigaSure Vessel Sealing System has not been shown to be effective for
+tubal sterilization or tubal coagulation for sterilization procedures, and should not
+be used for these procedures.
+
+6. Summary of Technological Characteristics
+The LigaSure™ Open Dissector Divider has the same basic technological
+characteristics as the predicate devices noted above.
+
+7. Performance Data ,
+Performance (bench) testing and a preclinical study were done to ensure that the
+LigaSure™ Open Dissector Divider functions as intended, and meets design
+specifications. Sufficient data were obtained to show that the device is
+substantially equivalent to the predicate devices, and meets safety and
+effectiveness criteria.
+
+510(K) Notification LigaSure Open Dissector Divider ($4100
+
+June 10, 2004
+
+ens
+{ & DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+a se '™’'n—nn—o oe
+F . .
+SEP 28 2004 6200 Corporate Boulevard.
+Rockville MD 20850
+Mr. Charles M. Copperberg
+Manager, Regulatory
+Valleylab
+5920 Longbow Drive
+Boulder, Colorado 80301
+Re: K041587
+Trade/Device Name: LigaSure™ Open Dissector Divider
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: I Product Code: GE!
+Dated: September 14, 2004
+Received: September 15, 2004
+Dear Mr. Copperberg:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Mr. Charles M. Copperberg
+This letter will allow you to begin marketing your device as described in your Section 51 0k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (301) 594-4659. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+: Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+
+(301) 443-6597 or at its Internet address http://www.fda.gov/cdrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+Pnertianl. Vaovoste
+ti M. Witten, Ph.D., M.D.
+. Director
+Division of General, Restorative
+and Neurological Devices
+
+Office of Device Evaluation
+
+Center for Devices and Radiological Health
+Enclosure
+
+Indications for Use
+
+510(k) Number (if known): K041587
+Device Name: LigaSure™ Open Dissector Divider
+Indications for Use:
+The LigaSure™ Open Dissector Divider is a bipolar electrosurgical instrument intended for use with
+the LigaSure™ Generator in open, general, surgical procedures where dissection, ligation and division
+of vessels is desired. This device creates ligation by application of bipolar electrosurgical RF energy
+and pressure to vessels/tissue interposed between the jaws of the device. The ligation can then be
+transected using the built in cutting mechanism. The device can be used for vessels up to and
+including 7 mm in diameter and tissue bundles as large as will fit into the jaws of the instrument.
+Indications for use include general, open procedures including urologic, vascular, thoracic, and plastic
+and reconstructive, procedures where dissection, ligation and division of vessels are performed such
+as: spleenectomies, thryoidectomies, nephrectomies, prostatectomies, bowel resection and colectomy.
+The LigaSure Vessel Sealing System has not been shown to be effective for tubal sterilization or tubal
+coagulation for sterilization procedures, and should not be used for these procedures.
+
+Prescription Use _X AND/OR Over-The-Counter Use
+
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)
+eee
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+
+1 Mian C. ie, Page td of |
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+S
+510(k) Number_A2¢587
+(Posted November 13, 2003)
+

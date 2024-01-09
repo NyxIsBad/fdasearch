@@ -1,0 +1,197 @@
+SUMMARY OF SAFETY AND EFFECTIVENESS JUL 29 2005
+THIS 510(K) SUMMARY OF SAFETY AND EFFECTIVENESS INFORMATION IS BEING SUBMITTED
+IN ACCORDANCE WITH THE REQUIREMENTS OF SMDA 1990 AND 21 CFR 807.92.
+1. SUBMITTER’S NAME, ADDRESS, TELEPHONE NUMBER, CONTACT PERSON, AND
+DATE SUMMARY PREPARED
+a. Applicant: IntraLase Corp.
+3 Morgan
+Irvine, CA 92618
+b. Contact Person: Judy F. Gordon, D.V.M.
+ClinReg Consulting Services, Inc.
+2 Delphinus
+Irvine, CA 92603
+c. Date Summary Prepared: May 9, 2005
+2. NAME OF DEVICE, INCLUDING TRADE NAME AND CLASSIFICATION NAME:
+a. Trade/Proprietary Name: INTRALASE FS Laser
+b. Classification Name: Laser
+3. IDENTIFICATION OF THE PREDICATE DEVICE OR LEGALLY MARKETED DEVICE
+OR DEVICES TO WHICH SUBSTANTIAL EQUIVALENCE IS BEING CLAIMED:
+510(k) Applicant Date Cleared
+K981063 Laser Center Automated Corneal June 23, 1998
+Development Trephine
+Corporation
+K013151 BKG Ophthalmics ASMOTOM Automated | December 14,
+USA, Inc. Corneal Trephine 2001
+K002890 | IntraLase Corporation Femtosecond Laser August 9, 2001
+Keratome
+K041893 — IntraLase FS Laser Page 17
+Response to Deficiencies
+
+4, A DESCRIPTION OF THE DEVICE THAT IS THE SUBJECT OF THE 510(k),
+INCLUDING EXPLANATION OF HOW THE DEVICE FUNCTIONS, BASIC SCIENTIFIC
+CONCEPTS, SIGNIFICANT PHYSICAL AND PERFORMANCE CHARACTERISTICS
+(DESIGN, MATERIAL, PHYSICAL PROPERTIES):
+
+The INTRALASE FS Laser is a precision ophthalmic surgical laser designed for
+
+use in performing lamellar and full thickness or penetrating corneal resections.
+
+The cutting action of the IVTRALASE FS Laser is achieved through precise
+
+individual micro-photodisruptions of tissue, created by tightly focused ultrashort
+
+pulses which are delivered through a disposable applanation lens while fixating
+the eye under very low vacuum.
+
+5. STATEMENT OF INTENDED USE:
+
+The INTRALASE® FS Laser is an ophthalmic surgical laser with the following
+
+indications for use:
+
+e In patients undergoing surgery or other treatment requiring initial lamellar
+resection of the cornea.
+
+e In patients undergoing surgery or other treatment requiring initial lamellar
+resection of the cornea to create tunnels for placement of corneal ring
+segments
+
+e In lamellar keratoplasty and corneal harvesting
+
+e In the creation of a corneal flap in patients undergoing LASIK surgery or
+other treatment requiring initial lamellar resection of the cornea.
+
+e In the creation of a lamellar cut/resection of the cornea for lamellar
+keratoplasty and in the creation of a penetrating cut/incision for penetrating
+keratoplasty.
+
+These additional indications for use are identical to those of the predicate devices.
+
+6. STATEMENT OF HOW THE TECHNOLOGICAL CHARACTERISTICS OF THE DEVICE
+COMPARE TO THOSE OF THE PREDICATE OR LEGALLY MARKETED DEVICE.
+
+The technological characteristics of the INTRALASE FS Laser have already been
+
+cleared under K002890 for corneal harvesting. The design, materials, and
+
+characteristics of the laser keratome are the same irrespective of the indication for
+use.
+
+K041893 — IntraLase FS Laser Page 18
+
+Response to Deficiencies
+
+7. BRIEF SUMMARY OF NONCLINICAL TESTS AND RESULTS:
+The INTRALASE FS Laser has undergone testing in accordance with applicable
+safety standards. In addition, the INTRALASE FS was found to perform
+equivalently to the predicate devices with respect to the creation of partial or full
+thickness corneal resections in the creation of a lamellar cut/resection of the
+cornea for lamellar keratoplasty and in the creation of a penetrating cut/incision
+for penetrating keratoplasty. Thus, the INTRALASE FS Laser and the predicate
+device have similar safety, effectiveness and performance profiles.
+
+K041893—IntraLaseFSLasrr === == ~~~~S~S~CS~*~<“<CS*‘“s*~CS*S*:S:SSSCSC“‘iéz OD
+
+Response to Deficiencies
+
+omens My
+Z 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+2°
+“roe Food and Drug Administration
+10903 New Hampshire Avenue
+Document Control Room —W066-G609
+Silver Spring, MD 20993-0002
+Intralase Corporation
+c/o Judy F. Gordon, D.V.M.
+Regulatory Consultant to IntraLase JAN 25 201i
+ClingReg Consulting Services, Inc.
+2 Delphinus ,
+Irvine, CA 92603
+: Re: K041893
+Trade/Device Name: INTRALASE FS Laser
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser Surgical Instrument for use in General and Plastic Surgery and in
+Dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: July 6, 2005
+Received: July 7, 2005
+Dear Dr. Gordon:
+This letter corrects our substantially equivalent letter of July 29, 2005.
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices,
+good manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical
+
+Page 2 - Judy F. Gordon, D.V.M.
+device-related adverse events) (21 CFR 803); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+go to http://www. fda.gov/AboutFDA/CentersOffices/CDRH/CDRHOffices/ucm 1 15809.htm for
+the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please
+note the regulation entitled, "Misbranding by reference to premarket notification” (21CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CFR Part 803), please go to
+http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other general information on your responsibilities under the Act from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 796-7100 or at its Internet address
+http://www. fda.gov/MedicalDevices/ResourcesforYou/ Industry/default.htm.
+
+Sincerely yours,
+
+Malvina B. Eydelman, M.D.
+
+Director ,
+
+; Division of Ophthalmic, Neurological,
+/ and Ear, Nose and Throat Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Indications for Use
+510(k) Number (if known):_K041893
+Device Name(s): INTRALASE FS Laser
+Indications for Use:
+The INTRALASE® FS Laser is an ophthalmic surgical laser with the following indications
+for use:
+e Inpatients undergoing surgery or other treatment requiring intial lamellar
+resection of the cornea
+© In patients undergoing surgery or other treatment requiring initial lamellar
+resection of the cornea to create tunnels for placement of the corneal ring
+segments
+e In lamellar keratoplasty and corneal harvesting
+e Inthe creation of a corneal flap in patients undergoing LASIK surgery or other
+treatment requiring initial lamellar resection of the cornea
+e Inthe creation of a lamellar cut/resection of the cornea for lamellar
+keratoplasty and in the creation of a penetrating cut/incision for penetrating
+keratoplasty
+Prescription Use __X AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Cc) Page 1 of __1
+Jd. CC tl ncez
+(Division Sign-Off) oD
+Division of Ophthalmic, Neurological and Ear,
+Nose and Throat Devices
+510{k) Number AO“ FFF
+

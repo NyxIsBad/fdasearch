@@ -1,0 +1,456 @@
+. it
+, Premarket Notification: |
+LaserPro® 410. 940 and 980 Diode Laser Systems O i
+i
+K fay) |
+NOV - 8 2004 510(k) SUMMARY | K
+PhotoMedex, Inc.
+LaserPro 810, 940 and 980 Systems Diode Laser Systems
+1. GENERAL |
+«© Submitter: PhotoMedex, Inc. |
+147 Keystone Drive ,
+Montgomeryville, PA, 18936 }
+Iu
+© Contact Person: Bob Rose l
+« Date Prepared: August 13, 2004 (Revised September 15, 2004) \
+2. DEVICE NAME
+¢ Classification name: Laser surgical instrument for use in general and plastic f
+surgery and in dermatology (21 CFR 878.4810)
+¢ Common or usual name: Diode laser |
+° Trade or proprietary name: LaserPro Diode Surgical Laser System |
+i,
+3. PREDICATE DEVICE (Device to be Modified) {
+Diode Surgical Laser Systems
+¢ PhotoMedex LaserPro $10, 940 and 980 Diode Laser Systems (K040294) |
+I
+'
+4. DEVICE DESCRIPTION and DEVICE MODIFICATIONS |
+|
+|
+The PhotoMedex LaserPro 810, 940 and 980 Diode Laser Systems are designedto |
+provide laser power at wavelengths of 810nm, 940nm, and 980nm, depending on
+model, which can be used for the procedures indicated i the next section of this
+summary. These devices have been cleared previously via K040294. Differences
+between the cleared and modified device are limited to:
+“> Maximum output power increased from 20 to 25 Watts (Systems are |
+identified by output frequency and maximum power).
++ User adjustable (intensity) aiming beam (the maximum aiming beam optical {
+power does not change from currently cleared device).
+\
+The system is comprised of the following main components:
+¢ A laser console/cabinet with fiber port to accept SMA-905 connectors. |
+¢ Display panel with soft-touch keypad control and separate Emergency Off =|
+button. ;
+« Laser system microprocessor control electronics with operating software
+e A detachable covered footswitch. A
+XVII-2 |
+I
+\
+
+‘ i
+. Premarket Notification: |
+LaserPro® 810. 940 aud 980 Diode Laser Systems !
+:
+5. INDICATIONS FOR USE |
+The PhotoMedex LaserPro 810. 940 and 980 Diode Laser Systems (and the fiber ;
+delivery systems and accessories that are used with them to deliver laser energy) are |
+indicated for use in surgical applications requiring the ablation, vaporization, |
+excision, incision, and coagulation of soft tissue in medical specialties including: |
+te
+Gastroenterology ;
+I!
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in 1
+gastroenterology procedures. Applications include: hemostasis of esophageal varices, |
+palliation of malignant dysphagia, palliative ablation of obstructive neoplasms, |
+hemostasis of colonoscopy. i
+:
+Neurosurgery }
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in t
+neurosurgery procedures. Applications iriclude: tumors adjacent to the spinal cord, |
+tumors adjacent to the cortex. |
+i
+General Surgery |
+Treatment of varicose veins and varicosities associated with superficial reflux of the |
+greater saphenous vein. The ablation, vaporization, excision, incision, and coagulation of |
+soft tissue in general surgery including endoscopic and open procedures. Applications [
+include: Laparoscopic appendectomy, cholecystectomy, and bowel resection. Open:
+mastectomy, reduction mammoplasty, breast biopsy, rectal and anal hemorrhoidectomy, |
+bowel resection, colectomy, cholecystectomy, liver resection, condyloma, thyroidectomy, |
+thoracotomy, and cavernous hemangioma.
+Genitourinary (Urology) I
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in
+genitourinary (urology) procedures, Applications include: Transurethral incision of the |
+prostate (TUIP), bladder tumors, bladder neck incisions, urethral strictures, and exterior |!
+sphincterotomy. Laparoscopic lymphadenectomy. Open; condyloma, circumcision, and f
+benign and malignant lesions of external genitalia. I
+Thoracic Surgery , |
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in thoracic |
+surgery including endoscopic and open procedures. Applications include: pulmonary |
+resection, coagulation of blebs and bullae, adhesiolysis, pericardiectomy, mediastinal and |’
+thoracic lesions and abnormalities, mediastinal lymph node dissection, and hemostasis, |
+thoracotomy.
+i
+XVIH-3
+
+: , Preaarket Notification:
+LaserPro® 810. 940 and 980 Diode Laser Systems
+Gynecology (GYN)
+
+}
+
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in
+
+gynecology (GYN) procedures. Applications include: Laparoscopic, excision/lysis of ,
+adhesions, endometrial lesions, including ablation of endometriosis, laparoscopic assisted
+
+hysterectomy (LAVH), laser uterosacral nerve ablation (LUNA), myomectomy, ovarian!
+
+cystectomy, ovarian drilling, tubal fimbrioplasty, and appendectomy. Open: conization |
+
+of the cervix, including cervical intraepithelial neoplasia (CIN), vulvar and vaginal i
+
+intraepithelial neoplasia VIN, VAIN. Condyloma acuminata, including cervical, genital,
+vulvar, perineal, and Bowen's disease, (Erythroplasia of Queyrat) and Bowenoid 1
+papulosa (BP) lesions. Intrauterine; fibroids/polyps/adhesions, resection of septum. ;
+Pulmonology ;
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in |
+pulmonology procedures. Applications include: tracheal bronchial lesions. |
+i
+
+Opthomology i
+|
+
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in i
+ophthalmology procedures. Applications include: Oculoplastics, open DCR, :
+endo-nasal DCR, tumor excision (and) biopsy, eyelid reconstruction, and blepharoplasty,
+i
+
+Orthopedics |
+
+{
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in orthopedd
+surgery procedures. Applications include: dissect and coagulate.
+Otolaryngology (ENT) i
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in !
+otolaryngology procedures. Applications include: Nasal/Sinus; turbinectomy and '
+turbinate reduction/ablation, polypectomy of nose and nasal passages, ethmoidectomy, i!
+
+and meatal antrostomy. Laryngo-tracheal; removal of vocal cord/fold nodules, polyps |
+and cysts, arytenoidectomy, and tracheal stenosis. Oropharyngeal; uvulopalatoplasty 1
+(LAUP, laser UPPP), tonsillectomy (including tonsillar cryptolysis, neoplasma) tonsil, |
+and hemi glossectomy. Head & Neck; tumor resection on oral, subfacial and neck l
+tissues, parathyroidectomy, and thyroidectomy. t
+
+i
+
+j
+
+6. SUBSTANTIAL EQUIVALENCE
+The PhotoMedex LaserPro 810. 940 and 980 Diode Laser Systems, when used in i
+conjunction with cleared delivery accessories, share the same indications for use,
+similar design features, functional features, and therefore are substantially equivalent
+
+to the predicate devices which includes the Diomed D15 & D30 Laser Systems —- i
+(K023543), the Premier Aurora Laser Systern (K954316), and the SLT Thermalite 810, 940 & 980 Laser Systems (K952661). ‘|
+XVIII-4
+
+i
+
+" , Premarket Notification: |
+LaserPro® 810. 940 and 980 Diode Laser Systems |
+i
+i
+7. SAFETY AND EFECTIVENESS
+The PhotoMedex LaserPro 810. 940 and 980 Diode Laser Systems are designed, !
+tested and manufactured in accordance with both mandatory and voluntary Standardsi:
+ensuring when used with marketed cleared delivery systems identified to be
+compatible, they are considered both safe and effective for the medical applications |
+indicated. No new clinical indications are to be provided by the introduction of |
+: LaserPro Diode Surgical Lasers as compared to the identified predicates, which have|!
+previously demonstrated clinical effectiveness. ;
+8. CONCLUSIONS i
+|
+PhotoMedex believes that the (minor) modifications to the LaserPro 810. 940 and 980
+Diode Laser Systems are substantially equivalent to, and are safe and effective as the}!
+legally marketed identified predicate devices, the LaserPro 810, 940 and 980 Diode |
+Laser Systems (K040294), in that they share identical mechanisms for laser energy i
+delivery and indications for use.
+P
+i
+|
+|
+I
+in
+\
+|
+|
+i
+i
+h
+. "
+hy
+;
+['
+i
+W
+I
+ll
+i"
+|
+i
+‘|
+i
+XVIH-5
+
+ey
+f € DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+S
+hn
+Food and Drug Administration
+- 9200 Corporate Boul
+NOV 8 2004 etait MS 20860
+Mr. Robert Rose
+Director of Regulatory Affairs and Quality Assurance
+PhotoMedex, Inc.,
+147 Keystone Drive
+Montgomeryville, Pennsylvania 18936
+Re: K042211
+Trade/Device Name: LaserPro 810, 940 and 980 Surgical Diode Laser Systems
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and in
+dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: August 13, 2004
+Received: August 16, 2004
+Dear Mr. Rose:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class JI (Special Controls) or class [iI (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 53 1-542 of the Act); 21 CFR 1000-1050.
+
+Page 2 - Mr. Robert Rose
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results ina classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www.fda.gov/cdrh/dsma/dsmamain.html
+
+Sincerely yours,
+
+fe cia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and :
+Radiological Health
+Enclosure
+
+Indications for Use Statement
+510(k) Number (if Known): K042211
+Device Name: LaserPro 810, 940 and 980 Surgical Diode Laser Systems
+Indications For Use:
+The PhotoMedex LaserPro 810, 940 and 980 Surgical Diode Laser Systems, (and the fiber delivery systems
+and accessories used to deliver laser energy), are indicated for use in surgical applications requiring the
+ablation, vaporization, excision, incision, and coagulation of soft tissue in medical specialties including:
+gastroenterology, general surgery, genitourinary surgery (urology), gynecology (GYN), neurosurgery,
+otolaryngology (ENT), orthopedics, ophthalmology, pulmonology, and thoracic surgery.
+The PhotoMedex LaserPro 810, 940 and 980 Surgical Diode Laser Systems are indicated for use in the
+performance of specific surgical applications in gastroenterology, general surgery, genitourinary surgery
+(urology), gynecology (GYN), neurosurgery, otolaryngology (ENT), orthopedics, ophthalmology,
+pulmonology, and thoracic surgery as follows:
+Gastroenterology
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in gastroenterology procedures.
+Applications include:
+- hemostasis of esophageal varices;
+- palliation of malignant dysphagia;
+- palliative ablation of obstructive neoplasms;
+- hemostasis of colonoscopy.
+*** Page 1 of 6 (Indications For Use Continued on Next Page; 6 pages total) ***
+. (PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ANOTHER PAGE IF NEEDED
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use x OR Over-The Counter Use
+(Per 21 CFR 801.109)
+(Optional Format 1-2-96)
+
+Indications for Use Statement
+510(k) Number (if Known): K042211
+Device Name: LaserPro 810, 940 and 980 Surgical Diode Laser Systems
+Indications For Use:
+Continued from previous page:
+Neurosurgery
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in neurosurgery
+procedures. Applications include:
+- tumors adjacent to the spinal cord;
+- tumors adjacent to the cortex.
+General Surgery
+Treatment of varicose veins and varicosities associated with superficial reflux of the greater
+saphenous vein.
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in general surgery
+including endoscopic and open procedures. Applications include:
+- Laparoscopic
+- appendectomy;
+- cholecystectomy;
+- bowel resection.
+- Open
+- mastectomy;
+- reduction mammoplasty,
+- breast biopsy;
+- rectal and anal hemorrhoidectomy,
+- bowel resection;
+- colectomy;
+- cholecystectomy;
+- liver resection;
+- condyloma;
+- thyroidectomy;
+- thoracotomy;
+- cavernous hemangioma.
+*** Page 2 of 6 (Indications For Use Continued on Next Page; 6 pages total) ***
+
+Indications for Use Statement
+510(k) Number (if Known): K042211
+Device Name: LaserPro 810, 940 and 980 Surgical Diode Laser Systems
+Indications For Use:
+Continued from previous page:
+Genitourinary (Urology)
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in genitourinary
+(urology) procedures. Applications include:
+- Transurethral
+- transurethral incision of the prostate (TUIP);
+- bladder tumors;
+- bladder neck incisions;
+- urethral strictures;
+- exterior sphincterotomy.
+- Laparoscopic
+- Lymphadenectomy.
+- Open :
+- condyloma;
+- circumcision
+- benign and malignant lesions of external genitalia.
+Thoracic Surgery
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in thoracic surgery
+including endoscopic and open procedures. Applications include:
+- pulmonary resection;
+- coagulation of blebs and bullae;
+- adhesiolysis;
+-  pericardiectomy
+- mediastinal and thoracic lesions and abnormalities;
+- mediastinal lymph node dissection;
+- hemostasis;
+- thoracotomy. .
+*** Page 3 of 6 (Indications For Use Continued on Next Page; 6 pages total) ***
+
+Indications for Use Statement
+510(k) Number (if Known): K042211
+Device Name: LaserPro 810, 940 and 980 Surgical Diode Laser Systems
+Indications For Use:
+Continued from previous page:
+Gynecology (GYN)
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in gynecology (GYN)
+procedures. Applications include:
+- Laparoscopic
+- excision/lysis of adhesions;
+- endometrial lesions, including ablation of endometriosis;
+- laparoscopic assisted hysterectomy (LAVH);
+- laser uterosacral nerve ablation (LUNA);
+- myomectomy;
+- ovarian cystectomy;
+- ovarian drilling;
+- tubal fimbrioplasty;
+- appendectomy.
+- Open
+- conization of the cervix, including cervical intraepithelial neoplasia (CIN), vulvar and
+vaginal intraepithelial neoplasia VIN, VAIN;
+- condyloma acuminata, including cervical, genital, vulvar, perineal, and Bowen‘s disease,
+(Erythroplasia of Queyrat) and Bowenoid papulosa (BP) lesions.
+- Intrauterine
+-  Fibroids/polyps/adhesions;
+- Resection of septum.
+Pulmonology
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in pulmonology
+procedures. Applications include:
+- tracheal bronchial lesions.
+*** Page 4 Of 6 (Indications For Use Continued on Next Page; 6 pages total) ***
+
+Indications for Use Statement
+510(k) Number (if Known): K042211
+Device Name: LaserPro 810, 940 and 980 Surgical Diode Laser Systems
+Indications For Use:
+Continued from previous page:
+Opthomology
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in ophthalmology
+procedures. Applications include:
+- Oculoplastics
+
+- open DCR;
+
+- endo-nasal DCR;
+
+- tumor excision and biopsy;
+
+- eyelid reconstruction;
+
+- blepharoplasty.
+Orthopedics
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in orthopedic surgery
+procedures. Applications include:
+- Open
+
+- Dissect and coagulate.
+*** Page 5 of 6 (Indications For Use Continued on Next Page; 6 pages total) ***
+
+Indications for Use Statement
+510(k) Number (if Known): K042211
+Device Name: LaserPro 810, 940 and 980 Surgical Diode Laser Systems
+Indications For Use: .
+Continued from previous page:
+Otolaryngology (ENT)
+The ablation, vaporization, excision, incision, and coagulation of soft tissue in otolaryngology
+procedures. Applications include:
+- Nasal/Sinus
+-  turbinectomy and turbinate reduction/ablation;
+- polypectomy of nose and nasal passages;
+- ethmoidectomy;
+- meatal antrostomy;
+- Laryngo-tracheal
+_ = removal of vocal cord/fold nodules, polyps and cysts;
+- arytenoidectomy;
+- tracheal stenosis;
+- Oropharyngeal
+- uvulopalatoplasty (LAUP, laser UPPP);
+- tonsillectomy (including tonsillar cryptolysis, neoplasma) and tonsil;
+- hemi glossectomy;
+- Head & Neck
+- tumor resection on oral, subfacial and neck tissues;
+- parathyroidectomy;
+- thyroidectomy. 3 ) C Vrevoal
+(Division Sign-Off)
+Division of General, Restorative,
+and Neurological Devices
+6
+510(k) Number_“2722//
+*** Page 6 of 6 (Indications For Use Continued on Next Page; 6 pages total) ake
+

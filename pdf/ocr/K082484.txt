@@ -1,0 +1,285 @@
+Genel SEP 1 2 2008
+510(k) Summary of Safety and Effectiveness
+Accelawave System
+540(k) Number KOYZ4 4
+Applicant: Genesis Biosystems
+Address: 1500 Eagle Court
+Lewisville, TX 75057
+Contact Person: Brian A. Buss, Director of Compliance
+Telephone: (972) 315-7888 ,
+Fax: (972) 315-7818
+Email: bbuss@genesisbiosystems.com
+Date prepared: 04 / 23 / 2008 /
+Device Trade Name: Accelawave System
+Common Name: Intense Pulsed Light (IPL)
+Classification Name: Laser Surgical Instrument 21 C.F.R § 878.4810
+Product Classification: Class II device
+Product Code: ONE
+Section #2 -2
+
+Py
+
+Genesis
+
+Biosystems
+Legally Marketed
+Predicate Device: The Accelawave System is substantially equivalent in terms of
+technological characteristics, performance, intended use,
+indications for use and operator interface to;
+e Chromogenex (K053324)
+e Sciton (K032460)
+e Lumenis (K020839)
+
+System Description: The Accelawave is an Intense Pulsed Light-based medical device
+utilizing xenon flash lamp technology to illuminate the dermis to
+offer light based therapies as listed in the indications of use. The
+Accelawave emits “light at 420nm to 1200nm via a 15mm x 45mm
+treatment area at a repetition rate equal to or less than 0.5Hz
+(operator selective).
+
+. *Light is delivered to the skin surface while a water-cooled heat
+transfer network cools the contacting surfaces and the epidermis.
+
+Performance The device complies with the European Medical Directive
+
+Standards: 93/42/EEC concerning medical devices, and will comply with
+voluntary standards UL60601-1:1996 when marketed in the U.S.
+
+Indications for use: Indications for Use for Fitzpatrick skin types (I to Vl)
+
+e The removal of unwanted hair and to effect stable long-term or *permanent hair
+reduction.
+*Permanent hair reduction is defined as a long-term stable reduction in the
+number of hairs re-growing after a treatment regimen.
+
+e The treatment of moderate inflammatory acne vulgaris
+
+e The treatment of benign pigmented epidermal lesions including dyschromia,
+hyperpigmentation, melasma, ephelides (freckles)
+
+e The treatment of cutaneous lesions including warts, scars, and striae.
+
+Section #2 -3
+
+Genet
+Blosystems.
+
+e The treatment of benign cutaneous vascular lesions, including port wine stains,
+hemangiomas, facial, truncal and leg telangiectasias, erythema of rosacea, angiomas,
+and spider angiomas, poikiloderma of civatte, leg veins and venous malformations.
+
+The integrated thermal cooling is indicated for use in cooling the epidermis at the treatment
+site prior to, during, and after treatment in general aesthetic dermatologic and plastic surgery
+procedures,
+
+« Reduce pain during and/or with light treatment (via partial anesthesia from cooling)
+
+e Reduce discomfort during and/or associated with light treatment
+
+e Minimize thermal injury, including thermal necrosis, to non-target skin and skin
+structures during and/or associated with light treatment, thus reducing possible
+complications such as scabbing, scarring, hyper — and/or hypopigmentation
+
+e Allow the use of higher light fluences for light or laser treatments (such as for hair
+removal and the treatment of vascular or pigmented lesions)
+
+e Reduce potential side effects of light or laser treatments (such as for hair removal and
+the treatment of vascular or pigmented lesions)
+Conclusion: The Accelawave System is substantially equivalent to its predicate
+: devices, based upon predicate similarities. The skin is treated in the same
+manner as the predicate devices, Intense Pulsed Light and dermal cooling.
+
+PT SABRES Lo a CUBR SA SEHIne cs eG ton Mea oiasen MRTOrpane | |
+
+cee Bete ect ets Me eae CapRe alos ade jipaehs Saat LM ny PEAR. Fo vhs 3. 2
+
+oC DeeNees Cee Sr eee) &
+
+Characteristics
+Characteristics Programmable Programmable Programmable
+fama | sagem | route |
+Parameters Programmable Programmable
+Skin Cold Gel vs. Cold Similar Cold
+Cooling/Epidermal Contact Cooling Contact Cooling
+Cooling difference,
+‘ Section #2 - 4
+
+GeneS
+Biosystems
+Side Effects: In extreme cases, effects from treatment can include excessively red
+patches in the shape of the applicator head and blistering. If this occurs
+the tissue should be cooled and cared for as would normally be the case
+with burns to the skin, i.e. do not burst any blister formation, keep clean
+and covered until healed.
+
+. If blisters form, they are usually intra-epidermal in nature and heal without
+scarring. Inappropriate management of blisters during the healing stage
+will increase the chance of scarring.
+
+Section #2 -5
+
+a seams Ny
+i 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+—_ ee ee
+“ny,
+mo Food and Drug Administration
+10903 New Hampshire Avenue
+Document Control Room -W066-G609
+Silver Spring, MD 20993-0002
+Genesis Biosystems, Inc.
+% Underwriters Laboratories, Inc.
+Mr. Casey Conry
+Senior Project Engineer 26 2
+1285 Walt Whitman Road AUG
+Melville, New York 11747
+Re: K082484
+Trade/Device Name: Accelawave System
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and
+in dermatology
+Regulatory Class: II
+Product Code: ONF
+Dated: August 26, 2008
+Received: August 28, 2008
+Dear Mr. Conry:
+This letter corrects our substantially equivalent letter of September 12, 2008.
+* We have reviewed your Section 510(k) premarket notification of intent to market the
+device referenced above and have determined the device is substantially equivalent (for the
+indications for use stated in the enclosure) to legally marketed predicate devices marketed
+in interstate commerce prior to May 28, 1976, the enactment date of the Medical Device
+Amendments or to devices that have been reclassified in accordance with the provisions of
+the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. The general controls provisions of the Act include
+requirements for annual registration, listing of devices, good manufacturing practice,
+labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III
+(PMA), it may be subject to additional controls. Existing major regulations affecting your ,
+device can be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In
+addition, FDA may publish further announcements concerning your device in the Federal
+Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not
+mean that FDA has made a determination that your device complies with other
+requirements of the Act or any Federal statutes and regulations administered by other
+
+Federal agencies. You must comply with all the Act’s requirements, including, but not
+limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part 801); medical
+device reporting (reporting of medical device-related adverse events) (21 CFR 803); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21
+CFR Part 820); and if applicable, the electronic product radiation control provisions
+(Sections 531-542 of the Act); 21 CFR 1000-1050.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801),
+please go to
+http://www.fda.gov/AboutFDA/CentersOffices/CDRH/CDRHOffices/ucm115809.htm for
+the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also,
+please note the regulation entitled, "Misbranding by reference to premarket notification”
+(21CFR Part 807.97). For questions regarding the reporting of adverse events under the
+MDR regulation (21 CFR Part 803), please go to
+http://www. fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s
+Office of Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other general information on your responsibilities under the Act from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free
+number (800) 638-2041 or (301) 796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforY ou/Industry/default.htm.
+an Al...
+Mark N. Melkerson
+Director
+Division of Surgical, Orthopedic,
+and Restorative Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+Geneft
+Biosystems
+Indications for Use
+)
+510(k) Number (if known): Ogrtt gy (Division SignDevice Name: _ Accelawave System Division of General, Restorative,
+~ and Neurological Devices
+: 1; iyi
+Indications for Use for Fitzpatrick skin types (I to VI) 510(k) Number 2 Y s :
+¢ The removal of unwanted hair and to effect stable long-term or *permanent hair
+reduction.
+*Permanent hair reduction is defined as a long-term stable reduction in the
+number of hairs re-growing after a treatment regimen.
+
+¢ The treatment of moderate inflammatory acne vulgaris
+
+e The treatment of benign pigmented epidermal lesions including dyschromia,
+hyperpigmentation, melasma, ephelides (freckles)
+
+e The treatment of cutaneous lesions including warts, scars, and striae.
+
+e The treatment of benign cutaneous vascular lesions, including port wine stains,
+hemangiomas, faclal, truncal and leg telanglectasias, erythema of rosacea, angiomas,
+and spider angiomas, poikiloderma of civatte, leg veins and venous malformations.
+
+The integrated thermal cooling is indicated for use in cooling the epidermis at the treatment
+site prior to, during, and after light treatment In general aesthetic dermatologic and plastic
+surgery procedures.
+
+* Reduce pain during light treatment (via partial anaesthesla from cooling)
+
+e Reduce discomfort during and/or associated with light treatment
+
+© Minimize thermal injury, including thermal necrosis, to non-target skin and skin
+structures during and/or associated with light treatment, thus reducing possible
+complications such as scabbing, scarring, hyper — and/or hypo pigmentation
+
+e Allow the use of higher light or laser fluences for light treatments (such as for hair
+removal and the treatment of vascular or pigmented lesions)
+
+e Reduce potential side effects of light treatments (such as for hair removal and the
+treatment of vascular or pigmented lesions)
+
+Section #5 -1
+R oF &
+tree | of Sir
+
+Indications for Use
+510(k) Number (if known): Kos 24eYy
+Device Name: fcce\a wave Sys tem
+Indications For Use:
+indications and Filters vs, Skin Types
+FRR reese ero eA eae CERES Pa Tn pene eee OM EnCana eared
+eer ee SNIPES ae ea)
+Eiri HOCO)NIOVRMTOINISHE tes Oe [ecu ca iiiaer| aul) a dIIee EaN een ella
+[Hair (course) fea] 640-1200 | 640-1200 | 640-1200 640-1200 | 690-1200 | 690-1200
+Hair (fine) a 640-1200 | 640-1200 | 640-1200 | 640-1200 690-1200 | 690-1200 |
+Acne Vulgaris Zz 420-1200 | 420-1200 | 420-1200 | 420-1200 | 10-1200 NIA
+PYG TCC Clipe ai een | Tt ATC ae RO aan ETE
+8 ee
+pideimal Pes iensiy caer Sn era se an
+| Pusshrame | ‘| 510-1200 _| 610-1200. | 510-1200 | 660-1200 | 560-1200
+b) Hyperpigmentation _'¢)is,| 510-1200 _| 10-1200 _| 610-1200 | 660-4200 | 560-1200 NIA
+peltielasima __| 560-1200_| 860-1200 | 660-1200 _|'560-1200 | 560-1200 | N/A
+d)Ephelides ee 560-4200 _| 560-1200 _| 560-1200 _| 560-1200 _| 560-1200 |N/A
+Cinelete | ie or Sree ee
+a) Warts Me a 420-1200 _| 420-4200 | 420-1200 | 420-1200 | 420-1200 NIA
+b) Scars shi |'560-1200 | 560-1200 | 660-1200 | 560-1200 | 560-1200 |N/A
+o) Siriae . pe 560-1200 _| §60-1200 | 660-1200 | 560-1200 | 660-1200 NA
+Sona ea ST SE ae A | Scere eT <Faley tinea sg GERD ieae ROR a EN UME
+Se ee ae
+a) Port Wine Slain (Child) [te] 510-1200 | 510-1200 | 510-1200 | 560-1200 | 560-1200 NIA
+b) Port Wine Stain (Adult) [2s 510-1200 | 510-1200 | 610-1200 | 560-1200 _| 660-1200 N/A
+| c) Hemangiomas ee 560-1200 | $60-1200_[ 660-1200 | 560-4200 | 580-1200 N/A
+d) Telangiectasias _—ESIaija| 510-1200] §10-1200_|610-1200_| 660-1200 | 560-1200 |N/A |
+e) Rosacea erit| 960-1200 | 560-1200 | 660-1200 | 580-1200 | 560-1200 WA |
+f) Angiomas #09,=| 860-1200 [560-1200 [560-1200 | 560-1200 | 660-1200 |N/A |
+g) Spider Angiomas aes 560-1200 | 560-1200 | 560-1200 | 860-1200 | 580-1200 NIA
+h) Poikiloderma Ee 510-1200 _| 510-1200 _| 510-1200 _| 560-1200 | 660-1200
+Malformations iE 960-1200 | 660-1200 | 560-4200 | 560-1200 | 560-1200
+panels §10-1200_| 10-1200 | 610-1200 | 560-1200 | 560-1200
+b) Medium Na 560-1200 | 560-1200 _| 560-1200 | 660-1200 | 560-1200
+¢) Large —_ [tine 560-1200 | 860-1200 | s60-1200 | 860-1200 NIA
+Prescription Use x AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+"Concurrence of CDRH, Office of Device Evaluation(ODE)—s—~CS
+WAR OAL — Gemxm
+(Division Sign-Off)
+Division of Surgical, Orthopedic,
+and Restorative Devices Paged of }
+0 > \ vm
+» $10(k) Number KOBQ2H GH
+

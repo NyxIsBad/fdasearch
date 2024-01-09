@@ -1,0 +1,163 @@
+510(k) SUMMARY
+Title: Quanta System Q-Plus T
+Submitter: Quanta System SpA
+via IV Novembre,116
+21058 Solbiate
+Olona VA/ Italy
+Contact: Dr. Isabella Carrer _
+Medical Division Manager
+Date Prepared: June 28, 2007
+Device Trade Name: Quanta System Q-Plus T
+Common Name: Laser surgical instrument for use in general surgery and
+dermatology
+Classification Instrument, surgical, powered, laser
+Name:
+Predicate Devices: - Cynosure, Inc Affinity QS Q-Switched Nd:YAG
+Laser System (K050382);
+- ASCLEPION LASER TECHNOLOGIES GmbH
+TattooStar R (K060787 )
+Intended Use / Nd:YAG (1064nm) and (532nm)
+Indications for Use:
+The Q-Plus T Q-Switched laser is intended for
+treatment of vascular lesions, pigmented lesions, and
+for hair, tattoo removal and the incision, excision,
+ablation, vaporization of soft tissue for general
+dermatology.
+Ruby (694nm)
+The Q-Plus T Q-Switched laser is intended for use for
+cutting, vaporization and ablation of soft tissue and the
+removal of tattoos and benign pigment lesion.
+Some examples of pigment lesions are
+* Lentigines
+* café-au-lait-blotches
+
+« Ephalides
+« Benign Naevi such as:
+« Naevus of Ota
+= Naevus of Ito
+* Epidermal Naevi
+» Congenital Naevi
+« Beckers Naevi
+* Blue Nevus
+« Naevus Spillus
+* Mongolian Spot
+Technological The device includes a Q-Switched Nd:YAG laser source
+Characteristics: with 1000mJ max energy at 1064 nm and 500mJ max
+energy at 532 nm wavelengths, and a Q-Switched Ruby
+laser source with 1000mJ max energy at 694nm
+wavelength. The optical delivery system for the three
+wavelengths is the articulated arm.
+In addition, the Q-Plus T includes a power supply; a
+cooling system; an optical delivery system; a
+microprocessor based controller; and safety features to
+ensure use of the appropriate laser, wavelength and
+hand piece.
+Performance Data None
+Substantial The Quanta System Q-Plus-T is as safe and effective as
+Equivalence: the predicate devices. The Q-Plus T has the same
+intended uses and similar indications, technological
+characteristics, and principles of operation as its
+predicate device. The minor technological differences
+between the Q-Plus T and its predicate devices raise no
+new issues of safety or effectiveness. Thus, the Q-Plus
+T is substantially equivalent.
+
+2 ¢ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+“eps Food and Drug Administration
+9200 Corporate Boulevard
+FEB 2 8 2006 Rockville MD 20850
+Quanta System, S.P.A.
+% Regulatory Technology Services, LLC
+Mr. Mark Job
+1394 25" Street, Northwest
+Buffalo, Minnesota 55313
+Re: K073549
+Trade/Device Name: Q-Plus T
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and
+in dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: February 18, 2008
+Received: February 19, 2008
+Dear Mr. Job:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class IIT (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CEFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+Page 2 — Mr. Mark Job
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474. For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda.gov/cdrh/industry/support/index.html.
+Sincerely yours,
+Mark N. Melkerson
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+
+Indications for Use Statement
+510(k) Number (if known):
+Device Name: Q-Plus T
+Indications for Use:
+Nd:YAG (1064nm) and (532nm)
+The Q-Plus T Q-Switched laser is intended for treatment of vascular lesions,
+pigmented lesions, and for hair, tattoo removal and the incision, excision, ablation,
+vaporization of soft tissue for general dermatology.
+Ruby (694nm)
+The Q-Plus T Q-Switched laser is intended for use for cutting, vaporization and
+ablation of soft tissue and the removal of tattoos and benign pigment lesion.
+Some examples of pigment lesions are
+= Lentigines
+* café-au-lait-blotches
+« Ephalides
+= Benign Naevi such as:
+« Naevus of Ota
+» Naevus of Ito
+« Epidermal Naevi
+* Congenital Naevi
+= Beckers Naevi
+= Blue Nevus
+* Naevus Spillus
+=" Mongolian Spot
+Prescription Use __X__ AND/OR Over-The-Counter Use.
+(Part 21 C.F.R. 801 Subpart D) (21 C.F.R. 807 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE -- dbivisneSIEN Ron ier PAGE
+IF NEEDED) Division of General, Restorative,
+—_—__ —_—____ —_————- _ and Neurological Devices__
+Concurrence of CDRH, Office of Device Evaluation ABE) 7 2 su q
+si0(k) Number_K Ot S511
+

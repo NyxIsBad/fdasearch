@@ -1,0 +1,454 @@
+510(k) SUMMARY
+KO7215b
+Biolitec Inc.’s _
+150W Ceralas Diode 980nm Laser System (Model D150)
+Submitter’s Name, Address, Telephone Number, Contact Person
+and Date Prepared
+Hogan & Hartson
+555 13% Street NW
+Washington DC 20004 AUG 3 0 2007
+Phone: 202 637-5794
+Facsimile: (202) 6387-5910
+Contact Person: Jonathan S. Kahan
+Date Prepared: July 26, 2007
+Name of Device and Name/Address of Sponsor
+150W Ceralas D 980nm Diode Laser (Model D150)
+Biolitec, Inc.
+515 Shaker Road
+East Longmeadow, MA 01028
+Common or Usual Name
+Diode Laser
+Classification Name
+Laser, Surgical Diode Laser System
+Predicate Devices
+Biolitec’s 100W Ceralas D 980nm Diode Laser ((K050824, K071295)
+INTERmedic Diode Laser Family 890nm and 980nm (K053540)
+Xintec Vectra Diode Laser (K060114)
+
+Intended Use / Indications for Use
+
+The device is intended for delivery of laser light to soft tissue in the contact
+and non contact mode during surgical procedures including via endoscopes.
+The 150W Ceralas D980 is generally indicated for use in incision, excision,
+vaporization, ablation, hemostasis or coagulation of soft tissue in ear, nose
+and throat and oral surgery (otolaryngology), arthroscopy, gastroenterology,
+general surgery, dermatology, plastic surgery, podiatry, urology, gynecology,
+neurosurgery (peripheral nervous system), pulmonary surgery, cardiothoracic
+surgery, dental applications, and endovenous occlusion of the greater
+saphenous vein.
+The device is specifically indicated for use as follows:
+Ear, Nose and Throat and Oral Surgery (Otolaryngology)
+Hemostasis, incision, excision, ablation, coagulation, and vaporization of
+tissue from the ear, nose, throat and adjacent areas including soft tissue in
+the oral cavity. Examples include:
+
+¢ Removal of benign lesions from the ear, nose and throat
+
+e Excision and vaporization of vocal cord nodules and polyps
+
+e Incision and excision of carcinoma in situ
+
+e Ablation and vaporization of hyperkeratosis
+
+e Excision of carcinoma of the larynx
+
+¢ Laryngeal papillomectomy
+
+e Excision and vaporization of herpes simplex I and II
+
+e Neck dissection
+Arthroscopy
+Hemostasis, incision, excision, coagulation, vaporization and ablation of joint
+tissues during arthroscopic surgery. Examples include:
+
+« Menisectomy
+
+e Synovectomy
+
+e Chondromalacia
+Gastroenterology
+Hemostasis, incision, excision, ablation, coagulation and vaporization of
+tissue in the upper and lower gastrointestinal tracts and also with
+endoscopic procedures. Examples include:
+
+e Hemostasis of upper and lower GI bleeding
+
+e Excision and vaporization of colorectal carcinoma
+
+e Excision of polyps
+General Surgery, Dermatology, Plastic Surgery and Podiatry
+Excision, ablation, vaporization and photocoagulation of skin lesions,
+hemostasis, incision, excision, vaporization, ablation and debulking of soft
+tissue, abdominal, rectal, skin, fat or muscle tissue and dermabrasion.
+Examples include:
+
+e Matrixectomy
+
+e Excision of neuromas
+
+e Excision of periungual and subungual warts
+
+e Excision of plantar warts
+
+e Excision of keloids
+
+e Liver resection
+
+e Excision of cutaneous lesions
+
+e Hemorrhoidectomy
+
+e Appendectomy
+
+e Debridement of decubitus ulcers
+
+e Hepatobiliary tumors
+
+e Mastectomy
+
+e Dermabrasion
+
+e Vaporization and hemostasis of capillary hemangioma
+
+e Excision, vaporization and hemostasis of abdominal tumors
+
+e Excision, vaporization and hemostasis of rectal pathology
+
+e Pilonidal cystectomy
+
+e Herniorapphy
+
+e Adhesiolysis
+
+e Parathyroidectomy
+
+e Laparoscopic cholecystectomy
+
+e Thyroidectomy
+
+e Resection of organs
+
+e Debridement of wounds
+
+e Photocoagulation of teleangectasia of the legs and face
+
+e Photocoagulation of vascular lesions of the face and
+
+extremities
+
+e Endovascular coagulation of the greater saphenous vein of
+
+the thigh in patients with superficial vein reflux.
+
+e Treatment of reticular veins and branch varicosities
+Urology
+Excision, vaporization, incision, coagulation, ablation and hemostasis of
+urological tissues. Examples include:
+
+e Vaporization of urethral tumors
+
+e Release of urethral stricture
+
+e Removal of bladder neck obstruction
+
+e Excision and vaporization of condyloma
+
+e Lesions of external genitalia
+
+e Vaporization of the prostate to treat benign prostatic
+
+hyperplasia (BPH)
+
+Gynecology
+Ablation, excision, incision, coagulation, hemostasis and vaporization of
+gynecological tissue. Examples include:
+
+e Endometrial ablation
+
+e Excision or vaporization of condylomata acuminata
+
+¢ Vaporization of cervical intraepithelial neoplasia
+
+¢ Cervical conization
+
+e Menorrhagia
+Neurosurgery
+Vaporization, coagulation, excision, incision, ablation and hemostasis of soft
+tissue. Examples include: hemostasis in conjunction with menigiomas
+Cardiac Surgery
+Hemostasis and coagulation of soft tissue, including cardiac tissue.
+Pulmonary Surgery
+Hemostasis, vaporization, coagulation, incision, excision and ablation of soft
+tissue in the pulmonary system. Examples include:
+
+e Tracheobronchial malignancy or stricture :
+
+e Benign and malignant pulmonary obstruction
+
+e Endoscopic pulmonary applications
+Dental Applications
+Indicated for the following applications on intraoral and extraoral soft tissue
+(including marginal and interdental gingival and epithelial lining of free
+gingival): frenectomy, frenotomy, biopsy, operculectomy, implant recovery,
+gingivectomy, gingivoplasty, gingival troughing, crown lengthening,
+hemostasis of donor site, removal of granulation tissue, laser assisted flap
+surgery, debridement of diseased epithelial lining, incisions and draining of
+abscesses, tissue retraction for impressions, papillectomy, vestibuloplasy,
+excision of lesions, exposure of unerupted/partially erupted teeth, leukoplakia,
+removal of hyperplastic tissues, treatment of aphthous ulcers and sulcular
+debridement (removal of diseased or inflamed soft tissue in the periodontal
+pocket), pulpotomy, pulpotomy as an adjunct to root canal therapy and light
+activation of bleaching materials for teeth whitening.
+Endovenous Occlusion of the Greater Saphenous Vein in Patients
+with Superficial Vein Reflux
+Indicated for use with the ELVes Procedure Kit in the endovascular
+coagulation of the Greater Saphenous Vein (GSV) of the thigh in patients
+with Superficial Vein Reflux.
+
+Technological Characteristics
+
+The 150W Ceralas D980 has the same technological characteristics as the
+cleared 100W Ceralas D980 and substantially similar technological
+characteristics as compared to the INTERmedic Diode Laser and the Xintec
+Vectra Diode Laser.
+
+Substantial Equivalence
+The 150W Ceralas D980 is as safe and effective as Biolitec’s 100W Ceralas D
+980nm Diode Laser (K0071295), INTERmedic’s Diode Laser Family 890nm
+and 980nm (K053540), and Xintec’s Vectra Diode Laser (K060114). The
+Ceralas D150 has the same intended uses and similar indications,
+technological characteristics, and principles of operation as its predicate
+devices. The minor technological differences between the Ceralas D150 and
+its predicate devices raise no new issues of safety or effectiveness.
+Performance data demonstrate that the Ceralas D150 is as safe and effective
+as the predicate devices. Thus, the Ceralas D150 is substantially equivalent
+to the predicate devices.
+
+2 J DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+G Food and Drug Administration
+9200 Corporate Boulevard
+ille MD 20850
+FEB 21 2008 Rockville MD 208
+Biolitec, Inc.
+c/o Mr. Johnathan S. Kahan
+Hogan & Hartson, LLP
+555 Thirteenth Street, Northwest
+Washington, DC 20004
+Re: K072106
+Trade/Device Name: 150W Ceralas D 980nm Diode Laser (Model D150)
+Regulation Number: 21 CFR 878.4810
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and in
+dermatology
+Regulatory Class: II (two)
+Product Code: OCL, GEX
+Dated: July 31, 2007
+Received: July 31, 2007
+Dear Mr. Kahan:
+This letter corrects our substantially equivalent letter of August 30, 2007.
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices,
+good manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class I] (PMA),
+it may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Page 2 - Mr. Johnathan S. Kahan
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to continue marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your
+device to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0120. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(240) 276-3150 or at its Internet address http://www.fda.gov/cdrh/dsma/dsmamain.htm]
+
+Sincerely yours,
+
+fr Bram D. Hes M.D.
+
+Director
+
+Division of Cardiovascular Devices
+
+Office of Device Evaluation
+
+Center for Devices and
+
+Radiological Health ~
+Enclosure
+
+Indications for Use Statement KOt A\0 lb
+__
+
+Indications for Use Statement
+510(k) Number (if known):
+Device Name: 150W Ceralas D 980nm Diode Laser (Model D150)
+Indications for Use:
+The device is intended for delivery of laser light to soft tissue in the contact and non
+contact mode during surgical procedures including via endoscopes. The 150W
+Ceralas D980 is generally indicated for use in incision, excision, vaporization,
+ablation, hemostasis or coagulation of soft tissue in ear, nose and throat and oral
+surgery (otolaryngology), arthroscopy, gastroenterology, general surgery,
+dermatology, plastic surgery, podiatry, urology, gynecology, neurosurgery
+(peripheral nervous system), pulmonary surgery, cardiothoracic surgery, dental
+applications, and endovenous occlusion of the greater saphenous vein.
+The device is specifically indicated for use as follows:
+Ear, Nose and Throat and Oral Surgery (Otolaryngology)
+Hemostasis, incision, excision, ablation, coagulation, and vaporization of tissue from
+the ear, nose, throat and adjacent areas including soft tissue in the oral cavity.
+Examples include:
+
+e Removal of benign lesions from the ear, nose and throat
+
+° Excision and vaporization of vocal cord nodules and polyps
+
+° Incision and excision of carcinoma in situ
+
+. Ablation and vaporization of hyperkeratosis
+
+e Excision of carcinoma of the larynx
+
+° Laryngeal papillomectomy
+
+e Excision and vaporization of herpes simplex I and II
+
+° Neck dissection
+Arthroscopy
+Hemostasis, incision, excision, coagulation, vaporization and ablation of joint
+tissues during arthroscopic surgery. Examples include:
+
+° Menisectomy
+
+. Synovectomy
+
+° Chondromalacia
+
+Gastroenterology
+Hemostasis, incision, excision, ablation, coagulation and vaporization of tissue in
+the upper and lower gastrointestinal tracts and also with endoscopic procedures.
+Examples include:
+° Hemostasis of upper and lower GI bleeding
+e Excision and vaporization of colorectal carcinoma
+° Excision of polyps
+General Surgery, Dermatology, Plastic Surgery and Podiatry
+Excision, ablation, vaporization and photocoagulation of skin lesions, hemostasis,
+incision, excision, vaporization, ablation and debulking of soft tissue, abdominal,
+rectal, skin, fat or muscle tissue and dermabrasion. Examples include:
+° Matrixectomy
+e Excision of neuromas
+° Excision of periungual and subungual warts
+° Excision of plantar warts
+. ° Excision of keloids
+° Liver resection
+e Excision of cutaneous lesions
+° Hemorrhoidectomy
+, . Appendectomy
+° Debridement of decubitus ulcers
+. Hepatobiliary tumors
+e Mastectomy
+e Dermabrasion
+e Vaporization and hemostasis of capillary hemangioma
+° Excision, vaporization and hemostasis of abdominal tumors
+° Excision, vaporization and hemostasis of rectal pathology
+° Pilonidal cystectomy
+. Herniorapphy
+e Adhesiolysis
+e Parathyroidectomy
+. Laparoscopic cholecystectomy
+° Thyroidectomy
+° Resection of organs
+° Debridement of wounds
+° Photocoagulation of teleangectasia of the legs and face
+° Photocoagulation of vascular lesions of the face and extremities
+° Endovascular coagulation of the greater saphenous vein of the
+thigh in patients with superficial vein reflux.
+e Treatment of reticular veins and branch varicosities
+
+Urology /
+Excision, vaporization, incision, coagulation, ablation and hemostasis of urological
+tissues. Examples include:
+
+° Vaporization of urethral tumors
+
+° Release of urethral stricture
+
+° Removal of bladder neck obstruction
+
+° Excision and vaporization of condyloma
+
+e Lesions of external genitalia
+
+e Vaporization of the prostate to treat benign prostatic
+
+hyperplasia (BPH)
+
+Gynecology
+Ablation, excision, incision, coagulation, hemostasis and vaporization of
+gynecological tissue. Examples include:
+
+° Endometrial ablation
+
+° Excision or vaporization of condylomata acuminate
+
+° Vaporization of cervical intraepithelial neoplasia
+
+° Cervical conization
+
+° Menorrhagia
+Neurosurgery
+Vaporization, coagulation, excision, incision, ablation and hemostasis of soft tissue.
+Examples include: hemostasis in conjunction with menigiomas
+Cardiac Surgery
+Hemostasis and coagulation of soft tissue, including cardiac tissue.
+Pulmonary Surgery
+Hemostasis, vaporization, coagulation, incision, excision and ablation of soft tissue
+in the pulmonary system. Examples include: .
+
+° Tracheobronchial malignancy or stricture
+
+. Benign and malignant pulmonary obstruction
+
+e Endoscopic pulmonary applications
+Dental Applications
+Indicated for the following applications on intraoral and extraoral soft tissue
+(including marginal and interdental gingival and epithelial lining of free gingival):
+frenectomy, frenotomy, biopsy, operculectomy, implant recovery, gingivectomy,
+
+gingivoplasty, gingival troughing, crown lengthening, hemostasis of donor site,
+removal of granulation tissue, laser assisted flap surgery, debridement of diseased
+epithelial lining, incisions and draining of abscesses, tissue retraction for
+impressions, papillectomy, vestibuloplasy, excision of lesions, exposure of
+unerupted/partially erupted teeth, leukoplakia, removal of hyperplastic tissues,
+treatment of aphthous ulcers and sulcular debridement (removal of diseased or
+inflamed soft tissue in the periodontal pocket), pulpotomy, pulpotomy as an adjunct
+to root canal therapy and light activation of bleaching materials for teeth whitening.
+Endovenous Occlusion of the Greater Saphenous Vein in Patients with
+Superficial Vein Reflux
+Indicated for use with the ELVes Procedure Kit in the endovascular coagulation of
+the Greater Saphenous Vein (GSV) of the thigh in patients with Superficial Vein
+Reflux.
+Prescription Use ___X__ AND/OR Over-The-Counter Use
+(Part 21 C.F.R. 801 Subpart D) (21 C.F.R. 807 Subpart C)
+we ~——
+(Division Sign-Of
+Divisi .
+vision of General, Restorative,
+and Neurological Devices
+510(k) Nomber [20 110 L
+

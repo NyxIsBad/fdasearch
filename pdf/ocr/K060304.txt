@@ -1,0 +1,171 @@
+MAR 2 1 2006
+§10(k) Summa
+
+In accordance with the Safe Medical Devices Act of 1990 and in compliance with 21CFR 807, the
+following serves as the 510(k) Summary information upon which the substantial equivalence
+determination is based.
+Contact Information
+
+Submitter: BioTex, Inc,
+
+8058 El Rio St. .
+Houston, TX 77054
+
+Phone: 713.741.0111
+
+Contact Person: Matthew Fox
+
+Date Prepared: 03/14/2006
+Device Names
+
+Trade/Proprietary Name: PhoTex15 Diode Laser Series: 980, 810, 940
+
+Common Name: Diode Laser Series
+
+Classification Name: Powered surgical laser instrument
+
+Product Code: GEX
+
+. Reg.Class: Ml
+
+Reg. Number: 878.4810 :
+Predicate Device
+
+SLT Thermalite Diode Laser Series: 980, 810, 940 (K952661)
+Description of Device
+The PhoTex;s Diode Laser Series are diode lasers emitting radiation in either a continuous-wave
+(CW) or pulsed-mode in the infrared range at one of the following wavelengths: 980nm, 810nm,
+and 940nm, The PhoTex;s Diode Laser Series provides a means for cutting, coagulation, and
+vaporization of tissue using a compatible fiber optic delivery accessory. The laser is compatible
+with any fiber optic delivery accessory terminated with a standard SMA905 connector whose core
+fiber diameter is 400 micron or larger with a numerical aperture of at least .37.
+Indications for Use
+The PhoTex15 Diode Laser Series is indicated for use in surgical applications requiring the
+ablation, vaporization, excision, incision, and coagulation of soft tissue in areas of surgery
+including: gastroenterology, general surgery, plastic surgery. genitourinary (urology),
+gynecology (GYN), neurosurgery, otolaryngology (ENT) head and neck, orthopedics,
+ophthalmology, pulmonology, and thoracic surgery.
+
+K060304 Response Letter Page 5 of 6
+
+Comparison to Predicate Device ,
+
+The PhoTex;s Diode Laser Series has been shown to be substantially equivalent to the predicate
+devices, the SLT Thermalite Diode Laser Series and PhotoMedex LaserPro Diode Laser
+Systems. Based on the technological features, device performance, and indications for use,
+BioTex, Inc. believes that no significant differences exist between the PhoTex,, Diode Laser
+Series and the predicate device. Differences were determined to be minor and are each within
+the specifications listed by the predicate device and does not raise any concems regarding the
+overall safety and effectiveness of the device.
+Non-clinical Performance Tests:
+Engineering studies have demonstrated the substantial equivalence of the PhoTex,s Diode Laser
+Series to the SLT Thermalite Diode Laser Series (K 952661).
+The studies concluded that the lasers are in compliance with FDA standards 21CFR1040,10 and
+21CFR1040.11. In all instances, the jasers functioned as intended and performed in a manner
+similar to the predicate device when used in accordance with the labeled directions for use and
+specified indications,
+Conclusion
+BioTex has demonstrated the PhoTex,,; Diode Laser Series is substantially equivalent to the
+predicate device based on design, test results, and indications for use.
+
+K060304 Response Letter Page 6 of 6
+
+é 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+,
+vom Food and Drug Administration
+9200 Corporate Boulevard
+Rockville MD 20850
+MAR 2 1 2006
+BioTex, Incorporated
+c/o Mr. Matthew Fox
+Development Engineer .
+8058 El Rio Street
+Houston, Texas 77054
+Re: K060304
+
+Trade/Device Name: PhoTex15 Diode Laser Series: 980, 810, 940
+
+Regulation Number: 21 CFR 878.4810
+
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and
+
+in dermatology
+
+Regulatory Class: II
+
+Product Code: GEX
+
+Dated: January 6, 2006
+
+Received: February 8, 2006
+Dear Mr. Fox:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstaic
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments. sr to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+
+general controls provisions of the Act include requirements for annual registration, listing of
+
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class [{f (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does nai mean
+that FDA has made a determination that your device complies with other requirements ui dic Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as sct
+
+Page 2 — Mr. Matthew Fox
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050. :
+This letter will allow you to begin marketing your device as described in your Section 510(k}
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-0115. Also, please note the regulation entitled,
+“"Misbranding by reference to premarket notification” (21CFR Part 807.97). You may obtain
+other general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address http://www. fda.gov/cdrh/dsma/dsmamain.htm!
+
+Sincerely yours,
+
+os N. iW)
+Acting Director Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Indications for Use
+510(k) Number (if Known):  KO60304
+Device Name: PhoTex15 Diode Laser Series: 980, 810, 940 ,
+Indications For Use:
+The PhoTex1S Diode Laser Series is indicated for use in surgical applications requiring the
+ablation, vaporization, excision, incision, and coagulation of soft tissue in areas of surgery ‘
+including: gastroenterology, general surgery, plastic surgery, genitourinary (urology),
+gynecology (GYN), neurosurgery, otolaryngology (ENT) head and neck, orthopedics,
+ophthalmology, pulmonology, and thoracic surgery.
+Prescription Use__ X__ AND/OR Over-The-Counter Use
+(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+ae
+
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+(Division Sigh-Off) ~
+Division of General, Restorative,
+and Neurological Devices
+$10(k) Number _6CGO304
+K060304 Response Letter Page 3 of 6
+

@@ -1,0 +1,121 @@
+SEP = 7 2001
+510(k) SUMMARY
+| Koray
+Submitter: Cynsoure, Inc.
+10 Elizabeth Drive
+Chelmsford, MA 01824
+Contact: George Cho
+Senior Vice President of Medical Technology
+Date Summary Prepared: June 11, 2001
+Device Trade Name: Acclaim Dermatology Laser
+Common Name: Medical Laser System
+Classification Name: Instrument, surgical, powered, laser
+79-GEX
+21 CFR 878.48
+Equivalent Device: Cynosure PhotoGenica DL Laser and Altus Medical
+Aesthetic Nd:YAG Laser.
+Device Description: The Acclaim is a pulsed solid state laser, emitting at the
+near intra-red wavelength of 1064nm.
+Laser activation is both by finger switch and footswitch.
+Overall weight of the laser is 285Ibs, and the size is
+44”x19"x24” (HxWxD).
+Electrical requirement is 110 VAC or 220 VAC, 20A,
+50-60 Hz, single phase.
+Intended Use: The Acclaim Dermatology Laser is indicated for benign
+vascular lesions and hair removal.
+Comparison: The Acclaim Dermatology Laser has the same indication
+for uses, the same principle of operation, the same
+wavelength and pulse energy range as the predicate .
+devices.
+Nonclinical Performance Data: none
+Clinical Performance Data: none
+Conclusion: The Acclaim Dermatology Laser is another safe and
+effective device for dermatologic applications.
+Additional Information: none
+
+ey .
+f DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+% &
+“a Food and Drug Administration
+9200 Corporate Boulevard
+SEP ~ 7 2001 Rockville MD 20850
+Mr. George Cho
+Senior Vice President
+Medical Technology
+Cynosure, Inc.
+10 Elizabeth Drive
+Chelmsford, Massachusetts 01824
+Re: K011828 :
+Trade/Device Name: Cynosure Acclaim Dermatology Laser
+Regulation Number: 878.4810 :
+Regulation Name: Laser surgical instrument for use in general and
+plastic surgery and in dermatology
+Regulatory Class: II
+Product Code: GEX
+Dated: June 11, 2001
+Received: June 12, 2001
+Dear Mr. Cho:
+We have reviewed your Section 510(k) notification of intent to market the device referenced.
+above and we have determined the device is substantially equivalent (for the indications for use
+stated in the enclosure) to legally marketed predicate devices marketed in interstate commerce
+prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that
+have been reclassified in accordance with the provisions of the Federal Food, Drug, and
+Cosmetic Act (Act). You may, therefore, market the device, subject to the general controls
+provisions of the Act. The general controls provisions of the Act include requirements for annual
+registration, listing of devices, good manufacturing practice, labeling, and prohibitions against
+misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III
+(Premarket Approval), it may be subject to such additional controls. Existing major regulations
+affecting your device can be found in the Code of Federal Regulations, Title 21, Parts 800 to 895.
+A substantially equivalent determination assumes compliance with the Current Good
+Manufacturing Practice requirements, as set forth in the Quality System Regulation (QS) for
+Medical Devices: General regulation (21 CFR Part 820) and that, through periodic QS
+inspections, the Food and Drug Administration (FDA) will verify such assumptions. Failure to
+comply with the GMP regulation may result in regulatory action. In addition, FDA may publish
+further announcements concerning your device in the Federal Register. Please note: this
+response to your premarket notification submission does not affect any obligation you might
+have under sections 531 through 542 of the Act for devices under the Electronic Product
+Radiation Control provisions, or other Federal laws or regulations.
+
+Page 2 - Mr. George Cho
+This letter will allow you to begin marketing your device as described in your 51 O(k) premarket
+notification. The FDA finding of substantial equivalence of your device to a legally marketed
+predicate device results in a classification for your device and thus, permits your device to
+proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 809.10 for in vitro diagnostic devices), please contact the Office of Compliance at
+(301) 594-4659. Additionally, for questions on the promotion and advertising of your device,
+please contact the Office of Compliance at (301) 594-4639. Also, please note the regulation
+entitled, "Misbranding by reference to premarket notification” (21CFR 807.97). Other general
+information on your responsibilities under the Act may be obtained from the Division of Small
+Manufacturers International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its internet address "http://www.fda.gov/cdrh/dsma/dsmamain.html".
+
+Sincerely yours,
+
+\ Celia M. Witten, Ph.D., M.D.
+Director
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+501(k) Number (if known): kK O { | K a ¥
+Device Name: Cynosure Acclaim Dermatology Laser
+Indications For Use:
+The Cynosure Acclaim Dermatology Laser is indicated for the treatment of
+benign cutaneous vascular lesions and hair removal.
+PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+ivision Sign-Off) :
+Cision of General, Restorative
+and Neurological Devices
+per LOUE2E
+510(k) Number
+Prescription Use y y OR Over-the-Counter Use
+(Per 21 CFR 801.109)
+(Optional Format 1-2-96)
+

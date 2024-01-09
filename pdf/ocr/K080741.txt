@@ -1,0 +1,180 @@
+ICoko7 4!
+Section 5  510(k) Summary ,
+December 15, 2008 DEC 1 6 2008
+A. Submitter's Name / Address
+Ronda K. Magneson
+Director, Regulatory Affairs
+Megadyne Medical Products, Inc.
+11506 South State Street
+Draper, UT 84020
+(801) 576-9669
+(801) 576-9698 fax .
+B. Contact Person ;
+Primary: Alternate:
+Ronda K: Magneson Thsan Samara
+Director of Regulatory Affairs Quality Manager
+Megadyne Medical Products, Inc. Megadyne Medical Products, Inc.
+11506 South State Street 11506 South State Street
+Draper, UT 84020 Draper, UT 84020
+(801) 576-9669 : (801) 576-9669
+(801) 576-9698 fax (801) 576-9698 fax
+C. Megadyne’s Manufacturing Facility
+Megadyne Medical Products, Inc.
+11506 South State Street
+Draper, UT 84020 .
+(801) 576-9669
+(801) 576-9698 fax
+D, Device Name
+Common Name: Device, electrosurgical, cutting & coagulation &
+accessories
+Trade Name: Mega Soft Patient Return Electrode
+Classification (if known): 21 CFR 878.4400, Electrosurgical cutting and
+coagulation device and accessories
+Megadyne Medical Products, Inc. Page 11 of 54
+510(k): Mega Soft Reusable Patient Return Electrode
+
+E. Predicate Devices
+The predicate devices include:
+Megadyne’s Mega 2000™ Soft Patient Return Electrode Pad which was
+cleared for marketing via 510(k) # K021077 by FDA’s Office of Device
+Evaluation on April 17, 2002;
+Megadyne’s Mega 2000™ Soft Dual Cord Patient Return Electrode Pad
+which was cleared for marketing via 510(k) # K031285 by FDA’s Office
+of Device Evaluation on May 19, 2003;
+Valleylabs E7512 Neonatal REM Polyhesive II Patient Return which was
+cleared for marketing via 510(k) #K994428 by FDA’s Office of Device
+Evaluation on March 7, 2000; and
+Leonard Lang’s Skintact® Cool Contact Electrosurgical Grounding Plates
+with NH 04 gel which was cleared for marketing via 510(k) # K063161 by
+FDA’s Office of Device Evaluation on November 26, 2006.
+F, Applicant Device Description
+The Mega Soft Patient Return Electrode is constructed of a layer of conductive
+material strain-relieved with two sheets of urethane material, and sealed between
+two asymmetric layers of a viscoelastic polymer called Akton®. (The top layer of
+polymer is thinner than the bottom layer.) The Akton polymer is encapsulated by
+a layer of urethane film. One or two two-conductor cables connects the
+conductive layer of the device to a two conductor DetachaCable™. The
+DetachaCable is connected to a standard monopolar electrosurgical unit (ESU).
+The device cable is insulated, strain-relieved, and connected well inside the
+device to prevent patient or user burns. In use, this device will lay on the
+operating surface with the patient lying on top, on the side labeled “patient side”.
+The adult-size device is large enough to extend at least the length and width of a
+typical patient torso. Pad size is approximately 20” x 46” x 4”. The pediatricsize device is approximately 12” x 26” x 44” and is intended. for pediatric patients
+weighing between 0.8 and 50 lbs.
+G. Applicant Device Intended Use
+The intended use of the Mega Soft Patient Return Electrode is to conduct
+monopolar electrosurgical energy from target tissue of a patient back to an
+electrosurgical unit (ESU), or generator. At the same time, the product reduces
+the risk of pressure related injury due to immobility during surgery.
+This device is intended to be used whenever monopolar electrosurgy is indicated.
+Electrosurgical use is restricted to use with isolated monopolar electrosurgical
+generators. The device is not indicated for RF ablation.
+Megadyne Medical Products, Inc. Page 12 of 54
+: 510(k): Mega Soft Reusable Patient Return Electrode
+
+Hi. Technological Characteristics
+The proposed device shares the same technological characteristics found in the
+Megadyne predicate devices.
+I. Safety information
+Questions of safety and effectiveness are the same for this device as they are for
+the predicate devices and other patient return electrodes on the market. There are
+no new technologies incorporated into the device.
+Megadyne has conducted extensive testing to ensure conformance to the ,
+voluntary standard ISO 60601-2-2:2006, Medical electrical equipment, Part 2:
+Particular requirements for the safety of high frequency surgical equipment, and
+, ANSI/ AAMI HF 18-2001, Electrosurgical Devices.
+Megadyne Medical Products, Inc. Page 13 of 54
+510(k): Mega Soft Reusable Patient Return Electrode
+
+- DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+‘A a ae
+axa Food and Drug Administration
+9200 Corporate Boulevard
+: Rockville MD 20850
+Megadyne Medical Products, Inc. DEC 1 6 2008
+% Ms. Ronda K. Magneson
+Director, Regulatory Affairs .
+11506 South State Street
+Draper, Utah 84020 :
+Re: K080741
+Trade/Device Name: Mega Soft® Reusable Patient Return Electrode
+Regulation Number: 21 CFR 878.4400
+Regulation Name: Electrosurgical cutting and coagulation device and accessories
+Regulatory Class: II ,
+Product Code: GEI
+. Dated: December 10, 2008
+Received: December 12, 2008
+Dear Ms. Magneson:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and .
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class Il] (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050,
+
+Page 2 - Ms. Ronda K. Magneson : .
+This letter will allow you to begin marketing your device as described-in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+
+- Ifyou desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance at :
+(240).276-0115. Also, please note the regulation entitled, "Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474, For questions regarding the reporting of device adverse events
+(Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+at (240) 276-3464, You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance .
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http /www. fda, gov/edrh/industry/support/index. html,
+
+: Sincerely yours, :
+, Mark N. Melkerson
+. Director ;
+: Division of General, Restorative
+and Neurological Devices
+: Office of Device Evaluation
+Center for Devices and
+Radiological Health .
+, Enclosure
+
+Section 4 Indications for Use Statement
+510(k) Number (if known): _K080741 .
+Device Name: Mega Soft® Reusable Patient Return Electrode
+Indications for use:
+This device is designed to be used whenever monopolar electrosurgy is indicated.
+The intended use of this device is to conduct monopolar electrosurgical energy
+from target tissue of a patient back to one or two electrosurgical units (ESU), or
+generators. At the same time the product reduces the risk of pressure related
+injury due to-immobility during surgery. .
+Electrosurgical use is restricted to use with isolated monopolar electrosurgical
+generators. The device is not intended for RF ablation.
+—
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+_ WeAne Boho hae xm
+(Division Sign-Off) . .
+Division of General, Restorative,
+and Neurological Devices
+| s10(4) Number_ KOS OTHE | |
+Prescription Use_V_ OR |. Over-The-Counter Use__
+(Per 21 CFR 801.109) ,
+Megadyne Medical Products, Inc. Page 10 of 54
+510(k): Mega Soft Reusable Patient Return Electrode
+

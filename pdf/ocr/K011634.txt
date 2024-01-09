@@ -1,0 +1,240 @@
+| JUN 1 9 2001 Kole34
+510(k) Summary of Safety and Effectiveness
+ArthroCare Corporation
+ENTec® ReFlex™ Wand, ArthroCare” System 2000, ENTec® Surgery System ,
+ArthroCare” Orthopedic Surgery System, ArthroCare® Electrosurgery System,
+Visage® Cosmetic Surgery System, and ArthroCare” Bipolar Loop
+(Electrosurgery Systems) .
+General Information
+: Manufacturer: ArthroCare, Corporation
+595 North Pastoria Avenue
+Sunnyvale, CA 94085-2936
+~ Establishment Registration Number: 2951580
+Contact Person: Bruce Prothro
+Vice President, Regulatory Affairs, Quality
+Assurance, and Clinical Research
+Date Prepared: May 25, 2001
+Device Description
+Classification Name: Electrosurgical Cutting and Coagulation
+Device and Accessories (21 CFR 878.4400)
+Trade Name: ENTec® ReFlex Wand
+ArthroCare® System 2000
+ENTec® Surgery System /
+ArthroCare® Orthopedic Electrosurgery
+System
+ArthroCare® Electrosurgery System
+Visage® Cosmetic Surgery System
+ArthroCare® Bipolar Loop
+Generic/Common Name: Electrosurgical Device and Accessories .
+Predicate Devices :
+e« ENTec ReFlex Wand K000778
+« ArthroCare System 2000 K001588 .
+e ENTec Surgery System, ArthroCare
+Orthopedic Electrosurgery System, and
+ArthroCare Electrosurgery System K001936
+« Visage Cosmetic Surgery System K003624
+« ArthroCare Bipolar Loop K010568
+03
+
+Intended Uses
+
+e The ENTec ReFlex Wand is indicated for ablation and coagulation of soft tissue in
+otolaryngological (ENT) procedures, including the treatment of snoring, nasal airway
+obstruction by reduction of hypertrophic nasal turbinates, and submucosal tissue
+shrinkage.
+
+* The ArthroCare System 2000 is indicated for resection, ablation, and coagulation of
+soft tissues and hemostasis of blood vessels in orthopedic, arthroscopic, spinal, and
+
+_ neurosurgical procedures.
+: * The ENTec Surgery System is intended for ablation and coagulation of soft tissue in
+otorhinolaryngology (ENT) surgery including head, neck, oral, and sinus surgery.
+
+* The ArthroCare Orthopedic Electrosurgery System is indicated for resection,
+ablation, and coagulation of soft tissues and hemostasis of blood vessels in
+orthopedic, arthroscopic, and spinal procedures. .
+
+* The ArthroCare Electrosurgery System is indicated for resection, ablation, and
+coagulation of soft tissue and hemostasis of blood vessels in general, plastic, and
+reconstructive surgery. It is intended to be used in procedures using conductive
+solutions, such as normal saline.
+
+« The Visage Cosmetic Surgery System is a bipolar electrosurgical device intended for
+general dermatologic surgery that may include skin resurfacing for the treatment of
+wrinkles, rhytids, and furrows, as well as soft tissue resection/removal and .
+hemostasis/coagulation. It is intended to be used in procedures using conductive
+solutions such as normal saline.
+
+¢ The ArthroCare Bipolar Loop is indicated for resection, ablation, and excision, as
+well as hemostasis of blood vessels in patients requiring endoscopic surgery for
+general urological procedures including transurethral prostatectomy (TURP),
+transurethral incisions in the prostate (TUIP), and non-malignant tumors of the
+bladder wall.
+
+Product Description
+
+The ArthroCare Electrosurgery Systems are bipolar, high frequency electrosurgical
+
+Systems consisting of three components: an electrosurgical generator called the System
+
+2000 Controller, a disposable bipolar single use Wand designed for specific indications,
+
+and the reusable patient Cable.
+
+04
+
+Substantial Equivalence
+This Special 510(k) proposes a modification in materials to the Wand component of the
+Electrosurgery Systems, which were previously cleared in K000778 (May 3, 2000),
+K001588 (August 17, 2000), K001936 (July 19, 2000), K003624 (December 20, 2000),
+and K010568 (March 27, 2001). The technology, principle of operation, intended uses,
+performance specifications, dimensional specifications, labeling, packaging, and
+
+: sterilization parameters of the Electrosurgery Systems remain the same as in the
+previously cleared 510(k)s.
+Summary of Safety and Effectiveness
+The modified Wand component of the Electrosurgery Systems, as described in this .
+submission, is substantially equivalent to the predicate Wands. The proposed
+modification in materials is not a substantial change or modification, and does not
+significantly affect the safety or efficacy of the devices.
+
+05
+
+ony
+i & DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+3% _
+“ee . Food and Drug Administration
+JUN 1 9 2001 Rockvile MD 20650.
+Mr. Bruce Prothro
+Vice President, Regulatory Affairs,
+Quality Assurance and Clinical Research
+/ ArthroCare Corporation .
+595 North Pastoria Avenue
+Sunnyvale, California 94085
+Re: K011634
+Trade/Device Name: ENTec® ReFlex Wand
+ArthroCare® System 2000 ,
+ENTec® Surgery System
+ArthroCare® Orthopedic Electrosurgery System
+ArthroCare® Electrosurgery System
+Visage® Cosmetic Surgery System
+ArthroCare® Bipolar Loop
+Regulation Number: 878.4400
+Regulatory Class: II
+Product Code: GEI
+Dated: May 25, 2001
+Received: May 29, 2001
+: Dear Mr. Prothro:
+We have reviewed your Section 510(k) notification of intent to market the device referenced
+above and we have determined the device is substantially equivalent (for the indications for use
+stated in the enclosure) to legally marketed predicate devices marketed in interstate commerce
+prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that
+have been reclassified in accordance with the provisions of the Federal Food, Drug, and
+Cosmetic Act (Act). You may, therefore, market the device, subject to the general controls
+provisions of the Act. The general controls provisions of the Act include requirements for annual
+registration, listing of devices, good manufacturing practice, labeling, and prohibitions against
+misbranding and adulteration. _
+If your device is classified (see above) into either class II (Special Controls) or class IIT
+(Premarket Approval), it may be subject to such additional controls. Existing major regulations
+affecting your device can be found in the Code of Federal Regulations, Title 21, Parts 800 to 895.
+A substantially equivalent determination assumes compliance with the Current Good
+Manufacturing Practice requirements, as set forth in the Quality System Regulation (QS) for
+Medical Devices: General regulation (21 CFR Part 820) and that, through periodic QS
+inspections, the Food and Drug Administration (FDA) will verify such assumptions. Failure to :
+
+Page 2 - Mr. Bruce Prothro
+comply with the GMP regulation may result in regulatory action. In addition, FDA may publish
+further announcements concerning your device in the Federal Register. Please note: this
+response to your premarket notification submission does not affect any obligation you might
+have under sections 531 through 542 of the Act for devices under the Electronic Product
+Radiation Control provisions, or other Federal laws or regulations. :
+This letter will allow you to begin marketing your device as described in your 510(k) premarket
+notification. The FDA finding of substantial equivalence of your device to a legally marketed
+predicate device results in a classification for your device and thus, permits your device to
+proceed to the market. ;
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801 and
+additionally 809.10 for in vitro diagnostic devices), please contact the Office of Compliance at
+(301) 594-4659. Additionally, for questions on the promotion and advertising of your device,
+please contact the Office of Compliance at (301) 594-4639. Also, please note the regulation
+entitled, "Misbranding by reference to premarket notification” (21CFR 807.97). Other general
+information on your responsibilities under the Act may be obtained from the Division of Small
+Manufacturers Assistance at its toll-free number (800) 638-2041 or (301) 443-6597 or at its
+internet address "http://www.fda.gov/cdrh/dsma/dsmamain.html".
+
+Sincerely yours,
+
+BVT CLETUS AS
+Celia M. Witten, Ph.D., M.D.
+- Director .
+Division of General, Restorative
+and Neurological Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+Indications Statement
+
+. Device Names: ENTec® ReFlex™ Wand
+ArthroCare® System 2000
+ENTec® Surgery System
+ArthroCare® Orthopedic Electrosurgery System
+ArthroCare® Electrosurgery System
+Visage® Cosmetic Surgery System :
+ArthroCare® Bipolar Loop
+
+: 510(k) Number: KOjt_bh2 ca
+
+Indications for use:
+
+° The ENTec ReFlex Wand is indicated for ablation and coagulation of soft tissue in .
+otolaryngological (ENT) procedures, including the treatment of snoring, nasal airway
+obstruction by reduction of hypertrophic nasal turbinates, and submucosal tissue
+
+shrinkage. : /
+
+¢ The ArthroCare System 2000 is indicated for resection, ablation, and coagulation of
+soft tissues and hemostasis of blood vessels in orthopedic, arthroscopic, spinal, and
+neurosurgical procedures.
+
+¢ The ENTec Surgery System is intended for ablation and coagulation of soft tissue in
+otorhinolaryngology (ENT) surgery including head, neck, oral, and sinus surgery.
+
+« The ArthroCare Orthopedic Electrosurgery System is indicated for resection,
+ablation, and coagulation of soft tissues and hemostasis of blood vessels in
+orthopedic, arthroscopic, and spinal procedures.
+
+« The ArthroCare Electrosurgery System is indicated for resection, ablation, and
+coagulation of soft tissue and hemostasis of blood vessels in general, plastic, and
+reconstructive surgery. It is intended to be used in procedures using conductive
+solutions, such as normal saline.
+
+« The Visage Cosmetic Surgery System is a bipolar electrosurgical device intended for
+general dermatologic surgery that may include skin resurfacing for the treatment of
+wrinkles, rhytids, and furrows, as well as soft tissue resection/removal and
+hemostasis/coagulation. It is intended to be used in procedures using conductive
+solutions such as normal saline.
+
+e The ArthroCare Bipolar Loop is indicated for resection, ablation, and excision, as
+well as hemostasis of blood vessels in patients requiring endoscopic surgery for
+general urological procedures including transurethral prostatectomy (TURP),
+transurethral incisions in the prostate (TUIP), and non-malignant tumors of the
+bladder wall. :
+
+ix
+
+(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Prescription Use x OR Over-the-Counter Use
+(Per 21 CFR 801.109)
+ft 4
+pty Abi les HOpa
+(ivision Sign-Off) .
+Division of General, Restorative
+and Neurological Devices
+PG
+1 | @3H
+5109 Number CO tI
+x
+

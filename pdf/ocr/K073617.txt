@@ -1,0 +1,152 @@
+f
+6 (7 P [=
+510k ko73
+PHARAON LIPO APR -9 2008
+510(k) SUMMARY OF SAFETY AND EFFECTIVENESS
+As required by section 807.92(c)
+5 -1 GENERAL INFORMATION
+PHARAON LIPO
+Classification Name LASER INSTRUMENT, SURGICAL, POWERED _.
+Class Il
+Product Code
+CFR section 878.4810
+General & Plastic Surge!
+Legally marketed K0Q62321: SMARTLIPO manufactured by CYNOSURE INC.
+predicate devices
+OSYRIS
+Submitter 121 Rue Chanzy, BP 90140
+59260 HELLEMMES FRANCE
+Pr JAQUAD ZEMMOURI CEO
+jaqguad.zemmouri@osyris.com
+Phone ; +33 (0)3 20 67 59 97
+Contacts Fax: +33 (0)3 20 04 46 24
+Regulatory contact: Dr Isabelle DRUBAIX (Idée Consulting)
+idrubaix@nordnet, fr
+5-2. DEVICE DESCRIPTION
+The medical device PHARAON LIPO is based on the use of a laser module allowing the
+emission of a beam of coherent light at 970nm + 10 nm at a maximum power of 25W. The
+laser module consists of laser diodes assembled in series and optically aligned in order to
+focus in an optical fiber of 600um. The optical fiber is screwed onto the SMA 905 connector of
+the laser module. The apparatus PHARAON LIPO includes the whole of the supplies necessary
+to supply the laser (SOA, 2V) and to ensure its thermalisation using a Peltier element built on
+a ventilated radiator.
+In addition PHARAON LIPO includes the whole of electronics and the functions allowing the
+parameter setting of the laser and the safe functioning of the device. The adjustments of the
+parameters are done using a TFT screen and a tactile flagstone.
+5-3. INTENDED USE
+PHARAON LIPO is intended for laser assisted lipolysis
+5 - 4, PERFORMANCE DATA
+PHARAON LIPO conforms to Guidance on the content and organization of a premarket
+notification for a medical laser (June 1995) and to Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices (May 2005).
+PHARAON LIPO conforms to 21CFR part 1040.10 and 1040.11.
+Performance data demonstrate the safety and effectiveness of PHARAON LIPO for its intended
+use.
+5 - 5. SUBSTANTIAL EQUIVALENCE
+PHARAON LIPO has the same intended use, material design and function as predicate device
+SMARTLIPO (K062321).
+Summary preparation date: December 7, 2007
+- 14 
+2 g DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+ree Food and Drug Administration
+. 9200 Corporate Boulevard
+Rockville MD 20850
+APR - 9 2008
+
+Osyris
+% Pr Jaouad Zemmouri
+CEO
+121, rue Chanzy, BP 90140
+59260 Hellemmes France
+Re: K073617
+
+Trade/Device Name: Pharaon Lipo
+
+Regulation Number: 21 CFR 878.4810
+
+Regulation Name: Laser surgical instrument for use in general and plastic surgery and
+
+in dermatology
+
+Regulatory Class: I
+
+Product Code: GEX
+
+Dated: March 26, 2008
+
+Received: March 28, 2008
+Dear Pr Jaouad Zemmouri:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class II (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+
+Page 2 — Pr Jaouad Zemmouri
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a legally
+marketed predicate device results in a classification for your device and thus, permits your device
+to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Center for Devices and Radiological Health's (CDRH’s) Office of Compliance at
+(240) 276-0115. Also, please note the regulation entitled, “Misbranding by reference to
+premarket notification” (21CFR Part 807.97). For questions regarding postmarket surveillance,
+please contact CDRH’s Office of Surveillance and Biometric’s (OSB’s) Division of Postmarket
+Surveillance at (240) 276-3474, For questions regarding the reporting of device adverse events
+‘ (Medical Device Reporting (MDR)), please contact the Division of Surveillance Systems
+
+at (240) 276-3464. You may obtain other general information on your responsibilities under the
+Act from the Division of Small Manufacturers, International and Consumer Assistance
+at its toll-free number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www. fda. gov/cdrh/industry/support/index.html.
+
+Sincerely yours,
+
+Mark N. Melkerson
+
+Director
+
+Division of General, Restorative
+
+and Neurological Devices :
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+
+Enclosure
+
+510k f
+PHARAOQN LIPO p 4 \ O é (
+INDICATIONS FOR USE
+510(k) Number (if known): k { ) #3 ©!
+Device Name: PHARAON LIPO
+Indications for Use: PHARAON LIPO is intended for laser assisted lipolysis
+Prescription Use. v Over-The-Counter Use
+(Part 21 CFR 801 Subpartb)  AND/OR (21 CFR 801 Subpart C)
+
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE OF NEEDED)
+ain nnn niente tntetttintentiatttN Reine
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+
+ee le he tte
+(Division Sign-O
+Division of General, Restorative,
+and Neurological Devices
+510(k) Number_.9 1361
+-12
