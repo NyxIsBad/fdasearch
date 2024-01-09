@@ -2,17 +2,12 @@
 import pandas as pd
 import csv 
 import pickle
-# requirements for reading the pdf
-import urllib.request
-from io import BytesIO 
-from PyPDF2 import PdfReader
 # ocr
-import platform
 from tempfile import TemporaryDirectory
-from pathlib import Path
 import pytesseract
-from pdf2image import convert_from_path
+import pdf2image
 from PIL import Image
+import requests
 # web scraping w/ bs4
 import httplib2
 from bs4 import BeautifulSoup, SoupStrainer
@@ -84,37 +79,42 @@ def get_col_as_list(pd_arr, column):
 # -------------------------
 # READ/OCR PDF
 # -------------------------
-# read the pdfs from the server
-# this function will return 3 lists. 
+# Reading the text. There are multiple cases to this.
+# Case 1: OCR correctly reads text. In this case, we concatenate all text and 
+#       save it as a .txt file in PDFDIR/ocr/{code}.txt. Also return "success" or 1
+# Case 2: We can't read it. Then, we return "fail" or 0. This will get concatenated to the 
+#       "none_knums" variable and outputted as a text file.
 def pdfscanner(type, prefix, code):
     # vars
-    return_type = "failed"
+    img_lst = []
     # open the file online and then create a pdfreader instance
     url = getlink(type, prefix, code)
-    wFile = urllib.request.urlopen(url)
-    bytes_stream = BytesIO(wFile.read())
-    # set up PdfReader obj to see if we can read it like a modern pdf.
-    # This works only on the newer pdfs (mostly >2000s)
-    # The older ones must be OCR'd
-    reader = PdfReader(bytes_stream)
-    print(f"{type} of {code}: URL {url}, {len(reader.pages)} | DB URL: {prefix}{code}")
-
-    # Reading the text. There are multiple stages to this.
-    # Case 1: PdfReader correctly reads text. In this case, we concatenate all text and 
-    #       save it as a .txt file in PDFDIR/new/{code}.txt. Also set return_type to "new"
-    # Case 2: PdfReader can't read it. Then, we go to OCR. If OCR can find text, we 
-    #       concatenate all text and save it as a .txt file
-    #       in PDFDIR/ocr/{code}.txt. Also set return_type to "ocr"
-    # Case 3: Neither can read it. Then, we set return_type to "failed" and return. 
-    #       This will get concatenated to the "none_knums" variable and outputted as a text file.
+    if url == "": 
+        return 0
+    # get the actual content.
+    pdf = requests.get(url, stream=True).content
+    # We use OCR to recognize the text. 
+    # We can use PdfReader to find the DPI.
+    # reader = PdfReader(bytes_stream)
+    print(f"{type} of {code}: URL {url} | DB URL: {prefix}{code}")
+    
     # Implementation of case 1:
-    if reader.pages[0].extract_text != "" :
-        with 
-        all_text = 
-        print(reader.pages[0].extract_text)
-    else: 
-        # case 2 logic with fallback for case 3.
-    return return_type
+    with TemporaryDirectory() as tempdir:
+        # Step 1, turn the pdf into images.
+        # read the pdf as images at 500dpi
+        pdf_pages = pdf2image.convert_from_bytes(pdf, 500)
+        for num, pg in enumerate(pdf_pages, start=1):
+            fname = f'{tempdir}/{code}_{pg}_{num:03}.jpg'
+            pg.save(fname,"JPEG")
+            img_lst.append(fname)
+        # Step 2, read the images
+        # open the txt file output
+        for img in img_lst:
+            with open(f'{PDFDIR}/ocr/{code}.txt','w') as f: 
+                # OCR the page
+                page_txt = str(pytesseract.image_to_string(Image.open(img))).replace("-\n","")
+                f.write(page_txt)
+    return 1
 
 # gets the link for a summary or statement from the FDA db by scraping
 def getlink(type, prefix, code):
@@ -123,6 +123,7 @@ def getlink(type, prefix, code):
     for link in BeautifulSoup(resp, features='html.parser', parse_only=SoupStrainer('a')):
         if link.has_attr('href') and link.string==type:
             return link['href']
+    return ""
 # -------------------------
 # DRIVER CODE
 # -------------------------
