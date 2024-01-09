@@ -22,4 +22,5 @@ The program first filters by product code and then looks for keywords within the
   - PyTesseract
   - PDF2Image
   - PIL (Pillow)
+  - CV2 (OpenCV)
   - ... any others your system is missing
