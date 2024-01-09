@@ -18,7 +18,8 @@ from bs4 import BeautifulSoup, SoupStrainer
 # 1: read from csvs, generate lists, save them
 # 2: read from lists, scan pdfs, create txts
 # 3: scan through txts for keywords
-mode = 1
+start_idx = 1199
+mode = 2
 # file prefix
 DATADIR = "data/"
 # data names (eg. the names of the csvs)
@@ -174,12 +175,12 @@ elif mode==2:
     failed = []
     success = []
     # create the txt files for each knum with a summary
-    for num, knum in enumerate(summary_knums):
+    for num, knum in enumerate(summary_knums[start_idx:]):
         if pdfscanner('Summary', DBPREFIX, knum) == 1:
-            print(f'Successfully converted #{num}: {knum} to txt')
+            print(f'Successfully converted #{num+start_idx}: {knum} to txt')
             success.append(knum)
         else:
-            print(f'Failed to convert #{num}: {knum} to txt')
+            print(f'Failed to convert #{num+start_idx}: {knum} to txt')
             failed.append(knum)
     write_txt(f'{DATADIR}converted_to_txt.txt', success)
     write_txt(f'{DATADIR}failed_to_txt.txt', failed)
